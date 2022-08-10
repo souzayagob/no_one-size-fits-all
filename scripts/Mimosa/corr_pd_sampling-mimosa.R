@@ -10,9 +10,9 @@ setwd("B:/yagob/GoogleDrive/Academia/R-MSc")
 
 #=====================================================================================================#
 
-#=======#
-# INPUT #
-#=======#
+#============#
+# Redundancy #
+#============#
 
 # Reading clean dataset
 coords <- read.csv(file = "datasets/Mimosa/mimosa_cr.csv", na.strings = c("", NA))
@@ -48,12 +48,46 @@ redundancy$redundancy <- 1-(redundancy$richness/redundancy$n)
 # Merging redundancy and PD
 pd_red <- merge(pd, redundancy, by = "id_grid")
 
+# Computing Pearson correlation
 corrPdRed <- as.character(formatC(cor(pd_red$pd.obs, 
-                                    pd_red$redundancy, use = "na.or.complete"))) 
+                                      pd_red$redundancy, use = "na.or.complete")))
+
+# Running a linear model
+PdRed.lm <- lm(pd_red$pd.obs ~ pd_red$redundancy)
+summary(PdRed.lm) 
+
+# Plotting
 corrPdRed_plot <- ggplot(data = pd_red, mapping = aes(jitter(redundancy), pd.obs))+
   geom_jitter()+
-  labs(title = "Mimosa", subtitle = paste("r =", corrPdRed))+
+  labs(title = "Mimosa", subtitle = paste("r =", corrPdRed, "\np < 0.05, R² = 0.49"))+
   xlab("Redundancy")+
   ylab("Phylogenetic diversity")+
   theme_bw(base_size = 14)+
-  theme(plot.title = element_text(face = "italic"))
+  theme(plot.title = element_text(face = "italic"))+
+  geom_smooth(method='lm', formula= y~x)
+cairo_pdf("figures/Mimosa/mimosa-corrPdRed_plot.pdf"); corrPdRed_plot; dev.off()
+
+#=====================================================================================================#
+
+#===================#
+# Number of samples #
+#===================#
+
+# Computing Pearson correlation
+corrPdN <- as.character(formatC(cor(pd_red$pd.obs, 
+                                      pd_red$n, use = "na.or.complete")))
+
+# Running a linear model
+PdN.lm <- lm(pd_red$pd.obs ~ pd_red$n)
+summary(PdN.lm) 
+
+# Plotting
+corrPdN_plot <- ggplot(data = pd_red, mapping = aes(jitter(redundancy), pd.obs))+
+  geom_jitter()+
+  labs(title = "Mimosa", subtitle = paste("r =", corrPdN, "\np < 0.05, R² = 0.65"))+
+  xlab("Number of samples")+
+  ylab("Phylogenetic diversity")+
+  theme_bw(base_size = 14)+
+  theme(plot.title = element_text(face = "italic"))+
+  geom_smooth(method='lm', formula= y~x)
+cairo_pdf("figures/Mimosa/mimosa-corrPdN_plot.pdf"); corrPdN_plot; dev.off()
