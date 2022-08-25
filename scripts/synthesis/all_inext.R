@@ -1,6 +1,5 @@
-#============#
-# ALL GROUPS #
-#============#
+library(iNEXT)
+library(tidyverse)
 
 # Mimosa
 mimosa <- read.csv("datasets/Mimosa/mimosa_cr.csv")
@@ -82,3 +81,19 @@ asy.sr <- asy[asy$Diversity == "Species richness", ]
 
 # Are the observed values correlated with the estimated values? 
 sr.lm <- lm(asy.sr$Observed ~ asy.sr$Estimator)
+summary(sr.lm)
+
+# Computing Pearson correlation
+corrSr.ObsEst <- as.character(formatC(cor(asy.sr$Observed, 
+                                          asy.sr$Estimator, use = "na.or.complete")))
+
+# Plotting
+corrSr.ObsEst_plot <- ggplot(data = asy.sr, mapping = aes(Estimator, Observed))+
+  geom_jitter()+
+  labs(title = "All groups", subtitle = paste("r =", corrSr.ObsEst, "\np < 0.05, R² = 0.99"))+
+  xlab("Estimated")+
+  ylab("Observed")+
+  theme_bw(base_size = 14)+
+  theme(plot.title = element_text())+
+  geom_smooth(method='lm', formula= y~x)
+cairo_pdf("figures/all_groups-corrSrObsEst_plot.pdf"); corrSr.ObsEst_plot; dev.off()
