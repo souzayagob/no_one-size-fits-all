@@ -64,3 +64,18 @@ corrSr.ObsEst_plot <- ggplot(data = asy.sr, mapping = aes(Estimator, Observed))+
   theme(plot.title = element_text())+
   geom_smooth(method='lm', formula= y~x)
 cairo_pdf("figures/Marcetieae/marcetieae-corrSrObsEst_plot.pdf"); corrSr.ObsEst_plot; dev.off()
+
+# How the correlation and linear model change when we remove the outlier?
+no.out <- asy.sr[asy.sr$Site != "A", ]
+no.out_lm <- lm(no.out$Observed ~ no.out$Estimator)
+summary(no.out_lm)
+corrNoOut <- as.character(formatC(cor(no.out$Observed, 
+                                          no.out$Estimator, use = "na.or.complete")))
+corrNoOut_plot <- ggplot(data = no.out, mapping = aes(Estimator, Observed))+
+  geom_jitter()+
+  labs(title = "Marcetieae", subtitle = paste("r =", corrNoOut, "\np < 0.05, R² = 0.97"))+
+  xlab("Estimated")+
+  ylab("Observed")+
+  theme_bw(base_size = 14)+
+  theme(plot.title = element_text())+
+  geom_smooth(method='lm', formula= y~x)
