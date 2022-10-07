@@ -1,6 +1,9 @@
 library(iNEXT)
 library(tidyverse)
 
+# Set wd
+setwd("B:/yagob/GoogleDrive/Academia/R-MSc")
+
 # Mimosa
 mimosa <- read.csv("datasets/Mimosa/mimosa_cr.csv")
 
@@ -90,7 +93,7 @@ corrSr.ObsEst <- as.character(formatC(cor(asy.sr$Observed,
 # Plotting
 corrSr.ObsEst_plot <- ggplot(data = asy.sr, mapping = aes(Estimator, Observed))+
   geom_jitter()+
-  labs(title = "All groups", subtitle = paste("r =", corrSr.ObsEst, "\np < 0.05, R² = 0.99"))+
+  labs(title = "All groups", subtitle = paste("r =", corrSr.ObsEst, "\np < 0.05, R² = 0.99, slope = 0.92"))+
   xlab("Estimated")+
   ylab("Observed")+
   theme_bw(base_size = 14)+

@@ -57,10 +57,10 @@ corrSr.ObsEst <- as.character(formatC(cor(asy.sr$Observed,
 # Plotting
 corrSr.ObsEst_plot <- ggplot(data = asy.sr, mapping = aes(Estimator, Observed))+
   geom_jitter()+
-  labs(title = "Comanthera", subtitle = paste("r =", corrSr.ObsEst, "\np < 0.05, R² = 0.85"))+
+  labs(title = "Comanthera", subtitle = paste("r =", corrSr.ObsEst, "\np < 0.05, R² = 0.85, slope = 0.70"))+
   xlab("Estimated")+
   ylab("Observed")+
-  theme_bw(base_size = 14)+
+  theme_bw(base_size = 21)+
   theme(plot.title = element_text(face = "italic"))+
   geom_smooth(method='lm', formula= y~x)
 cairo_pdf("figures/Comanthera/coman-corrSrObsEst_plot.pdf"); corrSr.ObsEst_plot; dev.off()
