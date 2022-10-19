@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e5080aa7-f479-41f0-bb89-278feafd3cda"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/j4zyyt</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biota.org.br/ipt/resource?r=biotafapesp_occurences</alternateIdentifier>
+        <alternateIdentifier>e5080aa7-f479-41f0-bb89-278feafd3cda</alternateIdentifier>
+    <title>Occurrences in SinBIOTA</title>
+    <creator>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Duque Estrada</surName>
+    </individualName>
+<organizationName>BIOTA</organizationName><positionName>Coordenator</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Rebollo</surName>
+    </individualName>
+<organizationName>CENAPAD</organizationName><positionName>TI Analyst</positionName>    <address>
+<deliveryPoint>Rua Saturnino de Brito, 45</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-889</postalCode><country>BRAZIL</country>    </address>
+<phone>+ 55 19 35212195</phone><electronicMailAddress>suporte@biota.org.br</electronicMailAddress><onlineUrl>http://www.cenapad.unicamp.br/index.html</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2016-01-07
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>Sistema de Informação Ambiental do Programa Biota/Fapesp</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Sistema de Informação Ambiental do Programa Biota/Fapesp</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.34</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-26.21</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.47</northBoundingCoordinate>
+                      <southBoundingCoordinate>-35.34</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      0006-06-25
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      0006-06-25
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Animalia
+Plantae
+Bacteria
+Protozoa
+Chromista
+Viruses
+Fungi
+Archaea</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Bacteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Protozoa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Chromista</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Viruses</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Archaea</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Duque-Estrada</surName>
+    </individualName>
+<organizationName>BIOTA/FAPESP Program</organizationName><positionName>Manager</positionName>    <address>
+<deliveryPoint>Rua Monteiro Lobato, 255</deliveryPoint><city>Campinas</city><administrativeArea>SP</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+ 55 19 35216166</phone><electronicMailAddress>tiago@biota.org.br</electronicMailAddress><onlineUrl>http://www.biota.org.br</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">/75ELnQMAAAAJ&amp;hl=pt-BR</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:50Z</dateStamp>
+      <citation>Duque Estrada T, Rebollo C (2016). Occurrences in SinBIOTA. Version 1.8. Programa BIOTA/FAPESP - The Virtual Institute of Biodiversity. Occurrence dataset https://doi.org/10.15468/j4zyyt accessed via GBIF.org on 2019-11-18.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

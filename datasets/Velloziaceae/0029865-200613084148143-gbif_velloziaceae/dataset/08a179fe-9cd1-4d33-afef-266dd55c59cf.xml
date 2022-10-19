@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="08a179fe-9cd1-4d33-afef-266dd55c59cf"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/35v8cn</alternateIdentifier>
+        <alternateIdentifier>08a179fe-9cd1-4d33-afef-266dd55c59cf</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=huem</alternateIdentifier>
+    <title>HUEM - Herbário da Universidade Estadual de Maringá</title>
+    <creator>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Auxiliadora Milaneze Gutierre</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Maringá (UEM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário - HUEM / Dep. Biologia - UEM; Av. Colombo, 5790</deliveryPoint><city>Maringá</city><administrativeArea>Paraná</administrativeArea><postalCode>87020-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 44 3011-4665</phone><electronicMailAddress>lccorrea@uem.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUEM</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Auxiliadora Milaneze Gutierre</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Maringá (UEM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário - HUEM / Dep. Biologia - UEM; Av. Colombo, 5790</deliveryPoint><city>Maringá</city><administrativeArea>Paraná</administrativeArea><postalCode>87020-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 44 3011-4665</phone><electronicMailAddress>lccorrea@uem.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUEM</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-12
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>Criado no início da década de 1980, o Herbário da Universidade Estadual de Maringá - HUEM teve como objetivo a documentação da flora dos remanescentes florestais urbanos do município de Maringá (PR) e reuniu materiais coletados pelos professores de Botânica da Universidade Estadual de Maringá. Irenice Silva foi a primeira curadora, à qual se seguiram Dra. Maria Conceição de Souza, Dra. Cassia Monica Sakuragui, Dra. Mariza Barion Romagnolo e Dra. Maria Conceição de Souza. Atualmente a curadora é a Dra. Maria Auxiliadora Milaneze-Gutierre e a vice-curadora, Dra. Rosilaine Carrenho. O HUEM possui mais de 35.000 espécimens registrados, que compreendem, principalmente, plantas vasculares, briófitas e algas.
+
+    As principais características do HUEM compreendem as coleções de Floresta Estacional Semidecidual, de plantas medicinais, de vegetação ripária e de algas perifíticas de águas continentais. Conta, em seu acervo, com material botânico proveniente dos raros remanescentes florestais ainda preservados na região noroeste do Estado do Paraná, principalmente de Unidades de Conservação federais, estaduais, municipais ou particulares.
+
+    Encontra-se credenciado como Fiel Depositário junto ao Conselho de Gestão do Patrimônio Genético do Ministério de Meio Ambiente; inserido na Rede Brasileira de Herbários, no Index Herbariorum, no Species Link, no Herbário Virtual REFLORA, e na Rede Paranaense de Coleções Biológicas (TAXon Line), e está vinculado aos seguintes projetos: Flora do Paraná; Herbário Virtual da Flora e dos Fungos (INCT); Herbário da UEM e a divulgação científica da flora nativa da região de Maringá (PR).
+
+    Conta com os seguintes pesquisadores: Dr. Mateus Arduvino Reck, em Micologia; Dra. Karina Fidanza, em Melastomataceae; Dra. Aline Rosado, em Sapindaceae; Dra. Kazue Kawakita, em Poaceae; Dra. Maria Auxiliadora Milaneze-Gutierre, em Bromeliaceae e Orchidaceae, e Dra. Mariza Barion Romagnolo, em Myrtaceae.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HUEM</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Auxiliadora Milaneze Gutierre</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Maringá (UEM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário - HUEM / Dep. Biologia - UEM; Av. Colombo, 5790</deliveryPoint><city>Maringá</city><administrativeArea>Paraná</administrativeArea><postalCode>87020-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 44 3011-4665</phone><electronicMailAddress>lccorrea@uem.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUEM</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:24:02Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HUEM">Auxiliadora Milaneze Gutierre M (2020). HUEM - Herbário da Universidade Estadual de Maringá. Version 1.65. Universidade Estadual de Maringá. Occurrence dataset https://doi.org/10.15468/35v8cn accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=huem</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

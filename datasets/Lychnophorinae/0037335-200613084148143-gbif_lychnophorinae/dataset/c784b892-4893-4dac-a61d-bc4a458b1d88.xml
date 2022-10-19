@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c784b892-4893-4dac-a61d-bc4a458b1d88"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/adlx7r</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=asterales</alternateIdentifier>
+        <alternateIdentifier>c784b892-4893-4dac-a61d-bc4a458b1d88</alternateIdentifier>
+        <alternateIdentifier>https://ipt.mincyt.gob.ar/resource?r=asterales</alternateIdentifier>
+    <title>Colección de Asterales del Museo Botánico CORD</title>
+    <creator>
+    <individualName>
+<givenName>Marcelo</givenName>          <surName>Gritti</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Principal</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>mgritti@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/g/gritti-marcelo/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jimena</givenName>          <surName>Ponce</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Profesional Principal</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>museo@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/p/ponce-maria-jimena/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ana Pía</givenName>          <surName>Wiemer</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Profesional</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>apwiemer@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/w/wemer-pia/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Pascale</givenName>          <surName>Hick</surName>
+    </individualName>
+<organizationName>Museo CORD,UNC, FCEFyN</organizationName><positionName>Técnico</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode>    </address>
+<phone>03514331056</phone><electronicMailAddress>pascale@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>https://museobotanico.unc.edu.ar/personal</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marcelo</givenName>          <surName>Gritti</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Principal</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>mgritti@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/g/gritti-marcelo/</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Jimena</givenName>          <surName>Ponce</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Profesional Principal</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>museo@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/p/ponce-maria-jimena/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2020-06-11
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Colección de ejemplares del Orden Asterales. Las familias abarcadas son las siguientes: Asteraceae, Calyceraceae, Campanulaceae, Lobeliaceae, Menyanthaceae.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>asteraceae</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>asterales</keyword>
+              <keyword>compositae</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La colección cuenta con 15631 registros que se distribuyen del siguiente modo: 1 ejemplar de África, 4 de América Central y Caribe, 32 de América del Norte,  2 de Asia, 2 de Europa, 1 de Oceanía y 15580 de Sudamérica, y se 
+encuentran georreferenciados un total de 13308 ejemplares. De estos últimos 13166 corresponden a la Argentina.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>171.562</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-80.873</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1855-01-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-02-21
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Gloria E.</givenName>          <surName>Barboza</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCQ</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>gbarboza@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/investigadores-2/b/barboza-gloria-estela/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Gabriel</givenName>          <surName>Bernardello</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>bernarde@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/investigadores-2/b/bernardello-gabriel/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Franco</givenName>          <surName>Chiarini</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Curador Asociado</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode>    </address>
+<phone>03514331056</phone><electronicMailAddress>chiarini@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/investigadores-2/c/chiarini-franco/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Jimena</givenName>          <surName>Ponce</surName>
+    </individualName>
+<organizationName>Museo CORD, IMBIV, UNC, CONICET, FCEFyN</organizationName><positionName>Técnico Profesional Principal</positionName>    <address>
+<deliveryPoint>Velez Sarsfield 299</deliveryPoint><city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><postalCode>5000</postalCode><country>ARGENTINA</country>    </address>
+<phone>03514331056</phone><electronicMailAddress>museo@imbiv.unc.edu.ar</electronicMailAddress><onlineUrl>http://imbiv.conicet.unc.edu.ar/integrantes/p/ponce-maria-jimena/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:32Z</dateStamp>
+      <citation>Gritti M, Ponce J, Wiemer A P, Hick P (2020). Colección de Asterales del Museo Botánico CORD. Version 1.7. Instituto Multidisciplinario de Biología Vegetal - IMBIV. Occurrence dataset https://doi.org/10.15468/adlx7r accessed via GBIF.org on 2020-08-12.</citation>
+              <resourceLogoUrl>https://ipt.mincyt.gob.ar/logo.do?r=asterales</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

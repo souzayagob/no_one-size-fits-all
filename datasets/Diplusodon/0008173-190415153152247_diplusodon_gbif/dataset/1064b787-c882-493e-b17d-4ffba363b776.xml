@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1064b787-c882-493e-b17d-4ffba363b776"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/w48pii</alternateIdentifier>
+        <alternateIdentifier>1064b787-c882-493e-b17d-4ffba363b776</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=iac</alternateIdentifier>
+    <title>IAC - Herbário do Instituto Agronômico de Campinas</title>
+    <creator>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>B. Torres</surName>
+    </individualName>
+<organizationName>Instituto Agronômico de Campinas (IAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Theodureto de Almeida Camargo, 1500; Caixa Postal 28</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3202-1650</phone><electronicMailAddress>rbtorres@iac.sp.gov.br</electronicMailAddress><onlineUrl>http://herbario.iac.sp.gov.br/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>B. Torres</surName>
+    </individualName>
+<organizationName>Instituto Agronômico de Campinas (IAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Theodureto de Almeida Camargo, 1500; Caixa Postal 28</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3202-1650</phone><electronicMailAddress>rbtorres@iac.sp.gov.br</electronicMailAddress><onlineUrl>http://herbario.iac.sp.gov.br/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-22
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A coleção é formada por representantes do Reino Plantae (&amp;#34;sensu stricto&amp;#34;), nativas, invasoras ou cultivadas, principalmente de São Paulo, Minas Gerais e da Amazônia (Amazonas, Pará, etc.). Foi iniciada em 1935, mas possui exemplares anteriores a 1840. Inclui duplicatas do Museu de Paris e coletas de R.L. Froés, W.A. Ducke, J.M. Pires, G.A. Black, J.C. Novaes, A.P. Viégas, A. Carvalho, J.C. Medina, H.F. Leitão Filho e H.M. Souza entre outros. O acervo do Herbário IAC é o quinto maior do estado e conta com cerca de 55.000 exsicatas, sendo que os materiais-tipo somente agora estão sendo localizados e separados, somando, atualmente, 21 exsicatas. Um diferencial do Herbário IAC é possuir exemplares herborizadas das plantas melhoradas pelo Instituto, como café, arroz, feijão, milho e plantas ornamentais. O Herbário IAC, está registrado no Index Herbariorum (Holmegren et al. 1990), e, fisicamente, está dividido em Coleção Geral, Coleção de Cultivares, Flora do Arboreto Monjolinho, Materiais-Tipo e Flora das Estações Experimentais do IAC. As coleções de cultivares e do Arboreto Monjolinho representam cerca de 15% da coleção do total do Herbário IAC. Aproximadamente 70% do acervo estão representados por plantas nativas, mas conta também com plantas de várias partes do globo (10%) e plantas invasoras de várias famílias (15%). Arecaceae (Palmae), Asteraceae (Compositae), Euphorbiaceae, Fabaceae (Leguminosae), Flacourtiaceae, Myrsinaceae, Myrtaceae, Passifloraceae, Poaceae (Graminae), Rubiaceae e Solanaceae são exemplos de famílias com representação expressiva, no Herbário IAC. Em 1995 foi desenvolvido, pela equipe de computação do IAC, um programa utilizando a linguagem Clipper, que permitiu a informatização parcial do acervo (cerca de 18.000 registros, em DBF). Em 2001, todos os registros informatizados foram recuperados para um banco de dados Access com o objetivo de possibilitar maior agilidade para consultas e maior confiabilidade no registro das informações, o que foi realizado pela analista de sistemas Raquel Lopes. A partir de 2002, quando o Herbário IAC contava com cerca de 20.000 dados informatizados, começou o desenvolvimento de um novo programa, através do qual os dados advindos do banco de dados anterior foram organizados, complementados e padronizados para elaboração de tabelas, utilizadas em caixas de seleção, e inserção no software atual. O sistema foi desenvolvido com as linguagens HTML, ASP, Vbscript e SQL, utilizando-se o banco de dados MySQL, sendo a comunicação WEB ao servidor de dados via fonte ODBC e conta, hoje, com dados de mais de 90% da coleção informatizados. Este programa conta com um módulo de manejo de dados (cadastrar, alterar e excluir) do herbário, intercâmbios de materiais e edição de tabelas (grande grupo, família, gênero, espécie, autor, país, estado, município, coletor, identificador, material-tipo, nome popular, endereços de herbários). O gerenciamento dos dados é feito localmente via navegador, através de IP válido somente para a rede interna, com acesso por senhas hierarquizadas, de modo que somente a senha máster tem acesso a todas as informações e edições de tabelas. A disponibilização de informações parciais dos materiais constantes da coleção de plantas herborizadas é através de consultas em tempo real, via &amp;#34;Internet&amp;#34;, através do &amp;#34;site&amp;#34; do IAC, no endereço http://herbario.iac.sp.gov.br/.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=IAC</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>B. Torres</surName>
+    </individualName>
+<organizationName>Instituto Agronômico de Campinas (IAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Theodureto de Almeida Camargo, 1500; Caixa Postal 28</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3202-1650</phone><electronicMailAddress>rbtorres@iac.sp.gov.br</electronicMailAddress><onlineUrl>http://herbario.iac.sp.gov.br/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-03T15:03:23Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=IAC">B. Torres R (2019). IAC - Herbário do Instituto Agronômico de Campinas. Version 1.49. Instituto Agronômico (IAC). Occurrence dataset https://doi.org/10.15468/w48pii accessed via GBIF.org on 2019-05-03.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=iac</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

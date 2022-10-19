@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a13e37f5-f1c7-4d99-9423-1c4fc8e385f2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/8x34fe</alternateIdentifier>
+        <alternateIdentifier>a13e37f5-f1c7-4d99-9423-1c4fc8e385f2</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/peld/resource?r=lenhosas_crono_pnca</alternateIdentifier>
+    <title>Dados da ocorrência de plantas lenhosas em uma cronossequência em área de Caatinga, Parque Nacional do Catimbau, Buíque, PE, Brasil</title>
+    <creator>
+    <individualName>
+<givenName>Fabíola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Museu Paraense Emílio Goeldi, Belém, PA</organizationName><positionName>Pesquisadora (Bolsista PCI)</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Alexandre</givenName>          <surName>de Paula</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco - UPFE</organizationName><positionName>Doutor</positionName>    </creator>
+    <creator>
+    <individualName>
+<givenName>Davi</givenName>          <surName>Jamelli</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Bolsista e gerenciador do banco de dados</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>davi.jamelli@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Fabíola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutoranda</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>fabiola_biola17@hotmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Davi</givenName>          <surName>Jamelli</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Bolsista e gerenciador do banco de dados</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>davi.jamelli@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Davi</givenName>          <surName>Jamelli</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Bolsista e gerenciador do banco de dados</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>davi.jamelli@gmail.com</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fabiola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutoranda</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>fabiola_biola17@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexandre</givenName>          <surName>de Paula</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutorando</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>alexandredepaula_07@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fabíola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutoranda</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>fabiola_biola17@hotmail.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexandre</givenName>          <surName>de Paula</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>alexandredepaula_07@hotmail.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fabíola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutoranda</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>fabiola_biola17@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexandre</givenName>          <surName>de Paula</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>alexandredepaula_07@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-19
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O levantamento florístico representa a listagem da ocorrência de espécies lenhosas (exceto lianas) nas parcelas permanentes vinculadas ao PELD Catimbau, entre os anos de 2014 e 2015.
+
+Especificamente aqui apresentamos o inventário das espécies lenhosas inventariadas em 15 parcelas que representam uma cronossequência após o abandono do uso da terra para fins agrícolas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>perturbação antropogênica</keyword>
+              <keyword>pluviosidade</keyword>
+              <keyword>cronossequência</keyword>
+              <keyword>caatinga</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Parque Nacional do Catimbau (Buíque, PE, Brasil)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-37.558</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-37.182</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-8.388</northBoundingCoordinate>
+                      <southBoundingCoordinate>-8.61</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-03-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-03-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Plantas lenhosas com mais de 10cm de DAS (diâmetro na altura do solo) e 1m de altura (exceto lianas).
+Os exemplares estão identificados ao menos em nível de espécie, gênero ou família. Alguns exemplares foram registrados como morfoespécies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantas lenhosas</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Este conjunto de dados foi criado para aumentar a visibilidade nacional e internacional do PELD Catimbau, bem como cumprir as exigências expostas na política de dados do Programa de Pesquisas Ecológicas de Longa Duração, publicada pelo CNPq.
+
+http://www.cnpq.br/web/guest/view/-/journal_content/56_INSTANCE_0oED/10157/4621110?COMPANY_ID=10132
+
+Esse recurso também foi criado visando aumentar nossa rede de colaboração e como ferramenta para atrair recursos.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Estes dados são atualizados a medida que espécies não identificadas possam ser identificadas por meio de novas fontes de conferência de dados e/ou colaboração com especialistas.</para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Davi</givenName>          <surName>Jamelli</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Bolsista e gerenciador do banco de dados</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 (81) 2126 8944</phone><electronicMailAddress>davi.jamelli@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Fabíola</givenName>          <surName>Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco, Departamento de Botânica</organizationName><positionName>Doutoranda</positionName>    <address>
+<deliveryPoint>Av Prof. Moraes Rego S/N, Cidade Universitária. CEP: 50670-901</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>52060510</postalCode><country>BRAZIL</country>    </address>
+<phone>+558121268944</phone><electronicMailAddress>fabiola_biola17@hotmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Para cada espécie identificada serão medidos 18 traços funcionais, segundo protocolo estabelecido por Cornelissen et al. (2003). Os traços serão divididos em: (1) atributos gerais das plantas (altura máxima, biomassa da parte área da árvore, espinhecência e presença de caule verde), (2) atributos foliares (área máxima, teor de matéria seca, área foliar especifica, espessura, concentração de nitrogênio, concentração de fósforo, pulvinação e grau de segmentação), (3) atributos da madeira (densidade, teor de matéria seca, capacidade de retenção de água e tempo de secagem) e (4) atributos
+regenerativos (modo de dispersão e massa da semente). Essa classificação será realizada através de bibliografia especializada, levantamento em herbários e observações em campo. Para cálculo da área foliar específica (SLA), cinco folhas de cada espécie serão coletadas e prensadas e terão essa variável mensurada de acordo com Fonseca et al. (2000).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Entre 2014 e 2015, preferencialmente nos meses chuvosos onde havia folhas e flores para identificação das espécies, foi realizado uma amostragem das espécies lenhosas para cada uma das 20 parcelas. As áreas foram selecionadas previamente com base em um gradiente de precipitação e em campo através de observação do estado aparante de perturbação da área. As áreas variavam desde uma vegetação de Caatinga arbórea a áreas com vegetação baixa de arbustos e herbáceas. Foram consideradas apenas as plantas lenhosas com mais de 3cm de DAS (diâmetro na altura do solo) e 1m de altura. Lianas não foram amostradas. Seguimos o protocolo de Rodal et al. 1992).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>As 15 parcelas de 20x50m foram delimitadas através de 4 canos pintados de PVC de grande calibre nos 4 vértices do retângulo. Canos de menor calibre foram inseridos a cada 10m para auxiliar as equipes a se localizarem nas parcelas. Quando necessário, delimitamos todo o perímetro da parcela com fita. 
+
+Para o levantamento florístico, as parcelas foram divididas em 5 corredores de 10x20m. As equipes responsáveis pelo levantamento mediram o DAS (diâmetro na altura do solo; Rodal et al. 1992) com uso de fitas métricas e paquímetros; e altura dos indivíduos através de vara métrica. As amostras recolhidas foram prensadas, receberam um identificador e levadas para estufa em herbário para posterior identificação.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para avaliação da qualidade dos dados, os pesquisadores responsáveis pela identificação das espécies utilizaram literatura especializada de espécies do bioma Caatinga, consulta de material dos herbários da UFP (UFPE) e Herbário da UNIVASF (HVASP), outras coleções de laboratórios parceiros e consulta a taxonomistas.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="PNCA">
+          <title>PELD Catimbau</title>
+          <personnel>
+    <individualName>
+<givenName>Marcelo</givenName>          <surName>Tabarelli</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">Q2l5wHAAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Inara</givenName>          <surName>Leal</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">yE4l_bAAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Melo</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=ytoqEukAAAAJ&amp;hl=pt-BR</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Isabel</givenName>          <surName>Machado</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">loH1iRoAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ariadna</givenName>          <surName>Lopes</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">40KdBUUAAAAJ&amp;hl=pt-BR</userId>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Maia</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">skuGlX0AAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Astúa</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">KOaSIDEAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Rodrigo</givenName>          <surName>Torres</surName>
+    </individualName>
+      <userId directory="http://www.researcherid.com/rid/">http://www.researcherid.com/ProfileView.action?returnCode=ROUTER.Unauthorized&amp;queryString=KG0UuZjN5WnWRkoEY6n%252FnU%252FAU3MrZKNh5mycbVB8Zj0%253D&amp;SrcApp=CR&amp;Init=Yes</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Allan</givenName>          <surName>Andersen</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=wmkQ4wYAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Luiz</givenName>          <surName>Martinelli</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=J1GHDeIAAAAJ</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Victor</givenName>          <surName>Arroyo-Rodriguez</surName>
+    </individualName>
+      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=JCit_KMAAAAJ&amp;hl=pt-BR</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Rainer</givenName>          <surName>Wirth</surName>
+    </individualName>
+      <userId directory="http://www.researcherid.com/rid/">I-1552-2013</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>De forma sucinta, a presente proposta objetiva examinar como perturbações antrópicas e
+mudanças no regime de precipitação afetam a biota da Caatinga em diferentes níveis de organização biológica e quais são as implicações para a sustentabilidade do sistema baseado na
+agricultura/pecuária de subsistência e no extrativismo. 
+
+Para alcançar este objetivo geral, nós adotamos uma abordagem socioecológica com oito objetivos específicos, os quais constituem os módulos de execução do projeto: (1) natureza das perturbações antrópicas, (2) padrões de diversidade das comunidades biológicas, (3) processos estruturadores das comunidades, (4) interações planta-animal, (5) ciclagem de nutrientes, (6) regeneração natural e restauração assistida,(7) sistema de informação geográfica e (8) capacitação e transferência de informação. A execução do projeto e o alcance de seus objetivos baseiam-se no: (1) estabelecimento de um conjunto de 60 parcelas permanentes (unidades experimentais), (2) inventários multitaxa periódicos, (3) monitoramento contínuo de variáveis ambientais e antrópicas, (4) consolidação das informações biológicas, ambientais e de uso do solo em uma base do tipo SIG e (5) disseminação/transferência das informações para a sociedade através de um conjunto amplo de instrumentos. O projeto será desenvolvido no Parque Nacional do Catimbau, um polígono de ca. 70.000 ha, e uma das mais importantes unidades de conservação da Caatinga. 
+
+O PARNA Catimbau apresenta vocação para estudos ecológicos desta natureza, pois: (1) constitui um Sítio PELD devotado a pesquisas ecológicas de longa duração, (2) reúne um patrimônio biológico, arqueológico e paisagístico de valor inestimável, (3) abriga áreas com diferentes históricos de uso do solo e de pressão antrópica sobre a vegetação de Caatinga, (4) inclui iniciativas de pesquisa e formação de recursos humanos em curso e (5) possui gestão, logística e infraestrutura favoráveis às iniciativas de longa duração. A presente proposta será executada por uma rede composta de 21 pesquisadores e seus estudantes de graduação/pós-graduação, os quais estão vinculados a seis instituições nacionais e três estrangeiras, tendo como núcleo de operação os programas de pós-graduação em Biologia Vegetal, Biologia Animal e Biologia de Fungos, todos da Universidade Federal de Pernambuco.  
+
+Em síntese, esta proposta é capaz de ampliar a massa crítica e o conhecimento sobre como as biotas secas respondem às mudanças de uso do solo e de precipitação (cenários futuros), com todas as implicações que estas respostas podem ter para a gestão da biodiversidade e para o alcance do desenvolvimento sustentável em regiões semiáridas incluindo a Caatinga.</para>
+          </abstract>
+          <funding>
+              <para>CNPq (processo: 403770/2012-2)
+FACEPE (processo: APQ-0138-2.05/14)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>O presente projeto será executado no Parque Nacional do Catimbau, localizado no agreste do Estado de Pernambuco. Conforme a Sociedade Nordestina de Ecologia e colaboradores (2002), o PARNA Catimbau está localizado entre as coordenadas geográficas 8º24’00’’ e 8º36’35’’ Sul e 37º09’30’’ e 37º14’40’’ Oeste. Sua á área é de 607 km2, dos quais 12.438 ha estão localizados no município de Buíque, 23.540 ha em Tupanatinga e 24.809 ha em Ibimirim, todos na região central do Estado de Pernambuco. O clima predominante na região é o semiárido do tipo Bsh, com transição para o tropical chuvoso do tipo As’, segundo escala de Köppen. Na região, a precipitação pluviométrica anual varia entre 650 e 1100 mm, com grande irregularidade no regime interanual.
+
+Geralmente, cerca de 60 a 75% das chuvas ocorrem no período de março/abril até junho/julho. A temperatura média anual oscila em torno dos 23ºC e o mês de temperatura mais baixa é julho, com valores equivalentes a 21° C, enquanto dezembro, com temperatura média de 25ºC, é o mês mais quente. A vegetação constitui-se de um mosaico de caatingas arbóreas e arbustivas. 
+
+É importante ressaltar que o PARNA Catimbau foi criado em 2002 e ao longo destes 12 anos os moradores nunca foram indenizados e continuam vivendo dentro da área da UC. Existem pequenos centros urbanos, pequenos agricultores, grandes proprietários, comunidades míticoreligiosas, áreas de importância arqueológica, além de pequenos empreendimentos turísticos privados. A presença histórica destes moradores deu origem a um enorme mosaico em termos de uso do solo e pressão antrópica sobre a biota (i.e. paisagens antrópicas), o que torna o Catimbau uma oportunidade excelente para examinar como agricultura, pecuária, extração de lenha e caça, entre outras perturbações crônicas, afetam a biota da Caatinga e o estabelecimento de ecossistemas emergentes ou novos (veja Lugo 2013). Neste contexto, o Catimbau é a nossa paisagem focal.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>CARACTERIZAÇÃO DO PROBLEMA
+As biotas tropicais estão cada vez mais expostas às perturbações de origem antrópica, causadas por duas grandes forças estruturadoras: (1) mudanças na dinâmica do uso do solo, principalmente a conversão de paisagens naturais em paisagens antrópicas, e (2) as mudanças climáticas globais, com repercussão nos perfis climáticos regionais e no uso dos recursos naturais por populações humanas (Rietkerk et al. 1997, Hobbs et al. 2006). De fato, a maioria das biotas tropicais terrestres já se constitui ou deverá ser constituída por um conjunto de paisagens antrópicas expostas às mudanças climáticas (Wright 2005, Tabarelli et al. 2008, Laurance et al. 2014). Todavia, é nestas paisagens que ainda reside uma parte significativa da biodiversidade global, já “computada” a dívida de extinção de espécies, decorrente das ações antrópicas, principalmente a perda e fragmentação de habitats (Chazdon et al. 2009, Melo et al. 2013). É nessas paisagens, também, que as sociedades humanas dependem com mais intensidade dos serviços ambientais providos pelos ecossistemas, como a proteção do solo, produção de água potável e a mitigação dos efeitos decorrentes de extremos climáticos, além da aquisição de bens e mercadorias indispensáveis a subsistência (Chazdon et al. 2009, Gardner et al. 2009, Lewis et al. 2009).
+
+No caso das florestas tropicais, perturbações antrópicas agudas, como a perda e a fragmentação de hábitats, têm efeitos sobre a diversidade biológica em diferentes níveis de organização. Podemos citar: (1) redução no número e no tamanho de populações de especialistas (eventualmente, até extinções locais), paralelo ao aumento daquelas adaptadas às perturbações em diferentes escalas espaciais (Wirth et al. 2007,  Tabarelli et al. 2012a); (2) mudanças na composição taxonômica, funcional e filogenética das assembleias na escola local e de paisagem (Helmus et al. 2010, Santos et al. 2010, Filgueiras et al. 2011, Leal et al. 2012); (3) redução na riqueza de espécies e na diversidade funcional e filogenética das assembleias nas escalas local e de paisagem (Lopes et al. 2009, Tabarelli et al. 2010a, Santos et al. 2010, Arroyo-Rodriguez et al. 2013); (4) aumento de similaridade taxonômica entre assembleias nas escalas de paisagem e regional (Lôbo et al. 2011); (5) alteração, inclusive colapso, de interações entre espécies na escala local (Thompson 2002, Girão et al. 2007, Leal et al. 2014); e (6) mudanças nos padrões de fluxo e armazenamento de nutrientes (Paula et al. 2011). 
+
+Todavia, as florestas tropicais imersas em paisagens antrópicas estão também expostas às perturbações antrópicas de natureza crônica (sensu Singh 1998). Podemos citar o fogo, corte seletivo de madeira, caça, sobrepastoreio por animais domésticos, introdução de espécies exóticas e os ciclos regulares de corte e queima da vegetação nativa como perturbações operando de forma crônica na escala de paisagem (Hobbs &amp; Huenneke 1992, Singh 1998, Martorell &amp; Peters 2005, 2009). As Florestas Tropicais Sazonalmente Secas (Seasonally Dry Tropical Forests sensu Pennington et al. 2009; de agora em diante florestas secas) estão particularmente expostas às perturbações antrópicas crônicas (Martorell &amp; Peters 2005, 2009), pois a presença de densas populações humanas resulta, geralmente, em exploração intensiva dos recursos naturais (Scheffer et al. 2001, Milles et al. 2006, Hirota et al. 2011). De fato, as áreas de clima seco são as mais populosas e a menor estatura da vegetação, o clima mais adequado e a disponibilidade de forragem facilitam a agricultura e a criação de animais, com rebanhos muito grandes e animais criados de forma extensiva (Murphy &amp; Lugo 1986, Sampaio 1995, Reid et al. 2008). Embora os efeitos dessas perturbações sejam aparentemente gradativos, eles podem afetar a diversidade biológica organizada em diferentes níveis (Alvarez-Yépiz et al. 2008, Martorell &amp; Peters 2005, 2009). Por exemplo, a coleta seletiva de plantas, a caça e a utilização pastoril da terra podem resultar em simplificação e homogeneização das comunidades biológicas, alterando o funcionamento do ecossistema e sua capacidade de prover bens e serviços (Singh 1998, Blackie et al. 2014). 
+
+Os efeitos das mudanças climáticas tendem, também, a ser mais severos em áreas com clima mais seco e sazonal, pois a cobertura florestal pode diminuir rapidamente com a diminuição da precipitação (Eltahir &amp; Bras 1994, Brovkin et al. 1998, Nobre &amp; Borma 2009). Além disso, a sinergia entre redução de precipitação e aumento da perturbação crônica pode levar à savanização da floresta (Hirota et al. 2011) ou até mesmo à desertificação (Chidumayo &amp; Gumbo 2010). De fato, modelagens sobre o efeito de mudanças climáticas sobre a resiliência de diferentes ecossistemas em escala global sugerem que quanto menor a densidade de árvores, maiores as chances de um ecossistema florestado mudar para uma vegetação mais aberta (Scheffer et al. 2001, Hirota et al. 2011). Por exemplo, áreas de floresta (as quais possuem, tipicamente, mais de 80% de cobertura arbórea) que tenham sua cobertura florestal reduzida a menos de 60% tendem a uma mudança em direção às savanas (20% de cobertura florestal) ou vegetação arbustiva (sem cobertura arbórea) (Hirota et al. 2011). Sendo assim, a extração de madeira e lenha, comum nas florestas tropicais secas (Blackie et al. 2014), pode levar este tipo de vegetação a se tornar savana caso ocorram reduções na disponibilidade hídrica.
+
+A Caatinga como biota ou ecossistema pode ser definida como um mosaico constituído por manchas de floresta seca e de vegetação arbustiva, desde a escala local até a regional (Sampaio 1995, Pennington et al. 2009). Apesar da elevada diversidade biológica para os padrões de clima semiárido (Leal et al. 2005), a Caatinga vem sendo modificada drasticamente por atividades humanas desde o início da colonização europeia no século XVI (Coimbra-Filho &amp; Câmara 1996). Além da supressão definitiva da vegetação em vastas áreas, a Caatinga experimenta perturbações antrópicas crônicas como: (1) os ciclos de agricultura de subsistência, (2) o sobrepastoreio por animais domésticos, principalmente caprinos, (3) a extração de lenha para fins domésticos e comerciais, (4) a extração de madeira, principalmente para uso nas propriedades rurais e (5) a coleta de plantas para fins alimentícios, medicinais e como fonte de matérias primas; i.e. produtos florestais não madeireiros (Ramos et al. 2008, Pereira et al. 2003). Em diferentes escalas espaciais, a Caatinga (ou o semiárido nordestino) pode ser descrita como um sistema socioecológico (sensu Fu et al. 2013) dependente e ancorado no extrativismo, incluindo os nutrientes do solo e da vegetação, os quais são continuamente exportados através da produção agrícola e animal, mas quase nunca reintroduzidos no sistema por técnicas de manejo (sociedades rurais baseadas no extrativismo).
+
+De fato, muitas das áreas originalmente cobertas por caatinga arbórea atualmente abrigam uma vegetação arbustiva bastante ramificada e espinhosa ou estão dominadas por espécies invasoras (Almeida et al. 2014, Nascimento et al. 2014). Este processo de “savanização antrópica da Caatinga”, como proposto originalmente por Coimbra-Filho &amp; Câmara (2006) e a colonização de áreas degradadas por espécies invasoras podem representar os efeitos mais expressivos das perturbações crônicas impostas à Caatinga em consequência da elevada dependência de recursos naturais por parte das populações humanas (veja Sampaio 1995, Lucena et al. 2007). As mudanças climáticas poderão intensificar esse processo de transformação da Caatinga em um ecossistema emergente ou novo (sensu Hobbs et al. 2006, Lugo 2013), principalmente através do sinergismo entre redução de precipitação e pressão crescente sobre os recursos naturais desta biota única (veja Leal et al. 2005, Oliveira et al. 2012). Desta forma, a Caatinga, como um sistema socioecológico, representa um excelente “experimento natural” e uma oportunidade para investigar (1) como as florestas secas respondem às perturbações antrópicas crônicas, e (2) quais são as consequências para a biodiversidade, serviços ecossistêmicos, sustentabilidade das atividades agrícolas e qualidade de vida das populações humanas; i.e. vulnerabilidade/sustentabilidade dos sistemas socioecológicos (veja Harvey et al. 2014, Sayer et al. 2013). 
+
+Desertificação, extinção de espécies, esgotamento de recursos naturais, como água e lenha, e extrema vulnerabilidade socioecológica a eventos climáticos extremos claramente indicam que (1) a biota da Caatinga está respondendo de forma drástica às perturbações antrópicas, (2) vários serviços ecossistêmicos já estão comprometidos em diferentes escalas espaciais, como recuperação da fertilidade do solo, produção de água potável, estocagem de nutrientes e (3) as atividades produtivas e de subsistência familiar (e.g. extrativismo) deverão adotar medidas adaptativas e mitigatórias (sensu Harvey et al. 2014) para dar suporte ao estabelecimento de sociedades humanas saudáveis e sustentáveis (sensu Wu 2013). Operacionalmente, estamos nos referindo a “paisagens amigáveis à biodiversidade” (Melo et al. 2013), “paisagens expertas” (Harvey et al. 2014) e “paisagens sustentáveis” (Wu 2013), todas carecendo de estudos de casos.
+
+OBJETIVO GERAL E JUSTIFICATIVA
+O objetivo geral deste projeto é entender como perturbações antrópicas crônicas e mudanças climáticas afetam a biota da Caatinga, em diferentes níveis de organização biológica (de populações a ecossistema), e quais são as implicações para a sustentabilidade do sistema socioecológico baseado na agricultura/pecuária de subsistência e no extrativismo. O projeto aborda este problema examinando a distribuição da biodiversidade ao longo de três gradientes principais (perturbação antrópica, tempo de regeneração da vegetação pós-agricultura e precipitação), presumindo que as variações encontradas na escala de paisagem (i.e. Parque Nacional do Catimbau) associadas a estes gradientes representam um “proxy” em termos de resposta da biota, ou do ecossistema Caatinga, às mudanças climáticas e no uso do solo. 
+
+De forma a entender melhor o objetivo geral desta proposta, é importante que descrevamos alguns conceitos. Como perturbações crônicas, nos referimos, principalmente, ao pastoreio por animais domésticos criados de forma extensiva (principalmente caprinos e ovinos), a coleta de lenha e madeira e o extrativismo de produtos florestais não madeireiros (Sampaio et al. 1993, Sampaio 1995, Ramos et al. 2008, Nascimento et al. 2009, 2012). A agricultura de subsistência de corte e queima também é um tipo de perturbação crônica, pelo menos na escala da paisagem, mas nesta proposta será avaliada em um gradiente separado do gradiente de perturbação, o qual não incluirá áreas onde houve corte raso. O terceiro gradiente, de precipitação, visa avaliar os efeitos das mudanças climáticas, que para o semiárido nordestino consistem em redução nos níveis de precipitação média anual (IPCC 2007), redução esta que pode ampliar os efeitos decorrentes de pressões antrópicas locais, conforme modelos baseados nas relações entre solo, clima e vegetação (Nepstad et al. 1999, Hirota et al. 2011). Sustentabilidade nesta proposta segue o conceito clássico (veja Wu 2013) e é examinada, principalmente, na sua dimensão ecológica, a qual aqui se limita à integridade do capital natural (meio físico e biológico) e à capacidade do ecossistema de prover serviços para as populações humanas em diferentes escalas espaciais (Millennium Ecosystem Assessment 2005). Capital natural e serviços são críticos para a manutenção das atividades produtivas e para a subsistência e qualidade de vida das populações sertanejas (Gariglio et al. 2010), embora capital e serviços estejam experimentando uma rápida degradação (Leal et al. 2005, Santos et al. 2009).
+
+Em síntese, entender como as biotas tropicais respondem as pressões antrópicas, incluindo as mudanças climáticas globais, é um desafio científico de relevância global e uma tarefa urgente no contexto da sustentabilidade. Objetivamente, é preciso integrar cientificamente uso de recursos naturais, resposta às perturbações antrópicas, integridade do ecossistema, serviços ambientais chave e bem estar humano na perspectiva da sustentabilidade ou do estabelecimento de sociedades saudáveis e sustentáveis (Gidding et al. 2012). As florestas secas, como a Caatinga, suportam grande parte da população pobre das zonas rurais em escala global, o que representa mais de 100 milhões de pessoas somente na África (Blackie et al. 2014). A biota da Caatinga e seus 28 milhões de habitantes são extremamente vulneráveis à degradação ambiental, visto que (1) por unanimidade, os modelos climáticos apontam para redução nos níveis de precipitação no semiárido, (2) as populações humanas são extremamente dependentes dos recursos naturais, inclusive os relativos à biodiversidade, (3) existe um longo histórico de alteração e degradação desta biota, (4) como as demais florestas secas e regiões semiáridas, a Caatinga é naturalmente frágil e, finalmente, (5) a Caatinga sofre com a falta de conhecimento científico e políticas públicas capazes de assegurarem uma perspectiva de desenvolvimento sustentável para região (Leal et al. 2005, IPCC 2007, Santos et al. 2011, Melo et al. 2014). Neste contexto, a Caatinga representa um excelente “experimento” e uma oportunidade para investigar como as florestas secas respondem às perturbações antrópicas e quais são as consequências para a biodiversidade, serviços ecossistêmicos e qualidade de vida das populações humanas. Embora existam outras iniciativas científicas focadas na sustentabilidade do semiárido nordestino, nenhuma delas aborda diretamente os efeitos das pressões antrópicas e do regime de precipitação sobre a diversidade biológica e a resiliência do ecossistema, com suas potencias consequências para o futuro desta biota e de suas populações humanas altamente dependentes de recursos/serviços da biodiversidade. Abordar esse tipo de desafio pressupõe: monitoramento da diversidade biológica em longo prazo, investigação das relações entre populações humanas e recursos naturais, estabelecimento de redes de pesquisas, formação de recursos humanos em diferentes níveis e transferência de informação para a sociedade, como proposto neste projeto (veja Figura 1).
+
+Desta forma, vamos examinar a ocorrência, generalidade e os fatores condicionantes de respostas biológicas importantes como: (1) perda não-aleatória de grupos ecológicos e taxonômicos, (2) empobrecimento taxonômico, funcional e filogenético das assembleias de plantas, insetos e vertebrados, (3) redução da diversidade funcional associada a atributos das espécies de plantas, insetos e vertebrados, (4) proliferação de táxons nativos adaptados as perturbações crônicas, (5) homogeneização biológica em múltiplas escalas espaciais, (6) convergência taxonômica e funcional, (7) colapso de biomassa e regeneração truncada, e (8) savanização (Tabarelli et al. 2008, Tabarelli et al. 2010b, Hirota et al. 2011, Tabarelli et al. 2012a). Embora estas repostas já tenham sido documentadas no caso de florestas tropicais úmidas expostas a perda e a fragmentação de hábitats, espera que estas respostas estejam presentes na Caatinga, embora associadas a outros condicionantes (i.e. perturbações crônicas).
+
+Finalmente, esta proposta integra e expande iniciativas já em curso (Chamada CNPq/ICMBio 13/2011 Pesquisa em Unidades de Conservação do Bioma Caatinga, processo 552054/2011-9; Chamada MCTI/CNPq/FAPs 34/2012 Programa de Pesquisa Ecológica de Longa Duração, processo 403770/2012-2), as quais tem, também, como objetivos institucionais (1) consolidar grupos de pesquisa e formar um grupo de pensamento estratégico, no que se refere às questões que envolvem a biota da Caatinga, e (2) consolidar o Parque Nacional do Catimbau em um “Sítio de Pesquisa Ecológica de Longa Duração” ampliando oportunidades para geração de conhecimento científico, formação de recursos humanos e transferência de informação para a sociedade.
+
+OBJETIVOS ESPECÍFICOS, METAS E FUNDAMENTAÇÃO TEÓRICA
+Alcançar o objetivo geral desta proposta envolve um conjunto enorme de atividades, desde inventários de biodiversidade na escala de paisagem, até a formação de recursos humanos e a transferência de informações para múltiplos atores. De forma a facilitar a apresentação, a gestão e o alcance do objetivo principal do projeto, o mesmo foi dividido em oito módulos operacionais, cada um com seus objetivos específicos, metas e fundamentação teórica, conforme descrito sucintamente a seguir. 
+
+Módulo 2: Padrões de diversidade das comunidades
+Objetivos – Verificar como perturbações antrópicas e a redução da precipitação modificam a estrutura e composição de espécies, bem como os padrões de diversidade taxonômica, funcional e filogenética das comunidades de diferentes organismos da Caatinga. Traduzir as respostas da diversidade biológica às perturbações antrópicas e às mudanças climáticas para o contexto de serviços ambientais e medidas adaptativas e mitigatórias.
+Metas – Realizar um inventário completo e monitorar numa grande escala espaço-temporal as respostas dos diferentes grupos de organismos selecionados para o projeto (i.e. plantas lenhosas, fungos, formigas, besouros, borboletas, aves, mamíferos não voadores e morcegos) em todas as áreas selecionadas a cada dois anos, totalizando dois censos ao longo dos 48 meses de duração do projeto.
+
+Sendo assim, as questões abordadas neste segundo módulo do projeto envolvem a descrição e o teste de hipóteses acerca da diversidade biológica em termos taxonômico, funcional e filogenético de diferentes grupos de organismos (e.g. árvores, insetos e vertebrados) ao longo de gradientes de perturbação e de precipitação (Figura 2), o que permite fazer previsões potenciais respostas às mudanças no uso do solo e às mudanças climáticas. Especificamente, as hipóteses de trabalho são:
+
+1. O aumento das perturbações antrópicas e a redução dos níveis de precipitação afetam negativamente a diversidade taxonômica, funcional e filogenética dos diferentes grupos de organismos estudados;
+
+2. O aumento nas perturbações antrópicas e a redução na precipitação levam a um rearranjo significativo das comunidades biológicas, gerando mudanças na composição de espécies dos diferentes grupos de organismos estudados; 
+
+3. Comunidades sob a influência de diferentes níveis de precipitação, porém expostas a níveis altos de perturbação, tendem a apresentar respostas similares. O mesmo acontece se os níveis de precipitação são muito baixos, fazendo com que perturbações antrópicas de intensidade variável gerem respostas similares nas comunidades biológicas.
+
+4. À medida que aumenta a perturbação, o efeito da precipitação sobre os grupos de organismos começa a diminuir e vice-versa (i.e. com a redução na precipitação, a perturbação começa a ter um menor efeito sobre os organismos) de forma que haverá um ponto de convergência na composição das comunidades.
+
+Como síntese destes processos, espera-se um empobrecimento drástico das comunidades, incluindo a perda de espécies nativas, aumento de invasão biológica, redução da diversidade, convergência e homogeneização biológica em diferentes escalas espaciais, a medida que as perturbações antrópicas se intensificam e a precipitação se reduz.
+
+Módulo 2: Padrões de diversidade das comunidades
+Nesse módulo serão incluídos estudos sobre as comunidades de plantas lenhosas, fungos, insetos e vertebrados. Para insetos, serão enfocados, inicialmente, formigas, besouros e borboletas, grupos estes já reconhecidos como bons bioindicadores (Freitas et al. 2006, Leal et al. 2010). Entre os vertebrados, por enquanto, será dada ênfase às aves e mamíferos (não voadores e morcegos). Mas tanto para insetos quanto para vertebrados, outros grupos podem ser incluídos no projeto à medida que especialistas venham a participar da proposta. Abaixo são descritas as metodologias de coleta e as classificações em grupos funcionais destes organismos.
+
+Amostragem dos organismos e sua classificação funcional
+
+PLANTAS LENHOSAS
+Serão registrados os indivíduos adultos vivos de espécies lenhosos arbóreas e arbustivas com diâmetro ao nível do solo ≥ 3 cm e altura total ≥ 1 m (Rodal et al. 1992) em 30 parcelas de 50 m x 20 m dentro das UEs previamente selecionadas. Os indivíduos não identificados em campo terão identificação botânica realizada por meio de consultas a herbários e a especialistas, e todo o material será depositado no Herbário UFP – Geraldo Mariz, da Universidade Federal de Pernambuco. Para cada espécie identificada serão medidos 18 traços funcionais, segundo protocolo estabelecido por Cornelissen et al. (2003). Os traços serão divididos em: (1) atributos gerais das plantas (altura máxima, biomassa da parte área da árvore, espinhecência e presença de caule verde); (2) atributos foliares (área máxima, teor de matéria seca, área foliar especifica, espessura, concentração de nitrogênio, concentração de fósforo, pulvinação e grau de segmentação); (3) atributos da madeira (densidade, teor de matéria seca, capacidade de retenção de água e tempo de secagem) e (4) atributos regenerativos (modo de dispersão e massa da semente). Essa classificação será realizada através de bibliografia especializada, levantamento em herbários e observações em campo. Para cálculo da área foliar específica (SLA), cinco folhas de cada espécie serão coletadas e prensadas e terão essa variável mensurada de acordo com Fonseca et al. (2000).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:06Z</dateStamp>
+      <citation>Barros F, de Paula A, Jamelli D (2020). Dados da ocorrência de plantas lenhosas em uma cronossequência em área de Caatinga, Parque Nacional do Catimbau, Buíque, PE, Brasil. Version 1.6. Sistema de Informação sobre a Biodiversidade Brasileira - SiBBr. Sampling event dataset https://doi.org/10.15468/8x34fe accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt.sibbr.gov.br/peld/logo.do?r=lenhosas_crono_pnca</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Coleção de plantas do Laboratório de Ecologia Vegetal e Aplicada - UFPE</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

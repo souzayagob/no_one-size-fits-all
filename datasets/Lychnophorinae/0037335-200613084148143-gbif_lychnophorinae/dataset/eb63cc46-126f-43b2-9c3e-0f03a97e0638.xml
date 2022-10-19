@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="eb63cc46-126f-43b2-9c3e-0f03a97e0638"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/jovi18</alternateIdentifier>
+        <alternateIdentifier>eb63cc46-126f-43b2-9c3e-0f03a97e0638</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hdjf</alternateIdentifier>
+    <title>HDJF - Herbário Dendrológico Jeanine Felfili</title>
+    <creator>
+    <individualName>
+<givenName>Evandro</givenName>          <surName>Luiz Mendonça Machado</surName>
+    </individualName>
+<organizationName>Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Juscelino Kubitschek; Rodovia MG 367 – Km 583, nº 5000; Alto da Jacuba</deliveryPoint><city>Diamantina</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>39100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 38 9913-8771</phone><electronicMailAddress>machadoelm@gmail.com</electronicMailAddress><onlineUrl>http://www.ufvjm.edu.br/site/fca/herbario-dendrologico/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Evandro</givenName>          <surName>Luiz Mendonça Machado</surName>
+    </individualName>
+<organizationName>Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Juscelino Kubitschek; Rodovia MG 367 – Km 583, nº 5000; Alto da Jacuba</deliveryPoint><city>Diamantina</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>39100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 38 9913-8771</phone><electronicMailAddress>machadoelm@gmail.com</electronicMailAddress><onlineUrl>http://www.ufvjm.edu.br/site/fca/herbario-dendrologico/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-11
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário foi idealizado em 2006 pelos estudantes e docentes do Departamento de Engenharia Florestal da Universidade Federal dos Vales do Jequitinhonha e Mucuri com finalidade de subsidiar as disciplinas deste curso, oferecer suporte aos estudos de vegetação e consequentemente congregar coleções científicas da flora regional. Em 2011 o acervo tomou proporções consideráveis sendo necessárias melhorias na forma de armazenamento e novas estruturas e equipamentos foram adquiridos. Nesta época o herbário recebeu a denominação Herbário Dendrológico Jeanine Felfili, com a sigla oficial HDJF, bem como o reconhecimento oficial junto à Rede Brasileira de Herbários e ao Index Herbariorum. O acervo HDJF está dividido em três partes, a saber: material herborizado; xiloteca e carpoteca. Todo o acervo está condicionado em uma área física de 66 m², com projeto de expansão aguardando recursos financeiros para tanto. O acervo do HDJF está compilado em bando de dados e as suas exsicatas estão sendo digitalizadas a fim de serem disponibilizadas online. O HDJF está inserido na porção Meridional da Serra do Espinhaço, fitogeograficamente a região que apresenta um complexo mosaico de florestas estacionais e savana, com diversas fitofisonomias relativamente bem preservadas, sendo considerada área prioritária para conservação e investigação científica. Assim no acervo tem destaque para a flora regional com exemplares dos biomas Mata Atlântica e Cerrado, contudo há também representação de outros biomas como Amazônia e Caatinga, oriundos do programa de permutas de duplicatas e intercâmbio com outros herbários.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HDJF</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Evandro</givenName>          <surName>Luiz Mendonça Machado</surName>
+    </individualName>
+<organizationName>Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Juscelino Kubitschek; Rodovia MG 367 – Km 583, nº 5000; Alto da Jacuba</deliveryPoint><city>Diamantina</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>39100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 38 9913-8771</phone><electronicMailAddress>machadoelm@gmail.com</electronicMailAddress><onlineUrl>http://www.ufvjm.edu.br/site/fca/herbario-dendrologico/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:40Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HDJF">Luiz Mendonça Machado E (2020). HDJF - Herbário Dendrológico Jeanine Felfili. Version 1.66. Universidade Federal dos Vales do Jequitinhonha e Mucuri. Occurrence dataset https://doi.org/10.15468/jovi18 accessed via GBIF.org on 2020-08-12.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hdjf</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

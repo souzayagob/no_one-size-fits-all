@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c525b217-2f59-4b71-a173-68d13da5e8a7"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/3f1k1r</alternateIdentifier>
+        <alternateIdentifier>c525b217-2f59-4b71-a173-68d13da5e8a7</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=has</alternateIdentifier>
+    <title>HAS - Herbário Alarich Rudolf Holger Schultz</title>
+    <creator>
+    <individualName>
+<givenName>Rosana</givenName>          <surName>Moreno Senna</surName>
+    </individualName>
+<organizationName>Museu de Ciências Naturais - Fundação Zoobotânica do Rio Grande do Sul (MCN-FZBRS)</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Dr. Salvador França, 1427 - Bairro Jardim Botânico</deliveryPoint><city>Porto Alegre</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>90690-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 51 3320-2070</phone><electronicMailAddress>rosana-senna@fzb.rs.gov.br</electronicMailAddress><onlineUrl>http://www.fzb.rs.gov.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rosana</givenName>          <surName>Moreno Senna</surName>
+    </individualName>
+<organizationName>Museu de Ciências Naturais - Fundação Zoobotânica do Rio Grande do Sul (MCN-FZBRS)</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Dr. Salvador França, 1427 - Bairro Jardim Botânico</deliveryPoint><city>Porto Alegre</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>90690-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 51 3320-2070</phone><electronicMailAddress>rosana-senna@fzb.rs.gov.br</electronicMailAddress><onlineUrl>http://www.fzb.rs.gov.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-11
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O HAS foi criado em 1971 para conservar amostras da flora do Rio Grande do Sul, constituindo-se a maior parte de seu acervo de material procedente deste Estado. É Coleção credenciada pelo CGEN/MMA como Fiel Depositária de amostras do Componente Genético por meio da Resolução Nº5, de 29.08.2002. Possui no acervo exemplares de Angiospermas, Gimnospermas, Pteridófitas, Fungos Liquenizados, Fungos, Briófitas e Algas, está com cerca de 21% de toda a coleção informatizada. A coleção de algas conta atualmente com mais de 14.909 lotes em líquido, contendo primordialmente microalgas e cianobactérias de água doce, com representantes de seis grandes divisões e nove classes: as Cyanobacteria, Chrysophyceae, Xantophyceae, Bacillariophyceae, Cryptophyceae, Dinophyceae, Euglenophyceae, Chlorophyceae e Zygnematophyceae. Possui também mais de 6.716 lâminas permanentes de Bacillariophyceae. É o herbário com o maior número de lotes em líquido contendo microalgas continentais do Brasil.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HAS</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rosana</givenName>          <surName>Moreno Senna</surName>
+    </individualName>
+<organizationName>Museu de Ciências Naturais - Fundação Zoobotânica do Rio Grande do Sul (MCN-FZBRS)</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Rua Dr. Salvador França, 1427 - Bairro Jardim Botânico</deliveryPoint><city>Porto Alegre</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>90690-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 51 3320-2070</phone><electronicMailAddress>rosana-senna@fzb.rs.gov.br</electronicMailAddress><onlineUrl>http://www.fzb.rs.gov.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:36Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HAS">Moreno Senna R (2020). HAS - Herbário Alarich Rudolf Holger Schultz. Version 1.69. Fundação Zoobotânica do Rio Grande do Sul. Occurrence dataset https://doi.org/10.15468/3f1k1r accessed via GBIF.org on 2020-08-12.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=has</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="42186781-dd9d-418a-ba65-05680906269a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.11646/phytotaxa.260.3.1</alternateIdentifier>
+        <alternateIdentifier>10.15468/lkxxvg</alternateIdentifier>
+        <alternateIdentifier>FFDDFFEBFFEDFF82FFB8FFDEB916B813</alternateIdentifier>
+    <title>Bolivian Mimosa (Leguminosae, Mimosoideae): three new species and a species checklist</title>
+    <creator>
+    <individualName>
+          <surName>Margoth Atahuachi</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+          <surName>M. Leontien Van Der Bent</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+          <surName>John R. I. Wood</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+          <surName>Gwilym P. Lewis</surName>
+    </individualName>
+    </creator>
+    <creator>
+    <individualName>
+          <surName>Colin E. Hughes</surName>
+    </individualName>
+    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>plazi</surName>
+    </individualName>
+<organizationName>Plazi</organizationName>    </metadataProvider>
+    <associatedParty>
+<organizationName>Plazi</organizationName>    <address>
+<city>Bern</city><country>SWITZERLAND</country>    </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2016-01-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains the digitized treatments in Plazi based on the original journal article Margoth Atahuachi, M. Leontien Van Der Bent, John R. I. Wood, Gwilym P. Lewis, Colin E. Hughes (2016): Bolivian Mimosa (Leguminosae, Mimosoideae): three new species and a species checklist. Phytotaxa 260 (3): 201-222, DOI: 10.11646/phytotaxa.260.3.1</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://tb.plazi.org/GgServer/summary/FFDDFFEBFFEDFF82FFB8FFDEB916B813</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Guido</givenName>          <surName>Sautter</surName>
+    </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:10Z</dateStamp>
+      <citation>Plazi.org taxonomic treatments database (2016). Bolivian Mimosa (Leguminosae, Mimosoideae): three new species and a species checklist. Checklist dataset https://doi.org/10.11646/phytotaxa.260.3.1 accessed via GBIF.org on 2019-05-14.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a36438d0-bec7-4b7b-9bfa-2c31e7610c39"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bihrxd</alternateIdentifier>
+        <alternateIdentifier>https://bellatlas.umn.edu:443/collections/misc/collprofiles.php?collid=1</alternateIdentifier>
+    <title>Bell Museum plants</title>
+    <creator>
+<organizationName>Bell Atlas</organizationName><electronicMailAddress>_</electronicMailAddress><onlineUrl>https://bellatlas.umn.edu:443/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Bell Atlas</organizationName><electronicMailAddress>_</electronicMailAddress><onlineUrl>https://bellatlas.umn.edu:443/index.php</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2020-12-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records of specimens at the University of Minnesota herbarium (MIN)</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>Bell Museum plants</organizationName><phone>(612) 626-9660</phone><onlineUrl>https://www.bellmuseum.umn.edu/plants/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:24:23Z</dateStamp>
+      <citation>University of Minnesota Bell Museum (2020). Bell Museum plants. Occurrence dataset https://doi.org/10.15468/bihrxd accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

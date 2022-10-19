@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d031156d-6ff8-4eb5-b91a-a50861e98be9"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/yipzhz</alternateIdentifier>
+        <alternateIdentifier>d031156d-6ff8-4eb5-b91a-a50861e98be9</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=huesb</alternateIdentifier>
+    <title>HUESB - Herbário da Universidade Estadual do Sudoeste da Bahia</title>
+    <creator>
+    <individualName>
+<givenName>Guadalupe</givenName>          <surName>Edilma Licona de Macedo</surName>
+    </individualName>
+<organizationName>Universidade Estadual do Sudoeste da Bahia (UESB)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. José Moreira Sobrinho s/n</deliveryPoint><city>Jequié</city><administrativeArea>Bahia</administrativeArea><postalCode>45206-190</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3528-9659</phone><electronicMailAddress>gmacedo_3@yahoo.com.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUESB</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Guadalupe</givenName>          <surName>Edilma Licona de Macedo</surName>
+    </individualName>
+<organizationName>Universidade Estadual do Sudoeste da Bahia (UESB)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. José Moreira Sobrinho s/n</deliveryPoint><city>Jequié</city><administrativeArea>Bahia</administrativeArea><postalCode>45206-190</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3528-9659</phone><electronicMailAddress>gmacedo_3@yahoo.com.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUESB</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário da Universidade Estadual do Sudoeste da Bahia (HUESB), vinculado ao Departamento de Ciências Biológicas DCB/UESB, Jequié, iniciou sua coleção a partir do registro de espécies vegetais da Região Sudoeste, oriundas de coletas dos projetos: Levantamento Florístico do Município de Jequié, Levantamento Florístico do Município de Maracás e do Instituto do Milênio do Semi-Árido. Posteriormente ampliado com coletas de projetos de pesquisa desenvolvidos por professores e discentes das diversas Pós-Graduações da UESB (Genética, Biodiversidade e Conservação e Química), assim como, pela atual curadoria e doações de diversos herbários brasileiros. Essas coleções têm contribuído com a produção de um acervo botânico da zona de transição Mata Atlântica / Caatinga (Floresta Estacional) e incentivado a participação, desde a criação, dos estudantes do Curso de Ciências Biológicas, os quais participam como bolsistas IC/UESB, PIBIC/CNPQ, FAPESB, INCT/CNPQ, APNE/CNPQ e voluntários envolvidos em projetos de pesquisa e extensão. Até o momento essas coleções compõem a base do Herbário da Universidade Estadual do Sudoeste da Bahia, cujo objetivo é servir como arquivo para a identificação das espécies vegetais de importância florestais, nativas e exóticas da zona de transição Mata Atlântica / Caatinga (Floresta Estacional). Atualmente o HUESB conta com o acervo de aproximadamente 8.700 exsicatas, estando 8661 devidamente informatizadas utilizando o Software Brahms.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HUESB</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Guadalupe</givenName>          <surName>Edilma Licona de Macedo</surName>
+    </individualName>
+<organizationName>Universidade Estadual do Sudoeste da Bahia (UESB)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. José Moreira Sobrinho s/n</deliveryPoint><city>Jequié</city><administrativeArea>Bahia</administrativeArea><postalCode>45206-190</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3528-9659</phone><electronicMailAddress>gmacedo_3@yahoo.com.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUESB</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:47:02Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HUESB">Edilma Licona de Macedo G (2021). HUESB - Herbário da Universidade Estadual do Sudoeste da Bahia. Version 1.71. Universidade Estadual do Sudoeste da Bahia. Occurrence dataset https://doi.org/10.15468/yipzhz accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=huesb</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

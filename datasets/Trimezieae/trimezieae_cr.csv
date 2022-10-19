@@ -1,0 +1,521 @@
+"id","institutioncode","collectioncode","catalognumber","gen_sp","subspecies","identifiedby","latitude","longitude","id_grid"
+594,"Universidade de São Paulo","ESA","120675","Pseudotrimezia_juncifolia",NA,"PN Oliveira",-19.24995,-43.54437,748
+772,"MPEG","HERBMG","MG218520","Pseudiris_speciosa",NA,"H Huaylla",-12.983333,-41.333333,352
+801,"MO","MO","101026311","Pseudotrimezia_striata",NA,"J Lovo",-18.31,-43.918611,708
+806,"JBRJ","RB","RB00722060","Pseudiris_speciosa",NA,"ASB Gil",-12.560013,-41.512255,312
+813,"JBRJ","RB","RB00576116","Trimezia_sincorana","sincorana","PN Oliveira",-12.945508,-41.53245,352
+829,"USP","SPF","227462","Pseudiris_speciosa",NA,"J Lovo",-13.392528,-41.232972,352
+830,"USP","SPF","227464","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.973889,-47.498611,382
+832,"USP","SPF","227459","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.943889,-47.493333,382
+833,"USP","SPF","227371","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.159167,-43.543889,668
+834,"USP","SPF","227458","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.973889,-47.499722,382
+843,"USP","SPF","227384","Pseudotrimezia_striata",NA,"J Lovo",-18.284167,-43.762778,708
+844,"USP","SPF","227373","Pseudotrimezia_cathartica",NA,"J Lovo",-15.823333,-48.698333,500
+987,"USP","SPF","227747","Trimezia_exillima",NA,"J Lovo",-18.420222,-43.462556,708
+991,"USP","SPF","227772","Pseudiris_speciosa",NA,"J Lovo",-13.392528,-41.232972,352
+992,"USP","SPF","227572","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.429889,-43.679306,708
+993,"USP","SPF","227526","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.279944,-46.521972,823
+994,"USP","SPF","227750","Pseudotrimezia_pauloi",NA,"J Lovo",-18.294972,-43.847,708
+995,"USP","SPF","227751","Pseudotrimezia_truncata",NA,"J Lovo",-18.256028,-43.808194,668
+997,"USP","SPF","227577","Pseudotrimezia_cathartica",NA,"J Lovo",-18.156722,-43.729306,668
+998,"USP","SPF","227746","Pseudotrimezia_sublateralis",NA,"J Lovo",-18.310028,-43.918528,708
+999,"USP","SPF","227556","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.267,-46.5475,823
+1001,"USP","SPF","227585","Pseudotrimezia_synandra",NA,"J Lovo",-18.598278,-43.873361,708
+1002,"USP","SPF","227576","Pseudotrimezia_cathartica",NA,"J Lovo",-18.127583,-43.730083,668
+1004,"USP","SPF","227586","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.58025,-43.878083,708
+1005,"USP","SPF","227579","Pseudotrimezia_truncata",NA,"J Lovo",-18.156361,-43.726083,668
+1007,"USP","SPF","227560","Pseudotrimezia_truncata",NA,"J Lovo",-18.429889,-43.679306,708
+1040,"USP","SPF","224218","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.006111,-43.755556,748
+1054,"NY","NY","910599","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.650647,-47.7923,501
+1063,"NY","NY","910624","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-20.1263,-43.492778,828
+1066,"NY","NY","910601","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.7834208090807,-47.9298726661488,501
+1069,"NY","NY","910451","Neomarica_glauca",NA,"NS Chukr",-18.53,-43.65,708
+1070,"NY","NY","910616","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-13.93593,-47.5167,382
+1077,"NY","NY","910645","Pseudotrimezia_truncata",NA,"NS Chukr",-19.391463,-43.567098,748
+1078,"NY","NY","910623","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-18.24,-43.601,668
+1081,"NY","NY","910608","Pseudotrimezia_juncifolia",NA,"NS Chukr",-16.01719,-48.0638,541
+1085,"NY","NY","679977","Trimezia_martinicensis",NA,"NS Chukr",-15.7834208090807,-47.9298726661488,501
+1091,"NY","NY","910646","Pseudotrimezia_truncata",NA,"NS Chukr",-18.43185,-43.392,708
+1097,"NY","NY","910596","Pseudotrimezia_juncifolia",NA,"NS Chukr",-13.9376,-47.5167,382
+1099,"NY","NY","910629","Pseudotrimezia_juncifolia",NA,"JE Henrich",-18.2531772779915,-43.6004898201051,668
+1104,"NY","NY","1145594","Trimezia_lutea",NA,"J Lovo",-18.84258,-43.75892,708
+1112,"NY","NY","910464","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.18,-43.55,668
+1120,"NY","NY","910466","Pseudotrimezia_cathartica",NA,"NS Chukr",-16.75,-47.62814,581
+1137,"NY","NY","910462","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.2531772779915,-43.6004898201051,668
+1147,"NY","NY","910461","Trimezia_exillima",NA,"NS Chukr",-18.2,-43.7,668
+1151,"NY","NY","910658","Trimezia_martinicensis",NA,"NS Chukr",-15.948311,-47.988069,541
+1159,"NY","NY","910459","Trimezia_exillima",NA,"PF Ravenna",-18.1838,-43.536667,668
+1170,"NY","NY","910593","Pseudotrimezia_juncifolia",NA,"NS Chukr",-13.98077,-47.5,382
+1173,"NY","NY","910598","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.7723416525899,-47.6137541731285,581
+1174,"NY","NY","910580","Pseudotrimezia_juncifolia",NA,"J Lovo",-15.7834208090807,-47.9298726661488,501
+1181,"NY","NY","910458","Trimezia_exillima",NA,"JE Henrich",-18.2531772779915,-43.6004898201051,668
+1184,"NY","NY","910437","Pseudotrimezia_recurvata",NA,"NS Chukr",-18.2531772779915,-43.6004898201051,668
+1206,"NY","NY","679984","Neomarica_imbricata",NA,"L Capellari Júnior",-18.43185,-43.391944,708
+1209,"NY","NY","910463","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.0833,-43.7833,668
+1215,"NY","NY","679985","Trimezia_martinicensis",NA,"NS Chukr",-16.5631441886376,-42.889540899897,589
+1233,"NY","NY","910592","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.84036,-47.6,581
+1235,"NY","NY","910440","Pseudotrimezia_planifolia",NA,"NS Chukr",-18.2531772779915,-43.6004898201051,668
+1265,"NY","NY","910595","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.7837417996846,-47.6504566236416,581
+1287,"NY","NY","910450","Neomarica_glauca",NA,"NS Chukr",-19.82237,-43.67613,788
+1305,"UFRGS","ICN","198436","Pseudotrimezia_truncata",NA,"J Lovo",-18.398611,-43.340556,709
+1375,"Jardim Botânico de Brasília","HEPH","19563","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.926389,-47.897778,541
+1393,"Jardim Botânico de Brasília","HEPH","877","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.568581,-47.590003,501
+1396,"Jardim Botânico de Brasília","HEPH","870","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.568581,-47.590003,501
+1418,"USP","SPF","219476","Trimezia_lutea",NA,"NS Chukr",-20.391833,-46.482917,823
+1419,"USP","SPF","219475","Pseudotrimezia_speciosa",NA,"NS Chukr",-20.391833,-46.482917,823
+1457,"W","Herbarium W","2003-0003032","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.25,-41.9,351
+1461,"JBRJ","RB","RB01371840","Pseudotrimezia_fulva",NA,"J Lovo",-18.455278,-43.448889,708
+1542,"USP","SPF","216295","Trimezia_lutea",NA,"J Lovo",-18.484972,-43.486417,708
+1642,"JBRJ","RB","RB00914338","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.937778,-47.445833,382
+1649,"JBRJ","RB","RB00855684","Pseudotrimezia_truncata",NA,"J Lovo",-18.156111,-43.725833,668
+1650,"JBRJ","RB","RB00855678","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.429722,-43.679167,708
+1652,"JBRJ","RB","RB00855661","Pseudotrimezia_pauloi",NA,"J Lovo",-18.165278,-43.700833,668
+1659,"JBRJ","RB","RB00810656","Pseudotrimezia_planifolia",NA,"J Lovo",-18.15,-43.716667,668
+1660,"JBRJ","RB","RB00810663","Pseudotrimezia_fulva",NA,"J Lovo",-18.15,-43.716667,668
+1663,"JBRJ","RB","RB00793424","Pseudotrimezia_cathartica",NA,"J Lovo",-18.156667,-43.729167,668
+1664,"JBRJ","RB","RB00793418","Pseudotrimezia_truncata",NA,"J Lovo",-18.156111,-43.725833,668
+1665,"JBRJ","RB","RB00793414","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.279722,-46.521944,823
+1666,"JBRJ","RB","RB00793416","Pseudotrimezia_cathartica",NA,"J Lovo",-18.1275,-43.73,668
+1671,"JBRJ","RB","RB00785326","Pseudotrimezia_truncata",NA,"J Lovo",-18.398611,-43.340555,709
+1675,"JBRJ","RB","RB00785330","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.937778,-47.445833,382
+1676,"JBRJ","RB","RB00785333","Pseudotrimezia_cathartica",NA,"PN Oliveira",-13.5325,-41.878889,391
+1686,"JBRJ","RB","RB00730399","Pseudotrimezia_cathartica",NA,"MV Dantas-Queiroz",-15.823333,-48.698333,500
+1693,"JBRJ","RB","RB00721624","Pseudotrimezia_juncifolia",NA,"ASB Gil",-18.3525,-43.542778,708
+1695,"JBRJ","RB","RB00721658","Trimezia_spathata",NA,"ASB Gil",-14.173889,-47.504722,422
+1696,"JBRJ","RB","RB00721601","Pseudotrimezia_truncata",NA,"ASB Gil",-16.857222,-43.026667,589
+1719,"JBRJ","RB","RB00720309","Pseudotrimezia_fulva",NA,"J Lovo",-18.180556,-43.618889,668
+1720,"JBRJ","RB","RB00720314","Pseudotrimezia_fulva",NA,"J Lovo",-18.268333,-43.703611,668
+1724,"JBRJ","RB","RB00706644","Pseudotrimezia_pauloi",NA,"J Lovo",-18.183333,-43.617778,668
+1726,"JBRJ","RB","RB00703135","Pseudotrimezia_cipoana",NA,"J Lovo",-18.258889,-43.712222,668
+1727,"JBRJ","RB","RB00703153","Pseudotrimezia_diamantinensis",NA,"J Lovo",-18.571944,-43.5925,708
+1728,"JBRJ","RB","RB00703141","Pseudotrimezia_cipoana",NA,"J Lovo",-18.425,-43.681667,708
+1729,"JBRJ","RB","RB00703165","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.285555,-43.571667,748
+1731,"JBRJ","RB","RB00703104","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.257778,-43.5575,748
+1733,"JBRJ","RB","RB00703161","Pseudotrimezia_cathartica","cristallicola","J Lovo",-19.257778,-43.5575,748
+1734,"JBRJ","RB","RB00703126","Pseudotrimezia_cipoana",NA,"J Lovo",-18.306111,-43.866667,708
+1736,"JBRJ","RB","RB00703114","Pseudotrimezia_cipoana",NA,"J Lovo",-18.294167,-43.734722,708
+1738,"JBRJ","RB","RB00703132","Pseudotrimezia_cipoana",NA,"J Lovo",-16.853611,-43.032778,589
+1739,"JBRJ","RB","RB00703100","Pseudotrimezia_fulva",NA,"J Lovo",-18.192222,-43.626944,668
+1740,"JBRJ","RB","RB00696384","Pseudotrimezia_elegans",NA,"J Lovo",-18.401111,-43.320278,709
+1741,"JBRJ","RB","RB00696402","Pseudotrimezia_cipoana",NA,"J Lovo",-19.295278,-43.571667,748
+1742,"JBRJ","RB","RB00696363","Pseudotrimezia_sublateralis",NA,"J Lovo",-18.269167,-43.704444,668
+1743,"JBRJ","RB","RB00696395","Pseudotrimezia_synandra",NA,"J Lovo",-18.598889,-43.885,708
+1745,"JBRJ","RB","RB00696380","Pseudotrimezia_recurvata",NA,"J Lovo",-18.266389,-43.7,668
+1746,"JBRJ","RB","RB00696292","Pseudotrimezia_sublateralis",NA,"J Lovo",-18.2925,-43.738889,708
+1747,"JBRJ","RB","RB00696217","Pseudotrimezia_barretoi",NA,"J Lovo",-18.343055,-43.680833,708
+1749,"JBRJ","RB","RB00695657","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.859444,-43.7575,708
+1751,"JBRJ","RB","RB00695645","Pseudotrimezia_cathartica",NA,"J Lovo",-18.634444,-43.682222,708
+1752,"JBRJ","RB","RB00695647","Pseudotrimezia_truncata",NA,"J Lovo",-18.423889,-43.681944,708
+1753,"JBRJ","RB","RB00695613","Pseudotrimezia_recurvata",NA,"J Lovo",-18.258889,-43.712222,668
+1755,"JBRJ","RB","RB00695621","Pseudotrimezia_barretoi",NA,"J Lovo",-18.343055,-43.680833,708
+1756,"JBRJ","RB","RB00695626","Pseudotrimezia_laevis",NA,"J Lovo",-17.699167,-44.275556,667
+1759,"JBRJ","RB","RB00695632","Pseudotrimezia_laevis",NA,"J Lovo",-18.606944,-43.9375,708
+1760,"JBRJ","RB","RB00695599","Pseudotrimezia_pauloi",NA,"J Lovo",-18.186667,-43.62,668
+1761,"JBRJ","RB","RB00695591","Pseudotrimezia_sublateralis",NA,"J Lovo",-18.284722,-43.722778,708
+1784,"JBRJ","RB","RB00659335","Pseudotrimezia_juncifolia",NA,"MV Dantas-Queiroz",-20.550278,-46.407778,823
+1812,"JBRJ","RB","RB00628368","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.951944,-47.893611,541
+1848,"JBRJ","RB","RB00628131","Trimezia_exillima",NA,"NS Chukr",-18.343055,-43.680833,708
+1855,"JBRJ","RB","RB00628129","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.15,-43.483333,748
+1911,"JBRJ","RB","RB00593958","Pseudotrimezia_juncifolia",NA,"MV Dantas-Queiroz",-15.926389,-47.897778,541
+1916,"JBRJ","RB","RB00585882","Pseudotrimezia_cipoana",NA,"NS Chukr",-18.338333,-43.548611,708
+1921,"JBRJ","RB","RB00585879","Pseudotrimezia_barretoi",NA,"NS Chukr",-18.343055,-43.680833,708
+1924,"JBRJ","RB","RB00585005","Pseudotrimezia_speciosa",NA,"NS Chukr",-20.383333,-46.483333,823
+1964,"JBRJ","RB","RB00515322","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.369722,-43.551389,708
+1986,"JBRJ","RB","RB01045882","Pseudotrimezia_nana",NA,"J Lovo",-18.6025,-43.881944,708
+1987,"JBRJ","RB","RB01045736","Pseudotrimezia_striata",NA,"J Lovo",-18.31,-43.918333,708
+2020,"UFRGS","ICN","187310","Pseudotrimezia_speciosa","speciosa","L Eggers",-20.225278,-46.453611,823
+2105,"UFG","UFG","46720","Trimezia_brevicaulis",NA,"J Lovo",-14.173889,-47.504722,422
+2409,"MO","MO","3036717","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.483333,-43.616667,828
+2434,"MO","MO","1207690","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.944167,-47.493889,382
+2440,"MO","MO","100880333","Pseudotrimezia_planifolia",NA,"J Lovo",-18.25,-43.666667,668
+2441,"MO","MO","100880325","Pseudotrimezia_pauloi",NA,"J Lovo",-18.25,-43.666667,668
+2442,"MO","MO","100880327","Pseudotrimezia_planifolia",NA,"J Lovo",-18.333333,-43.883333,708
+2443,"MO","MO","100880321","Pseudotrimezia_fulva",NA,"J Lovo",-18.166667,-43.833333,668
+2517,"UnB","UB","169891","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.656111,-47.725833,501
+2518,"UnB","UB","169896","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.541389,-48.043889,501
+2521,"UnB","UB","169893","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.657222,-47.721389,501
+2581,"UnB","UB","106752","Trimezia_connata",NA,"ASB Gil",-11.526667,-41.150556,232
+2582,"UnB","UB","105771","Pseudotrimezia_planifolia",NA,"J Lovo",-18.333333,-43.883333,708
+2589,"UnB","UB","102644","Pseudotrimezia_juncifolia",NA,"J Lovo",-15.951944,-47.893611,541
+2590,"UnB","UB","102651","Trimezia_lutea",NA,"J Lovo",-15.965,-47.898611,541
+2601,"UnB","UB","102648","Pseudotrimezia_juncifolia",NA,"J Lovo",-14.116667,-47.516667,422
+2985,"Cenargen","CEN","87607","Trimezia_martinicensis",NA,"EBA Dias",-15.916666,-48.016666,541
+2988,"Cenargen","CEN","82726","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.823333,-48.698333,500
+2997,"Cenargen","CEN","75186","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.880833,-47.855833,501
+2998,"Cenargen","CEN","75196","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.910833,-47.999722,541
+3047,"Cenargen","CEN","19544","Trimezia_spectabilis","spectabilis","MV Dantas-Queiroz",-14.133333,-47.45,422
+3070,"UEFS","HUEFS","186019","Pseudotrimezia_cathartica",NA,"PN Oliveira",-12.602222,-41.488333,312
+3072,"UEFS","HUEFS","185963","Pseudotrimezia_cathartica",NA,"PN Oliveira",-12.518056,-41.494167,312
+3105,"UEFS","HUEFS","134184","Pseudotrimezia_cathartica",NA,"PN Oliveira",-13.534444,-41.8775,391
+3106,"UEFS","HUEFS","133047","Pseudotrimezia_gracilis",NA,"H Huaylla",-19.096111,-43.686111,748
+3112,"UEFS","HUEFS","118153","Pseudotrimezia_cathartica",NA,"PN Oliveira",-12.463889,-41.457778,312
+3119,"UEFS","HUEFS","112843","Pseudiris_speciosa",NA,"H Huaylla",-12.730833,-41.509167,312
+3121,"UEFS","HUEFS","112534","Trimezia_brevicaulis",NA,"PN Oliveira",-12.75,-41.5,312
+3132,"UEFS","HUEFS","106706","Trimezia_brevicaulis",NA,"NS Chukr",-12.7,-41.516667,312
+3136,"UEFS","HUEFS","99553","Pseudotrimezia_cathartica",NA,"ASB Gil",-12.505,-41.495556,312
+3137,"UEFS","HUEFS","94670","Pseudiris_speciosa",NA,"ASB Gil",-12.730833,-41.509167,312
+3140,"UEFS","HUEFS","90545","Pseudotrimezia_juncifolia",NA,"ASB Gil",-15.796389,-48.830833,499
+3141,"UEFS","HUEFS","90544","Pseudotrimezia_cathartica",NA,"PN Oliveira",-15.796389,-48.830833,499
+3144,"UEFS","HUEFS","89064","Pseudiris_speciosa",NA,"H Huaylla",-12.983333,-41.333333,352
+3148,"UEFS","HUEFS","85219","Pseudiris_speciosa",NA,"ASB Gil",-13.077222,-41.375278,352
+3156,"UEFS","HUEFS","74255","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.388333,-41.890556,351
+3159,"UEFS","HUEFS","70748","Trimezia_sincorana","sincorana","PN Oliveira",-11.627778,-41.150556,232
+3162,"UEFS","HUEFS","68379","Pseudotrimezia_cathartica",NA,"ASB Gil",-12.85,-41.5,312
+3166,"UEFS","HUEFS","64346","Pseudotrimezia_planifolia",NA,"ASB Gil",-18.283333,-43.75,668
+3168,"UEFS","HUEFS","64349","Trimezia_brevicaulis",NA,"ASB Gil",-16.916667,-43.05,589
+3170,"UEFS","HUEFS","63401","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.120833,-41.826111,351
+3172,"UEFS","HUEFS","63262","Pseudotrimezia_cathartica",NA,"ASB Gil",-12.389444,-41.889722,311
+3175,"UEFS","HUEFS","59308","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.9,351
+3177,"UEFS","HUEFS","58796","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.916667,351
+3180,"UEFS","HUEFS","53507","Trimezia_martinicensis",NA,"PN Oliveira",-11.526667,-41.150556,232
+3181,"UEFS","HUEFS","53391","Trimezia_martinicensis",NA,"PN Oliveira",-11.5725,-41.180833,232
+3184,"UEFS","HUEFS","50797","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.9,351
+3185,"UEFS","HUEFS","50796","Pseudotrimezia_cathartica",NA,"PN Oliveira",-13.25,-41.9,351
+3186,"UEFS","HUEFS","50204","Trimezia_sincorana","sincorana","PN Oliveira",-12.956667,-41.319167,352
+3190,"UEFS","HUEFS","39649","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.4,-41.808333,351
+3192,"UEFS","HUEFS","36920","Trimezia_martinicensis",NA,"NS Chukr",-10.35,-41.216667,152
+3193,"UEFS","HUEFS","36703","Trimezia_martinicensis",NA,"PN Oliveira",-10.366667,-41.316667,152
+3197,"UEFS","HUEFS","32032","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.95,391
+3198,"UEFS","HUEFS","32033","Pseudotrimezia_juncifolia",NA,"ASB Gil",-19.3,-43.6,748
+3199,"UEFS","HUEFS","32034","Pseudotrimezia_juncifolia",NA,"ASB Gil",-19.3,-43.6,748
+3200,"UEFS","HUEFS","32037","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.9,391
+3201,"UEFS","HUEFS","32036","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.516667,-41.966667,391
+3265,"UFV","VIC","36290","Trimezia_lutea",NA,"J Lovo",-20.494944,-43.678361,828
+3266,"UFV","VIC","36288","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.482333,-43.718444,828
+3267,"UFV","VIC","36289","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.494389,-43.679083,828
+3383,"USP","SPF","212595","Pseudotrimezia_sublateralis",NA,"J Lovo",-18.313639,-43.551667,708
+3384,"USP","SPF","212578","Pseudotrimezia_pauloi",NA,"J Lovo",-18.157583,-43.728694,668
+3385,"USP","SPF","212596","Pseudotrimezia_fulva",NA,"J Lovo",-18.455306,-43.449,708
+3386,"USP","SPF","212593","Pseudotrimezia_laevis",NA,"J Lovo",-18.294972,-43.845694,708
+3387,"USP","SPF","212579","Pseudotrimezia_laevis",NA,"J Lovo",-18.156889,-43.725972,668
+3388,"USP","SPF","212574","Pseudotrimezia_cipoana",NA,"J Lovo",-18.455306,-43.449,708
+3391,"USP","SPF","212577","Pseudotrimezia_pauloi",NA,"NS Chukr",-18.156889,-43.725972,668
+3392,"USP","SPF","212576","Pseudotrimezia_fulva",NA,"J Lovo",-18.156917,-43.726694,668
+3394,"USP","SPF","212575","Pseudotrimezia_recurvata",NA,"J Lovo",-18.455306,-43.449,708
+3398,"USP","SPF","212528","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.310028,-43.918528,708
+3402,"USP","SPF","212524","Pseudotrimezia_synandra",NA,"J Lovo",-18.5995,-43.881778,708
+3406,"USP","SPF","212523","Pseudotrimezia_truncata",NA,"J Lovo",-18.353306,-43.5435,708
+3407,"USP","SPF","212507","Pseudotrimezia_cathartica",NA,"J Lovo",-18.234972,-43.684944,668
+3408,"USP","SPF","212511","Pseudotrimezia_pauloi",NA,"J Lovo",-18.165361,-43.700917,668
+3409,"USP","SPF","212501","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.429889,-43.679306,708
+3413,"USP","SPF","212492","Pseudotrimezia_laevis",NA,"J Lovo",-18.296333,-43.842222,708
+3414,"USP","SPF","212490","Pseudotrimezia_truncata",NA,"J Lovo",-18.156361,-43.726083,668
+3415,"USP","SPF","212475","Pseudotrimezia_cipoana",NA,"J Lovo",-18.477333,-43.457944,708
+3416,"USP","SPF","212476","Pseudotrimezia_truncata",NA,"J Lovo",-18.444861,-43.430056,708
+3417,"USP","SPF","212489","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.4735,-43.489722,708
+3419,"USP","SPF","211431","Pseudotrimezia_planifolia",NA,"NS Chukr",-18.307833,-43.893889,708
+3428,"USP","SPF","210256","Pseudotrimezia_juncifolia",NA,"J Lovo",-18.929142,-43.786547,748
+3433,"USP","SPF","209376","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.221389,-43.499167,748
+3434,"USP","SPF","209314","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.250833,-43.555,748
+3435,"USP","SPF","209052","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.938028,-47.446,382
+3436,"USP","SPF","209000","Pseudotrimezia_nana",NA,"J Lovo",-18.5995,-43.881778,708
+3437,"USP","SPF","208900","Pseudotrimezia_nana",NA,"J Lovo",-18.600528,-43.882083,708
+3440,"USP","SPF","208800","Pseudotrimezia_striata",NA,"J Lovo",-18.310028,-43.918528,708
+3441,"USP","SPF","208700","Pseudotrimezia_striata",NA,"J Lovo",-18.310028,-43.918528,708
+3442,"USP","SPF","208600","Pseudotrimezia_striata",NA,"J Lovo",-18.256028,-43.808194,668
+3444,"USP","SPF","197400","Pseudotrimezia_striata",NA,"J Lovo",-18.294972,-43.847,708
+3496,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","95803","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.9,351
+3497,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","95804","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.916667,351
+3504,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","93225","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.9,351
+3505,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","93223","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.25,-41.9,351
+3509,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","84351","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.5325,-41.878889,391
+3512,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","77948","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.389444,-41.889722,351
+3535,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49241","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.516667,-41.966667,391
+3536,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49232","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.516667,-41.966667,391
+3537,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49234","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.9,391
+3538,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49235","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.95,391
+3563,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","20073","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.916667,391
+3652,"UNICAMP","UEC","174632","Pseudotrimezia_cathartica",NA,"ASB Gil",-18.275833,-43.713056,668
+3657,"UNICAMP","UEC","174628","Pseudotrimezia_truncata",NA,"ASB Gil",-18.184472,-43.522389,668
+3661,"UNICAMP","UEC","174624","Pseudotrimezia_recurvata",NA,"ASB Gil",-18.275833,-43.713056,668
+3662,"UNICAMP","UEC","174616","Pseudotrimezia_cipoana",NA,"ASB Gil",-18.213333,-43.586667,668
+3704,"UNICAMP","UEC","169062","Pseudotrimezia_barretoi",NA,"ASB Gil",-18.260889,-43.674722,668
+3757,"UNICAMP","UEC","45989","Pseudotrimezia_truncata",NA,"ASB Gil",-16.583333,-42.9,589
+3759,"UNICAMP","UEC","45982","Pseudotrimezia_concava",NA,"NS Chukr",-16.6,-43.3,589
+3760,"UNICAMP","UEC","45983","Pseudotrimezia_tenuissima",NA,"NS Chukr",-16.6,-43.3,589
+3963,"UFOP","OUPR","21830","Pseudotrimezia_juncifolia",NA,"NS Chukr",-20.506056,-43.643056,828
+3999,"UnB","UB","10199","Pseudotrimezia_juncifolia",NA,"ASB Gil",-14.078611,-47.517778,382
+4019,"UnB","UB","6389","Pseudotrimezia_brevistamina",NA,"J Lovo",-18.333333,-43.883333,708
+4027,"UnB","UB","6387","Pseudotrimezia_planifolia",NA,"J Lovo",-18.25,-43.666667,668
+4029,"UnB","UB","6390","Pseudotrimezia_cipoana",NA,"J Lovo",-18.333333,-43.883333,708
+4032,"UnB","UB","6386","Pseudotrimezia_cathartica",NA,"ASB Gil",-18.25,-43.666667,668
+4076,"UnB","UB","6245","Pseudotrimezia_juncifolia",NA,"ASB Gil",-19.316667,-43.583333,748
+4094,"FZB-BH","BHZB","9866","Pseudotrimezia_truncata",NA,"ASB Gil",-19.049444,-43.709444,748
+4096,"FZB-BH","BHZB","9863","Pseudotrimezia_planifolia",NA,"ASB Gil",-19.033056,-43.717222,748
+4100,"FZB-BH","BHZB","8885","Pseudotrimezia_juncifolia","longifolia","ASB Gil",-19.045278,-43.703611,748
+4105,"FZB-BH","BHZB","5552","Trimezia_lutea",NA,"ASB Gil",-20.1,-43.983333,827
+4275,"Universidade Federal da Bahia","ALCB","112361","Pseudotrimezia_cathartica",NA,"PN Oliveira",-11.957778,-42.769722,269
+4296,"Universidade Federal da Bahia","ALCB","038982","Pseudotrimezia_cathartica",NA,"PN Oliveira",-13.383333,-41.883333,351
+4298,"Universidade Federal da Bahia","ALCB","038975","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.116667,-41.816667,351
+4338,"K","Herbarium","K000894397","Pseudiris_speciosa",NA,"ASB Gil",-12.46,-41.45,312
+4341,"K","Herbarium","K000894398","Pseudiris_speciosa",NA,"ASB Gil",-12.93,-41.33,352
+4525,"UFBA","ALCB","038975","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.116667,-41.816667,351
+4526,"UFBA","ALCB","038982","Pseudotrimezia_cathartica",NA,"PN Oliveira",-13.383333,-41.883333,351
+4527,"UFBA","ALCB","112361","Pseudotrimezia_cathartica",NA,"PN Oliveira",-11.957778,-42.769722,269
+4630,"CEPLAC","CEPEC","49232","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.516667,-41.966667,391
+4631,"CEPLAC","CEPEC","49234","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.9,391
+4632,"CEPLAC","CEPEC","49235","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.533333,-41.95,391
+4633,"CEPLAC","CEPEC","49241","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.516667,-41.966667,391
+4635,"CEPLAC","CEPEC","77948","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.389444,-41.889722,351
+4636,"CEPLAC","CEPEC","84351","Pseudotrimezia_cathartica",NA,"ASB Gil",-13.5325,-41.878889,391
+4973,"ESALQ","ESA","120675","Pseudotrimezia_juncifolia",NA,"PN Oliveira",-19.24995,-43.54437,748
+6416,"NY","NYBG","910450","Neomarica_glauca",NA,"NS Chukr",-19.82237,-43.67613,788
+6417,"NY","NYBG","910451","Neomarica_glauca",NA,"NS Chukr",-18.53,-43.65,708
+6425,"NY","NYBG","679984","Neomarica_imbricata",NA,"L Capellari Júnior",-18.43185,-43.3919444,708
+6457,"NY","NYBG","910440","Pseudotrimezia_planifolia",NA,"NS Chukr",-18.2494,-43.6003,668
+6460,"NY","NYBG","910437","Pseudotrimezia_recurvata",NA,"NS Chukr",-18.2494,-43.6003,668
+6473,"NY","NYBG","910462","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.2494,-43.6003,668
+6474,"NY","NYBG","910463","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.0833,-43.7833,668
+6475,"NY","NYBG","910464","Pseudotrimezia_cathartica",NA,"NS Chukr",-18.18,-43.55,668
+6477,"NY","NYBG","910466","Pseudotrimezia_cathartica",NA,"NS Chukr",-16.75,-47.62814,581
+6480,"NY","NYBG","910458","Trimezia_exillima",NA,"JE Henrich",-18.2494,-43.6003,668
+6481,"NY","NYBG","910459","Trimezia_exillima",NA,"PF Ravenna",-18.1838,-43.5366667,668
+6483,"NY","NYBG","910461","Trimezia_exillima",NA,"NS Chukr",-18.2,-43.7,668
+6510,"NY","NYBG","910580","Pseudotrimezia_juncifolia",NA,"J Lovo",-15.7797,-47.9294,501
+6517,"NY","NYBG","910588","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-14.03362,-47.60183,381
+6521,"NY","NYBG","910592","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.84036,-47.6,581
+6522,"NY","NYBG","910593","Pseudotrimezia_juncifolia",NA,"NS Chukr",-13.98077,-47.5,382
+6524,"NY","NYBG","910595","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.78,-47.65,581
+6525,"NY","NYBG","910596","Pseudotrimezia_juncifolia",NA,"NS Chukr",-13.9376,-47.5167,382
+6527,"NY","NYBG","910598","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-16.7686,-47.6133,581
+6528,"NY","NYBG","910599","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.65064739,-47.7923,501
+6530,"NY","NYBG","910601","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.7797,-47.9294,501
+6537,"NY","NYBG","910608","Pseudotrimezia_juncifolia",NA,"NS Chukr",-16.01719,-48.0638,541
+6545,"NY","NYBG","910616","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-13.93593,-47.5167,382
+6552,"NY","NYBG","910623","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-18.24,-43.601,668
+6553,"NY","NYBG","910624","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-20.1263,-43.4927778,828
+6558,"NY","NYBG","910629","Pseudotrimezia_juncifolia",NA,"JE Henrich",-18.2494,-43.6003,668
+6571,"NY","NYBG","910666","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.46379,-47.58674,501
+6574,"NY","NYBG","1145594","Trimezia_lutea",NA,"J Lovo",-18.84258,-43.75892,708
+6599,"NY","NYBG","679977","Trimezia_martinicensis",NA,"NS Chukr",-15.7797,-47.9294,501
+6600,"NY","NYBG","679985","Trimezia_martinicensis",NA,"NS Chukr",-16.5594,-42.8894,589
+6604,"NY","NYBG","910658","Trimezia_martinicensis",NA,"NS Chukr",-15.948311,-47.988069,541
+6621,"NY","NYBG","910642","Pseudotrimezia_truncata",NA,"PF Ravenna",-16.5648,-42.8943,589
+6624,"NY","NYBG","910645","Pseudotrimezia_truncata",NA,"NS Chukr",-19.391463,-43.567098,748
+6625,"NY","NYBG","910646","Pseudotrimezia_truncata",NA,"NS Chukr",-18.43185,-43.392,708
+6712,"UNEMAT","NX-FANEROGAMAS","19482","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.656111111,-47.725833333,501
+6717,"UNEMAT","NX-FANEROGAMAS","19479","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.910833333,-47.999722222,541
+6730,"JBB","HEPH","870","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.568581,-47.590003,501
+6731,"JBB","HEPH","877","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.568581,-47.590003,501
+6742,"JBB","HEPH","19563","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.926389,-47.897778,541
+7159,"MO","MOBOT","100880321","Pseudotrimezia_fulva",NA,"J Lovo",-18.1666667,-43.8333333,668
+7161,"MO","MOBOT","100880325","Pseudotrimezia_pauloi",NA,"J Lovo",-18.25,-43.6666667,668
+7162,"MO","MOBOT","100880327","Pseudotrimezia_planifolia",NA,"J Lovo",-18.3333333,-43.8833333,708
+7163,"MO","MOBOT","100880333","Pseudotrimezia_planifolia",NA,"J Lovo",-18.25,-43.6666667,668
+7165,"MO","MOBOT","101026311","Pseudotrimezia_striata",NA,"J Lovo",-18.31,-43.9186111,708
+7213,"MO","MOBOT","1207690","Pseudotrimezia_juncifolia",NA,"J Lovo",-13.9441666,-47.4938889,382
+7214,"MO","MOBOT","3036717","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.4833333,-43.6166667,828
+2257,"K","Herbarium","K001190101","Pseudotrimezia_fistulosa",NA,"ASB Gil",-19.18924536,-43.64555156,748
+429,"Universidade de São Paulo","ESA","89897","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+432,"Universidade de São Paulo","ESA","90529","Trimezia_lutea",NA,"ASB Gil",-14.18302262,-47.53516279,422
+436,"Universidade de São Paulo","ESA","8594","Pseudotrimezia_laevis",NA,"J Lovo",-17.99283125,-43.61023331,668
+440,"Universidade de São Paulo","ESA","82903","Pseudotrimezia_recurvata",NA,"ASB Gil",-17.99283125,-43.61023331,668
+442,"Universidade de São Paulo","ESA","82328","Pseudotrimezia_diamantinensis",NA,"J Lovo",-17.99283125,-43.61023331,668
+445,"Universidade de São Paulo","ESA","82927","Pseudotrimezia_truncata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+458,"Universidade de São Paulo","ESA","69425","Pseudotrimezia_juncifolia",NA,"PN Oliveira",-15.78111952,-47.79722597,501
+517,"Universidade de São Paulo","ESA","41538","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.90498217,-47.26662739,782
+519,"Universidade de São Paulo","ESA","39320","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+525,"Universidade de São Paulo","ESA","34553","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+529,"Universidade de São Paulo","ESA","33651","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+530,"Universidade de São Paulo","ESA","32548","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+536,"Universidade de São Paulo","ESA","30548","Pseudotrimezia_juncifolia",NA,"NS Chukr",-20.18751146,-46.51358296,823
+537,"Universidade de São Paulo","ESA","30553","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+538,"Universidade de São Paulo","ESA","30550","Pseudotrimezia_juncifolia",NA,"NS Chukr",-20.18751146,-46.51358296,823
+539,"Universidade de São Paulo","ESA","30551","Pseudotrimezia_juncifolia",NA,"NS Chukr",-20.18751146,-46.51358296,823
+549,"Universidade de São Paulo","ESA","22674","Trimezia_lutea",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+550,"Universidade de São Paulo","ESA","22684","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+554,"Universidade de São Paulo","ESA","22689","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+556,"Universidade de São Paulo","ESA","22691","Trimezia_lutea",NA,"ASB Gil",-20.18751146,-46.51358296,823
+557,"Universidade de São Paulo","ESA","22676","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+559,"Universidade de São Paulo","ESA","22679","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+560,"Universidade de São Paulo","ESA","22696","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+562,"Universidade de São Paulo","ESA","20603","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-19.18924536,-43.64555156,748
+563,"Universidade de São Paulo","ESA","22672","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+564,"Universidade de São Paulo","ESA","22678","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+565,"Universidade de São Paulo","ESA","22671","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+566,"Universidade de São Paulo","ESA","22690","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+569,"Universidade de São Paulo","ESA","20610","Pseudotrimezia_truncata",NA,"L Capellari Júnior",-19.18924536,-43.64555156,748
+572,"Universidade de São Paulo","ESA","22687","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+586,"Universidade de São Paulo","ESA","127067","Pseudotrimezia_juncifolia",NA,"PN Oliveira",-20.18751146,-46.51358296,823
+646,"Instituto de Botânica","SP","253572","Pseudotrimezia_juncifolia","longifolia","NS Chukr",-19.18924536,-43.64555156,748
+659,"Instituto de Botânica","SP","225018","Pseudotrimezia_gracilis",NA,"J Lovo",-19.18924536,-43.64555156,748
+666,"Instituto de Botânica","SP","209871","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+836,"USP","SPF","227390","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.18924536,-43.64555156,748
+838,"USP","SPF","227389","Pseudotrimezia_cipoana",NA,"J Lovo",-19.18924536,-43.64555156,748
+1389,"Jardim Botânico de Brasília","HEPH","6086","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+1390,"Jardim Botânico de Brasília","HEPH","6026","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+1394,"Jardim Botânico de Brasília","HEPH","1293","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+1395,"Jardim Botânico de Brasília","HEPH","1190","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+1427,"MN","R-TIPOS","199533","Pseudotrimezia_planifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+1453,"USP","SPF","42772","Pseudotrimezia_juncifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+1454,"USP","SPF","42361","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1662,"JBRJ","RB","RB00810523","Pseudotrimezia_pauloi",NA,"J Lovo",-17.99283125,-43.61023331,668
+1698,"JBRJ","RB","RB00721635","Pseudotrimezia_juncifolia",NA,"ASB Gil",-17.99283125,-43.61023331,668
+1725,"JBRJ","RB","RB00703164","Pseudotrimezia_diamantinensis",NA,"J Lovo",-17.99283125,-43.61023331,668
+1762,"JBRJ","RB","RB00695604","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.18751146,-46.51358296,823
+1764,"JBRJ","RB","RB00695596","Pseudotrimezia_sublateralis",NA,"J Lovo",-17.99283125,-43.61023331,668
+1778,"JBRJ","RB","RB00679926","Pseudotrimezia_recurvata",NA,"J Lovo",-17.99283125,-43.61023331,668
+1780,"JBRJ","RB","RB00675566","Pseudotrimezia_gracilis",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1792,"JBRJ","RB","RB00628430","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1800,"JBRJ","RB","RB00628437","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+1809,"JBRJ","RB","RB00628419","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+1826,"JBRJ","RB","RB00628384","Trimezia_sincorana","sincorana","NS Chukr",-12.42339943,-41.88215591,311
+1835,"JBRJ","RB","RB00628354","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+1836,"JBRJ","RB","RB00628349","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+1842,"JBRJ","RB","RB00628176","Pseudotrimezia_truncata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+1843,"JBRJ","RB","RB00628219","Pseudotrimezia_truncata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+1920,"JBRJ","RB","RB00585874","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+1947,"JBRJ","RB","RB00539099","Pseudotrimezia_recurvata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+2494,"MBM","MBM","18331","Pseudotrimezia_planifolia",NA,"J Lovo",-17.99283125,-43.61023331,668
+2519,"UnB","UB","169897","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+2541,"UnB","UB","122817","Pseudotrimezia_cathartica",NA,"NS Chukr",-15.78111952,-47.79722597,501
+2544,"UnB","UB","122828","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+2554,"UnB","UB","122833","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+2555,"UnB","UB","122824","Neomarica_caerulea",NA,"L Capellari Júnior",-15.78111952,-47.79722597,501
+2559,"UnB","UB","122840","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+2565,"UnB","UB","122825","Neomarica_caerulea",NA,"L Capellari Júnior",-15.78111952,-47.79722597,501
+2578,"UnB","UB","106754","Trimezia_brevicaulis",NA,"ASB Gil",-12.42339943,-41.88215591,311
+2584,"UnB","UB","105770","Pseudotrimezia_planifolia",NA,"J Lovo",-17.99283125,-43.61023331,668
+2586,"UnB","UB","102637","Pseudotrimezia_cathartica",NA,"NS Chukr",-15.78111952,-47.79722597,501
+2595,"UnB","UB","102624","Neomarica_caerulea",NA,"ASB Gil",-15.78111952,-47.79722597,501
+2597,"UnB","UB","102642","Pseudotrimezia_juncifolia",NA,"J Lovo",-15.78111952,-47.79722597,501
+2598,"UnB","UB","102638","Trimezia_martinicensis",NA,"NS Chukr",-15.78111952,-47.79722597,501
+2632,"USP","SPF","214800","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.18924536,-43.64555156,748
+2633,"USP","SPF","214801","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.18924536,-43.64555156,748
+2824,"MBM","MBM","267001","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+2831,"MBM","MBM","254439","Pseudotrimezia_cathartica",NA,"NS Chukr",-17.99283125,-43.61023331,668
+2832,"MBM","MBM","254440","Pseudotrimezia_truncata",NA,"NS Chukr",-19.18924536,-43.64555156,748
+2835,"MBM","MBM","254441","Pseudotrimezia_recurvata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+2854,"MBM","MBM","175917","Pseudotrimezia_truncata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+2870,"MBM","MBM","148466","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+2873,"MBM","MBM","140582","Trimezia_lutea",NA,"PF Ravenna",-14.18302262,-47.53516279,422
+2875,"MBM","MBM","140584","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+2887,"MBM","MBM","95021","Trimezia_sincorana","sincorana","NS Chukr",-13.05221426,-41.48395519,352
+2888,"MBM","MBM","95020","Trimezia_sincorana","sincorana","NS Chukr",-13.05221426,-41.48395519,352
+2892,"MBM","MBM","75964","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-14.18302262,-47.53516279,422
+2907,"MBM","MBM","28724","Trimezia_martinicensis",NA,"NS Chukr",-19.86821438,-43.6376582,788
+2916,"MBM","MBM","19226","Pseudotrimezia_cathartica",NA,"NS Chukr",-17.99283125,-43.61023331,668
+2921,"MBM","MBM","19231","Pseudotrimezia_juncifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+2987,"Cenargen","CEN","84815","Pseudotrimezia_cathartica",NA,"EBA Dias",-15.78111952,-47.79722597,501
+2999,"Cenargen","CEN","75139","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3001,"Cenargen","CEN","75144","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3002,"Cenargen","CEN","75138","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3003,"Cenargen","CEN","75150","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3007,"Cenargen","CEN","74880","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3008,"Cenargen","CEN","74849","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3015,"Cenargen","CEN","51026","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3016,"Cenargen","CEN","50971","Trimezia_lutea",NA,"MV Dantas-Queiroz",-14.18302262,-47.53516279,422
+3026,"Cenargen","CEN","39130","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3028,"Cenargen","CEN","37566","Pseudotrimezia_truncata",NA,"NS Chukr",-19.18924536,-43.64555156,748
+3031,"Cenargen","CEN","37216","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3032,"Cenargen","CEN","33420","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3035,"Cenargen","CEN","31786","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-14.18302262,-47.53516279,422
+3036,"Cenargen","CEN","31128","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3038,"Cenargen","CEN","29765","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3039,"Cenargen","CEN","26046","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3045,"Cenargen","CEN","20002","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+3059,"UEFS","HUEFS","204669","Pseudotrimezia_juncifolia",NA,"PN Oliveira",-15.78111952,-47.79722597,501
+3092,"UEFS","HUEFS","161326","Pseudiris_speciosa",NA,"H Huaylla",-13.05221426,-41.48395519,352
+3093,"UEFS","HUEFS","161328","Pseudiris_speciosa",NA,"H Huaylla",-13.05221426,-41.48395519,352
+3094,"UEFS","HUEFS","161327","Pseudiris_speciosa",NA,"H Huaylla",-13.05221426,-41.48395519,352
+3167,"UEFS","HUEFS","64347","Pseudotrimezia_truncata",NA,"ASB Gil",-19.18924536,-43.64555156,748
+3182,"UEFS","HUEFS","52210","Pseudiris_speciosa",NA,"ASB Gil",-13.05221426,-41.48395519,352
+3208,"UEFS","HUEFS","15273","Trimezia_sincorana","sincorana","PN Oliveira",-12.42339943,-41.88215591,311
+3339,"UFU","HUFU","9847","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3342,"UFU","HUFU","8762","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-19.90498217,-47.26662739,782
+3343,"UFU","HUFU","8531","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3344,"UFU","HUFU","8313","Trimezia_lutea",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3345,"UFU","HUFU","8272","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3347,"UFU","HUFU","7409","Trimezia_lutea",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3348,"UFU","HUFU","7170","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3349,"UFU","HUFU","7009","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3350,"UFU","HUFU","6955","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3351,"UFU","HUFU","6686","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3353,"UFU","HUFU","5605","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3354,"UFU","HUFU","5211","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3355,"UFU","HUFU","5088","Pseudotrimezia_juncifolia",NA,"L Capellari Júnior",-20.18751146,-46.51358296,823
+3356,"UFU","HUFU","1254","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+3368,"UFG","UFG","7466","Pseudotrimezia_juncifolia",NA,"NS Chukr",-14.18302262,-47.53516279,422
+3431,"USP","SPF","209453","Pseudotrimezia_gracilis",NA,"J Lovo",-19.18924536,-43.64555156,748
+3448,"USP","SPF","96287","Pseudotrimezia_pauloi",NA,"NS Chukr",-17.99283125,-43.61023331,668
+3449,"USP","SPF","75230","Pseudotrimezia_brevistamina",NA,"NS Chukr",-19.18924536,-43.64555156,748
+3493,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","96938","Pseudotrimezia_recurvata",NA,"NS Chukr",-17.99283125,-43.61023331,668
+3494,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","96936","Pseudotrimezia_truncata",NA,"NS Chukr",-19.18924536,-43.64555156,748
+3523,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","63491","Pseudotrimezia_juncifolia",NA,"ASB Gil",-15.78111952,-47.79722597,501
+3525,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","60312","Trimezia_sincorana","sincorana","PN Oliveira",-12.42339943,-41.88215591,311
+3539,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46879","Trimezia_caulosa",NA,"ASB Gil",-13.05221426,-41.48395519,352
+3620,"Universidade Federal do Ceará","EAC","9285","Pseudotrimezia_juncifolia",NA,"ASB Gil",-15.78111952,-47.79722597,501
+3621,"Universidade Federal do Ceará","EAC","9286","Trimezia_lutea",NA,"ASB Gil",-15.78111952,-47.79722597,501
+3645,"UNICAMP","UEC","174643","Pseudotrimezia_planifolia",NA,"ASB Gil",-17.99283125,-43.61023331,668
+3650,"UNICAMP","UEC","174617","Pseudotrimezia_juncifolia",NA,"ASB Gil",-17.99283125,-43.61023331,668
+3667,"UNICAMP","UEC","170232","Pseudiris_speciosa",NA,"ASB Gil",-13.05221426,-41.48395519,352
+3727,"UNICAMP","UEC","120500","Pseudotrimezia_juncifolia",NA,"ASB Gil",-12.42339943,-41.88215591,311
+3731,"UNICAMP","UEC","112183","Trimezia_sincorana","sincorana","PN Oliveira",-13.37871216,-41.34499971,352
+3756,"UNICAMP","UEC","46705","Pseudotrimezia_juncifolia",NA,"ASB Gil",-19.18924536,-43.64555156,748
+3758,"UNICAMP","UEC","45984","Pseudotrimezia_planifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+3770,"UNICAMP","UEC","29947","Pseudotrimezia_juncifolia",NA,"ASB Gil",-19.18924536,-43.64555156,748
+3794,"UNICAMP","UEC","17240","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+3977,"UFOP","OUPR","13534","Neomarica_caerulea",NA,"ASB Gil",-20.39135163,-43.61077319,828
+3982,"UFOP","OUPR","13533","Neomarica_glauca",NA,"ASB Gil",-20.39135163,-43.61077319,828
+3984,"UFOP","OUPR","11512","Pseudotrimezia_recurvata",NA,"J Lovo",-17.99283125,-43.61023331,668
+3985,"UFOP","OUPR","10774","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.39135163,-43.61077319,828
+3986,"UFOP","OUPR","9219","Pseudotrimezia_juncifolia",NA,"J Lovo",-20.39135163,-43.61077319,828
+4002,"UnB","UB","6528","Pseudotrimezia_cathartica",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4003,"UnB","UB","6527","Trimezia_martinicensis",NA,"MV Dantas-Queiroz",-15.78111952,-47.79722597,501
+4005,"UnB","UB","6519","Pseudotrimezia_cathartica",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4006,"UnB","UB","6533","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4007,"UnB","UB","6520","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+4008,"UnB","UB","6529","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4009,"UnB","UB","6522","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4012,"UnB","UB","6521","Pseudotrimezia_juncifolia",NA,"MV Dantas-Queiroz",-15.78111952,-47.79722597,501
+4014,"UnB","UB","6532","Trimezia_lutea",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4015,"UnB","UB","6524","Trimezia_martinicensis",NA,"L Capellari Júnior",-15.78111952,-47.79722597,501
+4017,"UnB","UB","6523","Pseudotrimezia_juncifolia",NA,"NS Chukr",-15.78111952,-47.79722597,501
+4018,"UnB","UB","6418","Neomarica_caerulea",NA,"JE Henrich",-15.78111952,-47.79722597,501
+4020,"UnB","UB","6385","Pseudotrimezia_juncifolia",NA,"ASB Gil",-14.18302262,-47.53516279,422
+4042,"UnB","UB","6280","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+4043,"UnB","UB","6260","Pseudotrimezia_juncifolia",NA,"MV Dantas-Queiroz",-15.78111952,-47.79722597,501
+4045,"UnB","UB","6272","Trimezia_spectabilis","spectabilis","L Capellari Júnior",-14.18302262,-47.53516279,422
+4053,"UnB","UB","6253","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-14.18302262,-47.53516279,422
+4056,"UnB","UB","6256","Pseudotrimezia_juncifolia",NA,"JE Henrich",-15.78111952,-47.79722597,501
+4061,"UnB","UB","6266","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+4072,"UnB","UB","6264","Pseudotrimezia_juncifolia",NA,"JE Henrich",-15.78111952,-47.79722597,501
+4073,"UnB","UB","6262","Pseudotrimezia_juncifolia",NA,"EBA Dias",-15.78111952,-47.79722597,501
+4080,"UnB","UB","6063","Neomarica_glauca",NA,"ASB Gil",-20.39135163,-43.61077319,828
+4092,"FZB-BH","BHZB","9868","Pseudotrimezia_cipoana",NA,"ASB Gil",-19.18924536,-43.64555156,748
+4176,"UFPR","UPCB","9313","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+4203,"IPA","IPA","54114","Trimezia_sincorana","sincorana","NS Chukr",-12.42339943,-41.88215591,311
+133,"Cenargen","CEN","110940","Trimezia_lutea",NA,"EBA Dias",-15.78111952,-47.79722597,501
+807,"JBRJ","RB","RB00793422","Trimezia_sincorana","sincorana","PN Oliveira",-13.05221426,-41.48395519,352
+2338,"MO","MO","3040290","Pseudotrimezia_truncata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+2343,"MO","MO","3040073","Pseudotrimezia_truncata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+2354,"MO","MO","3039296","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+2361,"MO","MO","3038972","Trimezia_martinicensis",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+2414,"MO","MO","3036395","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+2435,"MO","MO","100880361","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.18924536,-43.64555156,748
+2550,"UnB","UB","122858","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.89207611,-43.49598526,788
+2576,"UnB","UB","106766","Neomarica_glauca",NA,"ASB Gil",-19.89207611,-43.49598526,788
+2592,"UnB","UB","102645","Pseudotrimezia_juncifolia",NA,"J Lovo",-15.78111952,-47.79722597,501
+2836,"MBM","MBM","254443","Pseudotrimezia_planifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+3766,"UNICAMP","UEC","40245","Pseudotrimezia_recurvata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+4021,"UnB","UB","6372","Pseudotrimezia_juncifolia",NA,"ASB Gil",-17.99283125,-43.61023331,668
+4040,"UnB","UB","6367","Trimezia_martinicensis",NA,"L Capellari Júnior",-15.78111952,-47.79722597,501
+4346,"K","Herbarium","K000322458","Pseudotrimezia_planifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+5881,"EAO","IAN","129374","Pseudotrimezia_juncifolia",NA,"ASB Gil",-15.78111952,-47.79722597,501
+5883,"EAO","IAN","129677","Pseudotrimezia_juncifolia",NA,"ASB Gil",-15.78111952,-47.79722597,501
+5908,"EAO","IAN","15413","Trimezia_sincorana",NA,"ASB Gil",-13.05221426,-41.48395519,352
+7167,"MO","MOBOT","3038972","Trimezia_martinicensis",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+7176,"MO","MOBOT","3036395","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+7195,"MO","MOBOT","3039296","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-15.78111952,-47.79722597,501
+7211,"MO","MOBOT","100880361","Pseudotrimezia_juncifolia",NA,"J Lovo",-19.18924536,-43.64555156,748
+7259,"MO","MOBOT","3040073","Pseudotrimezia_truncata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+7260,"MO","MOBOT","3040290","Pseudotrimezia_truncata",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+5253,"UnB","UB",NA,"Neomarica_glauca",NA,"ASB Gil",-19.89207611,-43.49598526,788
+5453,"UnB","UB",NA,"Pseudotrimezia_juncifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+5456,"UnB","UB",NA,"Pseudotrimezia_juncifolia",NA,"NS Chukr",-17.99283125,-43.61023331,668
+1702,"JBRJ","RB","RB00721593","Trimezia_exillima",NA,"PF Ravenna",-17.99283125,-43.61023331,668
+1816,"JBRJ","RB","RB00628341","Pseudotrimezia_juncifolia",NA,"PF Ravenna",-19.85162379,-43.77954792,788
+1825,"JBRJ","RB","RB00628337","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1832,"JBRJ","RB","RB00628319","Pseudotrimezia_juncifolia",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1894,"JBRJ","RB","RB00627552","Neomarica_caerulea",NA,"NS Chukr",-19.18924536,-43.64555156,748
+1914,"JBRJ","RB","RB00585876","Pseudotrimezia_cathartica",NA,"ASB Gil",-17.99283125,-43.61023331,668

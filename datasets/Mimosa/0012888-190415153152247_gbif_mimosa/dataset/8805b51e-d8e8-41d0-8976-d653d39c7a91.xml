@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8805b51e-d8e8-41d0-8976-d653d39c7a91"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/09xiam</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr726</alternateIdentifier>
+        <alternateIdentifier>6fc770e9-7940-300c-979b-5fb2d8a7e40a</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr726</alternateIdentifier>
+        <alternateIdentifier>8805b51e-d8e8-41d0-8976-d653d39c7a91</alternateIdentifier>
+        <alternateIdentifier>c2f8775d-f9fd-3f7c-9d27-1bfc80d74d17</alternateIdentifier>
+        <alternateIdentifier>d6e93b39-f47b-3d6f-8525-790c9893bba7</alternateIdentifier>
+    <title>PlantBank Records</title>
+    <creator>
+<organizationName>Australian Seedbank Partnership</organizationName><onlineUrl>http://asbp.ala.org.au/</onlineUrl>    </creator>
+    <creator>
+<organizationName>PlantBank</organizationName>    <address>
+<deliveryPoint>The Mount Annan Botanic Garden, Mount Annan Drive</deliveryPoint><city>Mount Annan</city><administrativeArea>NSW</administrativeArea><postalCode>2567</postalCode>    </address>
+<phone>02 4634 7900</phone><onlineUrl>http://www.rbgsyd.nsw.gov.au/annan/plantbank</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Australian Seedbank Partnership</organizationName><onlineUrl>http://asbp.ala.org.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records of Plantbank, a secure seed repository and research facility for Australian plant species. 
+
+Located at the Australian Botanic Garden, Mount Annan, NSW, PlantBank is a secure seed repository and research facility for Australian plant species. There are currently almost 10,000 seed collections held from across Australia, representing over 4500 species. The primary focus of the seed collections is NSW species, which support living collection development across the RBG sites, as well as seed for research projects and restoration of native plant communities. The current seed program and collections were established in the mid 1980&amp;#39;s and include major collections of Eucalyptus, Acacia, Fabaceae, Myrtaceae, Proteaceae and Asteraceae.
+
+PlantBank actively contributes to recovery actions for threatened species, and is the leading facility for the ex situ conservation of NSW threatened species.
+
+Current areas of seed research include:
+
+- Rainforest seed biology and storage
+
+- Terrestrial orchids
+
+- Seed dormancy
+
+- Restoration ecology</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr726</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Chris</givenName>          <surName>Ward</surName>
+    </individualName>
+<positionName>editor</positionName>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:09Z</dateStamp>
+      <citation>The Royal Botanic Gardens &amp; Domain Trust (2018). PlantBank Records. Occurrence dataset https://doi.org/10.15468/09xiam accessed via GBIF.org on 2019-05-14.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/seedbank_logo_0.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

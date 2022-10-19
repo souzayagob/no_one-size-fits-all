@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ef0ff88d-96e2-4716-886d-8e821e33125e"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/cgk3tq</alternateIdentifier>
+        <alternateIdentifier>http://ipt.inpa.gov.br/resource.do?r=rdsuarbustos</alternateIdentifier>
+        <alternateIdentifier>ef0ff88d-96e2-4716-886d-8e821e33125e</alternateIdentifier>
+    <title>Levantamento do estrato arbustivo da vegetação de campina do RDS Uatumã</title>
+    <creator>
+    <individualName>
+<givenName>Yuri</givenName>          <surName>Oliveira Feitosa</surName>
+    </individualName>
+<organizationName>Instituto de Pesquisa da Amazônia</organizationName><positionName>Bolsista PCI</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>Fernandez Piedade</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisa da Amazônia</organizationName><positionName>Coordenadora PELD-MAUA</positionName>    <address>
+<country>BRAZIL</country>    </address>
+<electronicMailAddress>maua.manaus@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>Fernandez Piedade</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisa da Amazônia</organizationName><positionName>Coordenadora PELD-MAUA</positionName>    <address>
+<country>BRAZIL</country>    </address>
+<electronicMailAddress>maua.manaus@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2015-09-11
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>Inventário Florístico realizado pelo Grupo de Ecologia, Monitoramento e Uso Sustentável de Áreas Úmidas (MAUA) no âmbito do projeto PELD-MAUA em 6 parcelas permanentes de 1 ha na floresta de Campina do Jaú de 24 do 10 de 2013 até 21 do 02 de 2014.Neste inventário foram amostrados todos o indivíduos arboreos com DAP &amp;lt; 10 cm.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>scrubs</keyword>
+              <keyword>campina</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://peld-maua.inpa.gov.br/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>A área focal do projeto compreende a fitofisionomia de campina</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-59.09</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-58.99</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-2.12</northBoundingCoordinate>
+                      <southBoundingCoordinate>-2.22</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Yuri</givenName>          <surName>Oliveira Feitosa</surName>
+    </individualName>
+<organizationName>Instituto de Pesquisa da Amazônia</organizationName><positionName>Bolsista PCI</positionName>    <address>
+<country>BRAZIL</country>    </address>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Os dados primeiramente foram anotados no campo, posteriormente planilhados no programa excel, o nome das espécies foram chegados no site da Flora do Brasil: http://floradobrasil.jbrj.gov.br/jabot/listaBrasil/PrincipalUC/PrincipalUC.do?lingua=pt</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Reserva de desenvolvimento sustentável do Uatatumã</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>As amostras constituem o inventário de todos os indivíduos arbóreos com DAP &lt; 10 cm presentes na parcelas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Os indivíduos amostrados foram primeiramente identificados em campo por um parataxonomo e posteriormente as identificações foram confirmadas por consulta ao herbários do INPA</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Monitoramento e modelagem de dois grandes ecossistemas de áreas úmidas amazônicas em cenários de mudanças climáticas</title>
+          <personnel>
+    <individualName>
+<givenName>Maria Teresa</givenName>          <surName>Fernadez Piedade</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>MCTI/CNPq/FAPs no 34/2012 – Programa de Pesquisa Ecológica de Longa Duração - PELD</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Floresta de campina da Reserva de desenvolvimento sustentável do Uatumã</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>A área de estudo compreendeu 6 parcelas de 1 ha distribuídas a 1 km de distancia uma da outra.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:06Z</dateStamp>
+      <citation>Oliveira Feitosa Y, Fernandez Piedade M T (2015). Levantamento do estrato arbustivo da vegetação de campina do RDS Uatumã. Instituto Nacional de Pesquisas da Amazônia - INPA. Occurrence dataset https://doi.org/10.15468/cgk3tq accessed via GBIF.org on 2021-01-15.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>Not applicable</collectionIdentifier>
+                <collectionName>Levantamento do estrato arbustivo da campina da Reserva de desenvolvimento sustentável do Uatumã</collectionName>
+              </collection>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

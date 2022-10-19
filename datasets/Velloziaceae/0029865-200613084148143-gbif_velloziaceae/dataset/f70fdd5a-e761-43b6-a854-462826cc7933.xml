@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f70fdd5a-e761-43b6-a854-462826cc7933"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/rdtyfv</alternateIdentifier>
+        <alternateIdentifier>f70fdd5a-e761-43b6-a854-462826cc7933</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=sjrp</alternateIdentifier>
+    <title>SJRP - Herbário de São José do Rio Preto</title>
+    <creator>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Sampaio</surName>
+    </individualName>
+<organizationName>Instituto de Biociências, Letras e Ciências Exatas - Universidade Estadual Paulista - Campus de São José do Rio Preto (UNESP-IBILCE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Cristóvão Colombo, 2265, Jardim Nazareth</deliveryPoint><city>São José do Rio Preto</city><administrativeArea>São Paulo</administrativeArea><postalCode>15054-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 17 3221-2752</phone><electronicMailAddress>dsampaio@ibilce.unesp.br</electronicMailAddress><onlineUrl>http://www.ibilce.unesp.br/#!/departamentos/zoologia-e-botanica/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Sampaio</surName>
+    </individualName>
+<organizationName>Instituto de Biociências, Letras e Ciências Exatas - Universidade Estadual Paulista - Campus de São José do Rio Preto (UNESP-IBILCE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Cristóvão Colombo, 2265, Jardim Nazareth</deliveryPoint><city>São José do Rio Preto</city><administrativeArea>São Paulo</administrativeArea><postalCode>15054-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 17 3221-2752</phone><electronicMailAddress>dsampaio@ibilce.unesp.br</electronicMailAddress><onlineUrl>http://www.ibilce.unesp.br/#!/departamentos/zoologia-e-botanica/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-12
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário SJRP foi formalmente instituído em 1977, tomando impulso na década de 80, entretanto, possui muitos registros datados de 1961. Com aproximadamente 5.000 exemplares, obteve registro internacional através da sigla SJRP. Atualmente, o SJRP está instalado em uma área de 200 m2 adequada aos padrões internacionais de conservação do material herborizado próprio e de intercâmbio. Considerado de porte médio, possui um acervo de aproximadamente 32.000 espécimes e destaca-se por manter uma das maiores coleções de pteridófitas do Brasil. Possui também uma relevante coleção de Orchidaceae. A sua importância internacional dá-se também pela presença de 12 tipos nomenclaturais em sua coleção.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=SJRP</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Sampaio</surName>
+    </individualName>
+<organizationName>Instituto de Biociências, Letras e Ciências Exatas - Universidade Estadual Paulista - Campus de São José do Rio Preto (UNESP-IBILCE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Cristóvão Colombo, 2265, Jardim Nazareth</deliveryPoint><city>São José do Rio Preto</city><administrativeArea>São Paulo</administrativeArea><postalCode>15054-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 17 3221-2752</phone><electronicMailAddress>dsampaio@ibilce.unesp.br</electronicMailAddress><onlineUrl>http://www.ibilce.unesp.br/#!/departamentos/zoologia-e-botanica/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:24:03Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=SJRP">Sampaio D (2020). SJRP - Herbário de São José do Rio Preto. Version 1.66. Universidade Estadual Paulista - São José do Rio Preto. Occurrence dataset https://doi.org/10.15468/rdtyfv accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=sjrp</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

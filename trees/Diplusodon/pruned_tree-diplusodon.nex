@@ -1,0 +1,143 @@
+#NEXUS
+[R-package APE, Thu Oct  1 12:43:44 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 65;
+	TAXLABELS
+		Diplusodon_ulei
+		Diplusodon_villosissimus
+		Diplusodon_villosus
+		Diplusodon_incanus
+		Diplusodon_hatschbachii
+		Diplusodon_pygmaeus
+		Diplusodon_ciliatiflorus
+		Diplusodon_alatus
+		Diplusodon_panniculatus
+		Diplusodon_hirsutus
+		Diplusodon_aggregatifolius
+		Diplusodon_microphyllus
+		Diplusodon_subsericeus
+		Diplusodon_rupestris
+		Diplusodon_vidalii
+		Diplusodon_helianthemifolius
+		Diplusodon_quintuplinervius
+		Diplusodon_buxifolius
+		Diplusodon_epilobioides
+		Diplusodon_ovatus
+		Diplusodon_sessiliflorus
+		Diplusodon_macrodon
+		Diplusodon_bolivianus
+		Diplusodon_sordidus
+		Diplusodon_parvifolius
+		Diplusodon_argyrophyllus
+		Diplusodon_bahiensis
+		Diplusodon_hexander
+		Diplusodon_glaucescens
+		Diplusodon_rotundifolius
+		Diplusodon_orbicularis
+		Diplusodon_candollei
+		Diplusodon_minasensis
+		Diplusodon_glaziovii
+		Diplusodon_mononeuros
+		Diplusodon_uninervius
+		Diplusodon_puberulus
+		Diplusodon_glocimarii
+		Diplusodon_kielmeyeroides
+		Diplusodon_oblongus
+		Diplusodon_plumbeus
+		Diplusodon_ericoides
+		Diplusodon_sigillatus
+		Diplusodon_strigosus
+		Diplusodon_chapadensis
+		Diplusodon_ramosissimus
+		Diplusodon_micromerus
+		Diplusodon_paraisoensis
+		Diplusodon_lanceolatus
+		Diplusodon_rosmarinifolius
+		Diplusodon_capitalensis
+		Diplusodon_adpressipilus
+		Diplusodon_fastigiatus
+		Diplusodon_marginatus
+		Diplusodon_heringeri
+		Diplusodon_burchellii
+		Diplusodon_decussatus
+		Diplusodon_cordifolius
+		Diplusodon_argenteus
+		Diplusodon_thymifolius
+		Diplusodon_appendiculosus
+		Diplusodon_astictus
+		Diplusodon_virgatus
+		Diplusodon_bradei
+		Diplusodon_nitidus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Diplusodon_ulei,
+		2	Diplusodon_villosissimus,
+		3	Diplusodon_villosus,
+		4	Diplusodon_incanus,
+		5	Diplusodon_hatschbachii,
+		6	Diplusodon_pygmaeus,
+		7	Diplusodon_ciliatiflorus,
+		8	Diplusodon_alatus,
+		9	Diplusodon_panniculatus,
+		10	Diplusodon_hirsutus,
+		11	Diplusodon_aggregatifolius,
+		12	Diplusodon_microphyllus,
+		13	Diplusodon_subsericeus,
+		14	Diplusodon_rupestris,
+		15	Diplusodon_vidalii,
+		16	Diplusodon_helianthemifolius,
+		17	Diplusodon_quintuplinervius,
+		18	Diplusodon_buxifolius,
+		19	Diplusodon_epilobioides,
+		20	Diplusodon_ovatus,
+		21	Diplusodon_sessiliflorus,
+		22	Diplusodon_macrodon,
+		23	Diplusodon_bolivianus,
+		24	Diplusodon_sordidus,
+		25	Diplusodon_parvifolius,
+		26	Diplusodon_argyrophyllus,
+		27	Diplusodon_bahiensis,
+		28	Diplusodon_hexander,
+		29	Diplusodon_glaucescens,
+		30	Diplusodon_rotundifolius,
+		31	Diplusodon_orbicularis,
+		32	Diplusodon_candollei,
+		33	Diplusodon_minasensis,
+		34	Diplusodon_glaziovii,
+		35	Diplusodon_mononeuros,
+		36	Diplusodon_uninervius,
+		37	Diplusodon_puberulus,
+		38	Diplusodon_glocimarii,
+		39	Diplusodon_kielmeyeroides,
+		40	Diplusodon_oblongus,
+		41	Diplusodon_plumbeus,
+		42	Diplusodon_ericoides,
+		43	Diplusodon_sigillatus,
+		44	Diplusodon_strigosus,
+		45	Diplusodon_chapadensis,
+		46	Diplusodon_ramosissimus,
+		47	Diplusodon_micromerus,
+		48	Diplusodon_paraisoensis,
+		49	Diplusodon_lanceolatus,
+		50	Diplusodon_rosmarinifolius,
+		51	Diplusodon_capitalensis,
+		52	Diplusodon_adpressipilus,
+		53	Diplusodon_fastigiatus,
+		54	Diplusodon_marginatus,
+		55	Diplusodon_heringeri,
+		56	Diplusodon_burchellii,
+		57	Diplusodon_decussatus,
+		58	Diplusodon_cordifolius,
+		59	Diplusodon_argenteus,
+		60	Diplusodon_thymifolius,
+		61	Diplusodon_appendiculosus,
+		62	Diplusodon_astictus,
+		63	Diplusodon_virgatus,
+		64	Diplusodon_bradei,
+		65	Diplusodon_nitidus
+	;
+	TREE * UNTITLED = [&R] (((((((((((((1:0.002067516448,2:0.002067516448):0.003329552466,3:0.005397068914):0.00185410456,4:0.007251173473):0.003441840478,(5:0.002960364776,6:0.002960364776):0.007732649174):0.005445370298,(7:0.01447809985,8:0.01447809985):0.0016602844):0.004956331291,((((9:0.007370306837,10:0.007370306837):0.001154950907,11:0.008525257741):0.002269309971,(12:0.003682405044,13:0.003682405044):0.007112162668):0.002930430186,(14:0.01003411175,15:0.01003411175):0.003690886155):0.007369717635):0.002000338341,((((16:0.0125223335,17:0.01252233349):0.00110448478,(18:0.003875215225,19:0.003875215225):0.009751603052):0.0005061112002,(20:0.006217552991,21:0.006217552991):0.007915376483):0.003132420543,22:0.01726535002):0.005829703861):0.001310567867,23:0.02440562174):0.004506864282,24:0.02891248603):0.005787100198,((25:0.001487678473,26:0.001487678473):0.008002077609,27:0.009489756083):0.02520983015):0.0129460001,(((((((28:0.007508428293,29:0.007508428293):0.0006823608698,30:0.008190789165):0.002600221775,31:0.01079101094):0.006749823988,32:0.01754083493):0.001125083944,(33:0.01701452376,34:0.01701452376):0.001651395113):0.01086603198,((35:0.005649037188,36:0.005649037188):0.008127729997,37:0.01377676718):0.01575518366):0.009140348459,38:0.03867229931):0.008973287018):0.002114734042,(((((((((((39:0.004064085905,40:0.004064085905):0.0008435241184,41:0.004907610023):0.001155365316,42:0.006062975338):0.0008922121435,43:0.006955187484):0.001897086589,44:0.008852274072):0.004020345629,(((45:0.005758421054,46:0.005758421054):0.0008256932406,47:0.006584114297):0.0004870552075,48:0.007071169505):0.005801450196):0.004527942746,(((49:0.004206147122,50:0.004206147122):0.0009947384294,51:0.005200885552):0.007002328337,52:0.01220321389):0.005197348558):0.005086760766,(((((53:0.003292305485,54:0.003292305485):0.001588516886,55:0.004880822371):0.002636115481,(56:0.007049080465,57:0.007049080466):0.0004678573869):0.004617158449,58:0.0121340963):0.002389166158,59:0.01452326246):0.007964060753):0.004954299314,60:0.02744162252):0.002340351265,(61:0.01682957221,62:0.01682957221):0.01295240158):0.006368090885,63:0.03615006468):0.0136102557):0.002425818283,(64:0.02271156168,65:0.02271156168):0.02947457697);
+END;

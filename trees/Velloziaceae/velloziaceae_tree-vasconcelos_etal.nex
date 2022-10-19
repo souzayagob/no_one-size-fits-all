@@ -1,0 +1,363 @@
+#NEXUS
+[written Fri Jul 31 14:17:51 BRT 2020 by Mesquite  version 3.61 (build 927) at DESKTOP-YAGO/192.168.56.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=151;
+	TAXLABELS
+		Acanthochlamys_bracteata Barbacenia_bishopii Barbacenia_blackii Barbacenia_gentianoides Barbacenia_delicatula Barbacenia_excapa Barbacenia_riparia Barbacenia_coccinea Barbacenia_flava_var_flava Barbacenia_flava_var_minor Barbacenia_longiflora Barbacenia_involucrata Barbacenia_gardneri Barbacenia_vandellii Barbacenia_glutinosa Barbacenia_graminifolia Barbacenia_filamentifera Barbacenia_rectifolia Barbacenia_rubrovirens Barbacenia_pungens Barbacenia_sp1 Barbacenia_ignea Barbacenia_markgrafii Barbacenia_spiralis Barbacenia_fulva Barbacenia_lymansmithii Barbacenia_glabra Barbacenia_latifolia Barbacenia_longiscapa Barbacenia_plantaginea Barbacenia_umbrosa Barbacenia_contasana Barbacenia_tomentosa Barbacenia_reflexa Barbacenia_paranaensis Barbacenia_rideliana Barbacenia_minima Barbacenia_serracabralea Barbacenia_macrantha Barbacenia_nana Barbacenia_regis Barbacenia_blanchetii Barbacenia_celiae Barbacenia_flavida Barbacenia_fanniae Barbacenia_gounelleana Barbacenia_mantiqueirae Barbacenia_spectabilis Barbacenia_irwiniana Barbacenia_purpurea Barbaceniopsis_boliviensis Barbaceniopsis_castillonii Barbaceniopsis_humahuaquensis Barbaceniopsis_vargasiana Vellozia_abietina Vellozia_semirii Vellozia_graomogolensis Vellozia_streptophylla Vellozia_prolifera Vellozia_spiralis Vellozia_brevifolia Vellozia_tragacantha Vellozia_auriculata Vellozia_glabra Vellozia_ornata Vellozia_declinans Vellozia_taxifolia Vellozia_cryptantha Vellozia_epidendroides Vellozia_variegata Vellozia_gigantea Vellozia_bradei Vellozia_strangii Vellozia_marcescens Vellozia_intermedia Vellozia_stiptata Vellozia_strangiixvariabilis Vellozia_patens Vellozia_breviscapa Vellozia_caruncularis Vellozia_subscabra Vellozia_hatschbachii Vellozia_variabilis Vellozia_obtecta Vellozia_peripherica Vellozia_caput_ardeae Vellozia_resinosa Vellozia_barbata Vellozia_sellowii Vellozia_cipoensis Vellozia_scoparia Vellozia_giuliettiae Vellozia_minima Vellozia_stenocarpa Vellozia_ciliata Vellozia_alata Vellozia_compacta Vellozia_graminea Vellozia_punctulata Vellozia_aloifolia Vellozia_caespitosa Vellozia_crinita Vellozia_metzgerae Vellozia_burlemarxii Vellozia_caudata Vellozia_hemisphaerica Vellozia_jolyi Vellozia_religiosa Vellozia_canelinha Vellozia_geotegens Vellozia_albiflora Vellozia_nanuzae Vellozia_tillandsioides Vellozia_glauca Vellozia_hirsuta Vellozia_candida Vellozia_albohexandra Vellozia_armata Vellozia_luteola Vellozia_dasypus Vellozia_froesii Vellozia_seubertiana Vellozia_furcata Vellozia_exilis Vellozia_goiasensis Vellozia_maxillarioides Vellozia_nivea Vellozia_sessilis Vellozia_tubiflora Vellozia_andina Vellozia_plicata Xerophyta_cf_eglandulosa Xerophyta_eglandulosa Xerophyta_pinifolia Xerophyta_dasylirioides Xerophyta_pectinata Xerophyta_cf_pauciramosa Xerophyta_sp1 Xerophyta_sp2 Xerophyta_villosa Xerophyta_sp3 Xerophyta_retinervis Xerophyta_sp4 Xerophyta_equisetoides Xerophyta_sp5 Xerophyta_sp6 Xerophyta_sp7 Xerophyta_elegans Xerophyta_schlechteri Xerophyta_viscosa Xerophyta_humilis 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 0173a5e01a751;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Acanthochlamys_bracteata,
+[1] 		2 Barbacenia_bishopii,
+[2] 		3 Barbacenia_blackii,
+[3] 		4 Barbacenia_gentianoides,
+[4] 		5 Barbacenia_delicatula,
+[5] 		6 Barbacenia_excapa,
+[6] 		7 Barbacenia_riparia,
+[7] 		8 Barbacenia_coccinea,
+[8] 		9 Barbacenia_flava_var_flava,
+[9] 		10 Barbacenia_flava_var_minor,
+[10] 		11 Barbacenia_longiflora,
+[11] 		12 Barbacenia_involucrata,
+[12] 		13 Barbacenia_gardneri,
+[13] 		14 Barbacenia_vandellii,
+[14] 		15 Barbacenia_glutinosa,
+[15] 		16 Barbacenia_graminifolia,
+[16] 		17 Barbacenia_filamentifera,
+[17] 		18 Barbacenia_rectifolia,
+[18] 		19 Barbacenia_rubrovirens,
+[19] 		20 Barbacenia_pungens,
+[20] 		21 Barbacenia_sp1,
+[21] 		22 Barbacenia_ignea,
+[22] 		23 Barbacenia_markgrafii,
+[23] 		24 Barbacenia_spiralis,
+[24] 		25 Barbacenia_fulva,
+[25] 		26 Barbacenia_lymansmithii,
+[26] 		27 Barbacenia_glabra,
+[27] 		28 Barbacenia_latifolia,
+[28] 		29 Barbacenia_longiscapa,
+[29] 		30 Barbacenia_plantaginea,
+[30] 		31 Barbacenia_umbrosa,
+[31] 		32 Barbacenia_contasana,
+[32] 		33 Barbacenia_tomentosa,
+[33] 		34 Barbacenia_reflexa,
+[34] 		35 Barbacenia_paranaensis,
+[35] 		36 Barbacenia_rideliana,
+[36] 		37 Barbacenia_minima,
+[37] 		38 Barbacenia_serracabralea,
+[38] 		39 Barbacenia_macrantha,
+[39] 		40 Barbacenia_nana,
+[40] 		41 Barbacenia_regis,
+[41] 		42 Barbacenia_blanchetii,
+[42] 		43 Barbacenia_celiae,
+[43] 		44 Barbacenia_flavida,
+[44] 		45 Barbacenia_fanniae,
+[45] 		46 Barbacenia_gounelleana,
+[46] 		47 Barbacenia_mantiqueirae,
+[47] 		48 Barbacenia_spectabilis,
+[48] 		49 Barbacenia_irwiniana,
+[49] 		50 Barbacenia_purpurea,
+[50] 		51 Barbaceniopsis_boliviensis,
+[51] 		52 Barbaceniopsis_castillonii,
+[52] 		53 Barbaceniopsis_humahuaquensis,
+[53] 		54 Barbaceniopsis_vargasiana,
+[54] 		55 Vellozia_abietina,
+[55] 		56 Vellozia_semirii,
+[56] 		57 Vellozia_graomogolensis,
+[57] 		58 Vellozia_streptophylla,
+[58] 		59 Vellozia_prolifera,
+[59] 		60 Vellozia_spiralis,
+[60] 		61 Vellozia_brevifolia,
+[61] 		62 Vellozia_tragacantha,
+[62] 		63 Vellozia_auriculata,
+[63] 		64 Vellozia_glabra,
+[64] 		65 Vellozia_ornata,
+[65] 		66 Vellozia_declinans,
+[66] 		67 Vellozia_taxifolia,
+[67] 		68 Vellozia_cryptantha,
+[68] 		69 Vellozia_epidendroides,
+[69] 		70 Vellozia_variegata,
+[70] 		71 Vellozia_gigantea,
+[71] 		72 Vellozia_bradei,
+[72] 		73 Vellozia_strangii,
+[73] 		74 Vellozia_marcescens,
+[74] 		75 Vellozia_intermedia,
+[75] 		76 Vellozia_stiptata,
+[76] 		77 Vellozia_strangiixvariabilis,
+[77] 		78 Vellozia_patens,
+[78] 		79 Vellozia_breviscapa,
+[79] 		80 Vellozia_caruncularis,
+[80] 		81 Vellozia_subscabra,
+[81] 		82 Vellozia_hatschbachii,
+[82] 		83 Vellozia_variabilis,
+[83] 		84 Vellozia_obtecta,
+[84] 		85 Vellozia_peripherica,
+[85] 		86 Vellozia_caput_ardeae,
+[86] 		87 Vellozia_resinosa,
+[87] 		88 Vellozia_barbata,
+[88] 		89 Vellozia_sellowii,
+[89] 		90 Vellozia_cipoensis,
+[90] 		91 Vellozia_scoparia,
+[91] 		92 Vellozia_giuliettiae,
+[92] 		93 Vellozia_minima,
+[93] 		94 Vellozia_stenocarpa,
+[94] 		95 Vellozia_ciliata,
+[95] 		96 Vellozia_alata,
+[96] 		97 Vellozia_compacta,
+[97] 		98 Vellozia_graminea,
+[98] 		99 Vellozia_punctulata,
+[99] 		100 Vellozia_aloifolia,
+[100] 		101 Vellozia_caespitosa,
+[101] 		102 Vellozia_crinita,
+[102] 		103 Vellozia_metzgerae,
+[103] 		104 Vellozia_burlemarxii,
+[104] 		105 Vellozia_caudata,
+[105] 		106 Vellozia_hemisphaerica,
+[106] 		107 Vellozia_jolyi,
+[107] 		108 Vellozia_religiosa,
+[108] 		109 Vellozia_canelinha,
+[109] 		110 Vellozia_geotegens,
+[110] 		111 Vellozia_albiflora,
+[111] 		112 Vellozia_nanuzae,
+[112] 		113 Vellozia_tillandsioides,
+[113] 		114 Vellozia_glauca,
+[114] 		115 Vellozia_hirsuta,
+[115] 		116 Vellozia_candida,
+[116] 		117 Vellozia_albohexandra,
+[117] 		118 Vellozia_armata,
+[118] 		119 Vellozia_luteola,
+[119] 		120 Vellozia_dasypus,
+[120] 		121 Vellozia_froesii,
+[121] 		122 Vellozia_seubertiana,
+[122] 		123 Vellozia_furcata,
+[123] 		124 Vellozia_exilis,
+[124] 		125 Vellozia_goiasensis,
+[125] 		126 Vellozia_maxillarioides,
+[126] 		127 Vellozia_nivea,
+[127] 		128 Vellozia_sessilis,
+[128] 		129 Vellozia_tubiflora,
+[129] 		130 Vellozia_andina,
+[130] 		131 Vellozia_plicata,
+[131] 		132 Xerophyta_cf_eglandulosa,
+[132] 		133 Xerophyta_eglandulosa,
+[133] 		134 Xerophyta_pinifolia,
+[134] 		135 Xerophyta_dasylirioides,
+[135] 		136 Xerophyta_pectinata,
+[136] 		137 Xerophyta_cf_pauciramosa,
+[137] 		138 Xerophyta_sp1,
+[138] 		139 Xerophyta_sp2,
+[139] 		140 Xerophyta_villosa,
+[140] 		141 Xerophyta_sp3,
+[141] 		142 Xerophyta_retinervis,
+[142] 		143 Xerophyta_sp4,
+[143] 		144 Xerophyta_equisetoides,
+[144] 		145 Xerophyta_sp5,
+[145] 		146 Xerophyta_sp6,
+[146] 		147 Xerophyta_sp7,
+[147] 		148 Xerophyta_elegans,
+[148] 		149 Xerophyta_schlechteri,
+[149] 		150 Xerophyta_viscosa,
+[150] 		151 Xerophyta_humilis;
+	TREE Imported_tree_1 = (1:74.31225832293016,((((((((2:1.0054945299281433,3:1.0054945299281433):2.3481445099451737,4:3.353639039873318):6.816596774594462,((5:3.5908042754735794,6:3.5908042754735794):4.605398018643932,7:8.196202294117525):1.9740335203502575):3.274841546391116,(((((((8:4.0595790439216035,((9:1.9758116476350482,((((10:0.799559811484794,11:0.799559811484798):0.3737033777462746,12:1.1732631892310732):0.23555602728665082,13:1.4088192165177205):0.32627121341201293,14:1.7350904299297385):0.2407212177053084):0.6621937647162448,(15:1.977552049556503,16:1.9775520495565004):0.6604533627947828):1.421573631570308):1.5152349928533502,((((17:2.184184483308475,18:2.1841844833084694):0.15308994000331344,19:2.3372744233117886):0.6922966384440357,(20:2.0025807373188393,21:2.002580737318849):1.0269903244369893):1.0172585939879526,((22:1.8561206013314768,23:1.8561206013314768):1.005979501722552,24:2.862100103054018):1.1847295526897663):1.5279843810311675):0.5056308321890741,((25:2.712881080084016,26:2.7128810800840126):1.3796909401062907,27:4.092572020190296):1.9878728487737218):0.5425340954781657,(28:5.71135247982084,((29:2.506442882422569,30:2.506442882422569):1.7681393041210347,31:4.274582186543609):1.4367702932772408):0.911626484621344):1.517011043121518,(((32:2.3402067430096336,33:2.340206743009634):0.7276913020504017,34:3.0678980450600406):2.5780305652044166,(35:3.0608131103977976,36:3.0608131103978256):2.585115499866625):2.494061397299257):1.9944122393675077,(37:3.8325238555108214,38:3.8325238555108214):6.30187839142039):2.3187346647910108,(39:6.272898928572291,40:6.272898928572291):6.180237983149941):0.9919404491366794):2.0404136763658,41:15.48549103722471):1.5964775819346269,(42:11.961713238199602,(43:6.353824347677203,44:6.353824347677224):5.607888890522336):5.120255380959783):3.2866526154542264,(((45:8.502993389376172,((46:4.034654058291322,47:4.034654058291322):2.5877009063424463,48:6.622354964633761):1.8806384247424148):1.397200197711264,49:9.900193587087452):2.077380217690827,50:11.977573804778304):8.391047429835313):32.340791257651816,((((51:8.250928626201699,(52:3.6509263516909707,53:3.6509263516909707):4.600002274510773):13.174123837435916,54:21.42505246363759):21.76936010443667,((((((((((((((55:3.3366191151011875,56:3.336619115101183):0.4334771941890838,57:3.770096309290262):0.7647331228264926,58:4.534829432116762):1.021967792700626,(59:3.79845244287027,60:3.798452442870284):1.7583447819471067):1.9282824507947982,61:7.485079675612136):0.7539391543211469,62:8.239018829933325):2.571012244705292,((((((((63:2.0805258999271885,64:2.080525899927188):1.0150531143189783,65:3.0955790142461623):0.7745055127873579,(66:1.720397446026776,67:1.7203974460267761):2.149687081006742):0.1980293502194126,68:4.068113877252932):0.6513104579196778,(69:2.484191544570776,70:2.484191544570778):2.235232790601839):1.8622985387618236,71:6.581722873934414):1.709629740555119,((((((((72:2.4382041546470887,73:2.4382041546470887):0.7738780046798741,74:3.212082159326946):0.10761155564142699,75:3.3196937149683774):0.7175311940308444,(76:1.5995766555047732,77:1.5995766555047732):2.437648253494439):0.809503942673552,78:4.84672885167279):1.0462042976789059,(((79:1.313654658514799,80:1.3136546585148012):0.7188524830901326,81:2.032507141604944):2.6460223565285608,(82:4.032602668090942,83:4.032602668090934):0.6459268300425673):1.2144036512181628):0.6969356931446455,(84:3.881814336396106,85:3.8818143363961033):2.708054506100221):0.9746764977136877,(86:5.299148096292637,87:5.299148096292637):2.2653972439173904):0.7268072742795422):1.1168977245310536,((88:7.421624225305218,89:7.42162422530527):0.8119813928823003,(((90:3.809462342709498,91:3.809462342709497):0.9909195284729706,(92:3.8747212122828003,93:3.8747212122828025):0.9256606588996821):2.0866309774740746,94:6.887012848656536):1.3465927695310267):1.174644720833033):1.401780735618015):1.2871867274657482,95:12.097217802104382):1.978213690983365,(96:11.522347341371296,((97:4.794361474633548,98:4.794361474633548):5.156001963248141,99:9.950363437881723):1.571983903489583):2.553084151716437):3.9142237589109303,((100:3.102866330422557,101:3.102866330422557):4.438796076971149,(102:4.792776301463844,103:4.792776301463844):2.748886105929886):10.447992844604986):3.2220484697314475,(((104:8.05237041569268,(105:4.250222227778442,106:4.250222227778435):3.8021481879142467):3.556206575876793,(107:4.50303628004472,108:4.50303628004472):7.105540711524738):4.872171004000888,109:16.480747995570376):4.730955726159749):1.8529199713155258,((((((110:1.6307120368655748,111:1.630712036865576):0.5451839849682789,112:2.175896021833847):0.8948740993866897,113:3.070770121220541):2.1418244538271862,(114:3.634976850555727,115:3.6349768505557414):1.577617724491987):1.3250878647058641,116:6.537682439753576):8.203089581683203,(((117:6.837771541417921,118:6.8377715414179026):1.872512570961928,119:8.710284112379869):3.167686689803464,(120:8.556238778758358,((121:4.288066082585997,122:4.288066082585996):2.251134044664804,123:6.539200127250794):2.0170386515075434):3.3217320234249605):2.8628012192534857):8.323851671608844):3.03310017161278,(((124:6.9772151669008355,125:6.9772151669008355):8.034522762572344,(126:12.571408936742113,127:12.571408936742124):2.440328992731043):4.182183379211841,(128:7.269508704323848,129:7.269508704323848):11.924412604361159):6.90380255597341):8.227601314509528,(130:22.981988282134456,131:22.981988282134452):11.343336897033627):8.869087388906308):4.0268690984283,((((((132:6.057496936140355,133:6.057496936140366):3.573404667411306,134:9.630901603551642):4.777570934546564,(135:4.1190997862621215,136:4.1190997862621215):10.28937275183605):9.924700298514239,(((((137:3.2847097192343275,138:3.2847097192343275):3.358662728753933,((139:2.7382837567744565,140:2.7382837567744587):1.308736441969157,141:4.047020198743603):2.596352249244629):2.08161728234232,(142:6.838507039518515,143:6.8385070395184675):1.8864826908120564):1.8522898224048738,144:10.577279552735494):4.834569440048739,(145:5.480037032454812,(146:1.6032504578871252,147:1.6032504578871252):3.876786574567693):9.9318119603293):8.921323843828306):3.2307387700509658,(148:16.749745322712652,(149:5.220739269903698,150:5.220739269903698):11.529006052809073):10.814166283950726):3.7359487360949792,151:31.29986034275842):15.921421323744092):5.488130825762852):21.602845830664776);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1596215872010;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 1091509315648897445;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 452;
+			setLocation 505 269;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #1091509315648897445 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #1091509315648897445;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 380;
+					setLocation 505 269;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #1091509315648897445  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0173a5e01a751;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 970.1596215840202.6515754075037501413;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 380;
+					setLocation 505 269;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientRight;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

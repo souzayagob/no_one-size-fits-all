@@ -1,0 +1,867 @@
+"id","institutioncode","collectioncode","catalognumber","gen_sp","subspecies","identifiedby","latitude","longitude","id_grid"
+1080,"Instituto de Botânica","SP","492224","Habenaria_ciliatisepala",NA,"AA Vale",-13.523611,-41.960556,391
+1082,"Instituto de Botânica","SP","490853","Habenaria_hippocrepica",NA,"JAN Batista",-18.340278,-43.549139,708
+1102,"Instituto de Botânica","SP","492213","Habenaria_hippocrepica",NA,"JAN Batista",-17.803056,-43.780833,668
+1105,"Instituto de Botânica","SP","492223","Habenaria_leprieuri",NA,"JAN Batista",-17.917778,-43.788889,668
+1110,"Instituto de Botânica","SP","490846","Habenaria_espinhacensis",NA,"JAN Batista",-18.297778,-43.838056,708
+1113,"Instituto de Botânica","SP","490845","Habenaria_hippocrepica",NA,"JAN Batista",-18.191472,-43.3575,669
+1114,"Instituto de Botânica","SP","490850","Habenaria_reflexicalcar",NA,"JAN Batista",-19.085556,-43.575833,748
+1120,"Instituto de Botânica","SP","488265","Habenaria_reflexicalcar",NA,"JAN Batista",-19.157222,-43.518889,748
+1131,"Instituto de Botânica","SP","474285","Habenaria_crucifera",NA,"TL Vieira",-20.4925,-43.713889,828
+1132,"Instituto de Botânica","SP","474326","Habenaria_subviridis",NA,"JAN Batista",-20.5025,-43.629444,828
+1135,"Instituto de Botânica","SP","474288","Habenaria_lavrensis",NA,"TL Vieira",-20.506111,-43.6325,828
+1136,"Instituto de Botânica","SP","474287","Habenaria_josephensis",NA,"TL Vieira",-20.489167,-43.701944,828
+1137,"Instituto de Botânica","SP","474311","Habenaria_nuda",NA,"TL Vieira",-20.489167,-43.693333,828
+1142,"Instituto de Botânica","SP","474289","Habenaria_lavrensis",NA,"TL Vieira",-20.478611,-43.718056,828
+1143,"Instituto de Botânica","SP","474325","Habenaria_subviridis",NA,"JAN Batista",-20.489167,-43.663611,828
+1210,"Instituto de Botânica","SP","378604","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48.016667,501
+1211,"Instituto de Botânica","SP","378601","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48,501
+1213,"Instituto de Botânica","SP","378602","Habenaria_lavrensis",NA,"JAN Batista",-15.866667,-48,501
+1220,"Instituto de Botânica","SP","378605","Habenaria_lavrensis",NA,"JAN Batista",-15.866667,-48.016667,501
+1224,"Instituto de Botânica","SP","378607","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48,501
+1272,"Instituto de Botânica","SP","352319","Habenaria_magniscutata",NA,"JAN Batista",-14.0725,-47.509167,382
+1286,"Instituto de Botânica","SP","352204","Habenaria_magniscutata",NA,"JAN Batista",-14.0725,-47.509167,382
+1318,"Instituto de Botânica","SP","348370","Habenaria_glaucophylla","brevifolia","LB Bianchetti",-15.924167,-48.033333,541
+1328,"Instituto de Botânica","SP","348346","Habenaria_mystacina",NA,"LB Bianchetti",-15.983333,-47.966667,541
+1336,"Instituto de Botânica","SP","348318","Habenaria_goyazensis",NA,"LB Bianchetti",-15.866667,-48.05,501
+1343,"Instituto de Botânica","SP","348319","Habenaria_heringeri",NA,"LB Bianchetti",-15.866667,-48.05,501
+1444,"Instituto de Botânica","SP","319794","Habenaria_lavrensis",NA,"LB Bianchetti",-15.916667,-48.016667,541
+1512,"Instituto de Botânica","SP","305446","Habenaria_obtusa",NA,"JAN Batista",-14.133333,-47.45,422
+1764,"Instituto de Botânica","SP","195413","Habenaria_parviflora",NA,"JAN Batista",-18.416667,-43.35,709
+1767,"Instituto de Botânica","SP","195407","Habenaria_petalodes",NA,"JAN Batista",-18.866667,-43.766667,708
+1772,"Instituto de Botânica","SP","195357","Habenaria_setacea",NA,"JAN Batista",-18.4,-43.35,709
+1811,"Instituto de Botânica","SP","154133","Habenaria_magniscutata",NA,"JAN Batista",-19.316667,-43.6,748
+1911,"UFPI","TEPB","22197","Habenaria_lavrensis",NA,"JAN Batista",-15.866667,-48,501
+1912,"UFPI","TEPB","22194","Habenaria_imbricata",NA,"JAN Batista",-15.866667,-48,501
+1915,"UFPI","TEPB","22195","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48,501
+1919,"UFPI","TEPB","17633","Habenaria_glaucophylla",NA,"LB Bianchetti",-15.924167,-48.033333,541
+1973,"Jardim Botânico de Brasília","HEPH","35645","Habenaria_hamata",NA,"DN Carvalho",-15.870278,-47.836944,501
+2068,"MBM","MBM","415611","Habenaria_hippocrepica",NA,"JAN Batista",-18.161,-43.320028,669
+2069,"MBM","MBM","415607","Habenaria_reflexicalcar",NA,"JAN Batista",-19.106944,-43.575944,748
+2072,"MBM","MBM","415606","Habenaria_reflexicalcar",NA,"JAN Batista",-19.157331,-43.519111,748
+2074,"MBM","MBM","415618","Habenaria_espinhacensis",NA,"JAN Batista",-18.297778,-43.838222,708
+2075,"MBM","MBM","415608","Habenaria_reflexicalcar",NA,"JAN Batista",-19.331389,-43.543194,748
+2077,"MBM","MBM","415605","Habenaria_reflexicalcar",NA,"JAN Batista",-19.261028,-43.5335,748
+2080,"MBM","MBM","415617","Habenaria_espinhacensis",NA,"JAN Batista",-16.551417,-42.899833,589
+2086,"MBM","MBM","410436","Habenaria_petalodes",NA,"JAN Batista",-19.253056,-43.544167,748
+2087,"MBM","MBM","410440","Habenaria_guilleminii",NA,"DN Carvalho",-20.8475,-45.721944,865
+2097,"MBM","MBM","415612","Habenaria_hippocrepica",NA,"JAN Batista",-18.340278,-43.549139,708
+2099,"MBM","MBM","410437","Habenaria_ciliatisepala",NA,"AA Vale",-13.523611,-41.960556,391
+2101,"MBM","MBM","410435","Habenaria_rupicola",NA,"JAN Batista",-20.099083,-43.489083,828
+2102,"MBM","MBM","415610","Habenaria_quadriferricola",NA,"JAN Batista",-20.081944,-43.470278,788
+2105,"MBM","MBM","410434","Habenaria_hippocrepica",NA,"JAN Batista",-18.478056,-43.461667,708
+2108,"MBM","MBM","415613","Habenaria_hippocrepica",NA,"JAN Batista",-18.462472,-43.479417,708
+2126,"ASU","Plants","ASU0012637","Habenaria_humilis",NA,"JAN Batista",-16.768171,-47.606903,581
+2291,"Jardim Botânico de Brasília","HEPH","7807","Habenaria_magniscutata",NA,"JAN Batista",-14.1875,-47.5625,421
+2847,"USP","SPF","227437","Habenaria_hippocrepica",NA,"JAN Batista",-18.340278,-43.548914,708
+2849,"USP","SPF","227430","Habenaria_reflexicalcar",NA,"JAN Batista",-19.261028,-43.535,748
+2850,"USP","SPF","227431","Habenaria_reflexicalcar",NA,"JAN Batista",-19.157331,-43.518911,748
+2851,"USP","SPF","227435","Habenaria_hippocrepica",NA,"JAN Batista",-18.462247,-43.479417,708
+2853,"USP","SPF","227432","Habenaria_reflexicalcar",NA,"JAN Batista",-19.085569,-43.575844,748
+2956,"MN","R","108391","Habenaria_mystacina",NA,"GFJ Pabst",-19.166667,-43.583333,748
+3390,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","138001","Habenaria_parviflora",NA,"JAN Batista",-13.566667,-41.833333,391
+3439,"NY","NY","1031806","Habenaria_caldensis",NA,"JAN Batista",-13.93593,-47.5167,382
+3442,"NY","NY","547670","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3447,"NY","NY","1031840","Habenaria_hamata",NA,"GFJ Pabst",-13.9376,-47.5167,382
+3455,"NY","NY","1031884","Habenaria_obtusa",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3460,"NY","NY","1031896","Habenaria_pleiophylla",NA,"GFJ Pabst",-18.3665,-43.69707,708
+3466,"NY","NY","1031863","Habenaria_magniscutata",NA,"JAN Batista",-14.20708,-47.5167,422
+3468,"NY","NY","547669","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3474,"NY","NY","547671","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3475,"NY","NY","818246","Habenaria_balansae",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3486,"NY","NY","1031916","Habenaria_setacea",NA,"JAN Batista",-18.55,-43.58,708
+3492,"NY","NY","1031865","Habenaria_spathulifera",NA,"GFJ Pabst",-13.94497,-47.5167,382
+3495,"NY","NY","547673","Habenaria_gracilis",NA,"P Cribb",-13.55,-41.95,391
+3497,"NY","NY","547618","Habenaria_caldensis",NA,"GFJ Pabst",-18.55,-43.58,708
+3503,"NY","NY","547678","Habenaria_imbricata",NA,"GFJ Pabst",-16.7723416525899,-47.6137541731285,581
+3515,"NY","NY","1031800","Habenaria_secundiflora",NA,"GFJ Pabst",-18.17,-43.55,668
+3517,"NY","NY","1031907","Habenaria_magniscutata",NA,"GFJ Pabst",-18.18,-43.55,668
+3524,"NY","NY","1031860","Habenaria_leucosantha",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3530,"NY","NY","1031864","Habenaria_magniscutata",NA,"JAN Batista",-13.94497,-47.5167,382
+3536,"NY","NY","1031876","Habenaria_obtusa",NA,"GFJ Pabst",-16.73193,-47.6,581
+3545,"NY","NY","547662","Habenaria_glaucophylla",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3551,"NY","NY","1031786","Habenaria_imbricata",NA,"GFJ Pabst",-18.18,-43.55,668
+3552,"NY","NY","547614","Habenaria_trifida",NA,"FC Hoehne",-20.4361,-43.773048,828
+3557,"NY","NY","547661","Habenaria_trifida",NA,"FC Hoehne",-20.4361,-43.773048,828
+3561,"NY","NY","1031783","Habenaria_gracilis",NA,"GFJ Pabst",-18.43185,-43.391944,708
+3564,"NY","NY","1031924","Habenaria_trifida",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3572,"NY","NY","1031932","Habenaria_urbaniana",NA,"GFJ Pabst",-14.20708,-47.5167,422
+3581,"NY","NY","1031917","Habenaria_setacea",NA,"JAN Batista",-18.55,-43.58,708
+3583,"NY","NY","1031918","Habenaria_subfiliformis",NA,"J Renz",-18.55,-43.55,708
+3585,"NY","NY","1031925","Habenaria_trifida",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3586,"NY","NY","822503","Habenaria_caldensis",NA,"ALV Toscano de Brito",-13.25,-41.9,351
+3592,"NY","NY","1031798","Habenaria_culicina",NA,"GFJ Pabst",-16.73193,-47.6,581
+3594,"NY","NY","547594","Habenaria_anisitsii",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3606,"NY","NY","547665","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3614,"NY","NY","1031898","Habenaria_pungens",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3616,"NY","NY","1031885","Habenaria_obtusa",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3619,"NY","NY","1031790","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.94305,-48.081667,541
+3622,"NY","NY","1031802","Habenaria_caldensis",NA,"GFJ Pabst",-19.388386,-43.539757,748
+3624,"NY","NY","1031834","Habenaria_guilleminii",NA,"GFJ Pabst",-18.0833,-43.7833,668
+3627,"NY","NY","547612","Habenaria_balansae",NA,"GFJ Pabst",-20.2916151948885,-43.5082859302814,828
+3634,"NY","NY","1034242","Habenaria_heringeri",NA,"GFJ Pabst",-15.9111,-48.04869,541
+3635,"NY","NY","547598","Habenaria_crucifera",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3640,"NY","NY","1031791","Habenaria_glaucophylla",NA,"GFJ Pabst",-19.82237,-43.67613,788
+3641,"NY","NY","1031936","Habenaria_urbaniana",NA,"GFJ Pabst",-13.93593,-47.5167,382
+3651,"NY","NY","1031799","Habenaria_culicina",NA,"GFJ Pabst",-18.18,-43.55,668
+3669,"NY","NY","547676","Habenaria_imbricata",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3673,"NY","NY","818257","Habenaria_rupicola",NA,"GFJ Pabst",-20.1263,-43.492778,828
+3675,"NY","NY","547592","Habenaria_amambayensis",NA,"GFJ Pabst",-15.9111,-48.04869,541
+3676,"NY","NY","1031835","Habenaria_guilleminii",NA,"GFJ Pabst",-20.1263,-43.492778,828
+3681,"NY","NY","1031914","Habenaria_setacea",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3682,"NY","NY","547663","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3687,"NY","NY","1031859","Habenaria_leucosantha",NA,"FC Hoehne",-20.4361,-43.773048,828
+3699,"NY","NY","1031874","Habenaria_obtusa",NA,"GFJ Pabst",-15.73,-48.12,501
+3710,"NY","NY","1144993","Habenaria_gracilis",NA,"GFJ Pabst",-19.77555,-43.65505,788
+3726,"NY","NY","1031784","Habenaria_imbricata",NA,"GFJ Pabst",-19.391589,-43.567497,748
+3736,"NY","NY","1031804","Habenaria_caldensis",NA,"GFJ Pabst",-19.388386,-43.539757,748
+3743,"NY","NY","1031855","Habenaria_leprieuri",NA,"GFJ Pabst",-18.42,-43.73,708
+3745,"NY","NY","1144784","Habenaria_caldensis",NA,"JAN Batista",-18.2531772779915,-43.6004898201051,668
+3749,"NY","NY","1031862","Habenaria_magniscutata",NA,"JAN Batista",-18.358,-43.6836,708
+3752,"NY","NY","1031785","Habenaria_imbricata",NA,"GFJ Pabst",-13.9457,-47.3451,382
+3755,"NY","NY","547605","Habenaria_armata",NA,"GFJ Pabst",-18.6,-43.52,708
+3766,"NY","NY","1031832","Habenaria_guilleminii",NA,"GFJ Pabst",-18.4,-43.72,708
+3767,"NY","NY","547595","Habenaria_anisitsii",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3768,"NY","NY","1031793","Habenaria_entomantha",NA,"J Renz",-18.33,-43.67,708
+3772,"NY","NY","547628","Habenaria_candolleana",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3776,"NY","NY","822505","Habenaria_pratensis",NA,"ALV Toscano de Brito",-13.1,-41.55,352
+3779,"NY","NY","1031847","Habenaria_imbricata",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3780,"NY","NY","547596","Habenaria_crucifera",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3793,"NY","NY","1031809","Habenaria_caldensis",NA,"JAN Batista",-19.391335,-43.565347,748
+3798,"NY","NY","1031808","Habenaria_caldensis",NA,"GFJ Pabst",-18.41575,-43.6836,708
+3799,"NY","NY","547617","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.83,391
+3809,"NY","NY","1031927","Habenaria_urbaniana",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3810,"NY","NY","547679","Habenaria_imbricata",NA,"GFJ Pabst",-16.7723416525899,-47.6137541731285,581
+3816,"NY","NY","1031837","Habenaria_hamata",NA,"JAN Batista",-14.1167,-47.52596,422
+3820,"NY","NY","547639","Habenaria_culicina",NA,"GFJ Pabst",-18.4581810723501,-43.7407994499746,708
+3824,"NY","NY","547589","Habenaria_achalensis",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3837,"NY","NY","1031788","Habenaria_goyazensis",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3842,"NY","NY","1031803","Habenaria_caldensis",NA,"GFJ Pabst",-19.278562,-43.548872,748
+3845,"NY","NY","1031906","Habenaria_magniscutata",NA,"GFJ Pabst",-18.17,-43.55,668
+3849,"NY","NY","1031839","Habenaria_hamata",NA,"JAN Batista",-13.93593,-47.5167,382
+3852,"NY","NY","547680","Habenaria_imbricata",NA,"GFJ Pabst",-15.7834208090807,-47.9298726661488,501
+3853,"NY","NY","1031912","Habenaria_magniscutata",NA,"GFJ Pabst",-19.278562,-43.548872,748
+3858,"NY","NY","1031913","Habenaria_setacea",NA,"JAN Batista",-15.7834208090807,-47.9298726661488,501
+3861,"NY","NY","547635","Habenaria_cryptophila",NA,"GFJ Pabst",-20.1263,-43.492778,828
+3862,"NY","NY","1031869","Habenaria_obtusa",NA,"JAN Batista",-16.7723416525899,-47.6137541731285,581
+4165,"Jardim Botânico de Brasília","HEPH","21586","Habenaria_trifida",NA,"JAN Batista",-15.192222,-47.588056,461
+4173,"Jardim Botânico de Brasília","HEPH","20254","Habenaria_heringeri",NA,"JAN Batista",-15.898925,-47.846869,541
+4185,"Universidade Federal de Juiz de Fora","CESJ","71255","Habenaria_josephensis",NA,"JAN Batista",-21.332083,-44.977444,906
+4301,"Jardim Botânico de Brasília","HEPH","21613","Habenaria_obtusa",NA,"JAN Batista",-15.192222,-47.588056,461
+4302,"Jardim Botânico de Brasília","HEPH","21585","Habenaria_obtusa",NA,"JAN Batista",-15.192222,-47.588056,461
+4317,"Jardim Botânico de Brasília","HEPH","21583","Habenaria_leprieuri",NA,"JAN Batista",-15.192222,-47.588056,461
+4326,"Jardim Botânico de Brasília","HEPH","21552","Habenaria_obtusa",NA,"JAN Batista",-15.245,-47.576389,461
+4335,"Jardim Botânico de Brasília","HEPH","21568","Habenaria_hamata",NA,"JAN Batista",-15.245,-47.576389,461
+4339,"Jardim Botânico de Brasília","HEPH","21616","Habenaria_obtusa",NA,"LB Bianchetti",-15.192222,-47.588056,461
+4343,"Jardim Botânico de Brasília","HEPH","21553","Habenaria_armata",NA,"JAN Batista",-15.245,-47.581944,461
+4344,"Jardim Botânico de Brasília","HEPH","21551","Habenaria_brevidens",NA,"JAN Batista",-15.245,-47.576389,461
+4353,"Jardim Botânico de Brasília","HEPH","21461","Habenaria_imbricata",NA,"JAN Batista",-15.191111,-47.595278,461
+4371,"Jardim Botânico de Brasília","HEPH","20377","Habenaria_edwallii",NA,"LB Bianchetti",-14.057222,-47.504722,382
+4376,"Jardim Botânico de Brasília","HEPH","20383","Habenaria_caldensis",NA,"JAN Batista",-14.016389,-47.526389,382
+4460,"Jardim Botânico de Brasília","HEPH","3099","Habenaria_secundiflora",NA,"JAN Batista",-15.516667,-47.55,502
+5202,"JBRJ","RB","RB01375381","Habenaria_trifida",NA,"JAN Batista",-20.271389,-43.959167,827
+5206,"JBRJ","RB","RB01375379","Habenaria_tamanduensis",NA,"JAN Batista",-15.288611,-47.559167,501
+5215,"JBRJ","RB","RB01374552","Habenaria_hippocrepica",NA,"JAN Batista",-19.162222,-43.513611,748
+5218,"JBRJ","RB","RB01374463","Habenaria_petalodes",NA,"JAN Batista",-19.253056,-43.544167,748
+5220,"JBRJ","RB","RB01374461","Habenaria_mystacina",NA,"JAN Batista",-19.250278,-43.544167,748
+5222,"JBRJ","RB","RB01374279","Habenaria_hippocrepica",NA,"JAN Batista",-17.803056,-43.780833,668
+5223,"JBRJ","RB","RB01374282","Habenaria_hippocrepica",NA,"JAN Batista",-18.478056,-43.461667,708
+5224,"JBRJ","RB","RB01374277","Habenaria_leprieuri",NA,"JAN Batista",-17.917778,-43.788889,668
+5225,"JBRJ","RB","RB01374286","Habenaria_ciliatisepala",NA,"AA Vale",-13.523611,-41.960556,391
+5354,"JBRJ","RB","RB01373813","Habenaria_brevidens",NA,"JAN Batista",-20.119722,-43.520556,828
+5355,"JBRJ","RB","RB01373770","Habenaria_secundiflora",NA,"JAN Batista",-20.859167,-45.711944,865
+5356,"JBRJ","RB","RB01373771","Habenaria_guilleminii",NA,"JAN Batista",-20.8475,-45.721944,865
+5855,"JBRJ","RB","RB01215288","Habenaria_reflexicalcar",NA,"JAN Batista",-19.260833,-43.533611,748
+5859,"JBRJ","RB","RB01215290","Habenaria_reflexicalcar",NA,"JAN Batista",-19.318056,-43.543055,748
+5861,"JBRJ","RB","RB01215289","Habenaria_reflexicalcar",NA,"JAN Batista",-19.085555,-43.575833,748
+5862,"JBRJ","RB","RB01214820","Habenaria_espinhacensis",NA,"JAN Batista",-19.05,-43.737222,748
+5863,"JBRJ","RB","RB01214892","Habenaria_hippocrepica",NA,"JAN Batista",-18.2025,-43.325556,669
+5864,"JBRJ","RB","RB01214816","Habenaria_espinhacensis",NA,"JAN Batista",-18.297778,-43.838055,708
+5866,"JBRJ","RB","RB01214676","Habenaria_reflexicalcar",NA,"JAN Batista",-19.157222,-43.518889,748
+5868,"JBRJ","RB","RB01214889","Habenaria_hippocrepica",NA,"JAN Batista",-18.274444,-43.284722,669
+5869,"JBRJ","RB","RB01214655","Habenaria_quadriferricola",NA,"JAN Batista",-20.081944,-43.470278,788
+5928,"JBRJ","RB","RB00835871","Habenaria_nuda",NA,"JAN Batista",-20.102778,-43.989722,827
+6054,"JBRJ","RB","RB00588985","Habenaria_magdalenensis",NA,"JAN Batista",-18.165,-43.321944,669
+6057,"JBRJ","RB","RB00588982","Habenaria_setacea",NA,"JAN Batista",-18.208056,-43.315556,669
+6070,"JBRJ","RB","RB00570248","Habenaria_hamata",NA,"JAN Batista",-13.985556,-47.501667,382
+6071,"JBRJ","RB","RB00570254","Habenaria_pratensis",NA,"JAN Batista",-13.985556,-47.501667,382
+6108,"JBRJ","RB","RB00558239","Habenaria_brevidens",NA,"JAN Batista",-18.213333,-43.335278,669
+6113,"JBRJ","RB","RB00557460","Habenaria_pubidactyla",NA,"JAN Batista",-19.048611,-43.737222,748
+6135,"JBRJ","RB","RB00542631","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+6170,"JBRJ","RB","RB00490503","Habenaria_hamata",NA,"JAN Batista",-18.536389,-43.896944,708
+6188,"JBRJ","RB","RB00424151","Habenaria_petalodes",NA,"JAN Batista",-21.704722,-43.945,908
+6291,"JBRJ","RB","RB00257510","Habenaria_rodeiensis",NA,"JAN Batista",-18.3525,-43.542778,708
+6586,"JBRJ","RB","RB00256985","Habenaria_ayangannensis",NA,"JAN Batista",-15.866667,-48.016667,501
+6614,"JBRJ","RB","RB00256868","Habenaria_hamata",NA,"ALV Toscano de Brito",-13.3,-41.883333,351
+7132,"UFU","HUFU","26619","Habenaria_brevidens",NA,"JAN Batista",-20.367778,-46.756389,823
+7150,"UFV","VIC","45780","Habenaria_lavrensis",NA,"TL Vieira",-20.506667,-43.626111,828
+7152,"UFV","VIC","45795","Habenaria_josephensis",NA,"TL Vieira",-20.483611,-43.716111,828
+7153,"UFV","VIC","45796","Habenaria_subviridis",NA,"TL Vieira",-20.504444,-43.663333,828
+7976,"MO","MO","2826583","Habenaria_caldensis",NA,"JAN Batista",-13.25,-41.9,351
+8059,"MO","MO","2824972","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+8091,"MO","MO","2766506","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+8328,"MBM","MBM","221700","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+8356,"UnB","UB","189181","Habenaria_hamata",NA,"LB Bianchetti",-15.6525,-47.996389,501
+8357,"UnB","UB","189144","Habenaria_obtusa",NA,"LB Bianchetti",-15.658889,-47.894167,501
+8358,"UnB","UB","189118","Habenaria_nuda",NA,"LB Bianchetti",-15.631944,-47.993333,501
+8359,"UnB","UB","189123","Habenaria_secundiflora",NA,"LB Bianchetti",-15.631944,-47.993333,501
+8376,"UnB","UB","163168","Habenaria_schwackei",NA,"E Pessoa",-17.915278,-43.758611,668
+8433,"UnB","UB","87541","Habenaria_ciliatisepala",NA,"LB Bianchetti",-14.116667,-47.516667,422
+8447,"UnB","UB","87529","Habenaria_pabstii",NA,"LB Bianchetti",-14.116667,-47.516667,422
+8448,"UnB","UB","87528","Habenaria_pabstii",NA,"LB Bianchetti",-14.116667,-47.516667,422
+8454,"UnB","UB","87527","Habenaria_pabstii",NA,"LB Bianchetti",-14.116667,-47.516667,422
+8571,"UnB","UB","87368","Habenaria_subviridis",NA,"JAN Batista",-16.7686,-47.6136,581
+8579,"UnB","UB","87339","Habenaria_obtusa",NA,"JAN Batista",-16.7686,-47.6136,581
+8590,"UnB","UB","87332","Habenaria_obtusa",NA,"JAN Batista",-16.7686,-47.6136,581
+8591,"UnB","UB","87343","Habenaria_petalodes",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8592,"UnB","UB","87357","Habenaria_schwackei",NA,"JAN Batista",-14.072694,-47.509333,382
+8598,"UnB","UB","87367","Habenaria_subviridis",NA,"JAN Batista",-16.7686,-47.6136,581
+8604,"UnB","UB","87312","Habenaria_magniscutata",NA,"JAN Batista",-14.072694,-47.509333,382
+8605,"UnB","UB","87338","Habenaria_obtusa",NA,"JAN Batista",-16.7686,-47.6136,581
+8613,"UnB","UB","87308","Habenaria_longipedicellata",NA,"JAN Batista",-16.7686,-47.6136,581
+8624,"UnB","UB","87307","Habenaria_longipedicellata",NA,"JAN Batista",-16.7686,-47.6136,581
+8625,"UnB","UB","87318","Habenaria_subfiliformis",NA,"JAN Batista",-14.116667,-47.516667,422
+8631,"UnB","UB","87285","Habenaria_humilis",NA,"JAN Batista",-14.116667,-47.516667,422
+8640,"UnB","UB","87311","Habenaria_magniscutata",NA,"JAN Batista",-14.072694,-47.509333,382
+8643,"UnB","UB","87293","Habenaria_humilis",NA,"JAN Batista",-14.116667,-47.516667,422
+8647,"UnB","UB","87277","Habenaria_hamata",NA,"JAN Batista",-14.116667,-47.516667,422
+8654,"UnB","UB","87316","Habenaria_magniscutata",NA,"JAN Batista",-14.116667,-47.516667,422
+8655,"UnB","UB","87275","Habenaria_guilleminii",NA,"GFJ Pabst",-16.7686,-47.6136,581
+8656,"UnB","UB","87298","Habenaria_lavrensis",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8659,"UnB","UB","87278","Habenaria_hamata",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8660,"UnB","UB","87313","Habenaria_magniscutata",NA,"JAN Batista",-14.072694,-47.509333,382
+8661,"UnB","UB","87287","Habenaria_humilis",NA,"JAN Batista",-14.116667,-47.516667,422
+8668,"UnB","UB","87273","Habenaria_guilleminii",NA,"JAN Batista",-16.7686,-47.6136,581
+8670,"UnB","UB","87276","Habenaria_hamata",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8671,"UnB","UB","87292","Habenaria_humilis",NA,"GFJ Pabst",-16.7686,-47.6136,581
+8674,"UnB","UB","87269","Habenaria_imbricata",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8683,"UnB","UB","87236","Habenaria_armata",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8688,"UnB","UB","87251","Habenaria_coxipoensis",NA,"JAN Batista",-16.7686,-47.6136,581
+8689,"UnB","UB","87271","Habenaria_imbricata",NA,"GFJ Pabst",-16.7686,-47.6136,581
+8701,"UnB","UB","87257","Habenaria_curvilabra",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8702,"UnB","UB","87246","Habenaria_caldensis",NA,"JAN Batista",-14.116667,-47.516667,422
+8705,"UnB","UB","87237","Habenaria_armata",NA,"GFJ Pabst",-14.116667,-47.516667,422
+8918,"UFG","UFG","29008","Habenaria_alpestris",NA,"JAN Batista",-15.866667,-48,501
+10324,"UEFS","HUEFS","175576","Habenaria_rodeiensis",NA,"JAN Batista",-11.833056,-41.185556,272
+10332,"UEFS","HUEFS","164900","Habenaria_leptoceras",NA,"JAN Batista",-12.2425,-41.793611,271
+10357,"UEFS","HUEFS","142577","Habenaria_spanophytica",NA,"JAN Batista",-12.45,-41.45,312
+10358,"UEFS","HUEFS","142531","Habenaria_hamata",NA,"JAN Batista",-12.45,-41.45,312
+10362,"UEFS","HUEFS","139835","Habenaria_caldensis",NA,"JAN Batista",-19.268889,-43.5475,748
+10363,"UEFS","HUEFS","139844","Habenaria_rodeiensis",NA,"JAN Batista",-19.016667,-43.7,748
+10365,"UEFS","HUEFS","139843","Habenaria_itatiayae",NA,"JAN Batista",-19.016667,-43.7,748
+10366,"UEFS","HUEFS","139807","Habenaria_caldensis",NA,"JAN Batista",-19.206944,-43.499722,748
+10371,"UEFS","HUEFS","129825","Habenaria_parviflora",NA,"JAN Batista",-13.566667,-41.833333,391
+10383,"UEFS","HUEFS","119726","Habenaria_humilis",NA,"JAN Batista",-18.292222,-43.738333,708
+10384,"UEFS","HUEFS","119723","Habenaria_magniscutata",NA,"JAN Batista",-18.292222,-43.738333,708
+10393,"UEFS","HUEFS","114972","Habenaria_fluminensis",NA,"JAN Batista",-13.233333,-41.566667,351
+10406,"UEFS","HUEFS","106709","Habenaria_pseudohamata",NA,"C van den Berg",-12.7,-41.516667,312
+10428,"UEFS","HUEFS","94671","Habenaria_itatiayae",NA,"JAN Batista",-12.730833,-41.509167,312
+10430,"UEFS","HUEFS","94543","Habenaria_pubidactyla",NA,"JAN Batista",-12.730833,-41.509167,312
+10432,"UEFS","HUEFS","92974","Habenaria_pseudohamata",NA,"C van den Berg",-13.083056,-41.376389,352
+10442,"UEFS","HUEFS","90540","Habenaria_hexaptera",NA,"JAN Batista",-15.796389,-48.830833,499
+10443,"UEFS","HUEFS","90537","Habenaria_nuda",NA,"JAN Batista",-13.9,-47.366667,382
+10445,"UEFS","HUEFS","90548","Habenaria_hamata",NA,"JAN Batista",-15.796389,-48.830833,499
+10448,"UEFS","HUEFS","90549","Habenaria_curvilabra",NA,"JAN Batista",-15.796389,-48.830833,499
+10449,"UEFS","HUEFS","90541","Habenaria_trifida",NA,"JAN Batista",-15.796389,-48.830833,499
+10450,"UEFS","HUEFS","90531","Habenaria_trifida",NA,"JAN Batista",-13.925556,-47.429444,382
+10451,"UEFS","HUEFS","90536","Habenaria_obtusa",NA,"JAN Batista",-13.9,-47.366667,382
+10455,"UEFS","HUEFS","86088","Habenaria_itatiayae",NA,"JAN Batista",-13.133333,-41.366667,352
+10456,"UEFS","HUEFS","86087","Habenaria_fluminensis",NA,"JAN Batista",-13.133333,-41.366667,352
+10459,"UEFS","HUEFS","85294","Habenaria_mystacina",NA,"JAN Batista",-13.130833,-41.344167,352
+10460,"UEFS","HUEFS","85268","Habenaria_fluminensis",NA,"JAN Batista",-13.130556,-41.348056,352
+10462,"UEFS","HUEFS","85222","Habenaria_repens",NA,"JAN Batista",-13.077222,-41.375278,352
+10463,"UEFS","HUEFS","85211","Habenaria_mystacina",NA,"JAN Batista",-13.077222,-41.375278,352
+10470,"UEFS","HUEFS","80927","Habenaria_humilis",NA,"JAN Batista",-19.143611,-43.553056,748
+10471,"UEFS","HUEFS","80930","Habenaria_magniscutata",NA,"JAN Batista",-19.143611,-43.553056,748
+10472,"UEFS","HUEFS","80935","Habenaria_nuda",NA,"JAN Batista",-19.143611,-43.553056,748
+10473,"UEFS","HUEFS","80931","Habenaria_guilleminii",NA,"JAN Batista",-19.143611,-43.553056,748
+10474,"UEFS","HUEFS","80933","Habenaria_secundiflora",NA,"JAN Batista",-19.143611,-43.553056,748
+10475,"UEFS","HUEFS","80932","Habenaria_pubidactyla",NA,"JAN Batista",-19.143611,-43.553056,748
+10477,"UEFS","HUEFS","80934","Habenaria_caldensis",NA,"JAN Batista",-19.143611,-43.553056,748
+10486,"UEFS","HUEFS","76784","Habenaria_rupicola",NA,"JAN Batista",-17.080556,-43.309722,589
+10496,"UEFS","HUEFS","74858","Habenaria_mystacina",NA,"JAN Batista",-13.383333,-41.85,351
+10497,"UEFS","HUEFS","74860","Habenaria_meeana",NA,"JAN Batista",-13.383333,-41.85,351
+10498,"UEFS","HUEFS","74823","Habenaria_repens",NA,"JAN Batista",-13.383333,-41.866667,351
+10506,"UEFS","HUEFS","70446","Habenaria_caldensis",NA,"JAN Batista",-18.261389,-43.693889,668
+10507,"UEFS","HUEFS","70416","Habenaria_curvilabra",NA,"JAN Batista",-17.038889,-43.344167,589
+10508,"UEFS","HUEFS","70345","Habenaria_rupicola",NA,"JAN Batista",-16.800556,-43.418611,588
+10525,"UEFS","HUEFS","56010","Habenaria_repens",NA,"JAN Batista",-13.516667,-41.95,391
+10526,"UEFS","HUEFS","55975","Habenaria_meeana",NA,"JAN Batista",-13.520833,-41.95,391
+10527,"UEFS","HUEFS","55966","Habenaria_repens",NA,"JAN Batista",-13.518333,-41.942222,391
+10529,"UEFS","HUEFS","55734","Habenaria_josephensis",NA,"JAN Batista",-11.584167,-41.191944,232
+10531,"UEFS","HUEFS","47014","Habenaria_josephensis",NA,"JAN Batista",-11.577222,-41.185556,232
+10538,"UEFS","HUEFS","35236","Habenaria_sprucei",NA,"C van den Berg",-13.25,-41.916667,351
+10541,"UEFS","HUEFS","35267","Habenaria_sprucei",NA,"C van den Berg",-13.25,-41.916667,351
+10542,"UEFS","HUEFS","35237","Habenaria_caldensis",NA,"JAN Batista",-13.25,-41.9,351
+10551,"UEFS","HUEFS","20057","Habenaria_repens",NA,"JAN Batista",-13.033333,-41.833333,351
+10553,"UEFS","HUEFS","17228","Habenaria_hamata",NA,"ALV Toscano de Brito",-13.3,-41.883333,351
+10555,"UEFS","HUEFS","10558","Habenaria_pratensis",NA,"JAN Batista",-13.1,-41.55,352
+10556,"UEFS","HUEFS","10506","Habenaria_repens",NA,"JAN Batista",-13.333333,-41.866667,351
+10565,"UEFS","HUEFS","6224","Habenaria_bahiensis",NA,"JAN Batista",-12.616667,-41.483333,312
+10699,"UFG","UFG","29009","Habenaria_imbricata",NA,"JAN Batista",-15.866667,-48,501
+10787,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","120081","Habenaria_rupicola",NA,"JAN Batista",-17.080556,-43.309722,589
+10788,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","119338","Habenaria_mystacina",NA,"JAN Batista",-13.077222,-41.375278,352
+10795,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","97791","Habenaria_josephensis",NA,"ALV Toscano de Brito",-11.584167,-41.191944,232
+10810,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","59856","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+10815,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49161","Habenaria_repens",NA,"JAN Batista",-13.533333,-41.883333,391
+10818,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","32105","Habenaria_warmingii",NA,"ALV Toscano de Brito",-12.6,-41.483333,312
+10819,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","32117","Habenaria_repens",NA,"CN Fraga",-12.6,-41.483333,312
+10820,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","32107","Habenaria_parviflora",NA,"JAN Batista",-11.583333,-41.2,232
+10824,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30736","Habenaria_parviflora",NA,"JAN Batista",-11.583333,-41.2,232
+10831,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","26235","Habenaria_repens",NA,"JAN Batista",-14.116667,-42.5,430
+10832,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","26257","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+10833,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25624","Habenaria_nuda",NA,"JAN Batista",-13.583333,-41.45,392
+10841,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","22170","Habenaria_warmingii",NA,"P Cribb",-13.55,-41.95,391
+10843,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21241","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+10844,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21237","Habenaria_johannensis",NA,"JAN Batista",-13.016667,-41.4,352
+10845,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21229","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.833333,391
+10852,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21180","Habenaria_entomantha",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+10864,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","10833","Habenaria_johannensis",NA,"JAN Batista",-13.033333,-41.416667,352
+10866,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","10809","Habenaria_repens",NA,"JAN Batista",-13.033333,-41.416667,352
+11326,"UNICAMP","UEC","117508","Habenaria_ayangannensis",NA,"F Barros",-16.55,-42.9,589
+12810,"UFOP","OUPR","22046","Habenaria_subviridis",NA,"TL Vieira",-20.429889,-43.487611,828
+12931,"UnB","UB","8620","Habenaria_parviflora",NA,"JAN Batista",-16.033333,-48.05,541
+12979,"UnB","UB","4391","Habenaria_obtusa",NA,"GFJ Pabst",-16.016667,-47.933333,541
+12998,"UnB","UB","3817","Habenaria_alpestris",NA,"GFJ Pabst",-16.016667,-48.066667,541
+13144,"UFPR","UPCB","55320","Habenaria_trifida",NA,"C van den Berg",-13.925556,-47.429444,382
+13145,"UFPR","UPCB","55322","Habenaria_hamata",NA,"C van den Berg",-15.796389,-48.830833,499
+13505,"Universidade Federal da Bahia","ALCB","101957","Habenaria_josephensis",NA,"JAN Batista",-11.5975,-41.211667,232
+13511,"Universidade Federal da Bahia","ALCB","93207","Habenaria_pseudohamata",NA,"JAN Batista",-12.604167,-41.474444,312
+13536,"Universidade Federal da Bahia","ALCB","69714","Habenaria_nuda",NA,"JAN Batista",-13.285278,-41.888611,351
+13538,"Universidade Federal da Bahia","ALCB","57952","Habenaria_josephensis",NA,"ALV Toscano de Brito",-11.583333,-41.191667,232
+13542,"Universidade Federal da Bahia","ALCB","037898","Habenaria_johannensis",NA,"JAN Batista",-13.45,-41.866667,351
+13597,"NHMUK","BOT","BM000603066","Habenaria_parviflora",NA,"JAN Batista",-11.58,-41.2,232
+13602,"NHMUK","BOT","BM000032722","Habenaria_pratensis",NA,"JAN Batista",-13.442881,-41.844147,351
+13615,"NHMUK","BOT","BM000611919","Habenaria_josephensis",NA,"JAN Batista",-11.58,-41.2,232
+13863,"K","Herbarium","K000940827","Habenaria_magniscutata",NA,"JAN Batista",-19.33,-43.58,748
+13885,"K","Herbarium","K000940778","Habenaria_caldensis",NA,"JAN Batista",-19.33,-43.58,748
+13960,"K","Herbarium","K000886536","Habenaria_petalodes",NA,"ALV Toscano de Brito",-20.4,-43.5,828
+14050,"K","Herbarium","K000293311","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-13.23,-41.9,351
+14051,"K","Herbarium","K000293343","Habenaria_imbricata",NA,"C van den Berg",-13.33,-41.87,351
+14052,"K","Herbarium","K000293337","Habenaria_entomantha",NA,"J Renz",-13.55,-41.95,391
+14054,"K","Herbarium","K000293335","Habenaria_setacea",NA,"C van den Berg",-12.6,-41.48,312
+14055,"K","Herbarium","K000293348","Habenaria_parviflora",NA,"C van den Berg",-11.58,-41.2,232
+14056,"K","Herbarium","K000293353","Habenaria_johannensis",NA,"C van den Berg",-13.03,-41.42,352
+14057,"K","Herbarium","K000293354","Habenaria_johannensis",NA,"C van den Berg",-13.02,-41.4,352
+14058,"K","Herbarium","K000293318","Habenaria_fluminensis",NA,"C van den Berg",-13.58,-41.45,392
+14059,"K","Herbarium","K000293314","Habenaria_meeana",NA,"ALV Toscano de Brito",-12.97,-41.47,352
+14060,"K","Herbarium","K000293342","Habenaria_imbricata",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+14061,"K","Herbarium","K000293345","Habenaria_caldensis",NA,"ALV Toscano de Brito",-13.25,-41.9,351
+14062,"K","Herbarium","K000293336","Habenaria_armata",NA,"C van den Berg",-13.55,-41.95,391
+14065,"K","Herbarium","K000293346","Habenaria_humilis",NA,"C van den Berg",-12.97,-41.47,352
+14068,"K","Herbarium","K000293310","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-13.23,-41.9,351
+14070,"K","Herbarium","K000293339","Habenaria_repens",NA,"C van den Berg",-13.03,-41.42,352
+14073,"K","Herbarium","K000293306","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-13.58,-41.45,392
+14074,"K","Herbarium","K000293355","Habenaria_johannensis",NA,"C van den Berg",-13.55,-41.95,391
+14077,"K","Herbarium","K000293289","Habenaria_parviflora",NA,"C van den Berg",-11.58,-41.2,232
+14078,"K","Herbarium","K000293357","Habenaria_bractescens",NA,"ALV Toscano de Brito",-13.6,-41.83,391
+14087,"K","Herbarium","K000293341","Habenaria_imbricata",NA,"ALV Toscano de Brito",-13.53,-41.97,391
+14088,"K","Herbarium","K000293317","Habenaria_mystacina",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+14089,"K","Herbarium","K000293321","Habenaria_johannensis",NA,"ALV Toscano de Brito",-13.27,-41.9,351
+14090,"K","Herbarium","K000293307","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-13.58,-41.45,392
+14097,"K","Herbarium","K000293352","Habenaria_johannensis",NA,"C van den Berg",-13.03,-41.42,352
+14098,"K","Herbarium","K000293331","Habenaria_pratensis",NA,"ALV Toscano de Brito",-13.1,-41.55,352
+14099,"K","Herbarium","K000293319","Habenaria_johannensis",NA,"ALV Toscano de Brito",-13.27,-41.88,351
+14100,"K","Herbarium","K000293312","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.12,-42.5,430
+14102,"K","Herbarium","K000293330","Habenaria_pratensis",NA,"P Cribb",-13.55,-41.88,391
+14106,"K","Herbarium","K000293313","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.12,-42.5,430
+14108,"K","Herbarium","K000293303","Habenaria_repens",NA,"C van den Berg",-14.12,-42.5,430
+14111,"K","Herbarium","K000293297","Habenaria_johannensis",NA,"C van den Berg",-13.27,-41.88,351
+14112,"K","Herbarium","K000293301","Habenaria_sprucei",NA,"C van den Berg",-13.25,-41.92,351
+14116,"K","Herbarium","K000293286","Habenaria_quadrata",NA,"C van den Berg",-11.58,-41.2,232
+14117,"K","Herbarium","K000293300","Habenaria_sprucei",NA,"C van den Berg",-13.25,-41.92,351
+14118,"K","Herbarium","K000293299","Habenaria_fluminensis",NA,"C van den Berg",-13.25,-41.9,351
+14121,"K","Herbarium","K000293302","Habenaria_sprucei",NA,"C van den Berg",-13.25,-41.92,351
+14215,"MNHN","P","P00562350","Habenaria_sprucei",NA,"JAN Batista",-13.25,-41.91667,351
+14430,"MNHN","P","P00408662","Habenaria_meeana",NA,"JAN Batista",-13.55,-41.95,391
+14866,"NHMLondon","NHM-LONDON-BOT","BM000611919","Habenaria_josephensis",NA,"JAN Batista",-11.58,-41.2,232
+14884,"NHMLondon","NHM-LONDON-BOT","BM000603066","Habenaria_parviflora",NA,"JAN Batista",-11.58,-41.2,232
+14891,"NHMLondon","NHM-LONDON-BOT","BM000032722","Habenaria_pratensis",NA,"JAN Batista",-13.442881,-41.844147,351
+15433,"MCN-PUC-MINAS","HPUC-MG","ANG2609","Habenaria_magdalenensis",NA,"JAN Batista",-20.183333,-43.95,828
+15676,"UFBA","ALCB","037898","Habenaria_johannensis",NA,"JAN Batista",-13.45,-41.866667,351
+15677,"UFBA","ALCB","101957","Habenaria_josephensis",NA,"JAN Batista",-11.5975,-41.211667,232
+15679,"UFBA","ALCB","57952","Habenaria_josephensis",NA,"ALV Toscano de Brito",-11.583333,-41.191667,232
+15684,"UFBA","ALCB","69714","Habenaria_nuda",NA,"JAN Batista",-13.285278,-41.888611,351
+15705,"UFBA","ALCB","93207","Habenaria_pseudohamata",NA,"JAN Batista",-12.604167,-41.474444,312
+15729,"CEPLAC","CEPEC","21229","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.833333,391
+15731,"CEPLAC","CEPEC","21180","Habenaria_entomantha",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+15750,"CEPLAC","CEPEC","10833","Habenaria_johannensis",NA,"JAN Batista",-13.033333,-41.416667,352
+15752,"CEPLAC","CEPEC","21237","Habenaria_johannensis",NA,"JAN Batista",-13.016667,-41.4,352
+15754,"CEPLAC","CEPEC","97791","Habenaria_josephensis",NA,"ALV Toscano de Brito",-11.584167,-41.191944,232
+15763,"CEPLAC","CEPEC","21241","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+15764,"CEPLAC","CEPEC","119338","Habenaria_mystacina",NA,"JAN Batista",-13.077222,-41.375278,352
+15768,"CEPLAC","CEPEC","25624","Habenaria_nuda",NA,"JAN Batista",-13.583333,-41.45,392
+15771,"CEPLAC","CEPEC","138001","Habenaria_parviflora",NA,"JAN Batista",-13.566667,-41.833333,391
+15772,"CEPLAC","CEPEC","30736","Habenaria_parviflora",NA,"JAN Batista",-11.583333,-41.2,232
+15773,"CEPLAC","CEPEC","32107","Habenaria_parviflora",NA,"JAN Batista",-11.583333,-41.2,232
+15793,"CEPLAC","CEPEC","26257","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+15794,"CEPLAC","CEPEC","59856","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.116667,-42.5,430
+15795,"CEPLAC","CEPEC","10809","Habenaria_repens",NA,"JAN Batista",-13.033333,-41.416667,352
+15798,"CEPLAC","CEPEC","26235","Habenaria_repens",NA,"JAN Batista",-14.116667,-42.5,430
+15800,"CEPLAC","CEPEC","32117","Habenaria_repens",NA,"CN Fraga",-12.6,-41.483333,312
+15802,"CEPLAC","CEPEC","49161","Habenaria_repens",NA,"JAN Batista",-13.533333,-41.883333,391
+15809,"CEPLAC","CEPEC","120081","Habenaria_rupicola",NA,"JAN Batista",-17.080556,-43.309722,589
+15815,"CEPLAC","CEPEC","22170","Habenaria_warmingii",NA,"P Cribb",-13.55,-41.95,391
+15817,"CEPLAC","CEPEC","32105","Habenaria_warmingii",NA,"ALV Toscano de Brito",-12.6,-41.483333,312
+18028,"ESALQ","ESA","120928","Habenaria_brevidens",NA,"DN Carvalho",-20.27972,-46.52073,823
+19719,"ASU","ASU-PLANTS","ASU0012637","Habenaria_humilis",NA,"JAN Batista",-16.768171,-47.606903,581
+22646,"NBC","NL-BOTANY","U.1459771","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.833333,391
+22664,"NBC","NL-BOTANY","U 0098831","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+22715,"NY","NYBG","547589","Habenaria_achalensis",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22719,"NY","NYBG","547592","Habenaria_amambayensis",NA,"GFJ Pabst",-15.9111,-48.04869,541
+22721,"NY","NYBG","547594","Habenaria_anisitsii",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22722,"NY","NYBG","547595","Habenaria_anisitsii",NA,"JAN Batista",-15.7797,-47.9294,501
+22723,"NY","NYBG","547596","Habenaria_crucifera",NA,"JAN Batista",-15.7797,-47.9294,501
+22725,"NY","NYBG","547598","Habenaria_crucifera",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22733,"NY","NYBG","547605","Habenaria_armata",NA,"GFJ Pabst",-18.6,-43.52,708
+22740,"NY","NYBG","547612","Habenaria_balansae",NA,"GFJ Pabst",-20.2878,-43.5081,828
+22741,"NY","NYBG","547614","Habenaria_trifida",NA,"FC Hoehne",-20.4361,-43.7730481,828
+22744,"NY","NYBG","547617","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.83,391
+22749,"NY","NYBG","1031802","Habenaria_caldensis",NA,"GFJ Pabst",-19.388386,-43.539757,748
+22750,"NY","NYBG","1031803","Habenaria_caldensis",NA,"GFJ Pabst",-19.278562,-43.548872,748
+22751,"NY","NYBG","1031804","Habenaria_caldensis",NA,"GFJ Pabst",-19.388386,-43.539757,748
+22753,"NY","NYBG","1031806","Habenaria_caldensis",NA,"JAN Batista",-13.93593,-47.5167,382
+22755,"NY","NYBG","1031808","Habenaria_caldensis",NA,"GFJ Pabst",-18.41575,-43.6836,708
+22756,"NY","NYBG","1031809","Habenaria_caldensis",NA,"JAN Batista",-19.391335,-43.565347,748
+22757,"NY","NYBG","1144784","Habenaria_caldensis",NA,"JAN Batista",-18.2494,-43.6003,668
+22758,"NY","NYBG","547618","Habenaria_caldensis",NA,"GFJ Pabst",-18.55,-43.58,708
+22767,"NY","NYBG","822503","Habenaria_caldensis",NA,"ALV Toscano de Brito",-13.25,-41.9,351
+22770,"NY","NYBG","547628","Habenaria_candolleana",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22772,"NY","NYBG","1031800","Habenaria_secundiflora",NA,"GFJ Pabst",-18.17,-43.55,668
+22781,"NY","NYBG","547635","Habenaria_cryptophila",NA,"GFJ Pabst",-20.1263,-43.4927778,828
+22785,"NY","NYBG","1031798","Habenaria_culicina",NA,"GFJ Pabst",-16.73193,-47.6,581
+22786,"NY","NYBG","1031799","Habenaria_culicina",NA,"GFJ Pabst",-18.18,-43.55,668
+22789,"NY","NYBG","547639","Habenaria_culicina",NA,"GFJ Pabst",-18.4544,-43.7406,708
+22806,"NY","NYBG","1031793","Habenaria_entomantha",NA,"J Renz",-18.33,-43.67,708
+22826,"NY","NYBG","547661","Habenaria_trifida",NA,"FC Hoehne",-20.4361,-43.7730481,828
+22828,"NY","NYBG","1031790","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.94305,-48.0816667,541
+22829,"NY","NYBG","1031791","Habenaria_glaucophylla",NA,"GFJ Pabst",-19.82237,-43.67613,788
+22830,"NY","NYBG","547662","Habenaria_glaucophylla",NA,"JAN Batista",-15.7797,-47.9294,501
+22831,"NY","NYBG","547663","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22833,"NY","NYBG","547665","Habenaria_glaucophylla",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22839,"NY","NYBG","1031788","Habenaria_goyazensis",NA,"JAN Batista",-15.7797,-47.9294,501
+22841,"NY","NYBG","547669","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22842,"NY","NYBG","547670","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22843,"NY","NYBG","547671","Habenaria_goyazensis",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22846,"NY","NYBG","1031784","Habenaria_imbricata",NA,"GFJ Pabst",-19.391589,-43.567497,748
+22847,"NY","NYBG","1031785","Habenaria_imbricata",NA,"GFJ Pabst",-13.9457,-47.3451,382
+22848,"NY","NYBG","1031786","Habenaria_imbricata",NA,"GFJ Pabst",-18.18,-43.55,668
+22849,"NY","NYBG","547676","Habenaria_imbricata",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22851,"NY","NYBG","547678","Habenaria_imbricata",NA,"GFJ Pabst",-16.7686,-47.6133,581
+22852,"NY","NYBG","547679","Habenaria_imbricata",NA,"GFJ Pabst",-16.7686,-47.6133,581
+22853,"NY","NYBG","547680","Habenaria_imbricata",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22855,"NY","NYBG","1031783","Habenaria_gracilis",NA,"GFJ Pabst",-18.43185,-43.3919444,708
+22856,"NY","NYBG","1144993","Habenaria_gracilis",NA,"GFJ Pabst",-19.77555,-43.65505,788
+22858,"NY","NYBG","547673","Habenaria_gracilis",NA,"P Cribb",-13.55,-41.95,391
+22863,"NY","NYBG","1031832","Habenaria_guilleminii",NA,"GFJ Pabst",-18.4,-43.72,708
+22865,"NY","NYBG","1031834","Habenaria_guilleminii",NA,"GFJ Pabst",-18.0833,-43.7833,668
+22866,"NY","NYBG","1031835","Habenaria_guilleminii",NA,"GFJ Pabst",-20.1263,-43.4927778,828
+22869,"NY","NYBG","1031837","Habenaria_hamata",NA,"JAN Batista",-14.1167,-47.52596,422
+22871,"NY","NYBG","1031839","Habenaria_hamata",NA,"JAN Batista",-13.93593,-47.5167,382
+22872,"NY","NYBG","1031840","Habenaria_hamata",NA,"GFJ Pabst",-13.9376,-47.5167,382
+22879,"NY","NYBG","1034242","Habenaria_heringeri",NA,"GFJ Pabst",-15.9111,-48.04869,541
+22889,"NY","NYBG","1031847","Habenaria_imbricata",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22914,"NY","NYBG","1031855","Habenaria_leprieuri",NA,"GFJ Pabst",-18.42,-43.73,708
+22920,"NY","NYBG","1031859","Habenaria_leucosantha",NA,"FC Hoehne",-20.4361,-43.7730481,828
+22921,"NY","NYBG","1031860","Habenaria_leucosantha",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22938,"NY","NYBG","1031862","Habenaria_magniscutata",NA,"JAN Batista",-18.358,-43.6836,708
+22939,"NY","NYBG","1031863","Habenaria_magniscutata",NA,"JAN Batista",-14.20708,-47.5167,422
+22940,"NY","NYBG","1031864","Habenaria_magniscutata",NA,"JAN Batista",-13.94497,-47.5167,382
+22941,"NY","NYBG","1031865","Habenaria_spathulifera",NA,"GFJ Pabst",-13.94497,-47.5167,382
+22965,"NY","NYBG","1031869","Habenaria_obtusa",NA,"JAN Batista",-16.7686,-47.6133,581
+22974,"NY","NYBG","1031874","Habenaria_obtusa",NA,"GFJ Pabst",-15.73,-48.12,501
+22976,"NY","NYBG","1031876","Habenaria_obtusa",NA,"GFJ Pabst",-16.73193,-47.6,581
+22984,"NY","NYBG","1031884","Habenaria_obtusa",NA,"GFJ Pabst",-15.7797,-47.9294,501
+22985,"NY","NYBG","1031885","Habenaria_obtusa",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23021,"NY","NYBG","1031896","Habenaria_pleiophylla",NA,"GFJ Pabst",-18.3665,-43.69707,708
+23033,"NY","NYBG","822505","Habenaria_pratensis",NA,"ALV Toscano de Brito",-13.1,-41.55,352
+23035,"NY","NYBG","1031898","Habenaria_pungens",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23060,"NY","NYBG","818246","Habenaria_balansae",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23069,"NY","NYBG","1031906","Habenaria_magniscutata",NA,"GFJ Pabst",-18.17,-43.55,668
+23070,"NY","NYBG","1031907","Habenaria_magniscutata",NA,"GFJ Pabst",-18.18,-43.55,668
+23075,"NY","NYBG","1031912","Habenaria_magniscutata",NA,"GFJ Pabst",-19.278562,-43.548872,748
+23079,"NY","NYBG","818257","Habenaria_rupicola",NA,"GFJ Pabst",-20.1263,-43.4927778,828
+23090,"NY","NYBG","1031913","Habenaria_setacea",NA,"JAN Batista",-15.7797,-47.9294,501
+23091,"NY","NYBG","1031914","Habenaria_setacea",NA,"JAN Batista",-15.7797,-47.9294,501
+23093,"NY","NYBG","1031916","Habenaria_setacea",NA,"JAN Batista",-18.55,-43.58,708
+23094,"NY","NYBG","1031917","Habenaria_setacea",NA,"JAN Batista",-18.55,-43.58,708
+23096,"NY","NYBG","1031918","Habenaria_subfiliformis",NA,"J Renz",-18.55,-43.55,708
+23105,"NY","NYBG","1031924","Habenaria_trifida",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23106,"NY","NYBG","1031925","Habenaria_trifida",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23115,"NY","NYBG","1031927","Habenaria_urbaniana",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23120,"NY","NYBG","1031932","Habenaria_urbaniana",NA,"GFJ Pabst",-14.20708,-47.5167,422
+23124,"NY","NYBG","1031936","Habenaria_urbaniana",NA,"GFJ Pabst",-13.93593,-47.5167,382
+23127,"NY","NYBG","1031937","Habenaria_johannensis",NA,"GFJ Pabst",-19.83305,-43.7263889,788
+23132,"NY","NYBG","1032000","Habenaria_johannensis",NA,"P Cribb",-13.55,-41.95,391
+23134,"NY","NYBG","1031939","Habenaria_melanopoda",NA,"GFJ Pabst",-15.7797,-47.9294,501
+23389,"JBB","HEPH","21553","Habenaria_armata",NA,"JAN Batista",-15.245,-47.581944,461
+23405,"JBB","HEPH","2976","Habenaria_brachydactyla",NA,"JAN Batista",-15.516667,-47.55,502
+23406,"JBB","HEPH","21551","Habenaria_brevidens",NA,"JAN Batista",-15.245,-47.576389,461
+23409,"JBB","HEPH","20383","Habenaria_caldensis",NA,"JAN Batista",-14.016389,-47.526389,382
+23439,"JBB","HEPH","20377","Habenaria_edwallii",NA,"LB Bianchetti",-14.057222,-47.504722,382
+23447,"JBB","HEPH","21461","Habenaria_imbricata",NA,"JAN Batista",-15.191111,-47.595278,461
+23469,"JBB","HEPH","21568","Habenaria_hamata",NA,"JAN Batista",-15.245,-47.576389,461
+23479,"JBB","HEPH","35645","Habenaria_hamata",NA,"DN Carvalho",-15.870278,-47.836944,501
+23486,"JBB","HEPH","20254","Habenaria_heringeri",NA,"JAN Batista",-15.898925,-47.846869,541
+23534,"JBB","HEPH","21583","Habenaria_leprieuri",NA,"JAN Batista",-15.192222,-47.588056,461
+23548,"JBB","HEPH","7807","Habenaria_magniscutata",NA,"JAN Batista",-14.1875,-47.5625,421
+23569,"JBB","HEPH","21552","Habenaria_obtusa",NA,"JAN Batista",-15.245,-47.576389,461
+23578,"JBB","HEPH","21585","Habenaria_obtusa",NA,"JAN Batista",-15.192222,-47.588056,461
+23581,"JBB","HEPH","21613","Habenaria_obtusa",NA,"JAN Batista",-15.192222,-47.588056,461
+23582,"JBB","HEPH","21616","Habenaria_obtusa",NA,"LB Bianchetti",-15.192222,-47.588056,461
+23677,"JBB","HEPH","3099","Habenaria_secundiflora",NA,"JAN Batista",-15.516667,-47.55,502
+23697,"JBB","HEPH","21586","Habenaria_trifida",NA,"JAN Batista",-15.192222,-47.588056,461
+23911,"MNHN","RECOLNAT_MNHN_P","P00408662","Habenaria_meeana",NA,"JAN Batista",-13.55,-41.95,391
+24792,"MO","MOBOT","2826583","Habenaria_caldensis",NA,"JAN Batista",-13.25,-41.9,351
+24853,"MO","MOBOT","2766506","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+24935,"MO","MOBOT","2824972","Habenaria_pseudohamata",NA,"ALV Toscano de Brito",-14.1166667,-42.5,430
+25908,"IBt","SP","378603","Habenaria_ayangannensis",NA,"JAN Batista",-15.866667,-48.016667,501
+25931,"IBt","SP","492225","Habenaria_brevidens",NA,"JAN Batista",-20.12,-43.520833,828
+25967,"IBt","SP","492224","Habenaria_ciliatisepala",NA,"AA Vale",-13.523611,-41.960556,391
+25971,"IBt","SP","474285","Habenaria_crucifera",NA,"TL Vieira",-20.4925,-43.713889,828
+26012,"IBt","SP","490844","Habenaria_espinhacensis",NA,"JAN Batista",-16.551389,-42.899722,589
+26013,"IBt","SP","490846","Habenaria_espinhacensis",NA,"JAN Batista",-18.297778,-43.838056,708
+26014,"IBt","SP","490847","Habenaria_espinhacensis",NA,"JAN Batista",-19.051333,-43.737244,748
+26027,"IBt","SP","348370","Habenaria_glaucophylla","brevifolia","LB Bianchetti",-15.924167,-48.033333,541
+26054,"IBt","SP","348318","Habenaria_goyazensis",NA,"LB Bianchetti",-15.866667,-48.05,501
+26069,"IBt","SP","492200","Habenaria_guilleminii",NA,"DN Carvalho",-20.8475,-45.721944,865
+26085,"IBt","SP","378609","Habenaria_hamata",NA,"JAN Batista",-15.866667,-48,501
+26089,"IBt","SP","348319","Habenaria_heringeri",NA,"LB Bianchetti",-15.866667,-48.05,501
+26101,"IBt","SP","490845","Habenaria_hippocrepica",NA,"JAN Batista",-18.191472,-43.3575,669
+26103,"IBt","SP","490853","Habenaria_hippocrepica",NA,"JAN Batista",-18.340278,-43.549139,708
+26104,"IBt","SP","490854","Habenaria_hippocrepica",NA,"JAN Batista",-18.462472,-43.479417,708
+26105,"IBt","SP","490872","Habenaria_hippocrepica",NA,"JAN Batista",-18.161,-43.320028,669
+26107,"IBt","SP","492211","Habenaria_hippocrepica",NA,"JAN Batista",-18.478056,-43.461667,708
+26108,"IBt","SP","492213","Habenaria_hippocrepica",NA,"JAN Batista",-17.803056,-43.780833,668
+26179,"IBt","SP","474286","Habenaria_josephensis",NA,"TL Vieira",-20.494722,-43.695278,828
+26180,"IBt","SP","474287","Habenaria_josephensis",NA,"TL Vieira",-20.489167,-43.701944,828
+26196,"IBt","SP","319794","Habenaria_lavrensis",NA,"LB Bianchetti",-15.916667,-48.016667,541
+26200,"IBt","SP","378602","Habenaria_lavrensis",NA,"JAN Batista",-15.866667,-48,501
+26201,"IBt","SP","378605","Habenaria_lavrensis",NA,"JAN Batista",-15.866667,-48.016667,501
+26202,"IBt","SP","474288","Habenaria_lavrensis",NA,"TL Vieira",-20.506111,-43.6325,828
+26203,"IBt","SP","474289","Habenaria_lavrensis",NA,"TL Vieira",-20.478611,-43.718056,828
+26204,"IBt","SP","474290","Habenaria_lavrensis",NA,"TL Vieira",-20.478611,-43.718056,828
+26205,"IBt","SP","474324","Habenaria_lavrensis",NA,"JAN Batista",-20.5025,-43.629444,828
+26211,"IBt","SP","378601","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48,501
+26212,"IBt","SP","378604","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48.016667,501
+26213,"IBt","SP","378607","Habenaria_leprieuri",NA,"JAN Batista",-15.866667,-48,501
+26214,"IBt","SP","492223","Habenaria_leprieuri",NA,"JAN Batista",-17.917778,-43.788889,668
+26262,"IBt","SP","154133","Habenaria_magniscutata",NA,"JAN Batista",-19.316667,-43.6,748
+26275,"IBt","SP","352204","Habenaria_magniscutata",NA,"JAN Batista",-14.0725,-47.509167,382
+26276,"IBt","SP","352319","Habenaria_magniscutata",NA,"JAN Batista",-14.0725,-47.509167,382
+26309,"IBt","SP","348346","Habenaria_mystacina",NA,"LB Bianchetti",-15.983333,-47.966667,541
+26312,"IBt","SP","474311","Habenaria_nuda",NA,"TL Vieira",-20.489167,-43.693333,828
+26321,"IBt","SP","305446","Habenaria_obtusa",NA,"JAN Batista",-14.133333,-47.45,422
+26350,"IBt","SP","492133","Habenaria_pansarinii",NA,"JAN Batista",-18.469444,-43.466944,708
+26351,"IBt","SP","492208","Habenaria_pansarinii",NA,"JAN Batista",-18.569722,-43.593889,708
+26352,"IBt","SP","492209","Habenaria_pansarinii",NA,"JAN Batista",-17.9575,-43.783611,668
+26353,"IBt","SP","492129","Habenaria_pansarinii","minuscula","JAN Batista",-19.296472,-43.561639,748
+26380,"IBt","SP","195413","Habenaria_parviflora",NA,"JAN Batista",-18.416667,-43.35,709
+26488,"IBt","SP","195407","Habenaria_petalodes",NA,"JAN Batista",-18.866667,-43.766667,708
+26504,"IBt","SP","492217","Habenaria_petalodes",NA,"JAN Batista",-19.253056,-43.544167,748
+26554,"IBt","SP","488265","Habenaria_reflexicalcar",NA,"JAN Batista",-19.157222,-43.518889,748
+26555,"IBt","SP","490843","Habenaria_reflexicalcar",NA,"JAN Batista",-19.260833,-43.533333,748
+26558,"IBt","SP","490850","Habenaria_reflexicalcar",NA,"JAN Batista",-19.085556,-43.575833,748
+26559,"IBt","SP","490851","Habenaria_reflexicalcar",NA,"JAN Batista",-19.318056,-43.543056,748
+26582,"IBt","SP","487704","Habenaria_repens",NA,"JAN Batista",-19.266667,-43.55,748
+26626,"IBt","SP","492201","Habenaria_secundiflora",NA,"DN Carvalho",-20.859167,-45.711944,865
+26627,"IBt","SP","195357","Habenaria_setacea",NA,"JAN Batista",-18.4,-43.35,709
+26642,"IBt","SP","474325","Habenaria_subviridis",NA,"JAN Batista",-20.489167,-43.663611,828
+26643,"IBt","SP","474326","Habenaria_subviridis",NA,"JAN Batista",-20.5025,-43.629444,828
+26659,"IBt","SP","492219","Habenaria_trifida",NA,"JAN Batista",-20.271389,-43.959167,827
+26703,"INPA","INPA","200923","Habenaria_humilis",NA,"JAN Batista",-16.7686,-47.6133,581
+26704,"INPA","INPA","217230","Habenaria_humilis",NA,"JAN Batista",-16.7686,-47.6133,581
+26770,"UFJF","CESJ","71255","Habenaria_josephensis",NA,"JAN Batista",-21.332083,-44.977444,906
+610,NA,"Botany","U.1459771","Habenaria_bractescens",NA,"P Cribb",-13.6,-41.833333,391
+615,NA,"Botany","U  0098831","Habenaria_meeana",NA,"ALV Toscano de Brito",-13.55,-41.95,391
+18781,"UnB","UB",NA,"Habenaria_caldensis",NA,"JAN Batista",-19.249972,-43.545611,748
+18876,"UnB","UB",NA,"Habenaria_imbricata",NA,"JAN Batista",-20.463333,-43.59,828
+18916,"UnB","UB",NA,"Habenaria_hamata",NA,"DN Carvalho",-15.870278,-47.836944,501
+18989,"UnB","UB",NA,"Habenaria_lavrensis",NA,"JAN Batista",-20.5025,-43.629444,828
+19053,"UnB","UB",NA,"Habenaria_magniscutata",NA,"JAN Batista",-19.316667,-43.6,748
+19275,"UnB","UB",NA,"Habenaria_secundiflora",NA,"JAN Batista",-20.463389,-43.590028,828
+19300,"UnB","UB",NA,"Habenaria_subviridis",NA,"JAN Batista",-20.488889,-43.663611,828
+13947,"K","Herbarium","K000886535","Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+64,"Cenargen","CEN","112154","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+67,"Cenargen","CEN","112156","Habenaria_itaculumia",NA,"JAN Batista",-20.39135163,-43.61077319,828
+68,"Cenargen","CEN","113084","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+71,"Cenargen","CEN","112157","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+76,"Cenargen","CEN","112153","Habenaria_rodriguesii",NA,"JAN Batista",-20.33077985,-43.99288512,827
+80,"Cenargen","CEN","112155","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+83,"Cenargen","CEN","112152","Habenaria_petalodes",NA,"JAN Batista",-20.33077985,-43.99288512,827
+119,"Cenargen","CEN","113085","Habenaria_imbricata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+122,"Cenargen","CEN","112158","Habenaria_rupicola",NA,"JAN Batista",-20.39135163,-43.61077319,828
+802,"Universidade de São Paulo","ESA","95067","Habenaria_caldensis",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+911,"Universidade de São Paulo","ESA","60266","Habenaria_petalodes",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+912,"Universidade de São Paulo","ESA","60210","Habenaria_petalodes",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+913,"Universidade de São Paulo","ESA","60208","Habenaria_secundiflora",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+950,"Universidade de São Paulo","ESA","20625","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+957,"Universidade de São Paulo","ESA","18575","Habenaria_secundiflora",NA,"DN Carvalho",-20.39135163,-43.61077319,828
+959,"Universidade de São Paulo","ESA","18970","Habenaria_guilleminii",NA,"JAN Batista",-21.3517634,-44.71115287,906
+961,"Universidade de São Paulo","ESA","20620","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1077,"Instituto de Botânica","SP","51599","Habenaria_longipedicellata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+1124,"Instituto de Botânica","SP","48278","Habenaria_caldensis",NA,"FC Hoehne",-20.39135163,-43.61077319,828
+1307,"Instituto de Botânica","SP","348137","Habenaria_magniscutata",NA,"JAN Batista",-19.90498217,-47.26662739,782
+1377,"Instituto de Botânica","SP","48262","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+1607,"Instituto de Botânica","SP","28927","Habenaria_rodeiensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+1640,"Instituto de Botânica","SP","272682","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+1691,"Instituto de Botânica","SP","231992","Habenaria_rodeiensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1694,"Instituto de Botânica","SP","231991","Habenaria_humilis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1696,"Instituto de Botânica","SP","231998","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1697,"Instituto de Botânica","SP","231994","Habenaria_alpestris",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1699,"Instituto de Botânica","SP","226982","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1700,"Instituto de Botânica","SP","232002","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1702,"Instituto de Botânica","SP","232003","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1727,"Instituto de Botânica","SP","198362","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1732,"Instituto de Botânica","SP","198361","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1742,"Instituto de Botânica","SP","195396","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1758,"Instituto de Botânica","SP","195399","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1760,"Instituto de Botânica","SP","195433","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1769,"Instituto de Botânica","SP","195398","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1773,"Instituto de Botânica","SP","195395","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1774,"Instituto de Botânica","SP","195340","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1780,"Instituto de Botânica","SP","185775","Habenaria_leucosantha",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1784,"Instituto de Botânica","SP","186433","Habenaria_mystacina",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1785,"Instituto de Botânica","SP","186432","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1790,"Instituto de Botânica","SP","185776","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1870,"Universidade Federal Rural de Pernambuco","HST","8373","Habenaria_alpestris",NA,"E Pessoa",-13.37871216,-41.34499971,352
+2084,"MBM","MBM","415614","Habenaria_espinhacensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+2811,"UFRGS","ICN","021296","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+2898,"MN","R","201503","Habenaria_itaculumia",NA,"JAN Batista",-20.39135163,-43.61077319,828
+2901,"MN","R","201500","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+2912,"MN","R","201501","Habenaria_parviflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+3052,"MN","R","32114","Habenaria_tamanduensis",NA,"JAN Batista",-19.85162379,-43.77954792,788
+3148,"MN","R","32113","Habenaria_tamanduensis",NA,"JAN Batista",-19.85162379,-43.77954792,788
+3207,"MN","R","6085","Habenaria_magdalenensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+3884,"Cenargen","CEN","103057","Habenaria_magdalenensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3899,"Cenargen","CEN","103023","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3902,"Cenargen","CEN","102979","Habenaria_rupicola",NA,"JAN Batista",-20.33077985,-43.99288512,827
+3917,"Cenargen","CEN","102966","Habenaria_mystacina",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3919,"Cenargen","CEN","102978","Habenaria_trifida",NA,"JAN Batista",-20.33077985,-43.99288512,827
+3923,"Cenargen","CEN","102967","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3935,"Cenargen","CEN","102968","Habenaria_hippocrepica",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3936,"Cenargen","CEN","102957","Habenaria_magdalenensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3952,"Cenargen","CEN","102936","Habenaria_mello-barretoi",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3975,"Cenargen","CEN","101495","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+3983,"Cenargen","CEN","101496","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4006,"Cenargen","CEN","101147","Habenaria_pseudoglaucophylla",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4026,"Cenargen","CEN","101087","Habenaria_crucifera",NA,"JAN Batista",-20.33077985,-43.99288512,827
+4033,"Cenargen","CEN","101146","Habenaria_coxipoensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4034,"Cenargen","CEN","101095","Habenaria_petalodes",NA,"JAN Batista",-20.33077985,-43.99288512,827
+4046,"Cenargen","CEN","101036","Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4047,"Cenargen","CEN","101148","Habenaria_petalodes",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4064,"Cenargen","CEN","101089","Habenaria_johannensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+4079,"Cenargen","CEN","101083","Habenaria_edwallii",NA,"JAN Batista",-20.33077985,-43.99288512,827
+4097,"Cenargen","CEN","101088","Habenaria_jaguariahyvae",NA,"JAN Batista",-20.33077985,-43.99288512,827
+4106,"Cenargen","CEN","101010","Habenaria_mystacina",NA,"JAN Batista",-17.99283125,-43.61023331,668
+4232,"Jardim Botânico de Brasília","HEPH","22637","Habenaria_petalodes",NA,"LB Bianchetti",-17.99283125,-43.61023331,668
+4249,"Jardim Botânico de Brasília","HEPH","22591","Habenaria_petalodes",NA,"LB Bianchetti",-17.99283125,-43.61023331,668
+4255,"Jardim Botânico de Brasília","HEPH","22638","Habenaria_hamata",NA,"LB Bianchetti",-17.99283125,-43.61023331,668
+5212,"JBRJ","RB","RB01374554","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5219,"JBRJ","RB","RB01374557","Habenaria_petalodes",NA,"JAN Batista",-20.07438198,-43.90441805,788
+5422,"Cenargen","CEN","98545","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+5425,"Cenargen","CEN","98518","Habenaria_pseudohamata",NA,"JAN Batista",-17.89722293,-42.85874985,669
+5427,"Cenargen","CEN","98511","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+5433,"Cenargen","CEN","98439","Habenaria_repens",NA,"JAN Batista",-17.99283125,-43.61023331,668
+5462,"Cenargen","CEN","93606","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5464,"Cenargen","CEN","93608","Habenaria_hippocrepica",NA,"JAN Batista",-17.99283125,-43.61023331,668
+5466,"Cenargen","CEN","93613","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5468,"Cenargen","CEN","93617","Habenaria_espinhacensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5472,"Cenargen","CEN","93616","Habenaria_espinhacensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+5475,"Cenargen","CEN","93603","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5480,"Cenargen","CEN","93604","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+5760,"JBRJ","RB","RB01306565","Habenaria_exaltata",NA,"LS Leoni",-17.99283125,-43.61023331,668
+6089,"JBRJ","RB","RB00567973","Habenaria_brevidens",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+6301,"JBRJ","RB","RB00257520","Habenaria_nuda",NA,"JAN Batista",-17.99283125,-43.61023331,668
+6574,"JBRJ","RB","RB00257009","Habenaria_ayangannensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+6601,"JBRJ","RB","RB00256939","Habenaria_hexaptera",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+6624,"JBRJ","RB","RB00256857","Habenaria_hamata",NA,"ALV Toscano de Brito",-19.18924536,-43.64555156,748
+6625,"JBRJ","RB","RB00256863","Habenaria_curvilabra",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+7252,"Cenargen","CEN","51723","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7253,"Cenargen","CEN","51713","Habenaria_imbricata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7254,"Cenargen","CEN","51729","Habenaria_secundiflora",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7256,"Cenargen","CEN","51726","Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7257,"Cenargen","CEN","51725","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7258,"Cenargen","CEN","51730","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7259,"Cenargen","CEN","51708","Habenaria_macronectar",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7260,"Cenargen","CEN","51709","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7261,"Cenargen","CEN","51711","Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7263,"Cenargen","CEN","51731","Habenaria_secundiflora",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7264,"Cenargen","CEN","51728","Habenaria_secundiflora",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7265,"Cenargen","CEN","51710","Habenaria_guilleminii",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7267,"Cenargen","CEN","51313","Habenaria_parviflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7268,"Cenargen","CEN","51311","Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7271,"Cenargen","CEN","51310","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7273,"Cenargen","CEN","51317","Habenaria_brevidens",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7274,"Cenargen","CEN","51316","Habenaria_imbricata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7275,"Cenargen","CEN","51309","Habenaria_imbricata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7277,"Cenargen","CEN","51237","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7282,"Cenargen","CEN","51329","Habenaria_petalodes",NA,"JAN Batista",-20.07438198,-43.90441805,788
+7283,"Cenargen","CEN","51315","Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7284,"Cenargen","CEN","51308","Habenaria_itaculumia",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7286,"Cenargen","CEN","51236","Habenaria_ayangannensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7288,"Cenargen","CEN","51306","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7291,"Cenargen","CEN","51338","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7294,"Cenargen","CEN","51235","Habenaria_leprieuri",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7296,"Cenargen","CEN","51261","Habenaria_subfiliformis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7298,"Cenargen","CEN","51234","Habenaria_magniscutata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7299,"Cenargen","CEN","51318","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+7300,"Cenargen","CEN","51260","Habenaria_ayangannensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7304,"Cenargen","CEN","51238","Habenaria_imbricata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7324,"Cenargen","CEN","50466","Habenaria_tamanduensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7429,"Cenargen","CEN","37212","Habenaria_petalodes",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7453,"Cenargen","CEN","37208","Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7460,"Cenargen","CEN","37210","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7465,"Cenargen","CEN","37183","Habenaria_secundiflora",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7468,"Cenargen","CEN","37211","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7485,"Cenargen","CEN","35139","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7528,"Cenargen","CEN","35084","Habenaria_leprieuri",NA,"JAN Batista",-19.90498217,-47.26662739,782
+7531,"Cenargen","CEN","35085","Habenaria_imbricata",NA,"JAN Batista",-19.90498217,-47.26662739,782
+7544,"Cenargen","CEN","34501","Habenaria_longipedicellata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7547,"Cenargen","CEN","34514","Habenaria_subfiliformis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7549,"Cenargen","CEN","34495","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7550,"Cenargen","CEN","34512","Habenaria_longipedicellata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7551,"Cenargen","CEN","34506","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7552,"Cenargen","CEN","34505","Habenaria_parviflora",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7554,"Cenargen","CEN","34494","Habenaria_longipedicellata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7556,"Cenargen","CEN","34519","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7558,"Cenargen","CEN","34467","Habenaria_caldensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7560,"Cenargen","CEN","34466","Habenaria_longipedicellata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7563,"Cenargen","CEN","34513","Habenaria_edwallii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7564,"Cenargen","CEN","34468","Habenaria_balansae",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7565,"Cenargen","CEN","34496","Habenaria_cultellifolia",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7566,"Cenargen","CEN","34474","Habenaria_longipedicellata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7567,"Cenargen","CEN","34475","Habenaria_guilleminii",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7572,"Cenargen","CEN","34416","Habenaria_longipedicellata",NA,"JAN Batista",-20.33077985,-43.99288512,827
+7573,"Cenargen","CEN","34503","Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7577,"Cenargen","CEN","34480","Habenaria_longipedicellata",NA,"JAN Batista",-19.18924536,-43.64555156,748
+7864,"Cenargen","CEN","16050","Habenaria_armata",NA,"LB Bianchetti",-20.39135163,-43.61077319,828
+7865,"Cenargen","CEN","16051","Habenaria_parviflora",NA,"LB Bianchetti",-20.39135163,-43.61077319,828
+9170,"MBM","MBM","214067","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9180,"MBM","MBM","214014","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9331,"MBM","MBM","34475","Habenaria_josephensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+9358,"MBM","MBM","24829","Habenaria_mystacina",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9385,"MBM","MBM","20203","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9493,"UFRGS","ICN","145974","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9680,"Cenargen","CEN","64741","Habenaria_pubidactyla",NA,"JAN Batista",-19.18924536,-43.64555156,748
+9774,"Cenargen","CEN","51312","Habenaria_quadriferricola",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9776,"Cenargen","CEN","51307","Habenaria_rupicola",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9784,"Cenargen","CEN","51262","Habenaria_ayangannensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9785,"Cenargen","CEN","51314","Habenaria_rupicola",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9803,"Cenargen","CEN","50854","Habenaria_pubidactyla","apiculatipetala","JAN Batista",-20.39135163,-43.61077319,828
+9898,"Cenargen","CEN","37209","Habenaria_nuda",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9939,"Cenargen","CEN","35464","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9947,"Cenargen","CEN","35137","Habenaria_hippocrepica",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9955,"Cenargen","CEN","35141","Habenaria_jaguariahyvae",NA,"JAN Batista",-20.39135163,-43.61077319,828
+9969,"Cenargen","CEN","34498","Habenaria_reflexicalcar",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9971,"Cenargen","CEN","34464","Habenaria_alpestris",NA,"JAN Batista",-20.33077985,-43.99288512,827
+9974,"Cenargen","CEN","34420","Habenaria_crucifera",NA,"JAN Batista",-20.33077985,-43.99288512,827
+9975,"Cenargen","CEN","34473","Habenaria_reflexicalcar",NA,"JAN Batista",-20.33077985,-43.99288512,827
+10620,"UFU","HUFU","36748","Habenaria_ayangannensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+10635,"UFU","HUFU","24753","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+11154,"UNICAMP","UEC","135346","Habenaria_petalodes",NA,"RB Singer",-21.3517634,-44.71115287,906
+11297,"UNICAMP","UEC","118007","Habenaria_guilleminii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+11306,"UNICAMP","UEC","117527","Habenaria_caldensis",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+11318,"UNICAMP","UEC","117507","Habenaria_magniscutata",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+11346,"UNICAMP","UEC","114537","Habenaria_caldensis",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+11347,"UNICAMP","UEC","114536","Habenaria_secundiflora",NA,"DN Carvalho",-17.99283125,-43.61023331,668
+11399,"UNICAMP","UEC","79151","Habenaria_culicina",NA,"JAN Batista",-21.3517634,-44.71115287,906
+11411,"UNICAMP","UEC","56889","Habenaria_mystacina",NA,"JAN Batista",-17.99283125,-43.61023331,668
+11453,"UNICAMP","UEC","29943","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+12814,"UFOP","OUPR","18542","Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12818,"UFOP","OUPR","16458","Habenaria_petalodes",NA,"F Barros",-20.39135163,-43.61077319,828
+12819,"UFOP","OUPR","16262","Habenaria_caldensis",NA,"TL Vieira",-20.39135163,-43.61077319,828
+12820,"UFOP","OUPR","16281","Habenaria_guilleminii",NA,"TL Vieira",-19.18924536,-43.64555156,748
+12825,"UFOP","OUPR","14155","Habenaria_rupicola",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12826,"UFOP","OUPR","13475","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12827,"UFOP","OUPR","13428","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12828,"UFOP","OUPR","9894","Habenaria_petalodes",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12832,"UFOP","OUPR","9714","Habenaria_brevidens",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12833,"UFOP","OUPR","9717","Habenaria_macronectar",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12835,"UFOP","OUPR","9721","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12842,"UFOP","OUPR","9718","Habenaria_johannensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12843,"UFOP","OUPR","9704","Habenaria_crucifera",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12845,"UFOP","OUPR","9712","Habenaria_caldensis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12846,"UFOP","OUPR","9719","Habenaria_longipedicellata",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12848,"UFOP","OUPR","9723","Habenaria_petalodes",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12850,"UFOP","OUPR","9703","Habenaria_crucifera",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12853,"UFOP","OUPR","9484","Habenaria_petalodes",NA,"F Barros",-20.39135163,-43.61077319,828
+12855,"UFOP","OUPR","8253","Habenaria_petalodes",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12857,"UFOP","OUPR","7315","Habenaria_petalodes",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12858,"UFOP","OUPR","7317","Habenaria_petalodes",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12860,"UFOP","OUPR","3947","Habenaria_parviflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12861,"UFOP","OUPR","3948","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12863,"UFOP","OUPR","1443","Habenaria_rodeiensis",NA,"F Barros",-20.39135163,-43.61077319,828
+12864,"UFOP","OUPR","1448","Habenaria_petalodes",NA,"TL Vieira",-20.39135163,-43.61077319,828
+12905,"UnB","UB","19884","Habenaria_trifida",NA,"JAN Batista",-20.39135163,-43.61077319,828
+12910,"UnB","UB","19870","Habenaria_hippocrepica",NA,"JAN Batista",-17.99283125,-43.61023331,668
+13029,"FZB-BH","BHZB","1089","Habenaria_humilis",NA,"JAN Batista",-20.33077985,-43.99288512,827
+992,"Universidade de São Paulo","ESA","120928","Habenaria_brevidens",NA,"DN Carvalho",-20.27972,-46.52073,823
+1040,"Instituto de Botânica","SP","487704","Habenaria_repens",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1079,"Instituto de Botânica","SP","492217","Habenaria_petalodes",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1095,"Instituto de Botânica","SP","492219","Habenaria_trifida",NA,"JAN Batista",-20.33077985,-43.99288512,827
+1099,"Instituto de Botânica","SP","490844","Habenaria_espinhacensis",NA,"JAN Batista",-16.551389,-42.899722,589
+1103,"Instituto de Botânica","SP","490872","Habenaria_hippocrepica",NA,"JAN Batista",-18.161,-43.320028,669
+1106,"Instituto de Botânica","SP","490851","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1111,"Instituto de Botânica","SP","490847","Habenaria_espinhacensis",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1112,"Instituto de Botânica","SP","490843","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+1216,"Instituto de Botânica","SP","378609","Habenaria_hamata",NA,"JAN Batista",-15.866667,-48,501
+1218,"Instituto de Botânica","SP","378603","Habenaria_ayangannensis",NA,"JAN Batista",-15.866667,-48.016667,501
+1298,"Instituto de Botânica","SP","348344","Habenaria_subviridis",NA,"JAN Batista",-20.39135163,-43.61077319,828
+2107,"MBM","MBM","410438","Habenaria_hippocrepica",NA,"JAN Batista",-17.803056,-43.780833,668
+1033,"Instituto de Botânica","SP","490849","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+2106,"MBM","MBM","415604","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+2848,"USP","SPF","227433","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+3840,"NY","NY","547624","Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+7285,"Cenargen","CEN","51264","Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7718,"Cenargen","CEN","25423","Habenaria_hamata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7733,"Cenargen","CEN","25424","Habenaria_hamata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+7993,"MO","MO","2826282","Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+8029,"MO","MO","2825689","Habenaria_trifida",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+8031,"MO","MO","2825618","Habenaria_montevidensis",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+8065,"MO","MO","2824805","Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+9144,"MBM","MBM","347346","Habenaria_mystacina",NA,"JAN Batista",-19.18924536,-43.64555156,748
+9778,"Cenargen","CEN","51263","Habenaria_alpestris",NA,"JAN Batista",-17.99283125,-43.61023331,668
+9780,"Cenargen","CEN","51240","Habenaria_hippocrepica",NA,"JAN Batista",-19.18924536,-43.64555156,748
+9789,"Cenargen","CEN","51242","Habenaria_mystacina",NA,"JAN Batista",-19.18924536,-43.64555156,748
+9798,"Cenargen","CEN","51241","Habenaria_repens",NA,"JAN Batista",-19.18924536,-43.64555156,748
+10098,"Cenargen","CEN","25428","Habenaria_ciliatisepala",NA,"JAN Batista",-17.99283125,-43.61023331,668
+12903,"UnB","UB","19867","Habenaria_secundiflora",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+12915,"UnB","UB","19879","Habenaria_jaguariahyvae",NA,"JAN Batista",-17.99283125,-43.61023331,668
+12924,"UnB","UB","19869","Habenaria_armata",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+13737,"K","Herbarium","K000847406","Habenaria_culicina",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+13747,"K","Herbarium","K000847414","Habenaria_guilleminii",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+13965,"K","Herbarium","K000886507","Habenaria_caldensis",NA,"J Renz",-17.99283125,-43.61023331,668
+20369,"EAO","IAN","138327","Habenaria_petalodes",NA,"JAN Batista",-17.99283125,-43.61023331,668
+22764,"NY","NYBG","547624","Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+23859,"MNHN","RECOLNAT_MNHN_P","P00408614","Habenaria_hamata",NA,"JAN Batista",-12.42339943,-41.88215591,311
+24786,"MO","MOBOT","2826282","Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+24868,"MO","MOBOT","2825618","Habenaria_montevidensis",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+24915,"MO","MOBOT","2824805","Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+25001,"MO","MOBOT","2825689","Habenaria_trifida",NA,"GFJ Pabst",-20.07438198,-43.90441805,788
+26557,"IBt","SP","490849","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+18979,"UnB","UB",NA,"Habenaria_mystacina",NA,"JAN Batista",-17.99283125,-43.61023331,668
+18998,"UnB","UB",NA,"Habenaria_leprieuri",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+19050,"UnB","UB",NA,"Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+19051,"UnB","UB",NA,"Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+19052,"UnB","UB",NA,"Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+19054,"UnB","UB",NA,"Habenaria_magniscutata",NA,"JAN Batista",-17.99283125,-43.61023331,668
+19212,"UnB","UB",NA,"Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+19214,"UnB","UB",NA,"Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+19217,"UnB","UB",NA,"Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+5857,"JBRJ","RB","RB01215287","Habenaria_reflexicalcar",NA,"JAN Batista",-19.18924536,-43.64555156,748
+6080,"JBRJ","RB","RB00567971","Habenaria_brevidens",NA,"A Cogniaux",-17.99283125,-43.61023331,668
+6217,"JBRJ","RB","RB00297442","Habenaria_petalodes",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+6289,"JBRJ","RB","RB00257567","Habenaria_melanopoda",NA,"JAN Batista",-20.39135163,-43.61077319,828
+6499,"JBRJ","RB","RB00257190","Habenaria_jaguariahyvae",NA,"JAN Batista",-20.07438198,-43.90441805,788
+6599,"JBRJ","RB","RB00256971","Habenaria_humilis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+6637,"JBRJ","RB","RB00251092","Habenaria_guilleminii",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+20288,"EAO","IAN","138471","Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+18776,"UnB","UB",NA,"Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+18777,"UnB","UB",NA,"Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+18778,"UnB","UB",NA,"Habenaria_caldensis",NA,"GFJ Pabst",-17.99283125,-43.61023331,668
+18782,"UnB","UB",NA,"Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+18783,"UnB","UB",NA,"Habenaria_caldensis",NA,"JAN Batista",-17.99283125,-43.61023331,668
+18834,"UnB","UB",NA,"Habenaria_edwallii",NA,"JAN Batista",-17.99283125,-43.61023331,668
+19274,"UnB","UB",NA,"Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828
+19276,"UnB","UB",NA,"Habenaria_secundiflora",NA,"JAN Batista",-20.39135163,-43.61077319,828

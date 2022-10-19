@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="76823beb-2f33-47a6-96a1-ccd2df47ac28"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/urlzfj</alternateIdentifier>
+        <alternateIdentifier>76823beb-2f33-47a6-96a1-ccd2df47ac28</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=ase</alternateIdentifier>
+    <title>ASE - Herbário da Universidade Federal de Sergipe</title>
+    <creator>
+    <individualName>
+<givenName>Marla Ibrahim</givenName>          <surName>Uehbe de Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal de Sergipe UFS</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Universidade Federal de Sergipe, Departamento de Biologia; Campus Prof. José Aloísio de Campos</deliveryPoint><city>São Cristóvão</city><administrativeArea>Sergipe</administrativeArea><postalCode>49100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 79 3194-6670</phone><electronicMailAddress>marlauehbe@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.herbarioase.ufs.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marla Ibrahim</givenName>          <surName>Uehbe de Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal de Sergipe UFS</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Universidade Federal de Sergipe, Departamento de Biologia; Campus Prof. José Aloísio de Campos</deliveryPoint><city>São Cristóvão</city><administrativeArea>Sergipe</administrativeArea><postalCode>49100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 79 3194-6670</phone><electronicMailAddress>marlauehbe@yahoo.com.br</electronicMailAddress><onlineUrl>hhttp://www.herbarioase.ufs.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-11
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A Coleção do Herbário da Universidade Federal de Sergipe (ASE) foi inaugurada em 1974 e compõe um importante acervo de plantas do nordeste, particularmente de Sergipe. Apesar de este Estado possuir uma grande variação vegetacional, ainda há lacunas de conhecimento relacionadas à riqueza e distribuição de táxons nesses ambientes que, além de terem sido pouco estudados, encontram-se em estágio avançado de degradação. A coleção do ASE é considerada uma importante base de dados para estudos realizados por alunos de graduação e pesquisadores de Sergipe e do Brasil. A partir dela, são viabilizados conhecimentos sobre táxons no Estado e fornecidos subsídios para a catalogação, conservação e divulgação da flora brasileira. Até o momento, a coleção é constituída por cerca de 38.500 amostras distribuídas em: cinco famílias de macroalgas; duas famílias de Lycophyta; 17 famílias de Monilophyta; três famílias de Pinophyta; e 162 famílias de Magnoliophyta. Ainda, o ASE abriga três holótipos, cinco isótipos e nove parátipos pertencentes a nove famílias de angiospermas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Restinga</keyword>
+              <keyword>Caatinga</keyword>
+              <keyword>Cyperaceae</keyword>
+              <keyword>Myrtaceae</keyword>
+              <keyword>Nordeste brasileiro</keyword>
+              <keyword>Manguezais</keyword>
+              <keyword>Poaceae</keyword>
+              <keyword>Mata Atlântica</keyword>
+              <keyword>Fabaceae</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=ASE</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Parque Nacional da Serra de Itabaiana, Reserva Biológica de Santa Isabel, Floresta Nacional do Ibura, Refúgio da Vida Silvestre Mata do Junco
+Várias áreas a serem cobertas</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Protista</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marla Ibrahim</givenName>          <surName>Uehbe de Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal de Sergipe UFS</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Universidade Federal de Sergipe, Departamento de Biologia; Campus Prof. José Aloísio de Campos</deliveryPoint><city>São Cristóvão</city><administrativeArea>Sergipe</administrativeArea><postalCode>49100-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 79 3194-6670</phone><electronicMailAddress>marlauehbe@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.herbarioase.ufs.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:32Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=ASE">Uehbe de Oliveira M I (2020). ASE - Herbário da Universidade Federal de Sergipe. Version 1.73. Universidade Federal de Sergipe. Occurrence dataset https://doi.org/10.15468/urlzfj accessed via GBIF.org on 2020-08-26.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=ase</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

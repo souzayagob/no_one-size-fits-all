@@ -1,0 +1,205 @@
+#NEXUS
+[R-package APE, Thu Oct  1 14:03:35 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 96;
+	TAXLABELS
+		Barbacenia_bishopii
+		Barbacenia_blackii
+		Barbacenia_gentianoides
+		Barbacenia_delicatula
+		Barbacenia_flava
+		Barbacenia_longiflora
+		Barbacenia_involucrata
+		Barbacenia_gardneri
+		Barbacenia_vandellii
+		Barbacenia_glutinosa
+		Barbacenia_graminifolia
+		Barbacenia_filamentifera
+		Barbacenia_rubrovirens
+		Barbacenia_pungens
+		Barbacenia_ignea
+		Barbacenia_markgrafii
+		Barbacenia_spiralis
+		Barbacenia_fulva
+		Barbacenia_lymansmithii
+		Barbacenia_glabra
+		Barbacenia_latifolia
+		Barbacenia_longiscapa
+		Barbacenia_plantaginea
+		Barbacenia_umbrosa
+		Barbacenia_contasana
+		Barbacenia_tomentosa
+		Barbacenia_reflexa
+		Barbacenia_serracabralea
+		Barbacenia_macrantha
+		Barbacenia_nana
+		Barbacenia_regis
+		Barbacenia_blanchetii
+		Barbacenia_flavida
+		Vellozia_abietina
+		Vellozia_semirii
+		Vellozia_graomogolensis
+		Vellozia_streptophylla
+		Vellozia_prolifera
+		Vellozia_spiralis
+		Vellozia_brevifolia
+		Vellozia_tragacantha
+		Vellozia_auriculata
+		Vellozia_glabra
+		Vellozia_ornata
+		Vellozia_declinans
+		Vellozia_taxifolia
+		Vellozia_cryptantha
+		Vellozia_epidendroides
+		Vellozia_gigantea
+		Vellozia_strangii
+		Vellozia_marcescens
+		Vellozia_intermedia
+		Vellozia_patens
+		Vellozia_breviscapa
+		Vellozia_caruncularis
+		Vellozia_subscabra
+		Vellozia_hatschbachii
+		Vellozia_variabilis
+		Vellozia_obtecta
+		Vellozia_peripherica
+		Vellozia_resinosa
+		Vellozia_barbata
+		Vellozia_sellowii
+		Vellozia_giuliettiae
+		Vellozia_minima
+		Vellozia_stenocarpa
+		Vellozia_ciliata
+		Vellozia_alata
+		Vellozia_compacta
+		Vellozia_graminea
+		Vellozia_punctulata
+		Vellozia_aloifolia
+		Vellozia_caespitosa
+		Vellozia_metzgerae
+		Vellozia_caudata
+		Vellozia_hemisphaerica
+		Vellozia_jolyi
+		Vellozia_religiosa
+		Vellozia_canelinha
+		Vellozia_geotegens
+		Vellozia_albiflora
+		Vellozia_nanuzae
+		Vellozia_glauca
+		Vellozia_hirsuta
+		Vellozia_candida
+		Vellozia_armata
+		Vellozia_luteola
+		Vellozia_dasypus
+		Vellozia_froesii
+		Vellozia_seubertiana
+		Vellozia_furcata
+		Vellozia_exilis
+		Vellozia_goiasensis
+		Vellozia_maxillarioides
+		Vellozia_nivea
+		Vellozia_tubiflora
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Barbacenia_bishopii,
+		2	Barbacenia_blackii,
+		3	Barbacenia_gentianoides,
+		4	Barbacenia_delicatula,
+		5	Barbacenia_flava,
+		6	Barbacenia_longiflora,
+		7	Barbacenia_involucrata,
+		8	Barbacenia_gardneri,
+		9	Barbacenia_vandellii,
+		10	Barbacenia_glutinosa,
+		11	Barbacenia_graminifolia,
+		12	Barbacenia_filamentifera,
+		13	Barbacenia_rubrovirens,
+		14	Barbacenia_pungens,
+		15	Barbacenia_ignea,
+		16	Barbacenia_markgrafii,
+		17	Barbacenia_spiralis,
+		18	Barbacenia_fulva,
+		19	Barbacenia_lymansmithii,
+		20	Barbacenia_glabra,
+		21	Barbacenia_latifolia,
+		22	Barbacenia_longiscapa,
+		23	Barbacenia_plantaginea,
+		24	Barbacenia_umbrosa,
+		25	Barbacenia_contasana,
+		26	Barbacenia_tomentosa,
+		27	Barbacenia_reflexa,
+		28	Barbacenia_serracabralea,
+		29	Barbacenia_macrantha,
+		30	Barbacenia_nana,
+		31	Barbacenia_regis,
+		32	Barbacenia_blanchetii,
+		33	Barbacenia_flavida,
+		34	Vellozia_abietina,
+		35	Vellozia_semirii,
+		36	Vellozia_graomogolensis,
+		37	Vellozia_streptophylla,
+		38	Vellozia_prolifera,
+		39	Vellozia_spiralis,
+		40	Vellozia_brevifolia,
+		41	Vellozia_tragacantha,
+		42	Vellozia_auriculata,
+		43	Vellozia_glabra,
+		44	Vellozia_ornata,
+		45	Vellozia_declinans,
+		46	Vellozia_taxifolia,
+		47	Vellozia_cryptantha,
+		48	Vellozia_epidendroides,
+		49	Vellozia_gigantea,
+		50	Vellozia_strangii,
+		51	Vellozia_marcescens,
+		52	Vellozia_intermedia,
+		53	Vellozia_patens,
+		54	Vellozia_breviscapa,
+		55	Vellozia_caruncularis,
+		56	Vellozia_subscabra,
+		57	Vellozia_hatschbachii,
+		58	Vellozia_variabilis,
+		59	Vellozia_obtecta,
+		60	Vellozia_peripherica,
+		61	Vellozia_resinosa,
+		62	Vellozia_barbata,
+		63	Vellozia_sellowii,
+		64	Vellozia_giuliettiae,
+		65	Vellozia_minima,
+		66	Vellozia_stenocarpa,
+		67	Vellozia_ciliata,
+		68	Vellozia_alata,
+		69	Vellozia_compacta,
+		70	Vellozia_graminea,
+		71	Vellozia_punctulata,
+		72	Vellozia_aloifolia,
+		73	Vellozia_caespitosa,
+		74	Vellozia_metzgerae,
+		75	Vellozia_caudata,
+		76	Vellozia_hemisphaerica,
+		77	Vellozia_jolyi,
+		78	Vellozia_religiosa,
+		79	Vellozia_canelinha,
+		80	Vellozia_geotegens,
+		81	Vellozia_albiflora,
+		82	Vellozia_nanuzae,
+		83	Vellozia_glauca,
+		84	Vellozia_hirsuta,
+		85	Vellozia_candida,
+		86	Vellozia_armata,
+		87	Vellozia_luteola,
+		88	Vellozia_dasypus,
+		89	Vellozia_froesii,
+		90	Vellozia_seubertiana,
+		91	Vellozia_furcata,
+		92	Vellozia_exilis,
+		93	Vellozia_goiasensis,
+		94	Vellozia_maxillarioides,
+		95	Vellozia_nivea,
+		96	Vellozia_tubiflora
+	;
+	TREE * UNTITLED = [&R] (((((((1:0.001316014802,2:0.001316014802):0.003073306557,3:0.004389321358):0.008921721586,4:0.01331104294):0.004286189352,((((((((5:0.002585988582,(((6:0.001535594354,7:0.001535594354):0.0003083012481,8:0.001843895602):0.0004270314093,9:0.002270927012):0.0003150615703):0.0008666947159,(10:0.002588266461,11:0.002588266461):0.000864416837):0.003843763943,(((12:0.003059079533,13:0.003059079533):0.0009060940624,14:0.003965173595):0.001331411884,((15:0.002429334136,16:0.002429334136):0.001316649544,17:0.00374598368):0.001550601799):0.001999861762):0.0006617814812,((18:0.003550682326,19:0.003550682326):0.001805771831,20:0.005356454158):0.002601774565):0.0007100813369,(21:0.007475151955,((22:0.003280491176,23:0.003280491176):0.002314182152,24:0.005594673328):0.001880478626):0.001193158104):0.0019854996,((25:0.003062917421,26:0.003062917421):0.0009524194275,27:0.004015336849):0.00663847281):0.002610333472,28:0.01326414313):0.003034814262,(29:0.008210117105,30:0.008210117105):0.008088840288):0.001298274903):0.002670541231,31:0.02026777353):0.002089507268,(32:0.01565577057,33:0.01565577057):0.006701510221):0.04663003337,(((((((((((((34:0.004367045282,35:0.004367045282):0.000567345109,36:0.004934390391):0.00100090063,37:0.005935291021):0.001337575394,(38:0.004971503563,39:0.004971503563):0.002301362852):0.002523781255,40:0.009796647671):0.0009867732316,41:0.0107834209):0.00336500107,((((((((42:0.002723041049,43:0.002723041049):0.001328525301,44:0.00405156635):0.001013690963,(45:0.00225169649,46:0.00225169649):0.002813560823):0.0002591854538,47:0.005324442767):0.0008524503889,48:0.006176893156):0.002437419965,49:0.008614313121):0.002237603465,((((((50:0.004204048396,51:0.004204048396):0.0001408445256,52:0.004344892922):0.001998619369,53:0.00634351229):0.0013692967,(((54:0.001719341999,55:0.001719341999):0.0009408509741,56:0.002660192973):0.003463176062,(57:0.005277964864,58:0.005277964864):0.0008454041706):0.001589439955):0.0009121657659,(59:0.005080609563,60:0.005080609563):0.003544365193):0.001275679439,61:0.009900654195):0.0009512623912):0.001461821913,((62:0.00971359569,63:0.00971359569):0.001062740273,((64:0.005071325916,65:0.005071325916):0.003942557878,66:0.009013883794):0.00176245217):0.001537402535):0.001834683473):0.00168470015,67:0.01583312212):0.002589132432,(68:0.01508071819,((69:0.00627497264,70:0.00627497264):0.006748296186,71:0.01302326883):0.002057449368):0.003341536362):0.005123027774,((72:0.00406110416,73:0.00406110416):0.005809600316,74:0.009870704476):0.01367457785):0.004217092537,(((75:0.005562790443,76:0.005562790443):0.009630787137,(77:0.005893679399,78:0.005893679399):0.009299898181):0.006376811575,79:0.02157038916):0.006191985711):0.002425145076,(((((80:0.002134314125,81:0.002134314125):0.0007135495743,82:0.002847863699):0.003974502223,(83:0.004757542877,84:0.004757542877):0.002064823045):0.001734306047,85:0.008556671969):0.01073639586,((86:0.01140022395,87:0.01140022395):0.004145942565,(88:0.0111986058,((89:0.005612321367,90:0.005612321367):0.002946336986,91:0.008558658354):0.002639947451):0.004347560707):0.003746901317):0.01089445211):0.003969792577,(((92:0.009131942701,93:0.009131942701):0.01051577166,(94:0.01645375459,95:0.01645375459):0.003193959768):0.005473739604,96:0.02512145396):0.009035858556):0.03483000164);
+END;

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9f6f3c1c-b8b2-4d1d-be3e-36217e1cb9b8"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/tqcbr0</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=vit-vasculares</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=vit-vasculares</alternateIdentifier>
+        <alternateIdentifier>9f6f3c1c-b8b2-4d1d-be3e-36217e1cb9b8</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=vit-vasculares</alternateIdentifier>
+    <title>VIT Herbarium - Vascular Plants (The Natural History Museum of Alava)</title>
+    <creator>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Infante Sánchez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>associate curator</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+ 34 945 181924</phone><electronicMailAddress>bazzania.vit@gmail.com</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Patxi</givenName>          <surName>Heras Pérez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+34945181924</phone><electronicMailAddress>bazzania.vit@gmail.com</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Patxi</givenName>          <surName>Heras Pérez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+ 34 945 181924</phone><electronicMailAddress>bazzania.vit@gmail.com</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jesús</givenName>          <surName>Alonso Ramírez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+ 34 945 181924</phone><electronicMailAddress>jalonso@araba.eus</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>VIT herbarium-Vasculars (Ferns and Phanerogams) contains ca. 139.000 sheets belonging to ca. 9.650 taxones. It contains 119 types. 70% of this collection is computerized. It was founded in 1975 by Pedro Uribe-Echebarría and Luis Antonio Pérez de Heredia, most of its specimens have been collected since then, but it also holds two historical herbaria, one dating from the XVIIIth century (Lorenzo Prestamero&amp;#39;s herbarium) and the other from the XIXth century (José María de Lacoizqueta&amp;#39;s herbarium).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Best represented geographic areas: Spain (Basque region, Ebro valley, Aragón, Iberian Range, Cantabrian Range, Pyrenees). Others: Europe (France, Great Britain), Africa (Morocco), South America (Brazil, Peru).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                          <commonName>Vascular plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Patxi</givenName>          <surName>Heras Pérez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+ 34 945 181924</phone><electronicMailAddress>bazzania.vit@gmail.com</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Jesús</givenName>          <surName>Alonso Ramírez</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de Álava/Arabako Natur Zientzien Museoa</organizationName><positionName>Custodian - director</positionName>    <address>
+<deliveryPoint>Siervas de Jesús 24</deliveryPoint><city>Vitoria-Gasteiz</city><administrativeArea>Álava</administrativeArea><postalCode>E-01001</postalCode><country>SPAIN</country>    </address>
+<phone>+ 34 945 181924</phone><electronicMailAddress>jalonso@araba.eus</electronicMailAddress><onlineUrl>http://www.araba.eus/cs/Satellite?c=DPA_Cultura_FA&amp;cid=1193045760162&amp;pageid=1193045487374&amp;pagename=DiputacionAlava%2FDPA_Cultura_FA%2FDPA_museo</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:30Z</dateStamp>
+      <citation>Infante Sánchez M, Heras Pérez P (2020). VIT Herbarium - Vascular Plants (The Natural History Museum of Alava). Version 1.9. Natural History Museum of Alava (Museo de Ciencias Naturales de Álava). Occurrence dataset https://doi.org/10.15468/tqcbr0 accessed via GBIF.org on 2020-08-12.</citation>
+              <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=vit-vasculares</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>VIT Herbarium</parentCollectionIdentifier>
+                <collectionIdentifier>VIT-Vasculares</collectionIdentifier>
+                <collectionName>VIT -Vasculares</collectionName>
+              </collection>
+              <formationPeriod>1975-current</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>sheets</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="200">139,000</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

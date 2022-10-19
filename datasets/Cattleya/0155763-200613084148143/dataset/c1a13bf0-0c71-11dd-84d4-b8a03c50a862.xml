@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c1a13bf0-0c71-11dd-84d4-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ufmslw</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.se/ipt/resource?r=uppsala-botany</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.se/ipt/resource.do?r=uppsala-botany</alternateIdentifier>
+        <alternateIdentifier>c1a13bf0-0c71-11dd-84d4-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>1045</alternateIdentifier>
+    <title>Botany (UPS)</title>
+    <creator>
+    <individualName>
+<givenName>Anders</givenName>          <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Manash</givenName>          <surName>Shah</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Database Developer</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>manash.shah@nrm.se</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Anders</givenName>          <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-07-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Database of the botany collection of the Museum of Evolution in Uppsala.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Anders</givenName>          <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish museum of natural history</organizationName><positionName>Node manager</positionName>    <address>
+<city>Stockholm</city><country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:24:27Z</dateStamp>
+      <citation>Telenius A, Shah M (2018). Botany (UPS). GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/ufmslw accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="15e887a4-973c-4b84-b421-ca65584a4c75"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/gtxawd</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=ufrn_herbarium</alternateIdentifier>
+        <alternateIdentifier>15e887a4-973c-4b84-b421-ca65584a4c75</alternateIdentifier>
+    <title>UFRN herbarium - Universidade Federal do Rio Grande do Norte - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>Leonardo de Melo</givenName>          <surName>Versieux</surName>
+    </individualName>
+<organizationName>Rio Grande do Norte Federal University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade Federal do Rio Grande do Norte, Nº0 - Bairro: Lagoa Nova</deliveryPoint><city>Natal</city><administrativeArea>Rio Grande do Norte</administrativeArea><postalCode>59078-970</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>lversieux@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=ufrn&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Anderson Lopes</givenName>          <surName>Fontes</surName>
+    </individualName>
+<organizationName>Rio Grande do Norte Federal University</organizationName><positionName>Técnico de laboratório</positionName>    <address>
+<deliveryPoint>Universidade Federal do Rio Grande do Norte, Nº0 - Bairro: Lagoa Nova</deliveryPoint><city>Natal</city><administrativeArea>Rio Grande do Norte</administrativeArea><postalCode>59078-970</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>andersonlfontes@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=ufrn&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Leonardo de Melo</givenName>          <surName>Versieux</surName>
+    </individualName>
+<organizationName>Rio Grande do Norte Federal University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade Federal do Rio Grande do Norte, Nº0 - Bairro: Lagoa Nova</deliveryPoint><city>Natal</city><administrativeArea>Rio Grande do Norte</administrativeArea><postalCode>59078-970</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>lversieux@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=ufrn&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vitor</givenName>          <surName>Monteiro</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>REFLORA Felow</positionName>    <address>
+<country>BRAZIL</country>    </address>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-21
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário UFRN, fundado em 1989, é uma coleção científica de referência sobre a Flora Potiguar. Encontra-se registrado no Ministério do Meio Ambiente (instituição Fiel Depositária), no Index Herbariorum, no INCT Herbário Virtual da Flora e dos Fungos e sua importância e gerência excede o Dept. de Botânica e Zoologia (que o hospeda na Univ. Federa do Rio Grande do Norte), sendo considerado como patrimônio de toda a UFRN. Atualmente, o herbário UFRN (indexado pelo acrônimo UFRN) possui um acervo de cerca de 20.000 espécimes, além de biblioteca própria. Esses registros podem ser consultados on-line, no site do Reflora e do INCT Herbário Virtual da Flora e dos Fungos / SpeciesLink (http://www.splink.org.br/) e, em breve, toda a coleção estará fotografada e on-line.
+Missão:
+O herbário atende ao corpo docente da UFRN, sendo o eixo do grupo de pesquisas do CNPq “Sistemática, Florística e Evolução de Plantas Vasculares”. Aqui são desenvolvidas atividades de ensino, pesquisa e extensão (visitas da comunidade externa à UFRN podem ser agendadas para grupos pequenos). Estamos ativamente envolvidos no processo de internacionalização, através de intercâmbio de amostras e acordos de cooperação, especificamente com universidades da Suiça. O herbário iniciará em 2015 a divulgação de suas pesquisas em periódico próprio.
+Entre os projetos de destaque, citamos: Flora do Rio Grande do Norte, Inventário Florestal do RN e ampliação de conhecimento da Flora da Caatinga (PPBio Semi-árido).
+USO:
+Pesquisadores, professores, discentes da UFRN, bem como de outras instituições, podem consultar a coleção, desde que respeitadas as regras e o agendamento com a curadoria (herbarioufrn&amp;#64;gmail.com). O herbário recebe amostras secas (herborizadas) de plantas e algas, especialmente da Flora do RN, bem como aquelas oriundas de pesquisas e que necessitem ser depositadas em uma instituição fiel depositária, desde que respeitadas as regras listadas no manual de uso e curadoria e o protocolo de identificação. O herbário também serve de base para comparação e identificação de amostras (processo feito pelo próprio visitante) ou poderá enviar o material a especialistas. Solicita-se doação de material de acordo com a necessidade e custos de cada projeto ou identificação.
+Nenhum material vegetal vivo pode entrar nesta sala. Toda planta a ser estudada deverá estar seca, devidamente anotada quanto à sua procedência e morfologia e desinfectada (por congelamento prévio).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Porção norte da caatinga e mata atlântica, com especial interesse nos estados do RN, CE, PB.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-49.38</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-34.56</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-2.25</northBoundingCoordinate>
+                      <southBoundingCoordinate>-17.76</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>A coleção prioriza a abordagem florística do RN e ainda os táxons Bromeliaceae e Cactaceae como um todo.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bromeliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cactaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Leonardo de Melo</givenName>          <surName>Versieux</surName>
+    </individualName>
+<organizationName>Rio Grande do Norte Federal University</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Universidade Federal do Rio Grande do Norte, Nº0 - Bairro: Lagoa Nova</deliveryPoint><city>Natal</city><administrativeArea>Rio Grande do Norte</administrativeArea><postalCode>59078-970</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>lversieux@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=ufrn&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Reflora coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>reflora@jbrj.gov.br</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Step description</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>O herbário UFRN está associado a um grupo de pesquisas do CNPq &quot;Sistemática, Florística e Evolução de plantas vasculares&quot; e atua nas frentes de ensino e pesquisa. Os pesquisadores buscam aprovar projetos de fomento e também parcerias com outras instituições, permitindo a troca de amostras e melhoria na qualidade das identificações. Atualmente, além de seguirmos indicadores de produção bibliográfica por docentes e discentes, o herbário também prioriza a vinda de especialistas que incrementem a qualidade dos seus dados através de identificações. Entre os projetos de destaque, temos a parceria com IPJBRJ através do Reflora e com o Serviço Florestal Brasileiro, que permitiram a total tomada de fotografias digitais de toda a coleção, parceria com a direção do Centro de Biociências da UFRN que disponibiliza um bolsista de apoio técnico.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:24:02Z</dateStamp>
+      <citation>Versieux L D M, Fontes A L (2020). UFRN herbarium - Universidade Federal do Rio Grande do Norte - Herbário Virtual REFLORA. Version 1.169. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/gtxawd accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=ufrn_herbarium</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

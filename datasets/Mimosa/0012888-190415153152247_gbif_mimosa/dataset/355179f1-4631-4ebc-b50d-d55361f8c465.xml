@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="355179f1-4631-4ebc-b50d-d55361f8c465"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/ou76ng</alternateIdentifier>
+        <alternateIdentifier>355179f1-4631-4ebc-b50d-d55361f8c465</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hamab</alternateIdentifier>
+    <title>HAMAB - Herbário Amapaense</title>
+    <creator>
+    <individualName>
+<givenName>Patrick</givenName>          <surName>Cantuária</surName>
+    </individualName>
+<organizationName>Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá (IEPA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rod. Juscelino Kubitschek, KM-10 - Fazendinha</deliveryPoint><city>Macapá</city><administrativeArea>Amapá</administrativeArea><postalCode>68903-419</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 96 9154-6005</phone><electronicMailAddress>patrickcantuaria@gmail.com</electronicMailAddress><onlineUrl>http://www.iepa.ap.gov.br/hamab.php</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Patrick</givenName>          <surName>Cantuária</surName>
+    </individualName>
+<organizationName>Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá (IEPA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rod. Juscelino Kubitschek, KM-10 - Fazendinha</deliveryPoint><city>Macapá</city><administrativeArea>Amapá</administrativeArea><postalCode>68903-419</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 96 9154-6005</phone><electronicMailAddress>patrickcantuaria@gmail.com</electronicMailAddress><onlineUrl>http://www.iepa.ap.gov.br/hamab.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-22
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O HAMAB possui uma coleção de cerca de 20 mil espécimes catalogadas (exsicatas) sobre a flora do Amapá e amostras de plantas de vegetação de outras regiões brasileiras. A coleção abrange 194 famílias botânicas, cerca de 2 mil gêneros e quase 5 mil espécies.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HAMAB</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Patrick</givenName>          <surName>Cantuária</surName>
+    </individualName>
+<organizationName>Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá (IEPA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rod. Juscelino Kubitschek, KM-10 - Fazendinha</deliveryPoint><city>Macapá</city><administrativeArea>Amapá</administrativeArea><postalCode>68903-419</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 96 9154-6005</phone><electronicMailAddress>patrickcantuaria@gmail.com</electronicMailAddress><onlineUrl>http://www.iepa.ap.gov.br/hamab.php</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:16Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HAMAB">Cantuária P (2019). HAMAB - Herbário Amapaense. Version 1.48. Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá. Occurrence dataset https://doi.org/10.15468/ou76ng accessed via GBIF.org on 2019-05-14.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hamab</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

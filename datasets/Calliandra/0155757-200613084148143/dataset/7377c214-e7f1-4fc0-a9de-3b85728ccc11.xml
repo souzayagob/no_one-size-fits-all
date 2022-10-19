@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7377c214-e7f1-4fc0-a9de-3b85728ccc11"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/c4krdu</alternateIdentifier>
+    <title>Field Museum of Natural History (Botany) - Historical Photographs of Type Specimens from Berlin (B)</title>
+    <creator>
+<organizationName>Field Museum of Natural History</organizationName>    </creator>
+    <metadataProvider>
+<organizationName>Dr. Matt von Konrat</organizationName>    <address>
+<deliveryPoint>The Field Museum, 1400 S. Lake Shore Drive, Chicago, IL 60605-2496</deliveryPoint>    </address>
+<electronicMailAddress>mkonrat@fieldmuseum.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>This dataset contains a digital set of over 15,000 images J. Francis Macbride made in Berlin of material collected in Central and South America from 1778 through May 1930. The 154 plant families represented are predominated by Asteraceae, Fabaceae, Rubiaceae, Melastomataceae, Solanaceae, Euphorbiaceae, Araceae, Acanthaceae, Bromeliaceae and Piperaceae.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Dr. Matt von Konrat</surName>
+    </individualName>
+    <address>
+<deliveryPoint>The Field Museum, 1400 S. Lake Shore Drive, Chicago, IL 60605-2496</deliveryPoint>    </address>
+<electronicMailAddress>mkonrat@fieldmuseum.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:11Z</dateStamp>
+      <citation>Botanic Garden and Botanical Museum Berlin (2020). Field Museum of Natural History (Botany) - Historical Photographs of Type Specimens from Berlin (B). Occurrence dataset https://doi.org/10.15468/c4krdu accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a8f27b2e-67a9-43cb-ad18-df43e0152c33"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/i4uqlf</alternateIdentifier>
+        <alternateIdentifier>a8f27b2e-67a9-43cb-ad18-df43e0152c33</alternateIdentifier>
+        <alternateIdentifier>http://ipt.pensoft.net/resource?r=peqrb_b_populationandcommunitydynamics_2000-2011</alternateIdentifier>
+    <title>peqrb_b_populationandcommunitydynamics_2000-2011</title>
+    <creator>
+    <individualName>
+<givenName>Écio</givenName>          <surName>Diniz</surName>
+    </individualName>
+<organizationName>UFV - Federal University of Viçosa</organizationName><positionName>Ph.D.</positionName><electronicMailAddress>eciodiniz@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Écio</givenName>          <surName>Diniz</surName>
+    </individualName>
+<organizationName>UFV - Federal University of Viçosa</organizationName><positionName>Ph.D.</positionName><electronicMailAddress>eciodiniz@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Écio</givenName>          <surName>Diniz</surName>
+    </individualName>
+<electronicMailAddress>eciodiniz@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-05-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Population and community dynamics of a semideciduous forest from south Minas Gerais, Brazil, between 2000 and 2011</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Parque Ecológico Quedas do Rio Bonito located in the municipality of Lavras,Minas Gerais State, Brazil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-44.99</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-44.98</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-22.36</northBoundingCoordinate>
+                      <southBoundingCoordinate>-22.37</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ary</givenName>          <surName>Oliveira-Filho</surName>
+    </individualName>
+<organizationName>UFMG - Federal University of Minas Gerais</organizationName><positionName>Professor</positionName><electronicMailAddress>ary@icb.ufmg.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marco</givenName>          <surName>Fontes</surName>
+    </individualName>
+<organizationName>UFLA - Federal University of Lavras</organizationName><positionName>Professor</positionName><electronicMailAddress>fontes@dcf.ufla.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rubens</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>UFLA - Federal University of Lavras</organizationName><positionName>Professor</positionName><electronicMailAddress>rubensmanoel@dcf.ufla.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:35Z</dateStamp>
+      <citation>Diniz É (2019). peqrb_b_populationandcommunitydynamics_2000-2011. Version 1.6. Biodiversity Data Journal. Occurrence dataset https://doi.org/10.15468/i4uqlf accessed via GBIF.org on 2020-08-12.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e38d4c95-3a1d-4594-9ae9-883b48042e6d"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/enkiul</alternateIdentifier>
+        <alternateIdentifier>e38d4c95-3a1d-4594-9ae9-883b48042e6d</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=cen</alternateIdentifier>
+    <title>CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia</title>
+    <creator>
+    <individualName>
+<givenName>Taciana</givenName>          <surName>Barbosa Cavalcanti</surName>
+    </individualName>
+<organizationName>Embrapa Recursos Genéticos e Biotecnologia (Cenargen)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Pq. Estação Biológica, W5 Norte Final, CP 02372, Asa Norte</deliveryPoint><city>Brasília</city><administrativeArea>Distrito Federal</administrativeArea><postalCode>70770-917</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 61 3448-4651</phone><electronicMailAddress>taciana.cavalcanti@embrapa.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=CEN</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Taciana</givenName>          <surName>Barbosa Cavalcanti</surName>
+    </individualName>
+<organizationName>Embrapa Recursos Genéticos e Biotecnologia (Cenargen)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Pq. Estação Biológica, W5 Norte Final, CP 02372, Asa Norte</deliveryPoint><city>Brasília</city><administrativeArea>Distrito Federal</administrativeArea><postalCode>70770-917</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 61 3448-4651</phone><electronicMailAddress>taciana.cavalcanti@embrapa.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=CEN</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-19
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário da Embrapa/Cenargen foi criado formalmente em 1977 e é registrado pelo Index Herbariorum com a sigla CEN. Desde 2005 está instalado em um prédio que conta com instalações climatizadas, que incluem, além do acervo principal e duplicatas, sala para a montagem de exsicatas, biblioteca, laboratório de sistemática vegetal e sala de documentação das coleções, abrangendo cerca de 730m² de área. O Herbário CEN é registrado no International Association for Plant Taxonomy - IAPT e em 2005 foi credenciado como fiel depositário pelo Conselho de Gestão do Patrimônio Genético (CGEN/MMA), cujo ato se deu pela Deliberação nº 88, publicada no Diário Oficial da União, em 08/03/2005, Seção 1, nº 45, página 55. Funciona como um centro de referência, documentação e armazenamento de material-testemunho para a pesquisa e treinamento em recursos genéticos e conservação. A coleção do Herbário CEN inclui um acervo dinâmico com mais de 85 mil exsicatas cadastradas, cujo foco principal são plantas de interesse econômico, principalmente aquelas pertencentes aos biomas Cerrado, Amazônia e Caatinga. Destacam-se também materiais oriundos de inventários florísticos e materiais-testemunho de germoplasma depositado nas coleções vivas da Embrapa e do país. Nos últimos 22 anos, o Herbário CEN tem executado projetos relacionados ao inventário da biodiversidade e resgate de germoplasma (coleta de sementes, mudas e estacas) em áreas sob impacto antrópico, particularmente em empreendimentos hidrelétricos. Em virtude da existência passada e presente de especialistas nos quadros da Unidade em grupos taxonômicos específicos, o acervo do herbário CEN é particularmente rico em Arecaceae, Asteraceae, Dioscoreaceae, Euphorbiaceae, Leguminosae, Lythraceae, Ochnaceae, Orchidaceae e Poaceae, possuindo coleções importantíssimas de Arachis, Capsicum, Cuphea, Diplusodon, Manihot, Mimosa, Ouratea, Paspalum e Stylosanthes, para alguns dos quais o acervo do Herbário CEN é considerado um dos mais completos. A coleção conta também com 210 exemplares-tipo de diversos grupos e uma carpoteca com cerca de 350 amostras. O Herbário CEN atua também na coordenação da série “Flora do Distrito Federal, Brasil”, que já produziu dez volumes com monografias da flora do Distrito Federal. Mais de 85% das exsicatas do acervo possuem informações disponibilizadas on line.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=CEN</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Taciana</givenName>          <surName>Barbosa Cavalcanti</surName>
+    </individualName>
+<organizationName>Embrapa Recursos Genéticos e Biotecnologia (Cenargen)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Pq. Estação Biológica, W5 Norte Final, CP 02372, Asa Norte</deliveryPoint><city>Brasília</city><administrativeArea>Distrito Federal</administrativeArea><postalCode>70770-917</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 61 3448-4651</phone><electronicMailAddress>taciana.cavalcanti@embrapa.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=CEN</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:58Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=CEN">Barbosa Cavalcanti T (2019). CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia. Version 1.55. Embrapa Cenargen. Occurrence dataset https://doi.org/10.15468/enkiul accessed via GBIF.org on 2019-11-18.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=cen</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

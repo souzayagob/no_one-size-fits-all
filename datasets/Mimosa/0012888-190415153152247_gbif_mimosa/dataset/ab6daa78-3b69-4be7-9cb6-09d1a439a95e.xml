@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ab6daa78-3b69-4be7-9cb6-09d1a439a95e"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/n8jyez</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=ctes-vasc</alternateIdentifier>
+    <title>Herbario CTES Plantas Vasculares</title>
+    <creator>
+    <individualName>
+<givenName>Darío Oscar</givenName>          <surName>Villegas</surName>
+    </individualName>
+<organizationName>Instituto de Botánica del Nordeste</organizationName><positionName>Responsable Informático</positionName>    <address>
+<deliveryPoint>Sargento Juan Bautista Cabral 2131</deliveryPoint><city>Corrientes</city><administrativeArea>Corrientes</administrativeArea><postalCode>3402BKG</postalCode><country>ARGENTINA</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>IBONE</givenName>          <surName>unne-conicet</surName>
+    </individualName>
+<organizationName>IBONE</organizationName><positionName>Organismo</positionName>    <address>
+<country>ARGENTINA</country>    </address>
+<electronicMailAddress>ibone@agr.unne.edu.ar</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>IBONE</givenName>          <surName>unne-conicet</surName>
+    </individualName>
+<organizationName>Instituto de Botánica del Nordeste</organizationName><positionName>Organismo</positionName><electronicMailAddress>ibone@agr.unne.edu.ar</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-28
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Colección general de ejemplares del Herbario CTES del Instituto de Botánica del Nordeste.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>--</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-100.71</westBoundingCoordinate>
+                      <eastBoundingCoordinate>139.53</eastBoundingCoordinate>
+                      <northBoundingCoordinate>25.39</northBoundingCoordinate>
+                      <southBoundingCoordinate>-59.33</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Darío Oscar</givenName>          <surName>Villegas</surName>
+    </individualName>
+<organizationName>Instituto de Botánica del Nordeste</organizationName><positionName>Responsable Informático</positionName>    <address>
+<deliveryPoint>Sargento Juan Bautista Cabral 2131</deliveryPoint><city>Corrientes</city><administrativeArea>Corrientes</administrativeArea><postalCode>3402BKG</postalCode><country>ARGENTINA</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:12Z</dateStamp>
+      <citation>Villegas D O, unne-conicet I (2016). Herbario CTES Plantas Vasculares. Instituto de Botánica del Nordeste. Occurrence dataset https://doi.org/10.15468/n8jyez accessed via GBIF.org on 2019-05-14.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

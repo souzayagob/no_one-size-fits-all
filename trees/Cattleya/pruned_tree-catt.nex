@@ -1,0 +1,51 @@
+#NEXUS
+[R-package APE, Wed Mar 24 14:10:58 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 19;
+	TAXLABELS
+		Cattleya_luetzelburgii
+		Cattleya_pfisteri
+		Cattleya_cinnabarina
+		Cattleya_caulescens
+		Cattleya_fournieri
+		Cattleya_liliputana
+		Cattleya_sanguiloba
+		Cattleya_rupestris
+		Cattleya_viridiflora
+		Cattleya_briegeri
+		Cattleya_ghillanyi
+		Cattleya_longipes
+		Cattleya_esalqueana
+		Cattleya_bradei
+		Cattleya_pumila
+		Cattleya_brevipedunculata
+		Cattleya_coccinea
+		Cattleya_cernua
+		Cattleya_walkeriana
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Cattleya_luetzelburgii,
+		2	Cattleya_pfisteri,
+		3	Cattleya_cinnabarina,
+		4	Cattleya_caulescens,
+		5	Cattleya_fournieri,
+		6	Cattleya_liliputana,
+		7	Cattleya_sanguiloba,
+		8	Cattleya_rupestris,
+		9	Cattleya_viridiflora,
+		10	Cattleya_briegeri,
+		11	Cattleya_ghillanyi,
+		12	Cattleya_longipes,
+		13	Cattleya_esalqueana,
+		14	Cattleya_bradei,
+		15	Cattleya_pumila,
+		16	Cattleya_brevipedunculata,
+		17	Cattleya_coccinea,
+		18	Cattleya_cernua,
+		19	Cattleya_walkeriana
+	;
+	TREE * UNTITLED = [&R] (((((((((1:0.01067086154,2:0.01067086154):0.01771121381,(3:0.02277449357,4:0.02277449357):0.005607581778):0.006822125318,(5:0.007287450144,6:0.007287450143):0.02791675051):0.002247479869,7:0.03745168054):0.01738738219,((8:0.0261741187,9:0.02617411869):0.02035509231,10:0.04652921099):0.008309851725):0.004395450657,(((11:0.01221717705,12:0.01221717705):0.009156862749,13:0.0213740398):0.009761831076,14:0.03113587088):0.02809864251):0.03438813029,(15:0.08477046185,(16:0.0757518939,17:0.0757518939):0.009018567957):0.008852181833):0.005661177123,18:0.09928382079):0.02736439143,19:0.1266482122);
+END;

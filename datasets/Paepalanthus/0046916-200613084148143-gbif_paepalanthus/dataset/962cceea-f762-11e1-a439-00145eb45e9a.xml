@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="962cceea-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/2gfyxk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=mgc_cormof</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=mgc_cormof</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=mgc_cormof</alternateIdentifier>
+        <alternateIdentifier>http://datos.gbif.es/collectory/public/show/co163</alternateIdentifier>
+        <alternateIdentifier>962cceea-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>8105</alternateIdentifier>
+    <title>MGC Herbarium of University of Malaga (Spain): MGC-Cormof dataset</title>
+    <creator>
+    <individualName>
+<givenName>Baltasar</givenName>          <surName>Cabezudo Artero</surName>
+    </individualName>
+<organizationName>University of Málaga</organizationName><positionName>Scientific Manager</positionName>    <address>
+<deliveryPoint>Departament of Plant Biology, (Botany Area). Faculty of Sciences, University of Málaga. Campus Teatinos s/n.</deliveryPoint><city>Málaga</city><administrativeArea>Málaga</administrativeArea><postalCode>29071</postalCode><country>SPAIN</country>    </address>
+<phone>+34 952131944</phone><electronicMailAddress>bcabezudo@uma.es</electronicMailAddress><onlineUrl>http://www.biolveg.uma.es</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>José</givenName>          <surName>García Sánchez</surName>
+    </individualName>
+<organizationName>University of Málaga</organizationName><positionName>Herbarium Curator</positionName>    <address>
+<deliveryPoint>Servicios Centrales de Apoyo a la Investigación (SCAI). Bulevar Louis Pasteur, 33. Campus de Teatinos</deliveryPoint><city>Málaga</city><administrativeArea>Málaga</administrativeArea><postalCode>29071</postalCode><country>SPAIN</country>    </address>
+<phone>+34 952131912</phone><electronicMailAddress>jgarcias@uma.es</electronicMailAddress><onlineUrl>http://www.scai.uma.es/servicios/ciencias_vida/herbario/herbario.html</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Herbario de la Universidad de Málaga (Herbario MGC) está constituido por cuatro colecciones biológicas. La colección de plantas vasculares (MGC Cormof) es la colección principal del herbario. La base de datos MGC-Cormof tiene como objetivo la digitalización y publicación de los datos asociados con los más de 80.000 ejemplares depositados en la colección, de los cuales el 97,4% de las muestras se encuentran identificadas a nivel de especie.
+Desde 2011, los Servicios Centrales de Investigación (SCAI) de la Universidad de Málaga son responsables de mantener el herbario y sus respectivas bases de datos.
+Esta colección está en continuo crecimiento, con una incorporación anual de unos 1.500 ejemplares. El 97% de la colección está digitalizada a través del programa Herbar v3.7.1 (F. Pando et al. 1996-2011) por lo que más de 78.900 especímenes son accesibles a través de la red de GBIF (http://www.gbif.org/dataset/962cceea-f762-11e1-a439-00145eb45e9a). Actualmente, la colección MGC-Cormof está constituida por 242 familias y 8.274 taxones, distribuidos en angiospermas (92,56%), helechos y plantas afines (6.23%) y gimnospermas (1,21%). Las familias y géneros mejor representados en la colección son Compositae, Leguminosae, Gramineae, Labiatae, Caryophyllaceae, Teucrium, Silene, Asplenium, Linaria y Quercus. La mayoría de los especímenes provienen de la región del Mediterráneo Occidental, fundamentalmente del sur de España (Andalucía: 83.4% de las muestras) y del norte de Marruecos (2,1%). Aproximadamente, el 65,5% de las muestras se encuentran georreferenciadas. La identificación de los ejemplares de la colección ha sido realizada por personal del departamento de biología vegetal de la Universidad de Málaga y además un 40% de los ejemplares ha sido revisado por especialistas en taxonomía.
+La base de datos MGC-Cormof ha sido revisada mediante la herramienta DarwinTest v3.2 (Ortega-Maqueda and Pando 2008) antes de ser publicada en GBIF. Los datos incluidos en esta base de datos son importantes para trabajos de conservación, taxonomía, flora, cartografía, fenología, palinología, entre otros.
+El herbario MGC es uno de los herbarios de referencia para Flora Iberica (Castroviejo 1986-2012) y para la Flora Vascular de Andalucía Oriental (Blanca et al. 2009). La revista Acta Botanica Malacitana (B. Cabezudo 1975-) (http://www.biolveg.uma.es/abm/abm.html) está estrechamente relacionada con el herbario MGC y periódicamente publica artículos que están basados en datos incluidos en su colección.
+
+The herbarium of University of Málaga (MGC Herbarium) is formed by four biological collections. The vascular plants collection (MGC-Cormof ) is the main collection of the herbarium. MGC-Cormof dataset aims to digitize and publish data associated with over 80000 specimens deposited in the collection, of which 97.4% of the specimens are identified at species level.
+Since 2011, the University of Malaga’s Central Research Service (SCAI) has been responsible for maintaining the herbarium and their datasets.
+The collection is growing continuously, with an annual intake of about 1.500 specimens. Nearly 97% of the collection is digitized by Herbar v3.7.1 software (F. Pando et al. 1996-2011), making over 77.900 specimens accessible through the GBIF network (http://www.gbif.org/dataset/962cceea-f762-11e1-a439-00145eb45e9a). At present, 242 families and 8.274 taxa, distributed in angiosperms (92.56%), ferns and fern allies (6.23%) and gymnosperms (1.21%), constitute the MGC-Cormof collection. The families and genera best represented in the collection are Compositae, Leguminosae, Gramineae, Labiatae, Caryophyllaceae, Teucrium, Silene, Asplenium, Linaria and Quercus. Most of the specimens are from the Western Mediterranean Region, fundamentally Southern Spain (Andalusia: 83.4% of specimens) and Northern Morocco (2.1%). Approximately, 65.5% of the specimens are georeferenced. The identification of the specimens in the collection has
+been carried out by the plant biology department at the University of Malaga and plus 40% of the specimens has been reviewed by experts.
+The MGC-Cormof dataset has been revised by DarwinTest v3.2 tool (Ortega-Maqueda and Pando 2008) before being published in GBIF. The data included in this database are important for conservation works, taxonomy, flora, cartography, phenology, palynology, among others.
+MGC herbarium is one of the reference herbaria for Flora Iberica (Castroviejo 1986-2012) and Vascular Flora in Eastern Andalusia (Flora Vascular de Andalucía Oriental) (Blanca et al. 2009). The journal Acta Botanica Malacitana (B. Cabezudo 1975-) (http://www.biolveg.uma.es/abm/abm.html) is closely associated with the MGC Herbarium and periodically publishes papers that are based on data included in its dataset.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>MGC; MGC Herbarium; University of Malaga; SCAI; Plantae; Cormophyta; Spermatophyta; Pteridophyta; Compositae; Leguminosae; Gramineae; Labiatae; Caryophyllaceae; Cruciferae; Scrophulariaceae; Cistaceae; Umbelliferae; Liliaceae; Western Mediterranean Region; Spain; Southern Spain; Southern Iberian Peninsula; Iberian Peninsula; Andalusia (Spain); Malaga province (Spain); Northern Morocco</keyword>
+              <keywordThesaurus>Cormophyta</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.scai.uma.es/servicios/ciencias_vida/herbario/herbario.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Most of the data refer to the Western Mediterranean Region, mainly Southern Spain (Andalusia 83.4% of sheets) and Northern Morocco (2.2%). Andalusia is composed of 8 provinces, Malaga province being the most important with 56.3% of sheets, followed by Cádiz (8.4%) and Granada (8.3%). Moreover, 11.4% of the data refer to the rest of Spain and 2.3% from 50 countries of Europe, Africa and South America mainly. 
+The MGC-Cormof collection has a large number of plants from all the main Protected Areas of Malaga province, including Natural Parks (Sierra de las Nieves, Sierras de Tejeda, Almijara y Alhama, and Montes de Málaga) and Natural Areas (Los Reales de Sierra Bermeja, Torcal de Antequera, and Desfiladero de los Gaitanes), as well as other Protected Areas of southern Spain, some of which are Natural Parks shared with Malaga (e.g. Los Alcornocales, Sierra de Grazalema) and the Protected Landscape Corredor Verde (Green Corridor) del Guadiamar. 
+Moreover, many plants considered as agricultural weeds and others taken from roads and cities as well as ornamental plants (940 sheets) from public parks and gardens of the city of Malaga, are included. Sixty-five percent of the specimens are georeferenced. All of them have been referenced by MGRS coordinate system, which have been transformed into geographical coordinate before uploading to the GBIF Portal by Herbar 3.7.1 software (Pando et al. 1996-2011). The accuracy of the coordinate grids in MGRS system varies from 1 m2 to 10 km2 and the accuracy in geographical coordinate varies from 1 to 7071 m2.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-83.43</westBoundingCoordinate>
+                      <eastBoundingCoordinate>116.05</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.7</northBoundingCoordinate>
+                      <southBoundingCoordinate>-34</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1837
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The 78930 sheets of the MGC-Cormof collection are grouped into 242 families, 1578 genera, 6138 species and 8274 taxa (including infraspecific categories). Most of the specimens are angiosperms (94%), followed by ferns and fern allies (4.9%) and gymnosperms (1.1%). The main families in order of abundance are Compositae (10.2%), Leguminosae (9.7%), Gramineae (8.5%), Labiatae (7.5%), Caryophyllaceae (4.8%), Cruciferae (3.8%), Scrophulariaceae (3.5%), Cistaceae (3.1%), Umbelliferae (2.4%) and Liliaceae (2.1%). Main genera in order of abundance are Teucrium (2.5%), Silene (1.6%), Asplenium (1.4%), Linaria (1.2%), Quercus (1.1%), Centaurea (1.1%), Helianthemum (1%), Cistus (1%), Trifolium (1%) and Galium (1%). It is important to mention that this collection contains a wide representation of plants from several Protected Areas of southern Spain (Cabezudo et al. 2005; Pérez Latorre et al. 1998, 1999, 2002), endemic species (Blanca et al. 2009; Salvo et al. 1983), threatened species (Blanca et al. 1999, 2000, 2009; Cabezudo et al. 2005; Salvo et al. 1983), invasive species (Dana et al. 2005), ornamental species and many weeds.
+
+Total families represent are 247. The top ten is compound by Compositae (10.2%), Leguminosae (9.7%), Gramineae (8.5%), Labiatae (7.5%), Caryophyllaceae (4.8%), Cruciferae (3.8%), Scrophulariaceae (3.5%), Cistaceae (3.1%), Umbelliferae (2.4%) and Liliaceae (2.1%). Total genus represent are 1551. The top ten is compound by Teucrium (2.48%), Silene (1.62%), Asplenium (1.43%), Linaria (1.20%), Quercus (1.10%), Centaurea (1.08%), Helianthemum (1.02%), Cistus (1.02%), Trifolium (1.01%) and Galium (1.01%).
+
+It is important to mention that this collection has a good representation of plants from some Protected Areas of southern Spain, endemic species, threatened species, ornamental species and furthermore a lot of weeds.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Subkingdom</taxonRankName>
+                        <taxonRankValue>Tracheophyta or Cormophyta</taxonRankValue>
+                          <commonName>Tracheophytes, Cormophytes, Vascular Plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Compositae</taxonRankValue>
+                          <commonName>Sunflowers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Leguminosae</taxonRankValue>
+                          <commonName>Legumes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gramineae</taxonRankValue>
+                          <commonName>True Grasses</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Labiatae</taxonRankValue>
+                          <commonName>Mints</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                          <commonName>Pinks</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cruciferae</taxonRankValue>
+                          <commonName>Crucifers or Mustard</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scrophulariaceae</taxonRankValue>
+                          <commonName>Figworts</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cistaceae</taxonRankValue>
+                          <commonName>Rock Roses</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Umbelliferae</taxonRankValue>
+                          <commonName>Parsley or Carrot family</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Liliaceae</taxonRankValue>
+                          <commonName>Lyli family</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Teucrium</taxonRankValue>
+                          <commonName>Germander</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Silene</taxonRankValue>
+                          <commonName>Campion</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Asplenium</taxonRankValue>
+                          <commonName>Petako Rauriki</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Linaria</taxonRankValue>
+                          <commonName>Spurred Snapdragon</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Quercus</taxonRankValue>
+                          <commonName>Oak</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Centaurea</taxonRankValue>
+                          <commonName>Knapweed</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Helianthemum</taxonRankValue>
+                          <commonName>Rock Rose</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cistus</taxonRankValue>
+                          <commonName>Rock Rose</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Trifolium</taxonRankValue>
+                          <commonName>Clover</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Galium</taxonRankValue>
+                          <commonName>Bedstraw</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>José</givenName>          <surName>García Sánchez</surName>
+    </individualName>
+<organizationName>University of Málaga</organizationName><positionName>Herbarium Curator</positionName>    <address>
+<deliveryPoint>Servicios Centrales de Apoyo a la Investigación - SCAI. Bulevar Louis Pasteur, 33. Campus de Teatinos</deliveryPoint><city>Málaga</city><administrativeArea>Málaga</administrativeArea><postalCode>29071</postalCode><country>SPAIN</country>    </address>
+<phone>+34 952137414</phone><electronicMailAddress>jgarcias@uma.es</electronicMailAddress><onlineUrl>http://www.scai.uma.es/servicios/ciencias_vida/herbario/herbario.html</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Before incorporating new plants in the herbarium, the steps described below are followed.
+First, the material is pressed and dried, mounted on double A2 standard size (42 × 59.4 cm) sheets which perfectly cover and protect the specimen. Inside each sheet, an identification label provides the following information: taxonomy, country, province, county, locality, georeference, date, ecology, collectors and determinations.
+To kill any insects contained in the sheets, they are frozen at -20 °C for 72 hours. Periodically, the herbarium room is fumigated.
+The specimens are kept in compact shelving cabinets and arranged taking into account three main taxonomic groups: pteridophytes, gymnosperms and angiosperms. Within each group, the specimens are alphabetically arranged by families, genera and species.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Most plants are from Southern Spain (Andalusia), Malaga province being the most widely represented area, the aim being to cover the widest degree of plant biodiversity for this territory. In addition, the collection contains plants from Northern Morocco and several places from the rest of Spain and countries from Europe, Africa and South America.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The plants of this collection were mainly gathered by researchers of the Botany Area of the Department of Plant Biology at University of Malaga, as well as by members of the herbarium. A small component of the collection comes from exchanges or donations from other research centres or researchers.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Every specimen of the MGC-Cormof collection has been identified by researchers of the Botany Area of the Department of Plant Biology at University of Malaga. Moreover, 40% of the specimens of this collection have subsequently been taxonomically revised for regional or national studies of flora or taxonomical revisions. Each taxonomic modification is incorporated into the database.
+The dataset is analysed in search of digitalisation errors before uploading to the GBIF Portal. This check is carried out by the DarwinTest v3.2 tool (Ortega-Maqueda and Pando 2008), provided by the Spanish GBIF Node. This tool looks for mistakes
+in taxonomy, dates, geospatial information, collectors, identifiers, etc.
+Any sheets belonging to J. Lara Ruiz have been deleted from this dataset because these specimens have uncertain information.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Digitalización y Gestión de las Bases de Datos del Herbario MGC de la Universidad de Málaga</title>
+          <personnel>
+    <individualName>
+<givenName>Baltasar</givenName>          <surName>Cabezudo Artero</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>&gt;&gt;&gt;&gt; Scientific research project: &quot;Informatización del Herbario de la Universidad de Málaga (MGC)&quot;. Reference: CLEG2004-21156-E Fund: Ministerio de Educación y Ciencia (Spain). Length: 2006 January - 2009 September. Principal researcher: Dr. Baltasar Cabezudo Artero.
+
+&gt;&gt;&gt;&gt;Scientific research project: &quot;Realización de una prestación de servicios para el mantenimiento e inclusión de pliegos del proyecto Flora de Andalucía Oriental en el Herbario público de la Universidad de Málaga&quot;. Reference: 8.06/03.3353 Fund: Junta de Andalucía Length: 2010 February - 2011 February. Principal researcher: Dr. Baltasar Cabezudo Artero.
+
+&gt;&gt;&gt;&gt;Scientific research project: &quot;Digitalización y Gestión de las Bases de Datos del Herbario MGC de la Universidad de Málaga&quot;. Reference: 8.06/03.3353 Fund: Ministerio de Ciencia e Innovación (Spain). Subprograma Personal Técnico de Apoyo Length: 2012 January - 2014 December. Principal responsible: Dr. José García Sánchez.
+
+&gt;&gt;&gt;&gt;Temporary staff for assistance in fieldworks, contracted through Junta de Andalucía (Spain) research group: Biodiversidad, Conservación y Recursos Vegetales; Group code: RNM-115.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:21Z</dateStamp>
+      <citation>Cabezudo Artero B, García Sánchez J (2018). MGC Herbarium of University of Malaga (Spain): MGC-Cormof dataset. University of Malaga. Occurrence dataset https://doi.org/10.15468/2gfyxk accessed via GBIF.org on 2020-08-26.</citation>
+              <bibliography>
+      <citation>PUBLICATIONS FROM THIS DATASET
+- García-Sánchez J, Cabezudo B (2013) Herbarium of the University of Malaga (Spain): Vascular Plants Collection. PhytoKeys 26: 7-19.
+- García-Sánchez J, Cabezudo B (2014) El herbario MGC de la Universidad de Málaga. Boletín de la Asociación de Herbarios Ibero-Macaronésicos (AHIM) 16: 20-26.</citation>
+      <citation>REFERENCES CITED WITHIN THE METADATA
+- Blanca G, Cabezudo B, Cueto M, Fernández López C, Morales Torres C (Eds) (2009) Flora vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.
+- Cabezudo B (Ed) (1975-) Acta Botanica Malacitana. (Periodicals). Vol. 1-37. ISSN 0210-9506. Electronic version ISSN 2340-5074. http://www.biolveg.uma.es/abm/abm.html
+- Castroviejo S (Coord. gen.) (1986-2012) Flora Iberica 1-8, 10-15, 17-18, 21. Real Jardín Botánico, CSIC. Madrid, Spain.
+- Ortega-Maqueda I, Pando F (2008) DARWIN_TEST v3.2: Una aplicación para la validación y el chequeo de los datos en formato Darwin Core 1.2 or Darwin Core 1.4,  Unidad de Coordinación de GBIF. ES, CSIC. Ministerio de Educación y Ciencia. Madrid (Spain), http://www.gbif.es/Darwin_test/Darwin_test.php
+- Pando F et al. (1994-2010) HERBAR (3.7.1): A database application for herbarium management: http://www.gbif.es/herbar/herbar.php. Coordination Unit of GBIF. ES, CSIC. Ministry of Science and Innovation. Madrid, Spain.</citation>
+      <citation>REFERENCES USED TO IDENTIFY DATASET SPECIMENS
+- Blanca G, Cabezudo B, Cueto M, Fernández López C, Morales Torres C (Eds) (2009) Flora vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.
+- Blanca G, Cabezudo B, Cueto M, Morales Torres C, Salazar C (2011) Claves de la Flora Vascular de Andalucía Oriental. Servicio de Publicaciones de las Universidades de Almería, Granada, Jaén y Málaga. Universidad de Granada.
+- Castroviejo S (Coord. gen.) (1986-2012) Flora Iberica 1-8, 10-15, 17-18, 21. Real Jardín Botánico, CSIC. Madrid, Spain.
+- Tutin TG (1980) Flora Europaea (Vol. 1-5). Cambridge University Press. Valdés B, Talavera S, Galiano EF (Eds) (1987) Flora Vascular de Andalucía Occidental. 3 Vols. Ketres. Barcelona, Spain.</citation>
+      <citation>SOME PUBLICATIONS BASED ON THIS DATASET
+- Bañares A, Blanca G, Güemes J, Moreno JC, Ortiz S (Eds) (2003) Atlas y Libro Rojo de la flora vascular amenazada de España. Ministerio de Medio Ambiente. Madrid, Spain.
+- Blanca G, Cabezudo B, Hernández-Bermejo JE, Herrera CM, Molero Mesa J, Muñoz J, Valdés B (1999) Libro rojo de la flora silvestre amenazada de Andalucía. I. Especies en peligro de extinción. Junta de Andalucía. Sevilla, Spain.
+- Blanca G, Cabezudo B, Hernández-Bermejo JE, Herrera CM, Muñoz J, Valdés B (2000) Libro rojo de la flora silvestre amenazada de Andalucía, II: Especies vulnerables. Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.
+- Blanca G, Cabezudo B, Cueto M, Fernández López C, Morales Torres C (Eds) (2009) Flora vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.
+- Blanca G, Cabezudo B, Cueto M, Morales Torres C, Salazar C (2011) Claves de la Flora Vascular de Andalucía Oriental. Servicio de Publicaciones de las Universidades de Almería, Granada, Jaén y Málaga. Universidad de Granada.
+- Cabezudo B (Ed) (1975-2013) Acta Botanica Malacitana. (Periodicals). Vol. 1-37. ISSN 0210-9506. Electronic version ISSN 2340-5074. http://www.biolveg.uma.es/abm/abm.html
+- Cabezudo B, Pérez Latorre A, Navas Fernández D, Gavira O, Caballero G (2005) Contribución al conocimiento de la flora del Parque Natural de las Sierras Tejeda, Almijara y Alhama (Málaga-Granada, España). Acta Botanica Malacitana 30: 55-110.
+- Cabezudo B, Talavera S, Blanca G, Salazar C, Cueto M, Valdés B, Hernández Bermejo JE, Herrera CM, Rodríguez Hiraldo C, Navas D (2005) Lista roja de la flora vascular de Andalucía. Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.
+- Castroviejo S (Coord. gen.) (1986-2012) Flora Iberica 1-8, 10-15, 17-18, 21. Real Jardín Botánico, CSIC. Madrid, Spain.
+- Dana ED, Sanz-Elorza M, Vivas S, Sobrino E (2005) Especies vegetales invasoras en Andalucía. Dirección General de la Red de Espacios Naturales Protegidos y Servicios Ambientales. Consejería de Medio Ambiente. Junta de Andalucía.
+- Devesa JA (1996) Revisión del género Stipa L. y Nassella Desv. (Poaceae) en la Península Ibérica e Islas Baleares. Acta Botanica Malacitana 21: 125-189.
+- Díaz de la Guardia C, Blanca G (1987) Revisión del género Scorzonera L. (Compositae. Lactuceae) en la Península Ibérica. Anales del Jardin Botanico de Madrid 43: 271-354.
+- Guerra J, Cano MJ, Pérez Latorre AV, Ros RM, Cabezudo B (2003) Flora brio-pteridofítica de los bosques lauroides de Rhododendron ponticum L. del Parque Natural de los Alcornocales (Cádiz-Málaga, España). Acta botánica malacitana 28: 19-36
+- Moreno JC (Coord.) (2010) Lista Roja 2008 de la flora vascular española. Ministerio de Medio Ambiente. Madrid, Spain.
+- Muñoz AF (1992) Revisión del género Trifolium sect. Trifolium en la Península Ibérica e Islas Baleares. Acta Botanica Malacitana 17: 79-118.
+- Navarro T (1995) Revisión del género Teucrium L. Sección Polium (Mill.) Schreb, (Lamiaceae) en la Península Ibérica y Baleares. Acta Botanica Malacitana 20: 173-265.
+- Ortega A, Devesa JA (1993) Revisión del género Scrophularia L. (Scrophulariaceae) en la Península Ibérica e Islas Baleares. Ruizia 11: 5-157.
+- Pérez Latorre AV, Galán de Mera A, Navas P, Navas D, Gil Y, Cabezudo B (1999) Datos sobre la flora y vegetación del Parque Natural de Los Alcornocales (Cádiz-Málaga, España). Acta Botanica Malacitana 24: 133-184.
+- Pérez Latorre AV, Navas P, Navas D, Gil Y, Cabezudo B (1998) Datos sobre la Flora y Vegetación de la Serranía de Ronda (Málaga, España). Acta Botanica Malacitana 23: 149-191.
+- Pérez Latorre AV, Navas P, Navas D, Gil Y, Cabezudo B (2002) Datos sobre la flora y vegetación de la cuenca del río Guadiamar (Sevilla-Huelva, España). Acta Botanica Malacitana 27: 189-228.
+- Pujadas AJ, Plaza L, Sánchez E, Triano E, López M, Burgarella C, Rubiales D, Román B, Reyes E, Ivorra A (2007) El género Orobanche L. (Orobanchaceae) en Andalucía. Acta Botanica Malacitana 32: 91-126.
+- Romero AT, Blanca G, Morales C (1988) Revisión del género Agrostis L. (Poaceae) en la Península Ibérica. Ruizia 7: 1-160.
+- Romero-Zarco C (2010) El género Juncus L. (Juncaceae) en Andalucía (España): datos sobre la distribución regional de sus especies. Acta Botanica Malacitana 35: 57-75.
+- Salvo AE, Márquez AL, Pérez A, Nieto JM, Cabezudo B (1992) Contribución a la flora pteridofítica de Marruecos. Acta Botanica Malacitana 17: 287-289.
+- Salvo AE, Nieto JM, Guerra J, Conde F, Cabezudo B (1983) Especies vegetales amenazadas y endémicas de la provincia de Málaga. Jabega 44: 66-76.
+- Valdés B, Talavera S, Galiano EF (Eds) (1987) Flora Vascular de Andalucía Occidental. 3 Vols. Ketres. Barcelona, Spain.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www.bioveg.uma.es/herbario/imagenes/Icono_MGC2.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                <collectionIdentifier>962cceea-f762-11e1-a439-00145eb45e9a</collectionIdentifier>
+                <collectionName>MGC-Cormof</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Sheets</jgtiUnitType>
+                      <jgtiUnits>78,930</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Species</jgtiUnitType>
+                      <jgtiUnits>6,138</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Genus</jgtiUnitType>
+                      <jgtiUnits>1,578</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Families</jgtiUnitType>
+                      <jgtiUnits>242</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Taxa</jgtiUnitType>
+                      <jgtiUnits>8,274</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

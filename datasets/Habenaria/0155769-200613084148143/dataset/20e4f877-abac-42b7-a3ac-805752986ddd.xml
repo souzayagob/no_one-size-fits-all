@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="20e4f877-abac-42b7-a3ac-805752986ddd"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.3897/bdj.4.e7085</alternateIdentifier>
+    <title>Checklist of aquatic and marshy Monocotyledons from the Araguaia River basin, Brazilian Cerrado</title>
+    <creator>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal do Rio de Janeiro</organizationName><positionName>Dr</positionName>    <address>
+<city>Rio de Janeiro</city><country>BRAZIL</country>    </address>
+<electronicMailAddress>ribeirosenna1@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal do Rio de Janeiro</organizationName><positionName>Dr</positionName>    <address>
+<city>Rio de Janeiro</city><country>BRAZIL</country>    </address>
+<electronicMailAddress>ribeirosenna1@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2016-03-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para></para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Oliveira</surName>
+    </individualName>
+<organizationName>Universidade Federal do Rio de Janeiro</organizationName><positionName>Dr</positionName>    <address>
+<city>Rio de Janeiro</city><country>BRAZIL</country>    </address>
+<electronicMailAddress>ribeirosenna1@gmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:35:14Z</dateStamp>
+      <citation identifier="Citation Identifier">Oliveira A (2016). Checklist of aquatic and marshy Monocotyledons from the Araguaia River basin, Brazilian Cerrado. Biodiversity Data Journal. Checklist dataset https://doi.org/10.3897/bdj.4.e7085 accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

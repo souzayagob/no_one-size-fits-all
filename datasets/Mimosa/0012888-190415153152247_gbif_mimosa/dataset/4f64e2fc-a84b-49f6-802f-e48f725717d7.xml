@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4f64e2fc-a84b-49f6-802f-e48f725717d7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/0aqglb</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=manch_botany</alternateIdentifier>
+    <title>Manchester Museum, University of Manchester, Botany Collection</title>
+    <creator>
+    <individualName>
+<givenName>John</givenName>          <surName>Peel</surName>
+    </individualName>
+<organizationName>Manchester Museum, University of Manchester</organizationName><positionName>Collection Information Manager</positionName>    <address>
+<deliveryPoint>Oxford Road</deliveryPoint><city>Manchester</city><postalCode>M13 9PL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0161 235 8892</phone><electronicMailAddress>j.peel@manchester.gov.uk</electronicMailAddress><onlineUrl>http://www.museum.manchester.ac.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>John</givenName>          <surName>Peel</surName>
+    </individualName>
+<organizationName>Manchester Museum, University of Manchester</organizationName><positionName>Collection Information Manager</positionName>    <address>
+<deliveryPoint>Oxford Road</deliveryPoint><city>Manchester</city><postalCode>M13 9PL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0161 235 8892</phone><electronicMailAddress>j.peel@manchester.gov.uk</electronicMailAddress><onlineUrl>http://www.museum.manchester.ac.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Containing around three-quarters of a million specimens, the botanical collection forms a physical record of where plants and fungi have been found. The Museum collection has grown from the mid-19th century onwards as people with a passion for the natural world have donated their personal collections. The backbone of the collection was created by merging three large private collections from James Cosmo Melvill (worldwide plants donated in 1904), Leopold Hartley Grindon (cultivated plants donated in 1910) and Charles Bailey (European plants donated in 1917). The most recent significant addition has been the collection of British brambles donated by Alan Newton in 2012.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.museum.manchester.ac.uk/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global coverage with emphasis in worldwide plants donated in 1904, cultivated plants donated in 1910, European plants donated in 1917, and British brambles donated in 2012.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rachel</givenName>          <surName>Webster</surName>
+    </individualName>
+<organizationName>Manchester Museum, University of Manchester</organizationName><positionName>Curator of Botany</positionName>    <address>
+<deliveryPoint>Oxford Road</deliveryPoint><city>Manchester</city><postalCode>M13 9PL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0161 275 2671</phone><electronicMailAddress>Rachel.E.Webster@manchester.ac.uk</electronicMailAddress><onlineUrl>http://www.museum.manchester.ac.uk/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Lindsay</givenName>          <surName>Loughtman</surName>
+    </individualName>
+<organizationName>Manchester Museum, University of Manchester</organizationName><positionName>Curatorial Assistant (Botany)</positionName>    <address>
+<deliveryPoint>Oxford Road</deliveryPoint><city>Manchester</city><postalCode>M13 9PL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0161  275 2672</phone><electronicMailAddress>lindsey.loughtman@manchester.ac.uk</electronicMailAddress><onlineUrl>http://www.museum.manchester.ac.uk/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>John</givenName>          <surName>Peel</surName>
+    </individualName>
+<organizationName>Manchester Museum, University of Manchester</organizationName><positionName>Collection Information Manager</positionName>    <address>
+<deliveryPoint>Oxford Road</deliveryPoint><city>Manchester</city><postalCode>M13 9PL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0161 235 8892</phone><electronicMailAddress>j.peel@manchester.gov.uk</electronicMailAddress><onlineUrl>http://www.museum.manchester.ac.uk/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:10Z</dateStamp>
+      <citation>Peel J (2018). Manchester Museum, University of Manchester, Botany Collection. Manchester Museum, The University of Manchester. Occurrence dataset https://doi.org/10.15468/0aqglb accessed via GBIF.org on 2019-05-14.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ee0e7875-8fbc-4cd8-a6a8-65f4a871e2ea"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/8arhjc</alternateIdentifier>
+    <title>University of Jena, Herbarium Haussknecht - Herbarium JE</title>
+    <associatedParty>
+    <individualName>
+          <surName>Heimo Rainer</surName>
+    </individualName>
+<electronicMailAddress>heimo.rainer@nhm-wien.ac.at</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para>The Herbarium Haussknecht (JE) houses about 3.5 Mio specimens from all parts of the world, especially vascular plants from central and southeast Europe, southwest Asia, and Cuba, and Bryophytes from tropical and subtropical regions . The most important collections include the original collections of C. Haussknecht, C. Gaillardot,  T. Herzog (only bryophtyes), and T. Strauss, the original herbaria of C. Dufft, A. Georges, W. Gerhard,  R. Grolle, E. Sagorski, and K. Schliephacke, as well as major collections of e.g., B. Balansa, C. I. Blanche, E. Boissier, J. Bornmüller, W. Rothmaler, P. Sintenis, F. K. Meyer, A. Schäfer-Verwimp, R. Düll, and the Flora de Cuba series.</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.spezbot.uni-jena.de/herbarium/</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+          <surName>Jörn Hentschel</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Fürstengraben 1, 07737 Jena, Germany</deliveryPoint>    </address>
+<electronicMailAddress>j.hentschel@uni-jena.de</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-04-08T20:38:18Z</dateStamp>
+      <citation>University of Vienna - Herbarium WU. University of Jena, Herbarium Haussknecht - Herbarium JE. Occurrence dataset https://doi.org/10.15468/8arhjc accessed via GBIF.org on 2021-04-08.</citation>
+              <resourceLogoUrl>http://www.uni-jena.de/unijenamedia/SPZ_LPF_Logo_FSU-width-70-height-70.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

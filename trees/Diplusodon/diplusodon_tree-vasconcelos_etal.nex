@@ -1,0 +1,147 @@
+#NEXUS
+[written Tue Sep 29 09:52:48 BRT 2020 by Mesquite  version 3.6 (build 917) at yago-Inspiron-3442/127.0.1.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=93;
+	TAXLABELS
+		Diplusodon_ulei_var_ciliatus Diplusodon_villosissimus Diplusodon_villosus Diplusodon_incanus Diplusodon_hatschbachii Diplusodon_pygmaeus Diplusodon_ciliatiflorus Diplusodon_alatus Diplusodon_panniculatus Diplusodon_hirsutus Diplusodon_aggregatifolius Diplusodon_microphyllus Diplusodon_subsericeus Diplusodon_rupestris Diplusodon_vidalii Diplusodon_helianthemifolius_var_helianthemifolius Diplusodon_helianthemifolius_var_pemphoides Diplusodon_divaricatus Diplusodon_rotatus Diplusodon_quintuplinervius Diplusodon_buxifolius Diplusodon_epilobioides Diplusodon_speciosus Diplusodon_ovatus Diplusodon_sessiliflorus Diplusodon_macrodon Diplusodon_bolivianus Diplusodon_sordidus Diplusodon_parvifolius Diplusodon_argyrophyllus Diplusodon_ulei_var_ulei Diplusodon_bahiensis Diplusodon_hexander Diplusodon_glaucescens Diplusodon_rotundifolius Diplusodon_orbicularis Diplusodon_candollei Diplusodon_minasensis Diplusodon_glaziovii Diplusodon_mononeuros Diplusodon_uninervius Diplusodon_puberulus Diplusodon_glocimarii Diplusodon_kielmeyeroides_var_microcalyx Diplusodon_oblongus Diplusodon_plumbeus Diplusodon_ericoides Diplusodon_sigillatus Diplusodon_punctatus Diplusodon_punctatus_var_punctatus Diplusodon_strigosus Diplusodon_chapadensis Diplusodon_ramosissimus Diplusodon_micromerus Diplusodon_paraisoensis Diplusodon_cryptanthus Diplusodon_lanceolatus Diplusodon_rosmarinifolius Diplusodon_capitalensis Diplusodon_kielmeyeroides Diplusodon_adpressipilus Diplusodon_fastigiatus Diplusodon_marginatus Diplusodon_heringeri Diplusodon_xerophilus Diplusodon_imbricatus Diplusodon_burchellii Diplusodon_petiolatus Diplusodon_longipes Diplusodon_decussatus Diplusodon_cordifolius Diplusodon_argenteus Diplusodon_thymifolius Diplusodon_retroimbricatus Diplusodon_urceolatus Diplusodon_appendiculosus Diplusodon_astictus Diplusodon_virgatus Diplusodon_bradei Diplusodon_nitidus Cuphea_acicularis Woodfordia_fruticosa Adenaria_floribunda Pleurophora_saccocarpa Physocalymma_scaberrimum Lourtella_resinosa Lafoensia_nummularifolia Lafoensia_pacari Capuronia_madagascariensis Punica_granatum Heimia_apetala Rotala_ramosior Lythrum_hyssopifolia 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 0174d9ec01c31;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Diplusodon_ulei_var_ciliatus,
+[1] 		2 Diplusodon_villosissimus,
+[2] 		3 Diplusodon_villosus,
+[3] 		4 Diplusodon_incanus,
+[4] 		5 Diplusodon_hatschbachii,
+[5] 		6 Diplusodon_pygmaeus,
+[6] 		7 Diplusodon_ciliatiflorus,
+[7] 		8 Diplusodon_alatus,
+[8] 		9 Diplusodon_panniculatus,
+[9] 		10 Diplusodon_hirsutus,
+[10] 		11 Diplusodon_aggregatifolius,
+[11] 		12 Diplusodon_microphyllus,
+[12] 		13 Diplusodon_subsericeus,
+[13] 		14 Diplusodon_rupestris,
+[14] 		15 Diplusodon_vidalii,
+[15] 		16 Diplusodon_helianthemifolius_var_helianthemifolius,
+[16] 		17 Diplusodon_helianthemifolius_var_pemphoides,
+[17] 		18 Diplusodon_divaricatus,
+[18] 		19 Diplusodon_rotatus,
+[19] 		20 Diplusodon_quintuplinervius,
+[20] 		21 Diplusodon_buxifolius,
+[21] 		22 Diplusodon_epilobioides,
+[22] 		23 Diplusodon_speciosus,
+[23] 		24 Diplusodon_ovatus,
+[24] 		25 Diplusodon_sessiliflorus,
+[25] 		26 Diplusodon_macrodon,
+[26] 		27 Diplusodon_bolivianus,
+[27] 		28 Diplusodon_sordidus,
+[28] 		29 Diplusodon_parvifolius,
+[29] 		30 Diplusodon_argyrophyllus,
+[30] 		31 Diplusodon_ulei_var_ulei,
+[31] 		32 Diplusodon_bahiensis,
+[32] 		33 Diplusodon_hexander,
+[33] 		34 Diplusodon_glaucescens,
+[34] 		35 Diplusodon_rotundifolius,
+[35] 		36 Diplusodon_orbicularis,
+[36] 		37 Diplusodon_candollei,
+[37] 		38 Diplusodon_minasensis,
+[38] 		39 Diplusodon_glaziovii,
+[39] 		40 Diplusodon_mononeuros,
+[40] 		41 Diplusodon_uninervius,
+[41] 		42 Diplusodon_puberulus,
+[42] 		43 Diplusodon_glocimarii,
+[43] 		44 Diplusodon_kielmeyeroides_var_microcalyx,
+[44] 		45 Diplusodon_oblongus,
+[45] 		46 Diplusodon_plumbeus,
+[46] 		47 Diplusodon_ericoides,
+[47] 		48 Diplusodon_sigillatus,
+[48] 		49 Diplusodon_punctatus,
+[49] 		50 Diplusodon_punctatus_var_punctatus,
+[50] 		51 Diplusodon_strigosus,
+[51] 		52 Diplusodon_chapadensis,
+[52] 		53 Diplusodon_ramosissimus,
+[53] 		54 Diplusodon_micromerus,
+[54] 		55 Diplusodon_paraisoensis,
+[55] 		56 Diplusodon_cryptanthus,
+[56] 		57 Diplusodon_lanceolatus,
+[57] 		58 Diplusodon_rosmarinifolius,
+[58] 		59 Diplusodon_capitalensis,
+[59] 		60 Diplusodon_kielmeyeroides,
+[60] 		61 Diplusodon_adpressipilus,
+[61] 		62 Diplusodon_fastigiatus,
+[62] 		63 Diplusodon_marginatus,
+[63] 		64 Diplusodon_heringeri,
+[64] 		65 Diplusodon_xerophilus,
+[65] 		66 Diplusodon_imbricatus,
+[66] 		67 Diplusodon_burchellii,
+[67] 		68 Diplusodon_petiolatus,
+[68] 		69 Diplusodon_longipes,
+[69] 		70 Diplusodon_decussatus,
+[70] 		71 Diplusodon_cordifolius,
+[71] 		72 Diplusodon_argenteus,
+[72] 		73 Diplusodon_thymifolius,
+[73] 		74 Diplusodon_retroimbricatus,
+[74] 		75 Diplusodon_urceolatus,
+[75] 		76 Diplusodon_appendiculosus,
+[76] 		77 Diplusodon_astictus,
+[77] 		78 Diplusodon_virgatus,
+[78] 		79 Diplusodon_bradei,
+[79] 		80 Diplusodon_nitidus,
+[80] 		81 Cuphea_acicularis,
+[81] 		82 Woodfordia_fruticosa,
+[82] 		83 Adenaria_floribunda,
+[83] 		84 Pleurophora_saccocarpa,
+[84] 		85 Physocalymma_scaberrimum,
+[85] 		86 Lourtella_resinosa,
+[86] 		87 Lafoensia_nummularifolia,
+[87] 		88 Lafoensia_pacari,
+[88] 		89 Capuronia_madagascariensis,
+[89] 		90 Punica_granatum,
+[90] 		91 Heimia_apetala,
+[91] 		92 Rotala_ramosior,
+[92] 		93 Lythrum_hyssopifolia;
+	TREE Imported_tree_1 = ((((((((((((((((1:0.3924159653,2:0.3924159653):0.6319512216,3:1.024367187):0.3519102503,4:1.376277437):0.6532635592,(5:0.5618791581,6:0.5618791581):1.467661838):1.033534821,(7:2.747952759,8:2.747952759):0.3151230579):0.9407148997,((((9:1.398889027,10:1.398889027):0.2192104326,11:1.618099459):0.4307165072,(12:0.6989228703,13:0.6989228703):1.349893096):0.5561975536,(14:1.90448093,15:1.90448093):0.7005325905):1.398777196):0.379665517,((((((16:0.7089954077,17:0.7089954077):0.6872481012,18:1.396243509):0.9805035258,(19:1.75663644,20:1.75663644):0.6201105944):0.209631929,((21:0.7355183679,22:0.7355183679):1.246995028,23:1.982513396):0.603865568):0.09606023468,(24:1.180095598,25:1.180095598):1.5023436):0.5945354545,26:3.276974653):1.106481581):0.2487466327,27:4.632202866):0.8554057694,28:5.487608636):1.098395378,(((29:0.2823623409,30:0.2823623409):0.07763630907,31:0.35999865):1.441163221,32:1.801161871):4.784842144):2.457159232,(((((((33:1.425104569,34:1.425104569):0.1295125365,35:1.554617106):0.4935237825,36:2.048140888):1.281120979,37:3.329261868):0.2135416636,(38:3.229367666,39:3.229367666):0.3134358655):2.06237993,((40:1.072190929,41:1.072190929):1.542648435,42:2.614839363):2.990344097):1.734844077,43:7.340027538):1.703135707):0.4013778953,((((((((((((44:0.7713661456,45:0.7713661456):0.1601014258,46:0.9314675714):0.2192890877,47:1.150756659):0.1693424446,48:1.320099104):0.3600682673,((49:0.5477542517,50:0.5477542517):0.7675286252,51:1.315282877):0.3648844942):0.7630642129,(((52:1.092952058,53:1.092952058):0.1567171136,54:1.249669172):0.09244339488,55:1.342112567):1.101119017):0.0609408933,56:2.504172477):0.7984655821,((((57:0.798329457,58:0.798329457):0.1888020003,59:0.9871314573):0.0445847455,60:1.031716203):1.284461723,61:2.316177926):0.9864601335):0.9654704988,(((((((62:0.6248817205,63:0.6248817205):0.3015015372,64:0.9263832577):0.1212748257,65:1.047658083):0.1111011198,66:1.158759203):0.2679604857,(((67:0.5651077654,68:0.5651077654):0.3226975758,69:0.8878053412):0.4501147117,70:1.337920053):0.08879963606):0.8763396739,71:2.303059363):0.4534652893,72:2.756524652):1.511583906):0.9403292291,73:5.208437787):0.4442001908,(((74:1.150142243,75:1.150142243):0.9157510401,76:2.065893283):1.128370458,77:3.194263741):2.458374237):1.208667788,78:6.861305766):2.583235375):0.4604218865,(79:4.310669166,80:4.310669166):5.594293861):47.52779998,((((81:16.07264169,82:16.07264169):13.04626595,83:29.11890764):6.460826844,84:35.57973448):17.9390169,(85:33.60598456,86:33.60598456):19.91276682):3.914011624):10.59646615,(((87:7.983156202,88:7.983156202):19.91084996,89:27.89400616):12.16333257,90:40.05733873):27.97189043):14.37885563,((91:39.52711953,92:39.52711953):27.74622606,93:67.27334559):15.13473921);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1601383968615;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6515519722938591829;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState true false 129;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		endTell;
+end;
+
+

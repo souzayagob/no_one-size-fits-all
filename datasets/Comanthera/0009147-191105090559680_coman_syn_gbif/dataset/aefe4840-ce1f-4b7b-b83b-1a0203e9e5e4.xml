@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="aefe4840-ce1f-4b7b-b83b-1a0203e9e5e4"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/gjf70b</alternateIdentifier>
+        <alternateIdentifier>aefe4840-ce1f-4b7b-b83b-1a0203e9e5e4</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=tepb</alternateIdentifier>
+    <title>TEPB - Herbário Graziela Barroso</title>
+    <creator>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Farias Melo de Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal do Piauí (UFPI)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Universitária, 1310; Ininga</deliveryPoint><city>Teresina</city><administrativeArea>Piauí</administrativeArea><postalCode>64049-550</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 86 3215-5509</phone><electronicMailAddress>rbarros.ufpi@gmail.com</electronicMailAddress><onlineUrl>http://www.ufpi.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Farias Melo de Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal do Piauí (UFPI)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Universitária, 1310; Ininga</deliveryPoint><city>Teresina</city><administrativeArea>Piauí</administrativeArea><postalCode>64049-550</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 86 3215-5509</phone><electronicMailAddress>rbarros.ufpi@gmail.com</electronicMailAddress><onlineUrl>http://www.ufpi.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-19
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário Graziela Barroso, com o acrônimo TEPB, é vinculado administrativamente ao Centro de Ciências da Natureza da Universidade Federal do Piauí. Foi inaugurado em 1977, e conta atualmente com 29.267 exsicatas, a maioria proveniente de fitofisionomias do estado do Piauí. É atualmente o maior e mais representativo, tanto em termos do estado do Piauí, quanto da região Meio Norte, possuindo coleções de referência de vários municípios, dos cerrados nordestinos, de outros Estados brasileiros e de outros países sob a forma de intercâmbios. Oferece aos estudantes de Graduação e Graduados estágios curriculares e extracurriculares e incorpora materiais oriundos de vários projetos de pesquisa realizados por professores e alunos de Graduação e Pós-Graduação Stricto Sensu da UFPI (Mestrado em Desenvolvimento e Meio Ambiente e Mestrado em Química), de outras IES e de Instituições de Pesquisa do Piauí.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=TEPB</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Roseli</givenName>          <surName>Farias Melo de Barros</surName>
+    </individualName>
+<organizationName>Universidade Federal do Piauí (UFPI)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Universitária, 1310; Ininga</deliveryPoint><city>Teresina</city><administrativeArea>Piauí</administrativeArea><postalCode>64049-550</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 86 3215-5509</phone><electronicMailAddress>rbarros.ufpi@gmail.com</electronicMailAddress><onlineUrl>http://www.ufpi.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:54Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=TEPB">Farias Melo de Barros R (2019). TEPB - Herbário Graziela Barroso. Version 1.54. Universidade Federal do Piauí. Occurrence dataset https://doi.org/10.15468/gjf70b accessed via GBIF.org on 2019-11-18.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=tepb</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

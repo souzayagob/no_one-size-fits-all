@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5bad80c7-8b9e-448a-84fe-df70288f16ac"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/ew5ksp</alternateIdentifier>
+        <alternateIdentifier>5bad80c7-8b9e-448a-84fe-df70288f16ac</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=husc</alternateIdentifier>
+    <title>HUSC - Herbário Unisanta</title>
+    <creator>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>de S. Penteado Sampaio</surName>
+    </individualName>
+<organizationName>Universidade Santa Cecília (UNISANTA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Oswaldo Cruz, 266 - Bloco B (sala 25) - Boqueirão</deliveryPoint><city>Santos</city><administrativeArea>São Paulo</administrativeArea><postalCode>11045-907</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 13 3202-7100</phone><electronicMailAddress>pspsampaio@unisanta.br</electronicMailAddress><onlineUrl>http://www.unisanta.br/herbario/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Zélia</givenName>          <surName>Rodrigues de Mello</surName>
+    </individualName>
+<organizationName>Universidade Santa Cecília (UNISANTA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Oswaldo Cruz, 266 - Bloco B (sala 25) - Boqueirão</deliveryPoint><city>Santos</city><administrativeArea>São Paulo</administrativeArea><postalCode>11045-907</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 13 3202-7100</phone><electronicMailAddress>zmello@unisanta.br</electronicMailAddress><onlineUrl>http://www.unisanta.br/herbario/</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>de S. Penteado Sampaio</surName>
+    </individualName>
+<organizationName>Universidade Santa Cecília (UNISANTA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Oswaldo Cruz, 266 - Bloco B (sala 25) - Boqueirão</deliveryPoint><city>Santos</city><administrativeArea>São Paulo</administrativeArea><postalCode>11045-907</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 13 3202-7100</phone><electronicMailAddress>pspsampaio@unisanta.br</electronicMailAddress><onlineUrl>http://www.unisanta.br/herbario/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O acervo conta com 8.131 espécimes (briófitas, pteridófitas, macroalgas marinhas e angiospermas). O principal objetivo é proporcionar a comunidade com serviços em questões relacionadas com a identificação precisa das plantas, bem como preservar o testemunho de estudos científicos realizados por estudantes de graduação e pós-graduação nas áreas de ecologia, taxonomia e fitoterapia. A principal área de estudo é o bioma Mata Atlântica no litoral do estado de São Paulo, Brasil, nos seguintes ecossistemas: manguezal, restinga , floresta tropical Densa. Especialidade: Esta coleção representa a flora da restinga de Bertioga (Parque Estadual da Restinga de Bertioga). Também contendo Briófitas, pteridófitas e macroalgas da região costeira do estado São Paulo.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HUSC</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Zélia</givenName>          <surName>Rodrigues de Mello</surName>
+    </individualName>
+<organizationName>Universidade Santa Cecília (UNISANTA)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Oswaldo Cruz, 266 - Bloco B (sala 25) - Boqueirão</deliveryPoint><city>Santos</city><administrativeArea>São Paulo</administrativeArea><postalCode>11045-907</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 13 3202-7100</phone><electronicMailAddress>zmello@unisanta.br</electronicMailAddress><onlineUrl>http://www.unisanta.br/herbario/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:08Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HUSC">de S. Penteado Sampaio P, Rodrigues de Mello Z (2021). HUSC - Herbário Unisanta. Version 1.71. Universidade Santa Cecília. Occurrence dataset https://doi.org/10.15468/ew5ksp accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=husc</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ec20771d-5c61-409f-825c-3eea4118c437"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/sdsazf</alternateIdentifier>
+        <alternateIdentifier>ec20771d-5c61-409f-825c-3eea4118c437</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=cgms</alternateIdentifier>
+    <title>CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul</title>
+    <creator>
+    <individualName>
+<givenName>Ângela</givenName>          <surName>L.B. Sartori</surName>
+    </individualName>
+<organizationName>Fundação Universidade Federal de Mato Grosso do Sul (UFMS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Costa e Silva s/n, Bairro Universitário</deliveryPoint><city>Campo Grande</city><administrativeArea>Mato Grosso do Sul</administrativeArea><postalCode>79070-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 67 3345-7808 / 7809 / 7399</phone><electronicMailAddress>albsartori@gmail.com</electronicMailAddress><onlineUrl>https://ppgbiovegetal.ufms.br/docentes/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ângela</givenName>          <surName>L.B. Sartori</surName>
+    </individualName>
+<organizationName>Fundação Universidade Federal de Mato Grosso do Sul (UFMS)</organizationName><positionName>Bióloga</positionName>    <address>
+<deliveryPoint>Avenida Costa e Silva s/n, Bairro Universitário</deliveryPoint><city>Campo Grande</city><administrativeArea>Mato Grosso do Sul</administrativeArea><postalCode>79070-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 67 3345-7808 / 7809 / 7399</phone><electronicMailAddress>albsartori@gmail.com</electronicMailAddress><onlineUrl>https://ppgbiovegetal.ufms.br/docentes/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-05-02
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>&lt;p&gt;O Herbário CGMS da Universidade Federal de Mato Grosso do Sul, campus Campo Grande detém uma coleção com cerca de aproximadamente 70000 espécimes. A coleção do CGMS, maior de Mato Grosso do Sul, é heterogênea com espécimes oriundos de diferentes regiões do estado. Deste modo o Herbário CGMS, conta com espécimes do Pantanal, Chaco, Cerrado, Florestas Estacionais da planície e das morrarias. Na coleção estão incorporados predominantemente espécimes de Angiospermas e Líquens, além de alguns exemplares de Pteridófitas, Briófitas e Fungos.&lt;/p&gt;
+&lt;p&gt;The CGMS Herbarium of the Federal University of Mato Grosso do Sul, Campo Grande campus has a collection with approximately 70,000 specimens. The CGMS collection, larger in Mato Grosso do Sul, is heterogeneous with specimens from different regions of the state. In this way the CGMS Herbarium has specimens of the Pantanal, Chaco, Cerrado, Seasonal Forests of the plain and morrarias. In the collection are mainly incorporated specimens of Angiosperms and Lichens, as well as some specimens of Pteridophytes, Bryophytes and Fungi.&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=CGMS</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ana Cristina</givenName>          <surName>de Meira Cristaldo</surName>
+    </individualName>
+<organizationName>Fundação Universidade Federal de Mato Grosso do Sul (UFMS)</organizationName><positionName>Bióloga</positionName>    <address>
+<deliveryPoint>Avenida Costa e Silva s/n, Bairro Universitário</deliveryPoint><city>Campo Grande</city><administrativeArea>Mato Grosso do Sul</administrativeArea><postalCode>79070-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 67 3345-7808 / 7809</phone><electronicMailAddress>accristaldo@gmail.com</electronicMailAddress><onlineUrl>https://inbio.ufms.br/cgms/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Fábia</givenName>          <surName>Silva de Carvalho</surName>
+    </individualName>
+<organizationName>Fundação Universidade Federal de Mato Grosso do Sul (UFMS)</organizationName><positionName>Bióloga</positionName>    <address>
+<deliveryPoint>Avenida Costa e Silva s/n, Bairro Universitário</deliveryPoint><city>Campo Grande</city><administrativeArea>Mato Grosso do Sul</administrativeArea><postalCode>79070-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 67 3345-7808 / 7809</phone><electronicMailAddress>fabiabiovegetal@gmail.com</electronicMailAddress><onlineUrl>https://inbio.ufms.br/cgms/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:22Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=CGMS">L.B. Sartori Â (2019). CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul. Version 1.56. Universidade Federal de Mato Grosso do Sul. Occurrence dataset https://doi.org/10.15468/sdsazf accessed via GBIF.org on 2019-05-14.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=cgms</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

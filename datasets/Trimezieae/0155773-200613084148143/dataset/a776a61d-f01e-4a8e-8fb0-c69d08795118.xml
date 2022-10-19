@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a776a61d-f01e-4a8e-8fb0-c69d08795118"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/yu7vmp</alternateIdentifier>
+        <alternateIdentifier>a776a61d-f01e-4a8e-8fb0-c69d08795118</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=shpr</alternateIdentifier>
+    <title>SHPR - Herbário da Universidade Tecnológica Federal do Paraná (UTFPR), campus Santa Helena</title>
+    <creator>
+    <individualName>
+<givenName>Leonardo</givenName>          <surName>Biral</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Campus Santa Helena (UTFPR-SL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Prolongamento da rua Cerejeiras, s.n., Bairro São Luiz</deliveryPoint><city>Santa Helena</city><administrativeArea>Paraná</administrativeArea><postalCode>85892-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 45 3268-8800</phone><electronicMailAddress>leonardob@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=SHPR</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Leonardo</givenName>          <surName>Biral</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Campus Santa Helena (UTFPR-SL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Prolongamento da rua Cerejeiras, s.n., Bairro São Luiz</deliveryPoint><city>Santa Helena</city><administrativeArea>Paraná</administrativeArea><postalCode>85892-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 45 3268-8800</phone><electronicMailAddress>leonardob@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=SHPR</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-20
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário SHPR pertence a Universidade Tecnológica Federal do Paraná, campus Santa Helena, e foi criado em 2019. Trata-se de uma jovem coleção em crescimento. Dispõe em seu acervo de coletas de diversos grupos vegetais de localidades variadas, com destaque para o oeste do Paraná, sobretudo coletas da Área de Interesse Ecológico de Santa Helena (ARIE-SH), antigo Refúgio Biológico de Santa Helena-Itaipu, na divisa entre Brasil e Paraguai. Possui duplicatas para doação e está aberto a permutas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=SHPR</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Leonardo</givenName>          <surName>Biral</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Campus Santa Helena (UTFPR-SL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Prolongamento da rua Cerejeiras, s.n., Bairro São Luiz</deliveryPoint><city>Santa Helena</city><administrativeArea>Paraná</administrativeArea><postalCode>85892-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 45 3268-8800</phone><electronicMailAddress>leonardob@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=SHPR</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:47:01Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=SHPR">Biral L (2020). SHPR - Herbário da Universidade Tecnológica Federal do Paraná (UTFPR), campus Santa Helena. Version 1.1. Universidade Tecnológica Federal do Paraná - Campus Santa Helena. Occurrence dataset https://doi.org/10.15468/yu7vmp accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://reflora.cria.org.br/logo/shpr</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

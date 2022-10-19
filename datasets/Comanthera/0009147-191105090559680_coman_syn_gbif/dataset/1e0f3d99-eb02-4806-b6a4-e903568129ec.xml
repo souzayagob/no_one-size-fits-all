@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1e0f3d99-eb02-4806-b6a4-e903568129ec"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/k0gqg4</alternateIdentifier>
+        <alternateIdentifier>1e0f3d99-eb02-4806-b6a4-e903568129ec</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=ufp</alternateIdentifier>
+    <title>UFP - Herbário UFP - Geraldo Mariz</title>
+    <creator>
+    <individualName>
+<givenName>Marlene</givenName>          <surName>Carvalho de Alencar Barbosa</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco (UFPE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Prof. Moraes Rego, s/n. Cidade Universitária</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>50670-901</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 81 2126-8847</phone><electronicMailAddress>marlenealencar@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.ufpe.br/ccb/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=270</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marlene</givenName>          <surName>Carvalho de Alencar Barbosa</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco (UFPE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Prof. Moraes Rego, s/n. Cidade Universitária</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>50670-901</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 81 2126-8847</phone><electronicMailAddress>marlenealencar@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.ufpe.br/ccb/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=270</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-20
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário UFP, fundado e indexado em 1968, foi credenciado em 2003, na qualidade de &amp;#34;Fiel Depositário&amp;#34;, pelo Ministério do Meio Ambiente, apresentando, atualmente, 75203 amostras tombadas, principalmente do Nordeste do Brasil e do Estado de Pernambuco. Possui importantes coleções, sobremaneira dos ecossistemas caatinga e floresta atlântica, além de 53 typus, sendo 9 Criptogâmicos e 44 Fanerogâmicos, assim discriminados: Bromeliaceae (24): Aechmea atrovittata, A. cephaloides, A. exsudans, A. guainumbiorum, A. gustavoi, A. muricata, A. nudicaulis, A. pernambucentris, A. serragrandensis; Canistrum alagoanum, C. conífera, C. improcerum; Cryptanthus felixii, C. reptans; Dyckia limae; Hohenbergia itamarajuensis; Neoregelia pernambucana; Orthophytum atalaiense, O. triunfense; Pseudananas sagenarius; Tillandsia catimbauensis; Vriesea freicanecana, V. vellozicola, V. zonata. Cyperaceae (06): Hypolytrum amorimii, H. bahiense, H. espiritosantense, H. lucennoi; Koellensteinia spiralis; Rhynchospora dominguensi. Euphorbiaceae (01): Gymnanthes boticario. Gesneriaceae (01): Sinningia nordestina. Clusiaceae/Guttiferae (10): Clusia aemygdioi, C. dardanoi, C. intermédia, C. marizii, C. obdeltifolia, C. paralicola, C. pernambucensis; Tovomita excelsa, T. mangle; Vismia reichardtiana. Fabaceae/Leguminosae (01): Chamaecrista anamariae. Liliaceae (01): Nothoscordum pernambucanum. Maranthaceae (03): Maranta andersoniana, M. hatsbachiana, M. protracta. Myrtaceae (01): Eugenia tumescens. Ochidaceae (05): Anathallis amazonica; Epidendrum flammeum, E. pessoae; Koellensteinia spiralis; Lockhartia viruensis. Scrophulariaceae (01): Ameroglossum pernambucense. Triuridaceae (01): Lacandonia brasiliana. Lejeuneaceae (04): Ceratolejeunea atlantica, Lejeunea flava, Rectolejeunea, Vitalianthus bischlerianus. Parmeliaceae (04): Parmelia cryptoxanthoides, P. elabens, P. pernambucana, P. spinibarbis. Cyatheaceae (01): Cyathea abreviata.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=UFP</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marlene</givenName>          <surName>Carvalho de Alencar Barbosa</surName>
+    </individualName>
+<organizationName>Universidade Federal de Pernambuco (UFPE)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Prof. Moraes Rego, s/n. Cidade Universitária</deliveryPoint><city>Recife</city><administrativeArea>Pernambuco</administrativeArea><postalCode>50670-901</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 81 2126-8847</phone><electronicMailAddress>marlenealencar@yahoo.com.br</electronicMailAddress><onlineUrl>http://www.ufpe.br/ccb/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=270</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:55Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=UFP">Carvalho de Alencar Barbosa M (2019). UFP - Herbário UFP - Geraldo Mariz. Version 1.55. Universidade Federal de Pernambuco. Occurrence dataset https://doi.org/10.15468/k0gqg4 accessed via GBIF.org on 2019-11-18.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=ufp</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

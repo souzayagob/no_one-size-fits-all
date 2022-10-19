@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bf2a4bf0-5f31-11de-b67e-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ypoair</alternateIdentifier>
+        <alternateIdentifier>8402</alternateIdentifier>
+    <title>Royal Botanic Garden Edinburgh Herbarium (E)</title>
+    <creator>
+    <individualName>
+          <surName>Rob Cubey</surName>
+    </individualName>
+    </creator>
+      <pubDate>
+      2018-11-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>RBGE&amp;#39;s extensive Herbarium numbers nearly three million specimens representing half to two thirds of the world&amp;#39;s flora.
+        It is considered a leading botanical collection, and every year many researchers from around the world visit to study our specimens in a well-designed and user-friendly
+        setting.
+        Edinburgh incorporates the following herbaria :- 
+        CTN: Herbarium, Free Library and Museum, Campbeltown, Strathclyde Region, Scotland U.K.
+        EBH: Herbarium, Botanical Society of Edinburgh, Edinburgh, Scotland U.K.
+        EDH: Herbarium, Plinian Society, Edinburgh, Scotland U.K.
+        EGH: Herbarium, University of Edinburgh, Edinburgh, Scotland U.K.
+        GL: (except British) on permanent loan: Herbarium, Botany Department, University of Glasgow, Glasgow G12 8QQ, Scotland U.K.
+        KSO: Herbarium, Tweedside Physical and Antiquarian Society Museum
+        Kelso, Borders Region, Scotland U.K.
+        NCCE: Herbarium, Nature Conservancy Council, 12 Hope Terrace, Edinburgh, Scotland U.K.
+        NCE: (tropical pteridophytes): Herbarium, School of Biological Sciences, University of Newcastle upon Tyne, Newcastle upon Tyne NE1 7RU, England U.K.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Herbarium Plant Specimens R.K. Greville J.H. Balfour Peter Davis George Walker Arnott</keyword>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.rbge.org.uk/science/herbarium</url>
+          </online>
+      </distribution>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:56Z</dateStamp>
+      <citation>Royal Botanic Garden Edinburgh (2018). Royal Botanic Garden Edinburgh Herbarium (E). Occurrence dataset https://doi.org/10.15468/ypoair accessed via GBIF.org on 2019-11-18.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

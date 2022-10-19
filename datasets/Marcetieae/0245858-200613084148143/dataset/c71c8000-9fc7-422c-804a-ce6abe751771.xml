@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c71c8000-9fc7-422c-804a-ce6abe751771"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/vg8rjh</alternateIdentifier>
+        <alternateIdentifier>c71c8000-9fc7-422c-804a-ce6abe751771</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=cepec_herbarium</alternateIdentifier>
+    <title>CEPEC herbarium - Centro de Pesquisas do Cacau - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>André Márcio Araújo</givenName>          <surName>Amorim</surName>
+    </individualName>
+<organizationName>Herbário Centro de Pesquisas do Cacau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilheus-Itabuna</deliveryPoint><city>Itabuna</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(73)-3214-3227</phone><electronicMailAddress>amorim.uesc@gmail.com</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=cepec&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Cristiane Isabel</givenName>          <surName>Aguiar</surName>
+    </individualName>
+<organizationName>Centro de Pesquisas do Cacau</organizationName><positionName>Técnica</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilheus-Itabuna</deliveryPoint><city>Itabuna</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(73)-3214-3227</phone><electronicMailAddress>cfcristiane@bol.com.br</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=cepec&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Cleiton</givenName>          <surName>Pessoa</surName>
+    </individualName>
+<organizationName>Herbário Centro de Pesquisas do Cacau</organizationName><positionName>Consultor FAO</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilheus-Itabuna</deliveryPoint><city>Itabuna</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(73)-3214-3227</phone><electronicMailAddress>cleitonspessoa@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>SiBBr Felow</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>André Márcio Araújo</givenName>          <surName>Amorim</surName>
+    </individualName>
+<organizationName>Herbário Centro de Pesquisas do Cacau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilheus-Itabuna</deliveryPoint><city>Itabuna</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(73)-3214-3227</phone><electronicMailAddress>amorim.uesc@gmail.com</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=cepec&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vitor</givenName>          <surName>Monteiro</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>REFLORA Felow</positionName>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Dalcin</surName>
+    </individualName>
+<organizationName>Rio de Janeiro Botanic Garden</organizationName><positionName>Núcleo de Computação Científica</positionName>    <role>EDITOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-02
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário Centro de Pesquisas do Cacau (CEPEC), vinculado a CEPLAC (Comissão Executiva do Plano da Lavoura Cacaueira), foi criado em 1964 com o intuito de conhecer e documentar a flora do sul da Bahia e algumas áreas ao norte do estado do Espírito Santo, regiões onde estavam sendo implementadas a lavoura cacaueira (Theobroma cacau L.). Após dez anos, o acervo do herbário começou a se expandir sendo indexado no Index Herbariorum no final da década de 70’, quando abrigava ca. 35.000 exemplares. Hoje o Herbário CEPEC possui um acervo com ca. 160.000 exsicatas, sendo um dos maiores herbários do Nordeste e destaca-se pela sua representatividade de coleções em remanescentes de Floresta Atlântica, principalmente nos estados da Bahia e do Espírito Santo.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Remanescentes de Floresta Atlântica, principalmente nos estados da Bahia e do Espírito Santo.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-42.65</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-37.55</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-11.45</northBoundingCoordinate>
+                      <southBoundingCoordinate>-21.2</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Florística e Fitossociologia em Mata Atlântica: André M. Amorim (Malpighiaceae), Jomar G. Jardim (Rubiaceaee), André M. Carvalho (Fabaceae), Lucas Marinho (Clusiaceae), Renata Asprino (Chrysobalanaceae) &amp; William W. Thomas (Cyperaceae).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malpighiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceaee</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Clusiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chrysobalanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>André Márcio Araújo</givenName>          <surName>Amorim</surName>
+    </individualName>
+<organizationName>Herbário Centro de Pesquisas do Cacau</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilheus-Itabuna</deliveryPoint><city>Itabuna</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55(73)-3214-3227</phone><electronicMailAddress>amorim.uesc@gmail.com</electronicMailAddress><onlineUrl>http://www.botanica.org.br/buscar_herbario_pub.php?opcoes=sigla&amp;busca=cepec&amp;result_por_pagi=5&amp;Buscar.x=0&amp;Buscar.y=0&amp;Buscar=Buscar</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>reflora@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-04-08T20:38:15Z</dateStamp>
+      <citation>Amorim A M A, Aguiar C I, Pessoa C, Lanna J (2021). CEPEC herbarium - Centro de Pesquisas do Cacau - Herbário Virtual REFLORA. Version 1.247. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/vg8rjh accessed via GBIF.org on 2021-04-08.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=cepec_herbarium</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

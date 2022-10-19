@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="fd99455d-f6e9-4421-930a-5d8e23ac8895"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/eqotat</alternateIdentifier>
+        <alternateIdentifier>fd99455d-f6e9-4421-930a-5d8e23ac8895</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=bhzb</alternateIdentifier>
+    <title>BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte</title>
+    <creator>
+    <individualName>
+<givenName>Inês</givenName>          <surName>Ribeiro de Andrade</surName>
+    </individualName>
+<organizationName>Fundação Zoo-Botânica de Belo Horizonte (FZB-BH)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Otacílio Negrão de Lima , 8000 - Pampulha</deliveryPoint><city>Belo Horizonte</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>31365-450</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3277-9211</phone><electronicMailAddress>inribeiro@hotmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=BHZB</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Inês</givenName>          <surName>Ribeiro de Andrade</surName>
+    </individualName>
+<organizationName>Fundação Zoo-Botânica de Belo Horizonte (FZB-BH)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Otacílio Negrão de Lima , 8000 - Pampulha</deliveryPoint><city>Belo Horizonte</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>31365-450</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3277-9211</phone><electronicMailAddress>inribeiro@hotmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=BHZB</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário BHZB do Jardim Botânico da Fundação Zoo-Botânica foi criado em 1993. Tem como objetivo catalogar as espécies existentes nas suas coleções vivas e reservas, além daquelas obtidas por coletas feitas em Minas Gerais. Atualmente, o acervo possui 10426 espécimens catalogados e registrados. Suas coleções mais importantes são as RPPN Brumas do Espinhaço, da Serra da Moeda, Serra do Caraça, Reserva da Fundação Zôo-Botânica de BH, Flora do Norte e Nordeste de MG, Parque Estadual do Rio Doce e outras coletas importantes coletas aleatórias no município de Belo Horizonte. Encontra-se no acervo 155 espécies ameaçadas, em diferentes categorias de ameaça. Esta inscrito no Index Herbariorum desde 2013.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=BHZB</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Inês</givenName>          <surName>Ribeiro de Andrade</surName>
+    </individualName>
+<organizationName>Fundação Zoo-Botânica de Belo Horizonte (FZB-BH)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Otacílio Negrão de Lima , 8000 - Pampulha</deliveryPoint><city>Belo Horizonte</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>31365-450</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3277-9211</phone><electronicMailAddress>inribeiro@hotmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=BHZB</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-04-08T20:38:22Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=BHZB">Ribeiro de Andrade I (2021). BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte. Version 1.75. Fundação Zoo-Botânica de Belo Horizonte/Jardim Botânico. Occurrence dataset https://doi.org/10.15468/eqotat accessed via GBIF.org on 2021-04-08.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=bhzb</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

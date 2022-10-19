@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cd6e21c8-9e8a-493a-8a76-fbf7862069e5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ly60bx</alternateIdentifier>
+    <title>Royal Botanic Gardens, Kew - Herbarium Specimens</title>
+    <creator>
+<organizationName>Royal Botanic Gardens, Kew</organizationName>    </creator>
+    <metadataProvider>
+<organizationName>RBGK Herbarium Digital Collections Unit</organizationName>    <address>
+<deliveryPoint>Herbarium, Library, Art &amp; Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, UK</deliveryPoint>    </address>
+<phone>+44 (0)208 332 5206</phone><electronicMailAddress>herbcat[at]kew.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2018-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>The Herbarium at the Royal Botanic Gardens Kew houses approximately seven million plant specimens, collected from all around the world. Specimens are either pressed and dried or preserved in spirit. Kew is committed to making this important collection more accessible to botanists and others, wherever they may be, for use in their own projects: particularly in biodiversity, conservation, sustainable development and systematics. To this end Kew is building an electronic Herbarium Catalogue containing images of the specimens and information taken from their collection labels. Specimens represented in Kew’s digital collections have been collected over a period spanning three centuries, with examples dating back to the beginning of the 18th century. These include over 300,000 putative type and historically important specimens collected by plant hunters, explorers and scientists of great renown including Charles Darwin, Joseph Dalton Hooker and Nathaniel Wallich, to name just a few.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>RBGK Herbarium Digital Collections Unit</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Herbarium, Library, Art &amp; Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, UK</deliveryPoint>    </address>
+<phone>+44 (0)208 332 5206</phone><electronicMailAddress>herbcat[at]kew.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:23Z</dateStamp>
+      <citation>Royal Botanic Gardens, Kew (2018). Royal Botanic Gardens, Kew - Herbarium Specimens. Occurrence dataset https://doi.org/10.15468/ly60bx accessed via GBIF.org on 2019-05-14.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

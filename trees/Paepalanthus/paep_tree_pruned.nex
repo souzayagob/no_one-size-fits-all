@@ -1,0 +1,243 @@
+#NEXUS
+[R-package APE, Thu Sep 17 12:07:05 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 115;
+	TAXLABELS
+		Paepalanthus_tortilis
+		Paepalanthus_obtusifolius
+		Paepalanthus_lamarckii
+		Paepalanthus_distichophyllus
+		Paepalanthus_scandens
+		Paepalanthus_stannardii
+		Paepalanthus_echinoides
+		Paepalanthus_exiguus
+		Paepalanthus_sphaerocephalus
+		Paepalanthus_leucocephalus
+		Paepalanthus_scleranthus
+		Paepalanthus_guaraiensis
+		Paepalanthus_lundii
+		Paepalanthus_scholiophyllus
+		Actinocephalus_brachypus
+		Paepalanthus_camptophyllus
+		Actinocephalus_divaricatus
+		Actinocephalus_bongardii
+		Actinocephalus_ramosus
+		Actinocephalus_stereophyllus
+		Actinocephalus_falcifolius
+		Actinocephalus_polyanthus
+		Paepalanthus_macrocephalus
+		Paepalanthus_flaccidus
+		Paepalanthus_polycladus
+		Paepalanthus_cordatus
+		Paepalanthus_canescens_var._atratus
+		Paepalanthus_urbanianus
+		Paepalanthus_amoenus
+		Paepalanthus_chiquitensis
+		Paepalanthus_acanthophyllus
+		Paepalanthus_erectifolius
+		Paepalanthus_extremensis
+		Paepalanthus_trichophyllus
+		Paepalanthus_harleyi
+		Paepalanthus_almasensis
+		Paepalanthus_longibracteatus
+		Paepalanthus_niger
+		Paepalanthus_modestus
+		Paepalanthus_subtilis
+		Paepalanthus_polytrichoides
+		Paepalanthus_sessiliflorus
+		Paepalanthus_bifidus
+		Paepalanthus_barbulatus
+		Paepalanthus_cinereus
+		Paepalanthus_regalis
+		Paepalanthus_regelianus
+		Paepalanthus_spathulatus
+		Paepalanthus_neglectus
+		Paepalanthus_macrocaulon
+		Paepalanthus_contasensis
+		Paepalanthus_pulchellus
+		Paepalanthus_pulvinatus
+		Paepalanthus_carvalhoi
+		Paepalanthus_erigeron
+		Paepalanthus_polygonus
+		Paepalanthus_bonsai
+		Paepalanthus_diamantinensis
+		Paepalanthus_eriophaeus
+		Paepalanthus_serpens
+		Paepalanthus_mendoncianus
+		Paepalanthus_nigrescens
+		Paepalanthus_complanatus
+		Paepalanthus_calvulus
+		Paepalanthus_chrysolepis
+		Paepalanthus_latifolius
+		Paepalanthus_argenteus
+		Paepalanthus_plumosus
+		Paepalanthus_augustus
+		Paepalanthus_mollis_var._itambeensis
+		Paepalanthus_comans
+		Paepalanthus_superbus
+		Paepalanthus_latipes
+		Paepalanthus_bromelioides
+		Paepalanthus_albovaginatus
+		Paepalanthus_canastrensis
+		Paepalanthus_hydra
+		Paepalanthus_moedensis
+		Paepalanthus_spixianus
+		Paepalanthus_vellozioides
+		Paepalanthus_melaleucus
+		Paepalanthus_macropodus
+		Paepalanthus_planifolius
+		Paepalanthus_trichopetalus
+		Paepalanthus_crinitus
+		Paepalanthus_villosulus
+		Paepalanthus_capillifolius
+		Paepalanthus_viridulus
+		Paepalanthus_albiceps
+		Paepalanthus_chrysophorus
+		Paepalanthus_xanthopus
+		Paepalanthus_prostratus
+		Paepalanthus_rupestris
+		Paepalanthus_ovatus
+		Paepalanthus_silveirae
+		Paepalanthus_harmsii
+		Paepalanthus_acuminatus
+		Paepalanthus_leucoblepharus
+		Paepalanthus_calvus
+		Paepalanthus_freyreissii
+		Paepalanthus_ciliolatus
+		Paepalanthus_scirpeus
+		Paepalanthus_bryoides
+		Paepalanthus_reflexus
+		Paepalanthus_microphyllus
+		Paepalanthus_aretioides
+		Paepalanthus_dasynema
+		Paepalanthus_diplobetor
+		Paepalanthus_implicatus
+		Paepalanthus_canescens
+		Paepalanthus_subfalcatus
+		Paepalanthus_baraunensis
+		Paepalanthus_flavorutilus
+		Paepalanthus_praemorsus
+		Paepalanthus_pubescens
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Paepalanthus_tortilis,
+		2	Paepalanthus_obtusifolius,
+		3	Paepalanthus_lamarckii,
+		4	Paepalanthus_distichophyllus,
+		5	Paepalanthus_scandens,
+		6	Paepalanthus_stannardii,
+		7	Paepalanthus_echinoides,
+		8	Paepalanthus_exiguus,
+		9	Paepalanthus_sphaerocephalus,
+		10	Paepalanthus_leucocephalus,
+		11	Paepalanthus_scleranthus,
+		12	Paepalanthus_guaraiensis,
+		13	Paepalanthus_lundii,
+		14	Paepalanthus_scholiophyllus,
+		15	Actinocephalus_brachypus,
+		16	Paepalanthus_camptophyllus,
+		17	Actinocephalus_divaricatus,
+		18	Actinocephalus_bongardii,
+		19	Actinocephalus_ramosus,
+		20	Actinocephalus_stereophyllus,
+		21	Actinocephalus_falcifolius,
+		22	Actinocephalus_polyanthus,
+		23	Paepalanthus_macrocephalus,
+		24	Paepalanthus_flaccidus,
+		25	Paepalanthus_polycladus,
+		26	Paepalanthus_cordatus,
+		27	Paepalanthus_canescens_var._atratus,
+		28	Paepalanthus_urbanianus,
+		29	Paepalanthus_amoenus,
+		30	Paepalanthus_chiquitensis,
+		31	Paepalanthus_acanthophyllus,
+		32	Paepalanthus_erectifolius,
+		33	Paepalanthus_extremensis,
+		34	Paepalanthus_trichophyllus,
+		35	Paepalanthus_harleyi,
+		36	Paepalanthus_almasensis,
+		37	Paepalanthus_longibracteatus,
+		38	Paepalanthus_niger,
+		39	Paepalanthus_modestus,
+		40	Paepalanthus_subtilis,
+		41	Paepalanthus_polytrichoides,
+		42	Paepalanthus_sessiliflorus,
+		43	Paepalanthus_bifidus,
+		44	Paepalanthus_barbulatus,
+		45	Paepalanthus_cinereus,
+		46	Paepalanthus_regalis,
+		47	Paepalanthus_regelianus,
+		48	Paepalanthus_spathulatus,
+		49	Paepalanthus_neglectus,
+		50	Paepalanthus_macrocaulon,
+		51	Paepalanthus_contasensis,
+		52	Paepalanthus_pulchellus,
+		53	Paepalanthus_pulvinatus,
+		54	Paepalanthus_carvalhoi,
+		55	Paepalanthus_erigeron,
+		56	Paepalanthus_polygonus,
+		57	Paepalanthus_bonsai,
+		58	Paepalanthus_diamantinensis,
+		59	Paepalanthus_eriophaeus,
+		60	Paepalanthus_serpens,
+		61	Paepalanthus_mendoncianus,
+		62	Paepalanthus_nigrescens,
+		63	Paepalanthus_complanatus,
+		64	Paepalanthus_calvulus,
+		65	Paepalanthus_chrysolepis,
+		66	Paepalanthus_latifolius,
+		67	Paepalanthus_argenteus,
+		68	Paepalanthus_plumosus,
+		69	Paepalanthus_augustus,
+		70	Paepalanthus_mollis_var._itambeensis,
+		71	Paepalanthus_comans,
+		72	Paepalanthus_superbus,
+		73	Paepalanthus_latipes,
+		74	Paepalanthus_bromelioides,
+		75	Paepalanthus_albovaginatus,
+		76	Paepalanthus_canastrensis,
+		77	Paepalanthus_hydra,
+		78	Paepalanthus_moedensis,
+		79	Paepalanthus_spixianus,
+		80	Paepalanthus_vellozioides,
+		81	Paepalanthus_melaleucus,
+		82	Paepalanthus_macropodus,
+		83	Paepalanthus_planifolius,
+		84	Paepalanthus_trichopetalus,
+		85	Paepalanthus_crinitus,
+		86	Paepalanthus_villosulus,
+		87	Paepalanthus_capillifolius,
+		88	Paepalanthus_viridulus,
+		89	Paepalanthus_albiceps,
+		90	Paepalanthus_chrysophorus,
+		91	Paepalanthus_xanthopus,
+		92	Paepalanthus_prostratus,
+		93	Paepalanthus_rupestris,
+		94	Paepalanthus_ovatus,
+		95	Paepalanthus_silveirae,
+		96	Paepalanthus_harmsii,
+		97	Paepalanthus_acuminatus,
+		98	Paepalanthus_leucoblepharus,
+		99	Paepalanthus_calvus,
+		100	Paepalanthus_freyreissii,
+		101	Paepalanthus_ciliolatus,
+		102	Paepalanthus_scirpeus,
+		103	Paepalanthus_bryoides,
+		104	Paepalanthus_reflexus,
+		105	Paepalanthus_microphyllus,
+		106	Paepalanthus_aretioides,
+		107	Paepalanthus_dasynema,
+		108	Paepalanthus_diplobetor,
+		109	Paepalanthus_implicatus,
+		110	Paepalanthus_canescens,
+		111	Paepalanthus_subfalcatus,
+		112	Paepalanthus_baraunensis,
+		113	Paepalanthus_flavorutilus,
+		114	Paepalanthus_praemorsus,
+		115	Paepalanthus_pubescens
+	;
+	TREE * UNTITLED = [&R] ((((1:0.003077391097,2:0.002651492891):0.03294626838,3:0.03038673078):0.04967176108,(((4:0.01026788029,5:0.010622565):0.00167870267,6:0.004911657235):0.005977094144,((7:0.01474810818,((8:0.006016503555,9:0.009826771436):0.00154664657,(10:0.003412716795,11:0.007030085975):0.003077391097):0.005143965347):0.01604377902,((12:0.008301558055,(13:0.0009071078677,14:0.0007031468761):0.007006578606):0.006923611423,(15:0.001485803969,(16:0.004838369557,((17:0.00625365142,18:0.0002495929423):0.0007951021706,(19:0.004621272094,20:0.0006360817365,(21:0.001642750224,22:0.001564622793):0.0008428083009,23:0.002271918028):0.0005807702812):0.002267769669):0.002070031216):0.003423087693,(24:0.004507883611,(25:0.003928496116,((26:0.003996944042,(27:0.007226441641,28:0.002156455365):0.001497557654):0.002110132022,(29:0.0005088653892,30:0.0006312419842,(31:0.001895800132,32:0.00521379606):0.001241742173):0.001919307501):0.001309498705):0.003204607444,((33:0.00319077958,34:0.002132256604):0.003539241749,((35:0.000529607185,36:0.001532818706):0.001857082113,(37:0.0008317460098,(38:0.0002074179576,39:0.0002765572767):0.0005309899713):0.002220754932):0.002652875677):0.001697370286):0.001820438274):0.003724535125):0.008947319296):0.03491881315):0.04337109492,((40:0.0233172354,(41:0.006246046095,42:0.01882940219,43:0.01431391325):0.01062325639):0.0378385666,((((44:0.01038679992,45:0.002625219949):0.001272163473,(46:0.005482748011,47:0.005777281511):0.002258781558):0.001131810655,((48:0.006756985664,(49:0.001685616602,50:0.004164952588):0.0008421169077):0.003992795683,(51:0.0006443784548,((52:0.005614112718,53:0.009083523755):0.002764881374,(54:0.0006423042752,55:0.000324263407):0.007561075946):0.002121885706):0.001951802981):0.001086870098):0.002807056359,((56:0.005240760394,57:0.00399003011):0.01011093404,((((58:0.008225504803,59:0.002576822426):0.002318241372,(60:0.002059660319,61:0.003626357291):0.0006983071238):0.003703101936,(((62:0.002309944654,63:0.004224412402):0.002294042611,(64:0.005912103184,(65:0.001018422172,(66:0.001001828735,67:0.001633070719):0.0007377165357):0.002556772023):0.00115877499):0.001686307995,(68:0.004391729555,69:0.001164306135,(70:0.001357896229,71:0.001362044588,72:0.002011954188):0.0006215624795):0.006676092661,(((73:0.0002979904657,74:0.000799941923):0.0006754911484,((75:0.002140553322,76:0.001453999882):0.001146329912,(77:0.001094475423,78:0.001082721738,79:0.0006264022318,80:0.000338782664,81:0.002211766821):0.0006983071238):0.0005614112718):0.0005185448939,(82:0.001822512454,83:0.0006160313339,(84:0.001058522977,(85:0.0007072952353,86:0.0003049043976):0.0007052210557):0.001083413132):0.001151169664):0.001323326569):0.003606306889):0.002568525708,((87:0.01322566037,(88:0.01580939672,(89:0.001248656104,90:0.0008206837187):0.00506652931):0.007852843873):0.009810869392,(91:0.01058108141,((92:0.0004390346768,93:0.001882663661):0.01108095869,(94:0.0087641001,(95:0.003710707261,(96:0.002269843849,97:0.002383232332):0.002617614624):0.002993041128):0.0005724735629):0.001414590471):0.0005600284854,((98:0.001537658459,(99:0.003698953576,(100:0.005150879279,101:0.00141873883):0.003980350605):0.0008199923255):0.006087717054,((102:0.01328788575,103:0.01783794435):0.001458148242,((104:0.01413276823,(105:0.004634408565,106:0.006006132658):0.001527978954):0.002061043105,(107:0.005932844979,(108:0.0008566361647,(109:0.003456274566,(110:0.0005780047084,111:0.01126002952,(112:0.001176059819,113:0.0008352029758):0.0008116956072,114:0.005948747023,115:0.003071859951):0.002343131527):0.0007059124489):0.003853134258):0.005981933896):0.000529607185):0.002041684096):0.000763989477):0.003763253143):0.003087761995):0.004734660578):0.006837878667):0.007520975141);
+END;

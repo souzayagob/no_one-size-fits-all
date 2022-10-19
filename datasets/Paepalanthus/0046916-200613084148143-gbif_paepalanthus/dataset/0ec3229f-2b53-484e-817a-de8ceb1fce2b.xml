@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0ec3229f-2b53-484e-817a-de8ceb1fce2b"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/utbo2g</alternateIdentifier>
+        <alternateIdentifier>0ec3229f-2b53-484e-817a-de8ceb1fce2b</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=dvpr</alternateIdentifier>
+    <title>DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos</title>
+    <creator>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Aparecida Estevan</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>danielaaestevan@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Fernanda</givenName>          <surName>Ferrari</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>fernandaferrari@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Aparecida Estevan</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>danielaaestevan@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Fernanda</givenName>          <surName>Ferrari</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>fernandaferrari@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-11
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário da Universidade Tecnológica Federal do Paraná, Dois Vizinhos (DVPR) foi idealizado pelo Prof. Fernando C. Bechara em 2008 para atender às disciplinas de Botânica e também aos projetos de levantamentos fitossociológicos e de restauração de áreas degradadas do curso de Engenharia Florestal. Em 2009, a Prof(a). Daniela Aparecida Estevan foi contratada como professora de taxonomia vegetal e curadora do herbário. Após quatro anos de construção do prédio, o herbário DVPR foi inaugurado em 2012, já contando com mais de 800 exsicatas provenientes de doações dos herbários UNIFIL, FUEL e HCF. Atualmente, o herbário atende aos cursos de Engenharia Florestal, Ciências Biológicas, Agronomia, Zootecnia e Educação no Campo, e aos projetos de pesquisa, principalmente ao projeto CNPq (575081/2008-2) em convênio com a COPEL , o qual conta com diversas parcelas permanentes em fragmento florestal e em parcelas de regeneração passiva e ativa. O acervo é composto atualmente de cerca de 1.800 espécimes de plantas, principalmente de angiospermas, provindas de fragmentos da região, do projeto de restauração de áreas degradadas, e também de doações de outros herbários. A informatização do herbário teve início no final do ano de 2013, utilizando o programa Brahms e encontra-se em andamento. Apesar do recente e ainda pequeno acervo, a tendência após a consolidação do quadro de professores e das instalações do herbário, é crescer e se tornar uma coleção de referência para a região sudoeste do Paraná, que apresenta poucos trabalhos de levantamentos da vegetação e poucos registros em herbários. Com o ingresso da Prof.(a) Fernanda Ferrari iniciou-se também uma coleção de algas, e atualmente o herbário possui uma coleção de 44 amostras provenientes de projetos de pesquisa e ensino realizados por professores da UTFPR, em ambientes lóticos e lênticos (naturais e artificiais) localizados na região sudoeste do Paraná. Cabe ressaltar que o sudoeste do Paraná é uma região cuja amostragem das comunidades fitoplanctônica e perifítica de ambientes aquáticos é ainda incipiente, considerando o tamanho da área de drenagem, especialmente da bacia do Rio Iguaçu, no baixo curso deste rio. Neste sentido, esforços estão sendo feitos para ampliar o número de locais e ambientes aquáticos amostrados, objetivando aumentar o conhecimento e os registros da ficoflórula da região.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=DVPR</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Daniela</givenName>          <surName>Aparecida Estevan</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>danielaaestevan@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Fernanda</givenName>          <surName>Ferrari</surName>
+    </individualName>
+<organizationName>Universidade Tecnológica Federal do Paraná - Dois Vizinhos (UTFPR-DV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Estrada para Boa Esperança, Km 04</deliveryPoint><city>Dois Vizinhos</city><administrativeArea>Paraná</administrativeArea><postalCode>85660-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 46 3536-8900</phone><electronicMailAddress>fernandaferrari@utfpr.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=DVPR</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:24Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=DVPR">Aparecida Estevan D, Ferrari F (2020). DVPR - Herbário da Universidade Tecnológica Federal do Paraná - Dois Vizinhos. Version 1.65. Universidade Tecnológica Federal do Paraná - Campus Dois Vizinhos. Occurrence dataset https://doi.org/10.15468/utbo2g accessed via GBIF.org on 2020-08-26.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=dvpr</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

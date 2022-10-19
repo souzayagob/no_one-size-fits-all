@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="965b5ae5-7b2d-4155-a7ff-e9e496d70f90"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/zhlmlh</alternateIdentifier>
+        <alternateIdentifier>965b5ae5-7b2d-4155-a7ff-e9e496d70f90</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=huto</alternateIdentifier>
+    <title>HUTO - Herbário da Universidade de Tocantins</title>
+    <creator>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Ribeiro dos Santos</surName>
+    </individualName>
+<organizationName>Fundação Universidade de Tocantins (UNITINS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>108 Sul Alameda 11 Lote 03 Cx. Postal 173</deliveryPoint><city>Palmas</city><administrativeArea>Tocantins</administrativeArea><postalCode>77020-122</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 63 3218-2900</phone><electronicMailAddress>eduardobio1@gmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUTO</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Ribeiro dos Santos</surName>
+    </individualName>
+<organizationName>Fundação Universidade de Tocantins (UNITINS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>108 Sul Alameda 11 Lote 03 Cx. Postal 173</deliveryPoint><city>Palmas</city><administrativeArea>Tocantins</administrativeArea><postalCode>77020-122</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 63 3218-2900</phone><electronicMailAddress>eduardobio1@gmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUTO</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário da  Universidade Estadual do Tocantins (UNITINS), foi criado em 2005 e está situado na cidade de Palmas, capital do estado do Tocantins. Possui uma área física de 125 m2, sendo: Sala da coleção, Sala de preparo e taxonomia, Curadoria e Almoxarifado. Desde 2006, o HUTO integra a Rede Brasileira de Herbários (RBH) ligada à Sociedade de Botânica do Brasil (SBB). Em 2011 o HUTO aderiu ao Projeto “INCT - HERBÁRIO VIRTUAL DA FLORA E FUNGOS DO BRASIL”, coordenado pela Universidade Federal de Pernambuco e financiado pelo CNPq.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HUTO</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Ribeiro dos Santos</surName>
+    </individualName>
+<organizationName>Fundação Universidade de Tocantins (UNITINS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>108 Sul Alameda 11 Lote 03 Cx. Postal 173</deliveryPoint><city>Palmas</city><administrativeArea>Tocantins</administrativeArea><postalCode>77020-122</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 63 3218-2900</phone><electronicMailAddress>eduardobio1@gmail.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUTO</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:10Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HUTO">Ribeiro dos Santos E (2021). HUTO - Herbário da Universidade de Tocantins. Version 1.71. Fundação Universidade do Tocantins. Occurrence dataset https://doi.org/10.15468/zhlmlh accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://reflora.cria.org.br/logo/huto</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

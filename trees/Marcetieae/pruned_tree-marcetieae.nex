@@ -1,0 +1,77 @@
+#NEXUS
+[R-package APE, Sat Apr 10 17:20:57 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 32;
+	TAXLABELS
+		Marcetia_grandiflora
+		Marcetia_acerosa
+		Marcetia_formosa
+		Marcetia_harleyi
+		Marcetia_viscida
+		Marcetia_bahiensis
+		Marcetia_velutina
+		Marcetia_candolleana
+		Marcetia_macrophylla
+		Marcetia_mucugensis
+		Marcetia_taxifolia
+		Marcetia_ericoides
+		Marcetia_latifolia
+		Marcetia_alba
+		Marcetia_canescens
+		Fritzschia_erecta
+		Aciotis_paludosa
+		Aciotis_purpurascens
+		Aciotis_indecora
+		Macairea_radula
+		Macairea_thyrsiflora
+		Siphanthera_gracillima
+		Siphanthera_dawsonii
+		Siphanthera_cordata
+		Siphanthera_paludosa
+		Siphanthera_arenaria
+		Siphanthera_foliosa
+		Acisanthera_alsinaefolia
+		Acisanthera_uniflora
+		Acisanthera_variabilis
+		Acisanthera_quadrata
+		Comolia_ovalifolia
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Marcetia_grandiflora,
+		2	Marcetia_acerosa,
+		3	Marcetia_formosa,
+		4	Marcetia_harleyi,
+		5	Marcetia_viscida,
+		6	Marcetia_bahiensis,
+		7	Marcetia_velutina,
+		8	Marcetia_candolleana,
+		9	Marcetia_macrophylla,
+		10	Marcetia_mucugensis,
+		11	Marcetia_taxifolia,
+		12	Marcetia_ericoides,
+		13	Marcetia_latifolia,
+		14	Marcetia_alba,
+		15	Marcetia_canescens,
+		16	Fritzschia_erecta,
+		17	Aciotis_paludosa,
+		18	Aciotis_purpurascens,
+		19	Aciotis_indecora,
+		20	Macairea_radula,
+		21	Macairea_thyrsiflora,
+		22	Siphanthera_gracillima,
+		23	Siphanthera_dawsonii,
+		24	Siphanthera_cordata,
+		25	Siphanthera_paludosa,
+		26	Siphanthera_arenaria,
+		27	Siphanthera_foliosa,
+		28	Acisanthera_alsinaefolia,
+		29	Acisanthera_uniflora,
+		30	Acisanthera_variabilis,
+		31	Acisanthera_quadrata,
+		32	Comolia_ovalifolia
+	;
+	TREE * UNTITLED = [&R] ((((((((((((1:0.002134035703,2:0.002134035703):0.00417003214,(3:0.002041177211,4:0.002041177211):0.004262890632):0.00378916333,5:0.01009323117):0.003774587658,(((6:0.003341028335,7:0.003341028335):0.001931034824,8:0.005272063159):0.0009703826268,(9:0.00227982038,10:0.00227982038):0.003962625406):0.007625373045):0.003559040278,11:0.01742685511):0.000951764593,12:0.0183786237):0.003868444757,((13:0.007458186217,14:0.007458186217):0.01009559987,15:0.01755378209):0.004693286367):0.04118602667,(16:0.0551570256,(17:0.01894172635,(18:0.004278225245,19:0.00427822125):0.0146635051):0.03621529525):0.008276073526):0.02587462518,(20:0.03308167765,21:0.03308167765):0.05622604266):0.00626672792,(((22:0.004055735547,23:0.004055735547):0.01484807569,24:0.01890381123):0.04526264509,((25:0.01960562842,26:0.01960562842):0.01849989057,27:0.03810551899):0.02606094133):0.03140798791):0.005104868342,((28:0.008874694641,29:0.008874698635):0.009906419715,(30:0.005340276024,31:0.005340276024):0.01344084233):0.08189819822):0.01285734412,32:0.1135366567);
+END;

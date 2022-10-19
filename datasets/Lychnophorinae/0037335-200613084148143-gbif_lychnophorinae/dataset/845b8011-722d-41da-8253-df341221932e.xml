@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="845b8011-722d-41da-8253-df341221932e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pvl7xd</alternateIdentifier>
+        <alternateIdentifier>14524</alternateIdentifier>
+    <title>martius-munchen-infocomp</title>
+    <creator>
+    <individualName>
+<givenName>Allison</givenName>          <surName>Davies</surName>
+    </individualName>
+<positionName>Research Scientist</positionName>    <address>
+<country>GERMANY</country>    </address>
+<phone>+49 84 17861251</phone><electronicMailAddress>daviesam@botanik.biologie.uni-muenchen.de</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nicolas</givenName>          <surName>Noe</surName>
+    </individualName>
+<organizationName>Belgian Biodiversity Platform</organizationName><positionName>IT Specialist</positionName>    <address>
+<deliveryPoint>ULB, Boulevard du Triomphe, CPI 257</deliveryPoint><city>Brussels</city><postalCode>1050</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>n.noe@biodiversity.be</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nicolas</givenName>          <surName>Noe</surName>
+    </individualName>
+<electronicMailAddress>niconoe@ulb.ac.be</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2012-10-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Martius C. F. P. von Collection subset from the InfoComp collection of the Botanische Staatssammelung of Muenchen. Used for testing mappings against DarwinCore in the frame work of the ENBI WP13 feasability study.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>InfoComp</keyword>
+              <keyword>Martius</keyword>
+              <keyword>Muenchen</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+<givenName>Hans-Joachim</givenName>          <surName>Esser</surName>
+    </individualName>
+<positionName>Curator and Research Scientist</positionName>    <address>
+<country>GERMANY</country>    </address>
+<phone>+49 89 17861264</phone><electronicMailAddress>esser@snsb.de</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:40Z</dateStamp>
+      <citation>Davies A, Noe N (2012). martius-munchen-infocomp. Belgian Biodiversity Platform. Occurrence dataset https://doi.org/10.15468/pvl7xd accessed via GBIF.org on 2020-08-12.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

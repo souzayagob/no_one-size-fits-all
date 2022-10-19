@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7162b803-bde2-4196-9383-263ba6dc9ad3"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/3xela0</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-JM050-JM0501503F-Mimosa-SIB2015.12.02</alternateIdentifier>
+    <title>Modelación de la distribución real y potencial de especies de dos géneros de Mimosoideae: Mimosa y Prosopis (Leguminosae) en México</title>
+    <creator>
+    <individualName>
+<givenName>Sara Lucía</givenName>          <surName>Camargo Ricalde</surName>
+    </individualName>
+<organizationName>Universidad Autónoma MetropolitanaUnidad IztapalapaDivisión de Ciencias Biológicas y de la SaludDepartamento de Biología</organizationName><positionName>Responsable</positionName>    <address>
+<city>de México</city><administrativeArea>Distrito Federal</administrativeArea><postalCode>09340</postalCode><country>MEXICO</country>    </address>
+<phone>58046450</phone><electronicMailAddress>slcr@xanum.uam.mx</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>CONABIO</givenName>          <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>MÉXICO</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2018-08-20
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>&lt;p&gt;Con base en una revisión exhaustiva de colecciones de herbario, literatura especializada, bases de datos y, de ser necesario, trabajo de campo, se elaborará y validará una base de datos general sobre la presencia, ausencia y abundancia de especies multipropósito de los géneros Mimosa (25 especies) y Prosopis (10 especies). Esta información se utilizará para determinar la distribución real y potencial de las especies en estudio, mediante el uso de un Sistema de Información Geográfica (SIG) y el modelo de predicción Maxent, los cuales permiten identificar y analizar la distribución específica con precisión. Asimismo, se verificará el porcentaje de las áreas de distribución de las especies que se encuentra dentro de las Regiones Terrestres Prioritarias (RTPs), con la finalidad de determinar su estado actual de conservación. Se generarán distintos modelos de predicción de la distribución potencial de las especies cuya cartografía será digitalizada y la información será capturada en un sistema de metadatos. La cartografía de las especies multipropósito de ambos géneros es crítica para establecer programas de conservación y manejo sostenible de los recursos vegetales; así como para realizar estudios robustos acerca de los posibles impactos del cambio climático y del uso de suelo sobre la distribución y conservación de las especies estudiadas.
+Palabras clave: distribución potencial, leguminosas, Maxent, mezquite, mimosa, modelación del nicho ecológico, plantas multipropósito.&lt;/p&gt;
+&lt;p&gt;Reino: 1
+Filo: 1
+Clase: 1
+Orden: 1
+Familia: 1
+Género: 1
+Especie: 8
+Epitetoinfraespecifico: 8&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Plantas</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=JM&amp;Numero=50</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>País: BAHAMAS (EXUMA)
+País: BELICE (BELICE, CAYO, ORANGE WALK)
+País: BOLIVIA (EL BENI, LA PAZ, SANTA CRUZ)
+País: BRASIL (ACRE, ALAGOAS, BAHIA, PERNAMBUCO, PIAUI, SAO PAULO)
+País: COLOMBIA (LA GUAJIRA, META, VALLE DEL CAUCA)
+País: COSTA RICA (CARTAGO, GUANACASTE, HEREDIA, PUNTARENAS)
+País: ECUADOR (GUAYAS, MORONA-SANTIAGO)
+País: EL SALVADOR (LA UNION, SAN MIGUEL)
+País: ESTADOS UNIDOS DE AMERICA (ARIZONA, NEW MEXICO)
+País: GUATEMALA (PETEN, SOLOLA)
+País: HONDURAS (EL PARAISO, FRANCISCO MORAZAN)
+País: MEXICO (AGUASCALIENTES, BAJA CALIFORNIA SUR, CHIAPAS, COAHUILA DE ZARAGOZA, DURANGO, GUANAJUATO, GUERRERO, HIDALGO, JALISCO, MEXICO, MICHOACAN DE OCAMPO, MORELOS, NAYARIT, OAXACA, PUEBLA, QUERETARO DE ARTEAGA, SONORA, VERACRUZ DE IGNACIO DE LA LLAVE, ZACATECAS)
+País: NICARAGUA (BOACO, CHINANDEGA, MATAGALPA, NUEVA SEGOVIA)
+País: PANAMA (HERRERA, LOS SANTOS)
+País: PERU (CUZCO, SAN MARTIN)
+País: VENEZUELA (AMAZONAS, ANZOATEGUI, LARA, TACHIRA, ZULIA)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-112.483</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-40.302</eastBoundingCoordinate>
+                      <northBoundingCoordinate>32.464</northBoundingCoordinate>
+                      <southBoundingCoordinate>-24.7</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1903-06-07
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-11-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reino: Plantae
+Filo: Tracheophyta
+Clase: Equisetopsida
+Orden: Fabales
+Familia: Fabaceae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Tracheophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mimosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa calcicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa tenuiflora</taxonRankValue>
+                          <commonName>espino, tepesquehuite</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa pudica</taxonRankValue>
+                          <commonName>doncella, dormilona, muts&apos; wene xiw, pega ropa</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa depauperata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa luisana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa biuncifera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa arenosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimosa bahamensis</taxonRankValue>
+                          <commonName>sak-catzim</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa albida var. albida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa aculeaticarpa var. aculeaticarpa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa distachya var. distachya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa texana var. texana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa albida var. strigosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa benthamii var. benthamii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa acantholoba var. eurycarpa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Mimosa texana var. filipes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sonia Alejandra</givenName>          <surName>Careaga Olvera</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Subcoordinadora en Información y Análisis</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>México</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>scareaga@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>      </contact>
+
+      <project id="SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND">
+          <title>Modelación de la distribución real y potencial de especies de dos géneros de Mimosoideae: Mimosa y Prosopis (Leguminosae) en México</title>
+          <personnel>
+    <individualName>
+<givenName>Sara Lucía</givenName>          <surName>Camargo Ricalde</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para>Con base en una revisión exhaustiva de colecciones de herbario, literatura especializada, bases de datos y, de ser necesario, trabajo de campo, se elaborará y validará una base de datos general sobre la presencia, ausencia y abundancia de especies multipropósito de los géneros Mimosa (25 especies) y Prosopis (10 especies). Esta información se utilizará para determinar la distribución real y potencial de las especies en estudio, mediante el uso de un Sistema de Información Geográfica (SIG) y el modelo de predicción Maxent, los cuales permiten identificar y analizar la distribución específica con precisión. Asimismo, se verificará el porcentaje de las áreas de distribución de las especies que se encuentra dentro de las Regiones Terrestres Prioritarias (RTPs), con la finalidad de determinar su estado actual de conservación. Se generarán distintos modelos de predicción de la distribución potencial de las especies cuya cartografía será digitalizada y la información será capturada en un sistema de metadatos. La cartografía de las especies multipropósito de ambos géneros es crítica para establecer programas de conservación y manejo sostenible de los recursos vegetales; así como para realizar estudios robustos acerca de los posibles impactos del cambio climático y del uso de suelo sobre la distribución y conservación de las especies estudiadas.
+Palabras clave: distribución potencial, leguminosas, Maxent, mezquite, mimosa, modelación del nicho ecológico, plantas multipropósito.</para>
+          </abstract>
+          <funding>
+              <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Plantas
+Con flores; angiospermas (legumbres; frijoles; habas; chícharos; ejotes; garbanzos; lentejas; jícamas; cacahuates; tamarindos; mezquites; guajes)</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:11Z</dateStamp>
+      <citation>Camargo Ricalde S L, Comisión nacional para el conocimiento y uso de la biodiversidad C (2018). Modelación de la distribución real y potencial de especies de dos géneros de Mimosoideae: Mimosa y Prosopis (Leguminosae) en México. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/3xela0 accessed via GBIF.org on 2019-05-14.</citation>
+              <physical>
+                  <objectName>SNIB-JM050-Mimosa-CSV.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>CSV</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/JM050/Mimosa/SNIB-JM050-Mimosa-CSV.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <physical>
+                  <objectName>SNIB-JM050-Mimosa-BD.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/JM050/Mimosa/SNIB-JM050-Mimosa-BD.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbarium;MO;Missouri Botanical Garden;MOBOT</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario Metropolitano;UAMIZ;Universidad Autónoma Metropolitana, Unidad Iztapalapa;UAMI</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbarium;UNM;University of New Mexico;UNM</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario Nacional;CR;Museo Nacional de Costa Rica;MNCR</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario;IEB;Instituto de Ecología, A. C., Centro Regional del Bajío;INECOL</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario;INB;Instituto Nacional de Biodiversidad;INBio</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbarium;NY;New York Botanical Garden;NYBG</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Kew Herbarium;K;Royal Botanic Gardens, Kew;RBG</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>John G. Searle Herbarium;F;Field Museum of Natural History;FMNH</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario Nacional Colombiano;COL;Instituto de Ciencias Naturales, Universidad Nacional de Colombia;ICN-UN</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbario;CIIDIR;Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional, Unidad Durango, Instituto Politécnico Nacional;CIIDIR-IPN</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>George Safford Torrey Herbarium;CONN;University of Connecticut;UCONN</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-JM050-JM0501503F_Mimosa_SIB2015.12.02-ND</collectionIdentifier>
+                <collectionName>Herbarium;NMC;New Mexico State University;NMSU</collectionName>
+              </collection>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Ejemplar</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>99</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

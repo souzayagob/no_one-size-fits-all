@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1d31211e-350e-492a-a597-34d24bbc1769"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/c3dx8a</alternateIdentifier>
+    <title>Royal Botanic Gardens, Kew - Economic Botany Collection Specimens</title>
+    <creator>
+<organizationName>Royal Botanic Gardens, Kew</organizationName>    </creator>
+    <metadataProvider>
+<organizationName>Royal Botanic Gardens, Kew</organizationName>    <address>
+<deliveryPoint>Herbarium, Library, Art &amp; Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, UK</deliveryPoint>    </address>
+<electronicMailAddress>ecbot@kew.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>The Economic Botany Collection is one of the largest collections of specimens at the Royal Botanic Gardens, Kew. It contains about 90,000 plant raw materials and artefacts representing all aspects of craft and daily life worldwide, including medicines, textiles, basketry, dyes, gums and resins, foods and woods. The Collection was founded in 1847 as the Museum of Economic Botany and continues to grow by about 800 accessions each year.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Royal Botanic Gardens, Kew - Economic Botany Collection</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Herbarium, Library, Art &amp; Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, UK</deliveryPoint>    </address>
+<electronicMailAddress>ecbot@kew.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:47:03Z</dateStamp>
+      <citation>Royal Botanic Gardens, Kew (2019). Royal Botanic Gardens, Kew - Economic Botany Collection Specimens. Occurrence dataset https://doi.org/10.15468/c3dx8a accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

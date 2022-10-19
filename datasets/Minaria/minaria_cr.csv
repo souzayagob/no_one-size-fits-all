@@ -1,0 +1,984 @@
+"id","institutioncode","collectioncode","catalognumber","gen_sp","subspecies","identifiedby","latitude","longitude","id_grid"
+154,"MBM","MBM","417886","Minaria_decussata",NA,"A Rapini",-14.759167,-42.576111,470
+156,"MBM","MBM","383846","Minaria_decussata",NA,"TUP Konno",-18.124778,-43.04,669
+246,"Instituto de Botânica","SP","359043","Minaria_diamantinensis",NA,"A Rapini",-18.308889,-43.889444,708
+247,"Instituto de Botânica","SP","359002","Minaria_cordata",NA,"A Rapini",-13.5225,-41.959167,391
+248,"Instituto de Botânica","SP","359041","Minaria_magisteriana",NA,"A Rapini",-19.237222,-43.553611,748
+250,"Instituto de Botânica","SP","359058","Minaria_grazielae",NA,"A Rapini",-18.106667,-43.601389,668
+254,"Instituto de Botânica","SP","359055","Minaria_ditassoides",NA,"A Rapini",-18.156667,-43.601389,668
+255,"Instituto de Botânica","SP","359056","Minaria_decussata",NA,"A Rapini",-18.173889,-43.616667,668
+256,"Instituto de Botânica","SP","359042","Minaria_decussata",NA,"A Rapini",-19.260833,-43.550278,748
+257,"Instituto de Botânica","SP","351721","Minaria_micromeria",NA,"A Rapini",-19.273889,-43.555556,748
+259,"Instituto de Botânica","SP","349576","Minaria_ditassoides",NA,"A Rapini",-18.337222,-43.546389,708
+261,"Instituto de Botânica","SP","349575","Minaria_diamantinensis",NA,"A Rapini",-18.308889,-43.889444,708
+264,"Instituto de Botânica","SP","349577","Minaria_polygaloides",NA,"A Rapini",-19.254722,-43.539444,748
+268,"Instituto de Botânica","SP","321676","Minaria_micromeria",NA,"A Rapini",-19.3,-43.583333,748
+271,"Instituto de Botânica","SP","292364","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+360,"ASU","Plants","ASU0013370","Minaria_decussata",NA,"J Fontella-Pereira",-17.8,-44.2,667
+361,"UFG","UFG","62885","Minaria_decussata",NA,"TUP Konno",-18.124778,-43.04,669
+374,"JBRJ","RB","RB00493203","Minaria_cordata",NA,"PL Ribeiro",-13.00556,-41.43417,352
+463,"MN","R","208741","Minaria_ditassoides",NA,"J Fontella-Pereira",-17.885083,-44.334667,667
+469,"MN","R","198667","Minaria_decussata",NA,"J Fontella-Pereira",-18.883333,-43.716667,708
+470,"MN","R","198694","Minaria_acerosa",NA,"J Fontella-Pereira",-17.752778,-44.182222,667
+479,"MN","R","196714","Minaria_cordata",NA,"J Fontella-Pereira",-13.25,-41.9,351
+537,"NY","NY","971653","Minaria_ditassoides",NA,"A Rapini",-18.2531772779915,-43.6004898201051,668
+540,"NY","NY","971840","Minaria_ditassoides",NA,"S Liede-Schumann",-18.64165,-43.93412,708
+543,"NY","NY","1104873","Minaria_bifurcata",NA,"S Liede-Schumann",-18.2531772779915,-43.6004898201051,668
+547,"NY","NY","476631","Minaria_cordata",NA,"DJ Goyder",-13.3,-41.87,351
+549,"NY","NY","476634","Minaria_harleyi",NA,"C Bitencourt",-13.28,-41.8,351
+562,"NY","NY","971658","Minaria_decussata",NA,"A Rapini",-18.92,-43.68,748
+563,"NY","NY","821847","Minaria_acerosa",NA,"S Liede-Schumann",-12.975,-41.471389,352
+564,"NY","NY","971702","Minaria_parva",NA,"A Rapini",-18.2531772779915,-43.6004898201051,668
+565,"NY","NY","971814","Minaria_acerosa",NA,"S Liede-Schumann",-16.83155,-43.44586,588
+567,"NY","NY","971822","Minaria_cordata",NA,"S Liede-Schumann",-15.7834208090807,-47.9298726661488,501
+568,"NY","NY","971819","Minaria_acerosa",NA,"S Liede-Schumann",-19.391589,-43.567497,748
+573,"NY","NY","971850","Minaria_micromeria",NA,"S Liede-Schumann",-14.05,-47.5,382
+579,"NY","NY","971892","Minaria_refractifolia",NA,"S Liede-Schumann",-18.44535,-43.6556,708
+582,"NY","NY","971655","Minaria_ditassoides",NA,"A Rapini",-18.2531772779915,-43.6004898201051,668
+583,"NY","NY","00982242","Minaria_decussata",NA,"S Liede-Schumann",-20.3874,-43.5057,828
+589,"NY","NY","821837","Minaria_acerosa",NA,"S Liede-Schumann",-13.58,-41.8,391
+591,"NY","NY","971855","Minaria_micromeria",NA,"S Liede-Schumann",-15.7833,-47.9167,501
+593,"NY","NY","476633","Minaria_harleyi",NA,"C Bitencourt",-13.3,-41.85,351
+594,"NY","NY","971844","Minaria_ditassoides",NA,"S Liede-Schumann",-18.0833,-43.7833,668
+598,"NY","NY","01081473","Minaria_acerosa",NA,"S Liede-Schumann",-12.21875,-41.77805,271
+599,"NY","NY","1014286","Minaria_acerosa",NA,"C Bitencourt",-20.309647,-46.523696,823
+600,"NY","NY","971867","Minaria_decussata",NA,"S Liede-Schumann",-20.12,-43.45,828
+602,"NY","NY","01132008","Minaria_acerosa",NA,"C Bitencourt",-21.6842,-43.8836,908
+605,"NY","NY","971854","Minaria_micromeria",NA,"S Liede-Schumann",-16.823742555015,-47.6704580401791,581
+608,"NY","NY","971711","Minaria_micromeria",NA,"A Rapini",-17.0684541688631,-43.309069193446,589
+609,"NY","NY","821855","Minaria_cordata",NA,"S Liede-Schumann",-13.6,-41.83,391
+611,"NY","NY","821853","Minaria_cordata",NA,"S Liede-Schumann",-21.130985,-44.295049,867
+612,"NY","NY","971821","Minaria_cordata",NA,"S Liede-Schumann",-15.7834208090807,-47.9298726661488,501
+613,"NY","NY","971636","Minaria_acerosa",NA,"C Bitencourt",-17.0684541688631,-43.309069193446,589
+616,"NY","NY","971865","Minaria_decussata",NA,"S Liede-Schumann",-20.08,-43.45,788
+619,"NY","NY","971812","Minaria_acerosa",NA,"S Liede-Schumann",-18.4581810723501,-43.7407994499746,708
+622,"NY","NY","971660","Minaria_decussata",NA,"A Rapini",-17.0684541688631,-43.309069193446,589
+629,"NY","NY","00982220","Minaria_grazielae",NA,"S Liede-Schumann",-18.57,-43.68,708
+631,"NY","NY","971682","Minaria_grazielae",NA,"A Rapini",-18.2531772779915,-43.6004898201051,668
+632,"NY","NY","971683","Minaria_grazielae",NA,"A Rapini",-18.2531772779915,-43.6004898201051,668
+633,"NY","NY","572259","Minaria_harleyi",NA,"C Bitencourt",-13.18,-41.95,351
+636,"NY","NY","971635","Minaria_acerosa",NA,"C Bitencourt",-18.1822,-43.705,668
+638,"NY","NY","572263","Minaria_cordata",NA,"DJ Goyder",-13.1,-41.92,351
+641,"NY","NY","971659","Minaria_decussata",NA,"A Rapini",-20.2916151948885,-43.5082859302814,828
+642,"NY","NY","971833","Minaria_cordata",NA,"S Liede-Schumann",-16.75,-47.57186,581
+644,"NY","NY","971838","Minaria_cordata",NA,"S Liede-Schumann",-13.93593,-47.5167,382
+645,"NY","NY","971870","Minaria_decussata",NA,"S Liede-Schumann",-18.0833,-43.7833,668
+646,"NY","NY","971830","Minaria_cordata",NA,"S Liede-Schumann",-13.9376,-47.5167,382
+649,"NY","NY","00982245","Minaria_acerosa",NA,"S Liede-Schumann",-19.83305,-43.726389,788
+651,"NY","NY","572258","Minaria_cordata",NA,"DJ Goyder",-13.25,-41.9,351
+652,"NY","NY","00982246","Minaria_decussata",NA,"S Liede-Schumann",-19.83305,-43.726389,788
+653,"NY","NY","00982249","Minaria_ditassoides",NA,"S Liede-Schumann",-17.07,-43.33,589
+654,"NY","NY","821856","Minaria_cordata",NA,"S Liede-Schumann",-13.47,-41.83,351
+660,"NY","NY","971810","Minaria_acerosa",NA,"S Liede-Schumann",-21.145111,-44.302262,867
+662,"NY","NY","821838","Minaria_acerosa",NA,"S Liede-Schumann",-13.08,-41.933056,351
+666,"NY","NY","971817","Minaria_acerosa",NA,"S Liede-Schumann",-18.1838,-43.536667,668
+667,"NY","NY","476635","Minaria_harleyi",NA,"C Bitencourt",-13.37,-41.83,351
+668,"NY","NY","971891","Minaria_refractifolia",NA,"S Liede-Schumann",-18.4,-43.72,708
+670,"NY","NY","00982247","Minaria_cordata",NA,"S Liede-Schumann",-13.93593,-47.5167,382
+672,"NY","NY","971657","Minaria_decussata",NA,"MA Farinaccio",-18.2531772779915,-43.6004898201051,668
+674,"NY","NY","971846","Minaria_ditassoides",NA,"S Liede-Schumann",-18.18,-43.55,668
+678,"NY","NY","971868","Minaria_decussata",NA,"S Liede-Schumann",-18.4234,-43.70265,708
+755,"JBRJ","RB","RB01380368","Minaria_decussata",NA,"A Rapini",-14.553889,-42.5575,430
+857,"UEFS","HUEFS","228879","Minaria_refractifolia",NA,"A Rapini",-18.254722,-43.511667,668
+870,"UEFS","HUEFS","226306","Minaria_refractifolia",NA,"A Rapini",-18.432778,-43.475278,708
+871,"UEFS","HUEFS","226564","Minaria_micromeria",NA,"A Rapini",-18.271389,-43.606944,668
+884,"JBRJ","RB","RB00842245","Minaria_ditassoides",NA,"A Rapini",-18.181111,-43.619722,668
+909,"JBRJ","RB","RB00551777","Minaria_acerosa",NA,"J Fontella-Pereira",-21.683333,-43.883333,908
+910,"JBRJ","RB","RB00551544","Minaria_acerosa",NA,"J Fontella-Pereira",-21.704444,-43.906389,908
+922,"JBRJ","RB","RB00534414","Minaria_magisteriana",NA,"A Rapini",-19.066667,-43.7,748
+924,"JBRJ","RB","RB00533581","Minaria_decussata",NA,"A Rapini",-19.006111,-43.755556,748
+1100,"JBRJ","RB","RB00493208","Minaria_decussata",NA,"A Rapini",-20.094167,-43.478333,828
+1132,"JBRJ","RB","RB00420593","Minaria_cordata",NA,"PL Ribeiro",-13.5,-41.983333,391
+1134,"JBRJ","RB","RB00420470","Minaria_cordata",NA,"TUP Konno",-13.5,-41.983333,391
+1136,"JBRJ","RB","RB00408164","Minaria_cordata",NA,"A Rapini",-14.155833,-47.478889,422
+1138,"JBRJ","RB","RB01117776","Minaria_acerosa",NA,"J Fontella-Pereira",-13.5925,-41.798611,391
+1144,"JBRJ","RB","RB01074940","Minaria_refractifolia",NA,"J Fontella-Pereira",-18.432778,-43.475278,708
+1171,"UEFS","HUEFS","222246","Minaria_grazielae",NA,"A Rapini",-18.299722,-43.834167,708
+1179,"Jardim Botânico de Brasília","HEPH","21590","Minaria_cordata",NA,"J Fontella-Pereira",-15.192222,-47.588056,461
+1185,"Jardim Botânico de Brasília","HEPH","14333","Minaria_cordata",NA,"J Fontella-Pereira",-14.0725,-47.509167,382
+1186,"Jardim Botânico de Brasília","HEPH","14054","Minaria_cordata",NA,"J Fontella-Pereira",-14.091111,-47.509167,422
+1193,"UEFS","HUEFS","230024","Minaria_ditassoides",NA,"A Rapini",-17.042778,-43.346944,589
+1194,"UEFS","HUEFS","230004","Minaria_micromeria",NA,"A Rapini",-17.919722,-43.798889,668
+1195,"UEFS","HUEFS","230005","Minaria_ditassoides",NA,"A Rapini",-17.919722,-43.798889,668
+1196,"UEFS","HUEFS","230023","Minaria_decussata",NA,"A Rapini",-17.042778,-43.346944,589
+1197,"UEFS","HUEFS","230009","Minaria_grazielae",NA,"A Rapini",-17.908611,-43.798611,668
+1199,"UEFS","HUEFS","230002","Minaria_acerosa",NA,"A Rapini",-17.919722,-43.798889,668
+1239,"MO","MO","427952","Minaria_cordata",NA,"WD Stevens",-13.466667,-41.833333,351
+1240,"MO","MO","427936","Minaria_cordata",NA,"WD Stevens",-13.6,-41.833333,391
+1244,"MO","MO","427348","Minaria_acerosa",NA,"WD Stevens",-13.583333,-41.8,391
+1265,"MO","MO","2825770","Minaria_ditassoides",NA,"MA Farinaccio",-14.15583,-47.47888,422
+1280,"MO","MO","2825272","Minaria_ditassoides",NA,"A Rapini",-18.43333,-43.68333,708
+1282,"MO","MO","2825184","Minaria_acerosa",NA,"WD Stevens",-18.553889,-43.558333,708
+1287,"MO","MO","2825004","Minaria_acerosa",NA,"WD Stevens",-17.752778,-44.182222,667
+1290,"MO","MO","2824699","Minaria_cordata",NA,"WD Stevens",-13.5,-41.95,391
+1292,"MO","MO","2824515","Minaria_grazielae",NA,"WD Stevens",-18.158056,-43.616944,668
+1293,"MO","MO","2824465","Minaria_cordata",NA,"WD Stevens",-19.333333,-43.583333,748
+1297,"MO","MO","2824289","Minaria_cordata",NA,"WD Stevens",-13.5,-41.983333,391
+1299,"MO","MO","2824185","Minaria_cordata",NA,"WD Stevens",-13.25,-41.9,351
+1302,"MO","MO","2821896","Minaria_harleyi",NA,"DJ Goyder",-13.366667,-41.833333,351
+1304,"MO","MO","2821661","Minaria_harleyi",NA,"DJ Goyder",-13.183333,-41.95,351
+1309,"MO","MO","2819643","Minaria_decussata",NA,"J Fontella-Pereira",-19.333333,-43.583333,748
+1313,"MO","MO","2819444","Minaria_decussata",NA,"A Rapini",-18.91666,-43.68333,748
+1341,"MO","MO","1218139","Minaria_harleyi",NA,"J Fontella-Pereira",-12.96666,-41.33333,352
+1343,"MO","MO","1179182","Minaria_grazielae",NA,"J Fontella-Pereira",-18.15,-43.71666,668
+1367,"K","Herbarium","K000996884","Minaria_volubilis",NA,"A Rapini",-13.33,-41.85,351
+1457,"K","Herbarium","K000095340","Minaria_decussata",NA,"DJ Goyder",-20.12,-43.45,828
+1478,"W","Herbarium W","2001-0002648","Minaria_grazielae",NA,"A Rapini",-18.15,-43.71667,668
+1485,"W","Herbarium W","2001-0002709","Minaria_acerosa",NA,"A Rapini",-17.75278,-44.18222,667
+1492,"W","Herbarium W","2001-0002707","Minaria_acerosa",NA,"A Rapini",-13.08,-41.93306,351
+1494,"W","Herbarium W","2000-0004083","Minaria_cordata",NA,"DJ Goyder",-13.25,-41.9,351
+1515,"W","Herbarium W","2000-0004097","Minaria_harleyi",NA,"DJ Goyder",-13.18333,-41.95,351
+1516,"W","Herbarium W","2000-0004086","Minaria_harleyi",NA,"DJ Goyder",-13.36667,-41.83333,351
+1557,"UnB","UB","117901","Minaria_parva",NA,"J Fontella-Pereira",-18.333333,-43.883333,708
+1574,"UnB","UB","117875","Minaria_acerosa",NA,"J Fontella-Pereira",-21.333333,-45,906
+1598,"UnB","UB","117834","Minaria_inconspicua",NA,"A Rapini",-18.333333,-43.883333,708
+1604,"UnB","UB","117794","Minaria_ditassoides",NA,"A Rapini",-18.25,-43.666667,668
+1606,"UnB","UB","117796","Minaria_ditassoides",NA,"A Rapini",-18.25,-43.666667,668
+1614,"UnB","UB","115420","Minaria_decussata",NA,"A Rapini",-20.083333,-43.45,788
+1618,"UnB","UB","115416","Minaria_decussata",NA,"A Rapini",-18.6,-43.9,708
+1628,"UnB","UB","88711","Minaria_cordata",NA,"A Rapini",-14.072694,-47.509333,382
+1698,"MBM","MBM","243721","Minaria_magisteriana",NA,"A Rapini",-19.066667,-43.7,748
+1804,"Cenargen","CEN","72443","Minaria_cordata",NA,"A Rapini",-15.637222,-47.9925,501
+1827,"UEFS","HUEFS","210875","Minaria_decussata",NA,"A Rapini",-18.2625,-43.351944,669
+1828,"UEFS","HUEFS","210874","Minaria_parva",NA,"A Rapini",-18.263333,-43.350556,669
+1829,"UEFS","HUEFS","210873","Minaria_ditassoides",NA,"A Rapini",-18.290556,-43.416667,708
+1831,"UEFS","HUEFS","206428","Minaria_decussata",NA,"A Rapini",-20.445,-43.555556,828
+1832,"UEFS","HUEFS","203962","Minaria_harleyi",NA,"A Rapini",-13.451389,-41.828611,351
+1849,"UEFS","HUEFS","175688","Minaria_cordata",NA,"A Rapini",-13.283611,-41.803333,351
+1851,"UEFS","HUEFS","175673","Minaria_ditassoides",NA,"A Rapini",-19.266667,-43.533333,748
+1852,"UEFS","HUEFS","175675","Minaria_grazielae",NA,"A Rapini",-18.166667,-43.616667,668
+1855,"UEFS","HUEFS","166241","Minaria_cordata",NA,"A Rapini",-13.797778,-42.658611,390
+1856,"UEFS","HUEFS","165341","Minaria_decussata",NA,"A Rapini",-15.223889,-42.811944,469
+1857,"UEFS","HUEFS","164934","Minaria_acerosa",NA,"A Rapini",-12.222778,-41.785833,271
+1861,"UEFS","HUEFS","162871","Minaria_grazielae",NA,"A Rapini",-18.261944,-43.501389,668
+1862,"UEFS","HUEFS","162861","Minaria_micromeria",NA,"A Rapini",-19.296111,-43.599167,748
+1863,"UEFS","HUEFS","162852","Minaria_acerosa",NA,"A Rapini",-20.261389,-46.410833,823
+1864,"UEFS","HUEFS","162860","Minaria_decussata",NA,"A Rapini",-19.296111,-43.599167,748
+1866,"UEFS","HUEFS","162857","Minaria_decussata",NA,"A Rapini",-20.24,-43.855,828
+1868,"UEFS","HUEFS","162833","Minaria_cordata",NA,"A Rapini",-13.533611,-41.878056,391
+1870,"UEFS","HUEFS","162859","Minaria_acerosa",NA,"A Rapini",-19.296111,-43.599167,748
+1871,"UEFS","HUEFS","162828","Minaria_diamantinensis",NA,"A Rapini",-18.309167,-43.853611,708
+1872,"UEFS","HUEFS","162837","Minaria_acerosa",NA,"A Rapini",-13.448056,-41.505556,352
+1873,"UEFS","HUEFS","162855","Minaria_cordata",NA,"A Rapini",-20.211389,-46.475,823
+1874,"UEFS","HUEFS","162858","Minaria_semirii",NA,"A Rapini",-19.298611,-43.588889,748
+1875,"UEFS","HUEFS","162854","Minaria_acerosa",NA,"A Rapini",-20.211389,-46.475,823
+1876,"UEFS","HUEFS","162844","Minaria_acerosa",NA,"A Rapini",-13.680833,-41.311944,392
+1877,"UEFS","HUEFS","162811","Minaria_refractifolia",NA,"A Rapini",-18.446944,-43.485833,708
+1878,"UEFS","HUEFS","162827","Minaria_decussata",NA,"A Rapini",-18.309167,-43.853611,708
+1879,"UEFS","HUEFS","162816","Minaria_ditassoides",NA,"A Rapini",-18.283333,-43.723889,668
+1880,"UEFS","HUEFS","162829","Minaria_acerosa",NA,"A Rapini",-13.62,-41.780278,391
+1881,"UEFS","HUEFS","162821","Minaria_grazielae",NA,"A Rapini",-18.310278,-43.853056,708
+1882,"UEFS","HUEFS","162800","Minaria_refractifolia",NA,"A Rapini",-18.573333,-43.593333,708
+1883,"UEFS","HUEFS","162818","Minaria_decussata",NA,"A Rapini",-18.4125,-43.689444,708
+1884,"UEFS","HUEFS","162810","Minaria_decussata",NA,"A Rapini",-18.447778,-43.485556,708
+1885,"UEFS","HUEFS","162813","Minaria_ditassoides",NA,"A Rapini",-18.351389,-43.553333,708
+1886,"UEFS","HUEFS","162814","Minaria_grazielae",NA,"A Rapini",-18.158611,-43.601111,668
+1887,"UEFS","HUEFS","162849","Minaria_cordata",NA,"A Rapini",-20.255833,-46.426667,823
+1888,"UEFS","HUEFS","162806","Minaria_refractifolia",NA,"A Rapini",-18.531389,-43.435833,708
+1889,"UEFS","HUEFS","162807","Minaria_ditassoides",NA,"A Rapini",-18.533333,-43.436389,708
+1890,"UEFS","HUEFS","162812","Minaria_refractifolia",NA,"A Rapini",-18.351389,-43.553333,708
+1891,"UEFS","HUEFS","162775","Minaria_magisteriana",NA,"A Rapini",-19.066667,-43.706944,748
+1892,"UEFS","HUEFS","162815","Minaria_refractifolia",NA,"A Rapini",-18.283333,-43.723889,668
+1893,"UEFS","HUEFS","162822","Minaria_parva",NA,"A Rapini",-18.310278,-43.853056,708
+1894,"UEFS","HUEFS","162826","Minaria_refractifolia",NA,"A Rapini",-18.351389,-43.553333,708
+1896,"UEFS","HUEFS","162756","Minaria_polygaloides",NA,"A Rapini",-19.236111,-43.506111,748
+1898,"UEFS","HUEFS","162755","Minaria_magisteriana",NA,"A Rapini",-19.066667,-43.706944,748
+1899,"UEFS","HUEFS","162768","Minaria_decussata",NA,"A Rapini",-19.300833,-43.559444,748
+1900,"UEFS","HUEFS","162787","Minaria_acerosa",NA,"A Rapini",-21.096111,-44.1825,867
+1901,"UEFS","HUEFS","162767","Minaria_ditassoides",NA,"A Rapini",-19.298611,-43.560556,748
+1902,"UEFS","HUEFS","162757","Minaria_ditassoides",NA,"A Rapini",-19.236111,-43.506111,748
+1903,"UEFS","HUEFS","162766","Minaria_micromeria",NA,"A Rapini",-19.298611,-43.560556,748
+1904,"UEFS","HUEFS","156822","Minaria_ditassoides",NA,"A Rapini",-18.113611,-43.056389,669
+1905,"UEFS","HUEFS","156803","Minaria_decussata",NA,"A Rapini",-17.038333,-43.346389,589
+1908,"UEFS","HUEFS","145942","Minaria_parva",NA,"A Rapini",-18.2,-43.331944,669
+1913,"UEFS","HUEFS","142573","Minaria_acerosa",NA,"A Rapini",-12.45,-41.45,312
+1915,"UEFS","HUEFS","139998","Minaria_hemipogonoides",NA,"A Rapini",-19.017778,-43.717222,748
+1916,"UEFS","HUEFS","139864","Minaria_ditassoides",NA,"A Rapini",-19.050278,-43.713056,748
+1925,"UEFS","HUEFS","128096","Minaria_acerosa",NA,"A Rapini",-21.6975,-43.897778,908
+1927,"UEFS","HUEFS","125793","Minaria_harleyi",NA,"A Rapini",-13.083611,-41.376944,352
+1928,"UEFS","HUEFS","124500","Minaria_parva",NA,"A Rapini",-18.2,-43.333333,669
+1930,"UEFS","HUEFS","124499","Minaria_campanuliflora",NA,"A Rapini",-18.2,-43.333333,669
+1931,"UEFS","HUEFS","124501","Minaria_ditassoides",NA,"A Rapini",-18.2,-43.333333,669
+1933,"UEFS","HUEFS","119971","Minaria_harleyi",NA,"C Bitencourt",-13.55,-41.8,391
+1940,"UEFS","HUEFS","119697","Minaria_decussata",NA,"J Fontella-Pereira",-17.699167,-44.271389,667
+1976,"UEFS","HUEFS","104452","Minaria_ditassoides",NA,"A Rapini",-16.216944,-42.871389,549
+1977,"UEFS","HUEFS","99566","Minaria_cordata",NA,"A Rapini",-12.522222,-41.500278,312
+1978,"UEFS","HUEFS","99550","Minaria_acerosa",NA,"A Rapini",-12.498889,-41.505,312
+1979,"UEFS","HUEFS","97325","Minaria_decussata",NA,"A Rapini",-20.094167,-43.478333,828
+1982,"UEFS","HUEFS","91821","Minaria_cordata",NA,"A Rapini",-13.5,-41.95,391
+1983,"UEFS","HUEFS","91822","Minaria_cordata",NA,"A Rapini",-13.005556,-41.434167,352
+1984,"UEFS","HUEFS","91825","Minaria_grazielae",NA,"A Rapini",-18.158056,-43.616944,668
+1986,"UEFS","HUEFS","89191","Minaria_grazielae",NA,"A Rapini",-18.295278,-43.842778,708
+1988,"UEFS","HUEFS","88288","Minaria_cordata",NA,"A Rapini",-14.155833,-47.478889,422
+1989,"UEFS","HUEFS","86008","Minaria_cordata",NA,"A Rapini",-13.516667,-41.933333,391
+1992,"UEFS","HUEFS","85252","Minaria_harleyi",NA,"A Rapini",-13.083611,-41.376944,352
+1994,"UEFS","HUEFS","79351","Minaria_decussata",NA,"A Rapini",-19.099444,-43.5775,748
+1995,"UEFS","HUEFS","79352","Minaria_ditassoides",NA,"A Rapini",-19.073611,-43.615,748
+2000,"UEFS","HUEFS","76802","Minaria_grazielae",NA,"A Rapini",-18.15,-43.583333,668
+2002,"UEFS","HUEFS","76781","Minaria_acerosa",NA,"A Rapini",-16.716667,-42.916667,589
+2004,"UEFS","HUEFS","76786","Minaria_ditassoides",NA,"A Rapini",-17.080556,-43.309722,589
+2005,"UEFS","HUEFS","72465","Minaria_harleyi",NA,"C Bitencourt",-13.383333,-41.866667,351
+2006,"UEFS","HUEFS","72463","Minaria_cordata",NA,"A Rapini",-13.383333,-41.866667,351
+2008,"UEFS","HUEFS","70471","Minaria_ditassoides",NA,"A Rapini",-18.3075,-43.904167,708
+2009,"UEFS","HUEFS","70464","Minaria_diamantinensis",NA,"A Rapini",-18.311111,-43.918333,708
+2010,"UEFS","HUEFS","70369","Minaria_ditassoides",NA,"A Rapini",-17.08,-43.310833,589
+2011,"UEFS","HUEFS","58230","Minaria_cordata",NA,"A Rapini",-13.271111,-42.098333,351
+2014,"UEFS","HUEFS","47655","Minaria_acerosa",NA,"A Rapini",-13.603611,-41.797778,391
+2015,"UEFS","HUEFS","46611","Minaria_decussata",NA,"A Rapini",-20.507778,-43.638333,828
+2017,"UEFS","HUEFS","37734","Minaria_acerosa",NA,"A Rapini",-13.448056,-41.505833,352
+2019,"UEFS","HUEFS","28737","Minaria_harleyi",NA,"C Bitencourt",-13.630556,-41.795,391
+2020,"UEFS","HUEFS","28401","Minaria_acerosa",NA,"A Rapini",-13.690833,-41.316667,392
+2021,"UEFS","HUEFS","28012","Minaria_cordata",NA,"A Rapini",-13.595278,-41.834722,391
+2024,"UEFS","HUEFS","17082","Minaria_cordata",NA,"A Rapini",-13.3,-41.866667,351
+2025,"UEFS","HUEFS","16426","Minaria_harleyi",NA,"C Bitencourt",-13.3,-41.85,351
+2026,"UEFS","HUEFS","16433","Minaria_cordata",NA,"A Rapini",-13.3,-41.85,351
+2027,"UEFS","HUEFS","16277","Minaria_harleyi",NA,"A Rapini",-13.333333,-41.85,351
+2029,"UEFS","HUEFS","12909","Minaria_cordata",NA,"A Rapini",-13.1,-41.916667,351
+2032,"UEFS","HUEFS","10165","Minaria_acerosa",NA,"A Rapini",-12.966667,-41.466667,352
+2140,"Universidade Estadual Paulista","HRCB","43054","Minaria_grazielae",NA,"MA Farinaccio",-18.158056,-43.616944,668
+2154,"USP","SPF","212519","Minaria_acerosa",NA,"RGP Santos",-18.47275,-43.489889,708
+2167,"USP","SPF","198611","Minaria_refractifolia",NA,"MA Farinaccio",-18.254667,-43.511806,668
+2173,"USP","SPF","186111","Minaria_ditassoides",NA,"A Rapini",-18.316667,-43.55,708
+2176,"USP","SPF","182526","Minaria_decussata",NA,"A Rapini",-19.006111,-43.755556,748
+2180,"USP","SPF","179007","Minaria_inconspicua",NA,"A Rapini",-18.156111,-43.616667,668
+2181,"USP","SPF","178068","Minaria_ditassoides",NA,"A Rapini",-19,-43.763056,748
+2188,"USP","SPF","176031","Minaria_refractifolia",NA,"A Rapini",-18.156667,-43,669
+2189,"USP","SPF","176025","Minaria_diamantinensis",NA,"A Rapini",-18.308889,-43.889444,708
+2192,"USP","SPF","171097","Minaria_cordata",NA,"A Rapini",-15.916667,-48.016667,541
+2195,"USP","SPF","165170","Minaria_ditassoides",NA,"A Rapini",-18.913056,-43.67275,748
+2197,"USP","SPF","164647","Minaria_grazielae",NA,"A Rapini",-18.295278,-43.842778,708
+2198,"USP","SPF","163771","Minaria_ditassoides",NA,"A Rapini",-18.840556,-43.748056,708
+2199,"USP","SPF","163692","Minaria_ditassoides",NA,"A Rapini",-18.169931,-43.615,668
+2200,"USP","SPF","163688","Minaria_cordata",NA,"A Rapini",-13.5,-41.95,391
+2201,"USP","SPF","163691","Minaria_cordata",NA,"A Rapini",-14.155833,-47.478889,422
+2202,"USP","SPF","163694","Minaria_grazielae",NA,"A Rapini",-18.158056,-43.616944,668
+2203,"USP","SPF","163689","Minaria_cordata",NA,"A Rapini",-13.005556,-41.434167,352
+2205,"USP","SPF","162186","Minaria_decussata",NA,"A Rapini",-20.094167,-43.478333,828
+2207,"USP","SPF","160077","Minaria_decussata",NA,"A Rapini",-19.253861,-43.52725,748
+2208,"USP","SPF","160078","Minaria_ditassoides",NA,"A Rapini",-18.295444,-43.683056,708
+2213,"USP","SPF","157016","Minaria_cordata",NA,"MA Farinaccio",-20.207917,-46.421056,823
+2214,"USP","SPF","155769","Minaria_cordata",NA,"A Rapini",-13.518611,-41.9575,391
+2232,"USP","SPF","144699","Minaria_decussata",NA,"A Rapini",-19.299583,-43.592167,748
+2284,"USP","SPF","142861","Minaria_cordata",NA,"A Rapini",-14.066667,-47.5,382
+2288,"USP","SPF","141503","Minaria_ditassoides",NA,"A Rapini",-16.533333,-42.916667,589
+2290,"USP","SPF","140906","Minaria_cordata",NA,"A Rapini",-13.246389,-41.4925,352
+2314,"USP","SPF","135732","Minaria_ditassoides",NA,"A Rapini",-16.544083,-42.914944,589
+2315,"USP","SPF","135737","Minaria_acerosa",NA,"A Rapini",-18.156833,-43.601333,668
+2316,"USP","SPF","135717","Minaria_acerosa",NA,"A Rapini",-19.823139,-43.685417,788
+2317,"USP","SPF","135738","Minaria_grazielae",NA,"A Rapini",-18.277889,-43.53,668
+2318,"USP","SPF","135721","Minaria_decussata",NA,"A Rapini",-20.507722,-43.638472,828
+2323,"USP","SPF","135728","Minaria_ditassoides",NA,"A Rapini",-18.156833,-43.601133,668
+2348,"USP","SPF","132913","Minaria_decussata",NA,"A Rapini",-20.446111,-43.933889,828
+2349,"USP","SPF","132917","Minaria_decussata",NA,"A Rapini",-20.211944,-43.84,828
+2354,"USP","SPF","129239","Minaria_cordata",NA,"A Rapini",-13.595278,-41.834722,391
+2355,"USP","SPF","129235","Minaria_acerosa",NA,"A Rapini",-13.690833,-41.316667,392
+2362,"USP","SPF","128254","Minaria_decussata",NA,"A Rapini",-18.916667,-43.683333,748
+2364,"USP","SPF","128253","Minaria_ditassoides",NA,"A Rapini",-18.916667,-43.683333,748
+2365,"USP","SPF","128251","Minaria_ditassoides",NA,"A Rapini",-18.916667,-43.683333,748
+2366,"USP","SPF","128261","Minaria_parva",NA,"A Rapini",-19.066667,-43.7,748
+2367,"USP","SPF","128249","Minaria_decussata",NA,"A Rapini",-18.883333,-43.716667,708
+2369,"USP","SPF","128252","Minaria_decussata",NA,"A Rapini",-18.916667,-43.683333,748
+2370,"USP","SPF","128259","Minaria_decussata",NA,"A Rapini",-19.138056,-43.694722,748
+2371,"USP","SPF","128244","Minaria_acerosa",NA,"A Rapini",-18.553889,-43.558333,708
+2373,"USP","SPF","128255","Minaria_ditassoides",NA,"A Rapini",-18.916667,-43.683333,748
+2374,"USP","SPF","128241","Minaria_ditassoides",NA,"A Rapini",-18.182222,-43.618889,668
+2375,"USP","SPF","128248","Minaria_parva",NA,"A Rapini",-18.883333,-43.716667,708
+2376,"USP","SPF","128232","Minaria_magisteriana",NA,"A Rapini",-19.066667,-43.7,748
+2379,"USP","SPF","127177","Minaria_acerosa",NA,"A Rapini",-18.182222,-43.705,668
+2380,"USP","SPF","127175","Minaria_refractifolia",NA,"A Rapini",-18.298611,-43.838056,708
+2381,"USP","SPF","127314","Minaria_lourteigiae",NA,"A Rapini",-17.701111,-44.316667,667
+2382,"USP","SPF","127174","Minaria_refractifolia",NA,"A Rapini",-18.283333,-43.833333,668
+2399,"USP","SPF","119565","Minaria_cordata",NA,"A Rapini",-13.3,-41.85,351
+2400,"USP","SPF","119561","Minaria_harleyi",NA,"DJ Goyder",-13.3,-41.85,351
+2401,"USP","SPF","119567","Minaria_cordata",NA,"A Rapini",-13.3,-41.866667,351
+2402,"USP","SPF","112013","Minaria_harleyi",NA,"A Rapini",-13.333333,-41.85,351
+2404,"USP","SPF","104415","Minaria_harleyi",NA,"DJ Goyder",-13.533333,-41.9,391
+2405,"USP","SPF","104418","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2406,"USP","SPF","104410","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2408,"USP","SPF","97727","Minaria_lourteigiae",NA,"A Rapini",-18.011111,-44.328056,667
+2409,"USP","SPF","97392","Minaria_acerosa",NA,"A Rapini",-17.752778,-44.182222,667
+2411,"USP","SPF","96454","Minaria_cordata",NA,"A Rapini",-13.527222,-41.853611,391
+2412,"USP","SPF","95415","Minaria_acerosa",NA,"A Rapini",-13.08,-41.933056,351
+2413,"USP","SPF","95023","Minaria_acerosa",NA,"A Rapini",-19.816667,-43.666667,788
+2414,"USP","SPF","93847","Minaria_decussata",NA,"A Rapini",-20.1,-43.466667,828
+2415,"USP","SPF","93483","Minaria_decussata",NA,"A Rapini",-19.333333,-43.583333,748
+2416,"USP","SPF","92716","Minaria_decussata",NA,"A Rapini",-20.51,-43.640278,828
+2417,"USP","SPF","92324","Minaria_harleyi",NA,"DJ Goyder",-13.183333,-41.95,351
+2419,"USP","SPF","91852","Minaria_cordata",NA,"A Rapini",-13.25,-41.783333,351
+2420,"USP","SPF","91173","Minaria_harleyi",NA,"DJ Goyder",-13.283333,-41.8,351
+2421,"USP","SPF","90665","Minaria_cordata",NA,"A Rapini",-13.25,-41.9,351
+2422,"USP","SPF","90187","Minaria_cordata",NA,"A Rapini",-13.25,-41.9,351
+2423,"USP","SPF","89200","Minaria_harleyi",NA,"DJ Goyder",-13.366667,-41.833333,351
+2424,"USP","SPF","88555","Minaria_cordata",NA,"A Rapini",-13.1,-41.916667,351
+2427,"USP","SPF","85618","Minaria_harleyi",NA,"A Rapini",-12.933333,-41.333333,352
+2428,"USP","SPF","83916","Minaria_ditassoides",NA,"A Rapini",-19.333333,-43.583333,748
+2431,"USP","SPF","78262","Minaria_ditassoides",NA,"A Rapini",-18.183333,-43.75,668
+2432,"USP","SPF","77204","Minaria_decussata",NA,"A Rapini",-20.083333,-43.45,788
+2433,"USP","SPF","75399","Minaria_acerosa",NA,"A Rapini",-21.333333,-45,906
+2434,"USP","SPF","75020","Minaria_ditassoides",NA,"A Rapini",-19.333333,-43.583333,748
+2435,"USP","SPF","71585","Minaria_acerosa",NA,"A Rapini",-18.683333,-43.7,708
+2438,"USP","SPF","64781","Minaria_cordata",NA,"A Rapini",-13.483333,-41.816667,351
+2439,"USP","SPF","64836","Minaria_acerosa",NA,"A Rapini",-13.583333,-41.8,391
+2441,"USP","SPF","64782","Minaria_cordata",NA,"A Rapini",-13.6,-41.833333,391
+2442,"USP","SPF","64783","Minaria_cordata",NA,"A Rapini",-13.466667,-41.833333,351
+2444,"USP","SPF","64429","Minaria_ditassoides",NA,"A Rapini",-18.433333,-43.683333,708
+2446,"USP","SPF","60776","Minaria_ditassoides",NA,"A Rapini",-17.066667,-43.333333,589
+2447,"USP","SPF","60634","Minaria_cordata",NA,"A Rapini",-16.766667,-47.616667,581
+2485,"USP","SPF","23560","Minaria_grazielae",NA,"A Rapini",-18.15,-43.716667,668
+2486,"USP","SPF","23536","Minaria_refractifolia",NA,"A Rapini",-18.266667,-43.716667,668
+2487,"USP","SPF","23441","Minaria_decussata",NA,"A Rapini",-18.6,-43.9,708
+2501,"Pontifícia Universidade Católica do Rio de Janeiro","FCAB","3864","Minaria_decussata",NA,"RGP Santos",-19.816667,-43.666667,788
+2502,"Pontifícia Universidade Católica do Rio de Janeiro","FCAB","3852","Minaria_acerosa",NA,"RGP Santos",-19.816667,-43.666667,788
+2509,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","102047","Minaria_acerosa",NA,"A Rapini",-14.184444,-42.505278,430
+2518,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","77793","Minaria_acerosa",NA,"A Rapini",-13.690833,-41.316667,392
+2519,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","75023","Minaria_cordata",NA,"A Rapini",-13.595278,-41.834722,391
+2521,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","69757","Minaria_harleyi",NA,"DJ Goyder",-13.533333,-41.9,391
+2522,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","69754","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2523,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","69759","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2524,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","58587","Minaria_acerosa",NA,"A Rapini",-12.975,-41.471389,352
+2527,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46924","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2528,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46890","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2530,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","41364","Minaria_acerosa",NA,"A Rapini",-13.583333,-41.8,391
+2532,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25246","Minaria_harleyi",NA,"J Fontella-Pereira",-12.966667,-41.333333,352
+2534,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","19588","Minaria_acerosa",NA,"A Rapini",-13.583333,-41.8,391
+2535,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","19586","Minaria_cordata",NA,"A Rapini",-13.483333,-41.816667,351
+2536,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","19589","Minaria_cordata",NA,"A Rapini",-13.6,-41.833333,391
+2540,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","12503","Minaria_cordata",NA,"A Rapini",-13.466667,-41.833333,351
+2544,"UFSJ","HUFSJ","2195","Minaria_acerosa",NA,"JF Pereira",-21.445861,-44.679861,906
+2545,"UFSJ","HUFSJ","1984","Minaria_acerosa",NA,"JF Pereira",-21.085664,-44.164481,867
+2553,"UNICAMP","UEC","127085","Minaria_cordata",NA,"A Rapini",-13.522972,-41.941583,391
+2574,"UNICAMP","UEC","45574","Minaria_ditassoides",NA,"A Rapini",-16.557222,-42.893889,589
+2743,"UnB","UB","23906","Minaria_cordata",NA,"J Fontella-Pereira",-14.116667,-47.516667,422
+2744,"UnB","UB","23908","Minaria_cordata",NA,"J Fontella-Pereira",-14.116667,-47.516667,422
+2748,"UnB","UB","23909","Minaria_cordata",NA,"J Fontella-Pereira",-14.116667,-47.516667,422
+2752,"UnB","UB","23901","Minaria_cordata",NA,"J Fontella-Pereira",-14.116667,-47.516667,422
+2761,"FZB-BH","BHZB","8935","Minaria_magisteriana",NA,"A Rapini",-19.025,-43.704722,748
+2762,"FZB-BH","BHZB","8933","Minaria_decussata",NA,"A Rapini",-19.0425,-43.728611,748
+2763,"FZB-BH","BHZB","8934","Minaria_micromeria",NA,"A Rapini",-19.049444,-43.709444,748
+2764,"FZB-BH","BHZB","8636","Minaria_hemipogonoides",NA,"A Rapini",-19.034167,-43.714444,748
+2766,"FZB-BH","BHZB","8634","Minaria_parva",NA,"A Rapini",-19.020833,-43.724167,748
+2821,"Universidade Federal da Bahia","ALCB","115406","Minaria_decussata",NA,"A Rapini",-14.553889,-42.5575,430
+2822,"Universidade Federal da Bahia","ALCB","115449","Minaria_decussata",NA,"A Rapini",-14.759167,-42.576111,470
+2825,"Universidade Federal da Bahia","ALCB","88800","Minaria_acerosa",NA,"RGP Santos",-13.08,-41.894167,351
+2834,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","203482","Minaria_decussata",NA,"A Rapini",-18.916667,-43.68,748
+2849,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","203483","Minaria_decussata",NA,"A Rapini",-18.6,-43.9,708
+2945,"PUC-RIO","FCAB","3852","Minaria_acerosa",NA,"RGP Santos",-19.816667,-43.666667,788
+2946,"PUC-RIO","FCAB","3864","Minaria_decussata",NA,"RGP Santos",-19.816667,-43.666667,788
+2959,"UFBA","ALCB","88800","Minaria_acerosa",NA,"RGP Santos",-13.08,-41.894167,351
+2962,"UFBA","ALCB","115406","Minaria_decussata",NA,"A Rapini",-14.553889,-42.5575,430
+2963,"UFBA","ALCB","115449","Minaria_decussata",NA,"A Rapini",-14.759167,-42.576111,470
+2965,"CEPLAC","CEPEC","102047","Minaria_acerosa",NA,"A Rapini",-14.184444,-42.505278,430
+2967,"CEPLAC","CEPEC","19588","Minaria_acerosa",NA,"A Rapini",-13.583333,-41.8,391
+2968,"CEPLAC","CEPEC","41364","Minaria_acerosa",NA,"A Rapini",-13.583333,-41.8,391
+2969,"CEPLAC","CEPEC","58587","Minaria_acerosa",NA,"A Rapini",-12.975,-41.471389,352
+2970,"CEPLAC","CEPEC","77793","Minaria_acerosa",NA,"A Rapini",-13.690833,-41.316667,392
+2974,"CEPLAC","CEPEC","12503","Minaria_cordata",NA,"A Rapini",-13.466667,-41.833333,351
+2976,"CEPLAC","CEPEC","19586","Minaria_cordata",NA,"A Rapini",-13.483333,-41.816667,351
+2977,"CEPLAC","CEPEC","19589","Minaria_cordata",NA,"A Rapini",-13.6,-41.833333,391
+2980,"CEPLAC","CEPEC","46890","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2981,"CEPLAC","CEPEC","46924","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2983,"CEPLAC","CEPEC","69754","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2984,"CEPLAC","CEPEC","69759","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+2985,"CEPLAC","CEPEC","75023","Minaria_cordata",NA,"A Rapini",-13.595278,-41.834722,391
+3455,"NY","NYBG","00982245","Minaria_acerosa",NA,"S Liede-Schumann",-19.83305,-43.7263889,788
+3456,"NY","NYBG","01081473","Minaria_acerosa",NA,"S Liede-Schumann",-12.21875,-41.77805,271
+3457,"NY","NYBG","01132008","Minaria_acerosa",NA,"C Bitencourt",-21.6842,-43.8836,908
+3458,"NY","NYBG","1014286","Minaria_acerosa",NA,"C Bitencourt",-20.309647,-46.523696,823
+3462,"NY","NYBG","821837","Minaria_acerosa",NA,"S Liede-Schumann",-13.58,-41.8,391
+3463,"NY","NYBG","821838","Minaria_acerosa",NA,"S Liede-Schumann",-13.08,-41.9330556,351
+3472,"NY","NYBG","821847","Minaria_acerosa",NA,"S Liede-Schumann",-12.975,-41.4713889,352
+3477,"NY","NYBG","971634","Minaria_acerosa",NA,"C Bitencourt",-16.8722,-43.0106,589
+3478,"NY","NYBG","971635","Minaria_acerosa",NA,"C Bitencourt",-18.1822,-43.705,668
+3484,"NY","NYBG","971810","Minaria_acerosa",NA,"S Liede-Schumann",-21.145111,-44.302262,867
+3486,"NY","NYBG","971812","Minaria_acerosa",NA,"S Liede-Schumann",-18.4544,-43.7406,708
+3488,"NY","NYBG","971814","Minaria_acerosa",NA,"S Liede-Schumann",-16.83155,-43.44586,588
+3491,"NY","NYBG","971817","Minaria_acerosa",NA,"S Liede-Schumann",-18.1838,-43.5366667,668
+3493,"NY","NYBG","971819","Minaria_acerosa",NA,"S Liede-Schumann",-19.391589,-43.567497,748
+3494,"NY","NYBG","1104873","Minaria_bifurcata",NA,"S Liede-Schumann",-18.2494,-43.6003,668
+3496,"NY","NYBG","00982247","Minaria_cordata","virgata","S Liede-Schumann",-13.93593,-47.5167,382
+3499,"NY","NYBG","821853","Minaria_cordata","virgata","S Liede-Schumann",-21.130985,-44.295049,867
+3501,"NY","NYBG","821855","Minaria_cordata","virgata","S Liede-Schumann",-13.6,-41.83,391
+3502,"NY","NYBG","821856","Minaria_cordata","virgata","S Liede-Schumann",-13.47,-41.83,351
+3505,"NY","NYBG","971821","Minaria_cordata","virgata","S Liede-Schumann",-15.7797,-47.9294,501
+3506,"NY","NYBG","971822","Minaria_cordata","virgata","S Liede-Schumann",-15.7797,-47.9294,501
+3514,"NY","NYBG","971830","Minaria_cordata","virgata","S Liede-Schumann",-13.9376,-47.5167,382
+3517,"NY","NYBG","971833","Minaria_cordata","virgata","S Liede-Schumann",-16.75,-47.57186,581
+3521,"NY","NYBG","971837","Minaria_cordata","virgata","S Liede-Schumann",-15.9111,-48.04869,541
+3522,"NY","NYBG","971838","Minaria_cordata","virgata","S Liede-Schumann",-13.93593,-47.5167,382
+3524,"NY","NYBG","00982242","Minaria_decussata",NA,"S Liede-Schumann",-20.3874,-43.5057,828
+3525,"NY","NYBG","00982246","Minaria_decussata",NA,"S Liede-Schumann",-19.83305,-43.7263889,788
+3533,"NY","NYBG","971865","Minaria_decussata",NA,"S Liede-Schumann",-20.08,-43.45,788
+3535,"NY","NYBG","971867","Minaria_decussata",NA,"S Liede-Schumann",-20.12,-43.45,828
+3536,"NY","NYBG","971868","Minaria_decussata",NA,"S Liede-Schumann",-18.4234,-43.70265,708
+3538,"NY","NYBG","971870","Minaria_decussata",NA,"S Liede-Schumann",-18.0833,-43.7833,668
+3540,"NY","NYBG","00982249","Minaria_ditassoides",NA,"S Liede-Schumann",-17.07,-43.33,589
+3542,"NY","NYBG","971840","Minaria_ditassoides",NA,"S Liede-Schumann",-18.64165,-43.93412,708
+3543,"NY","NYBG","971841","Minaria_ditassoides",NA,"S Liede-Schumann",-18.41575,-43.6836,708
+3544,"NY","NYBG","971842","Minaria_ditassoides",NA,"S Liede-Schumann",-18.40925,-43.68055,708
+3546,"NY","NYBG","971844","Minaria_ditassoides",NA,"S Liede-Schumann",-18.0833,-43.7833,668
+3548,"NY","NYBG","971846","Minaria_ditassoides",NA,"S Liede-Schumann",-18.18,-43.55,668
+3549,"NY","NYBG","00982220","Minaria_grazielae",NA,"S Liede-Schumann",-18.57,-43.68,708
+3550,"NY","NYBG","971847","Minaria_grazielae",NA,"S Liede-Schumann",-18.2494,-43.6003,668
+3551,"NY","NYBG","476633","Minaria_harleyi",NA,"C Bitencourt",-13.3,-41.85,351
+3552,"NY","NYBG","476634","Minaria_harleyi",NA,"C Bitencourt",-13.28,-41.8,351
+3553,"NY","NYBG","476635","Minaria_harleyi",NA,"C Bitencourt",-13.37,-41.83,351
+3555,"NY","NYBG","572259","Minaria_harleyi",NA,"C Bitencourt",-13.18,-41.95,351
+3559,"NY","NYBG","971850","Minaria_micromeria",NA,"S Liede-Schumann",-14.05,-47.5,382
+3563,"NY","NYBG","971854","Minaria_micromeria",NA,"S Liede-Schumann",-16.82,-47.67,581
+3564,"NY","NYBG","971855","Minaria_micromeria",NA,"S Liede-Schumann",-15.7833,-47.9167,501
+3570,"NY","NYBG","971891","Minaria_refractifolia",NA,"S Liede-Schumann",-18.4,-43.72,708
+3571,"NY","NYBG","971892","Minaria_refractifolia",NA,"S Liede-Schumann",-18.44535,-43.6556,708
+3577,"JBB","HEPH","14054","Minaria_cordata",NA,"J Fontella-Pereira",-14.091111,-47.509167,422
+3578,"JBB","HEPH","14333","Minaria_cordata",NA,"J Fontella-Pereira",-14.0725,-47.509167,382
+3582,"JBB","HEPH","21590","Minaria_cordata",NA,"J Fontella-Pereira",-15.192222,-47.588056,461
+3659,"MO","MOBOT","2825004","Minaria_acerosa",NA,"WD Stevens",-17.7527778,-44.1822223,667
+3661,"MO","MOBOT","2825184","Minaria_acerosa",NA,"WD Stevens",-18.5538889,-43.5583333,708
+3670,"MO","MOBOT","427348","Minaria_acerosa",NA,"WD Stevens",-13.5833333,-41.8,391
+3695,"MO","MOBOT","2824185","Minaria_cordata",NA,"WD Stevens",-13.25,-41.9,351
+3697,"MO","MOBOT","2824289","Minaria_cordata",NA,"WD Stevens",-13.5,-41.9833333,391
+3699,"MO","MOBOT","2824465","Minaria_cordata",NA,"WD Stevens",-19.3333333,-43.5833333,748
+3701,"MO","MOBOT","2824699","Minaria_cordata",NA,"WD Stevens",-13.5,-41.95,391
+3721,"MO","MOBOT","427936","Minaria_cordata",NA,"WD Stevens",-13.6,-41.8333333,391
+3723,"MO","MOBOT","427952","Minaria_cordata",NA,"WD Stevens",-13.4666667,-41.8333333,351
+3728,"MO","MOBOT","2824515","Minaria_grazielae",NA,"WD Stevens",-18.1580556,-43.6169445,668
+4369,"IBt","SP","359054","Minaria_acerosa",NA,"A Rapini",-18.156667,-43.601389,668
+4385,"IBt","SP","292364","Minaria_cordata",NA,"A Rapini",-13.5,-41.983333,391
+4386,"IBt","SP","359002","Minaria_cordata",NA,"A Rapini",-13.5225,-41.959167,391
+4398,"IBt","SP","359042","Minaria_decussata",NA,"A Rapini",-19.260833,-43.550278,748
+4400,"IBt","SP","359056","Minaria_decussata",NA,"A Rapini",-18.173889,-43.616667,668
+4402,"IBt","SP","349575","Minaria_diamantinensis",NA,"A Rapini",-18.308889,-43.889444,708
+4403,"IBt","SP","359043","Minaria_diamantinensis",NA,"A Rapini",-18.308889,-43.889444,708
+4418,"IBt","SP","349576","Minaria_ditassoides",NA,"A Rapini",-18.337222,-43.546389,708
+4419,"IBt","SP","351717","Minaria_ditassoides",NA,"A Rapini",-19.227222,-43.555833,748
+4420,"IBt","SP","359044","Minaria_ditassoides",NA,"A Rapini",-18.308889,-43.889444,708
+4422,"IBt","SP","359055","Minaria_ditassoides",NA,"A Rapini",-18.156667,-43.601389,668
+4424,"IBt","SP","359058","Minaria_grazielae",NA,"A Rapini",-18.106667,-43.601389,668
+4427,"IBt","SP","359041","Minaria_magisteriana",NA,"A Rapini",-19.237222,-43.553611,748
+4434,"IBt","SP","321676","Minaria_micromeria",NA,"A Rapini",-19.3,-43.583333,748
+4435,"IBt","SP","349574","Minaria_micromeria",NA,"A Rapini",-18.36,-43.678889,708
+4436,"IBt","SP","351721","Minaria_micromeria",NA,"A Rapini",-19.273889,-43.555556,748
+4443,"IBt","SP","349577","Minaria_polygaloides",NA,"A Rapini",-19.254722,-43.539444,748
+4462,"INPA","INPA","203482","Minaria_decussata",NA,"A Rapini",-18.916667,-43.683333,748
+4463,"INPA","INPA","203483","Minaria_decussata",NA,"A Rapini",-18.6,-43.9,708
+4512,"UFLA","ESAL","30370","Minaria_acerosa",NA,"AO Simões",-21.352222,-44.6925,906
+4513,"UFLA","ESAL","30373","Minaria_acerosa",NA,"AO Simões",-21.354167,-44.810833,906
+4514,"UFLA","ESAL","30374","Minaria_acerosa",NA,"AO Simões",-21.455833,-44.670833,906
+4515,"UFLA","ESAL","30381","Minaria_acerosa",NA,"AO Simões",-21.455833,-44.670833,906
+1371,"K","Herbarium","K000095613","Minaria_semirii",NA,"A Rapini",-19.18924536,-43.64555156,748
+41,"TEX","LL","00524808","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+174,"Universidade de São Paulo","ESA","97446","Minaria_grazielae",NA,"MA Farinaccio",-17.99283125,-43.61023331,668
+182,"Universidade de São Paulo","ESA","82853","Minaria_ditassoides",NA,"TUP Konno",-17.99283125,-43.61023331,668
+183,"Universidade de São Paulo","ESA","81784","Minaria_decussata",NA,"A Rapini",-19.86821438,-43.6376582,788
+184,"Universidade de São Paulo","ESA","81788","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+187,"Universidade de São Paulo","ESA","78123","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+188,"Universidade de São Paulo","ESA","78058","Minaria_decussata",NA,"TUP Konno",-19.18924536,-43.64555156,748
+189,"Universidade de São Paulo","ESA","77924","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+191,"Universidade de São Paulo","ESA","73690","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+199,"Universidade de São Paulo","ESA","8418","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+204,"Universidade de São Paulo","ESA","60191","Minaria_ditassoides",NA,"MA Farinaccio",-17.99283125,-43.61023331,668
+205,"Universidade de São Paulo","ESA","60161","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+207,"Universidade de São Paulo","ESA","40002","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+208,"Universidade de São Paulo","ESA","31379","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+216,"Universidade de São Paulo","ESA","22152","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+218,"Universidade de São Paulo","ESA","20607","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+236,"Instituto de Botânica","SP","54865","Minaria_acerosa",NA,"A Rapini",-20.07438198,-43.90441805,788
+262,"Instituto de Botânica","SP","350075","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+269,"Instituto de Botânica","SP","298457","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+281,"Instituto de Botânica","SP","25116","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+283,"Instituto de Botânica","SP","246376","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+285,"Instituto de Botânica","SP","219146","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+286,"Instituto de Botânica","SP","219154","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+290,"Instituto de Botânica","SP","185341","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+292,"Instituto de Botânica","SP","184878","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+293,"Instituto de Botânica","SP","185334","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+295,"Instituto de Botânica","SP","180048","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+300,"Instituto de Botânica","SP","180052","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+301,"Instituto de Botânica","SP","180049","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+472,"MN","R","198798","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+475,"MN","R","198700","Minaria_acerosa",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+480,"MN","R","149823","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+499,"MN","R","95116","Minaria_acerosa",NA,"J Fontella-Pereira",-20.07438198,-43.90441805,788
+507,"MN","R","52863","Minaria_acerosa",NA,"J Fontella-Pereira",-19.86821438,-43.6376582,788
+511,"MN","R","46064","Minaria_acerosa",NA,"J Fontella-Pereira",-20.07438198,-43.90441805,788
+529,"UFOP","OUPR","20602","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+685,"Jardim Botânico de Brasília","HEPH","34198","Minaria_decussata",NA,"J Fontella-Pereira",-19.86821438,-43.6376582,788
+709,"MN","R","217355","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+752,"USP","SPF","226590","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+754,"USP","SPF","144076","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+886,"JBRJ","RB","RB00779782","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+904,"JBRJ","RB","RB00592921","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+907,"JBRJ","RB","RB00558258","Minaria_decussata",NA,"TUP Konno",-20.39135163,-43.61077319,828
+913,"JBRJ","RB","RB00537274","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+914,"JBRJ","RB","RB00537276","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+921,"JBRJ","RB","RB00534394","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+928,"JBRJ","RB","RB00051370","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+934,"JBRJ","RB","RB00051258","Minaria_micromeria",NA,"A Rapini",-15.78111952,-47.79722597,501
+939,"JBRJ","RB","RB00050700","Minaria_acerosa",NA,"A Rapini",-19.18924536,-43.64555156,748
+940,"JBRJ","RB","RB00050715","Minaria_acerosa",NA,"A Rapini",-19.18924536,-43.64555156,748
+951,"JBRJ","RB","RB00050575","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+961,"JBRJ","RB","RB00050463","Minaria_cordata",NA,"TUP Konno",-14.18302262,-47.53516279,422
+964,"JBRJ","RB","RB00050431","Minaria_acerosa",NA,"A Rapini",-19.18924536,-43.64555156,748
+974,"JBRJ","RB","RB00050452","Minaria_cordata",NA,"TUP Konno",-15.78111952,-47.79722597,501
+977,"JBRJ","RB","RB00050438","Minaria_parva",NA,"A Rapini",-19.18924536,-43.64555156,748
+981,"JBRJ","RB","RB00050190","Minaria_grazielae",NA,"TUP Konno",-17.99283125,-43.61023331,668
+982,"JBRJ","RB","RB00050199","Minaria_grazielae",NA,"TUP Konno",-17.99283125,-43.61023331,668
+983,"JBRJ","RB","RB00050020","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+984,"JBRJ","RB","RB00050032","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+991,"JBRJ","RB","RB00049906","Minaria_polygaloides",NA,"TUP Konno",-19.18924536,-43.64555156,748
+996,"JBRJ","RB","RB00049808","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+997,"JBRJ","RB","RB00049881","Minaria_polygaloides",NA,"TUP Konno",-19.18924536,-43.64555156,748
+1004,"JBRJ","RB","RB00049763","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1005,"JBRJ","RB","RB00049748","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1006,"JBRJ","RB","RB00049829","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1012,"JBRJ","RB","RB00049730","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1018,"JBRJ","RB","RB00049764","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1020,"JBRJ","RB","RB00049821","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1024,"JBRJ","RB","RB00049715","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1031,"JBRJ","RB","RB00049705","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1034,"JBRJ","RB","RB00049688","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1036,"JBRJ","RB","RB00049713","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1038,"JBRJ","RB","RB00049719","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1042,"JBRJ","RB","RB00049704","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1048,"JBRJ","RB","RB00049616","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1057,"JBRJ","RB","RB00049564","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+1058,"JBRJ","RB","RB00049555","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+1060,"JBRJ","RB","RB00049534","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+1063,"JBRJ","RB","RB00049515","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+1069,"JBRJ","RB","RB00049458","Minaria_cordata",NA,"TUP Konno",-15.78111952,-47.79722597,501
+1070,"JBRJ","RB","RB00049449","Minaria_cordata",NA,"TUP Konno",-14.18302262,-47.53516279,422
+1071,"JBRJ","RB","RB00049455","Minaria_cordata",NA,"TUP Konno",-15.78111952,-47.79722597,501
+1084,"JBRJ","RB","RB00049392","Minaria_cordata",NA,"TUP Konno",-15.78111952,-47.79722597,501
+1088,"JBRJ","RB","RB00049370","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+1102,"JBRJ","RB","RB00049302","Minaria_cordata",NA,"TUP Konno",-15.78111952,-47.79722597,501
+1103,"JBRJ","RB","RB00049310","Minaria_harleyi",NA,"J Fontella-Pereira",-13.03774692,-41.87902762,351
+1116,"JBRJ","RB","RB00049227","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+1119,"JBRJ","RB","RB00049089","Minaria_polygaloides",NA,"TUP Konno",-19.18924536,-43.64555156,748
+1124,"JBRJ","RB","RB00423586","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1126,"JBRJ","RB","RB00423426","Minaria_cordata",NA,"PL Ribeiro",-20.18751146,-46.51358296,823
+1127,"JBRJ","RB","RB00423429","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+1130,"JBRJ","RB","RB00421469","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+1131,"JBRJ","RB","RB00421419","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+1159,"MPEG","HERBMG","MG093268","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+1166,"MPEG","HERBMG","MG020877","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1188,"Jardim Botânico de Brasília","HEPH","8059","Minaria_cordata",NA,"J Fontella-Pereira",-14.18302262,-47.53516279,422
+1201,"MO","MO","430028","Minaria_harleyi",NA,"J Fontella-Pereira",-13.05221426,-41.48395519,352
+1245,"MO","MO","427324","Minaria_acerosa",NA,"WD Stevens",-20.07438198,-43.90441805,788
+1247,"MO","MO","2826630","Minaria_abortiva",NA,"WD Stevens",-20.18751146,-46.51358296,823
+1257,"MO","MO","2826174","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+1260,"MO","MO","2825995","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+1306,"MO","MO","2821286","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+1342,"MO","MO","1179201","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+1554,"UnB","UB","117900","Minaria_parva",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1564,"UnB","UB","117906","Minaria_refractifolia",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1596,"UnB","UB","117826","Minaria_grazielae",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1601,"UnB","UB","117802","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1651,"MBML","MBML-HERBARIO","40716","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1652,"MBML","MBML-HERBARIO","7062","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+1655,"UFMT","UFMT","11122","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1667,"MBM","MBM","328774","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+1670,"MBM","MBM","297255","Minaria_grazielae",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1671,"MBM","MBM","287270","Minaria_decussata",NA,"MA Farinaccio",-17.99283125,-43.61023331,668
+1672,"MBM","MBM","285605","Minaria_cordata",NA,"MA Farinaccio",-15.78111952,-47.79722597,501
+1675,"MBM","MBM","270309","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+1676,"MBM","MBM","270305","Minaria_decussata",NA,"A Rapini",-19.86821438,-43.6376582,788
+1679,"MBM","MBM","262722","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1680,"MBM","MBM","262724","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1681,"MBM","MBM","262726","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1682,"MBM","MBM","262723","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1683,"MBM","MBM","262727","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1684,"MBM","MBM","262725","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+1685,"MBM","MBM","261655","Minaria_cordata",NA,"TUP Konno",-14.18302262,-47.53516279,422
+1687,"MBM","MBM","254416","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1688,"MBM","MBM","254419","Minaria_cordata",NA,"A Rapini",-13.05221426,-41.48395519,352
+1689,"MBM","MBM","254418","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+1694,"MBM","MBM","244556","Minaria_acerosa",NA,"MA Farinaccio",-19.86821438,-43.6376582,788
+1696,"MBM","MBM","243713","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+1697,"MBM","MBM","243717","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+1702,"MBM","MBM","243678","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1703,"MBM","MBM","243695","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+1704,"MBM","MBM","243693","Minaria_harleyi",NA,"A Rapini",-13.03774692,-41.87902762,351
+1708,"MBM","MBM","243679","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1717,"MBM","MBM","207223","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+1718,"MBM","MBM","207224","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1740,"MBM","MBM","134038","Minaria_cordata","cordata","J Fontella-Pereira",-14.18302262,-47.53516279,422
+1746,"MBM","MBM","119611","Minaria_refractifolia",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1750,"MBM","MBM","91440","Minaria_acerosa",NA,"J Fontella-Pereira",-19.18924536,-43.64555156,748
+1758,"MBM","MBM","60309","Minaria_ditassoides",NA,"J Fontella-Pereira",-14.18302262,-47.53516279,422
+1760,"MBM","MBM","60303","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+1761,"MBM","MBM","60316","Minaria_acerosa",NA,"J Fontella-Pereira",-12.42339943,-41.88215591,311
+1765,"MBM","MBM","59873","Minaria_acerosa",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1771,"MBM","MBM","52135","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+1786,"MBM","MBM","34143","Minaria_cordata","virgata","A Rapini",-14.18302262,-47.53516279,422
+1787,"MBM","MBM","34141","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1790,"MBM","MBM","22593","Minaria_inconspicua",NA,"A Rapini",-17.99283125,-43.61023331,668
+1792,"MBM","MBM","20939","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+1812,"Cenargen","CEN","49553","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1814,"Cenargen","CEN","39225","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1815,"Cenargen","CEN","38444","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1816,"Cenargen","CEN","30945","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1817,"Cenargen","CEN","29681","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1818,"Cenargen","CEN","29634","Minaria_micromeria",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1820,"Cenargen","CEN","13538","Minaria_cordata",NA,"J Fontella-Pereira",-14.18302262,-47.53516279,422
+1822,"UEFS","HUEFS","215226","Minaria_parva",NA,"A Rapini",-19.18924536,-43.64555156,748
+1823,"UEFS","HUEFS","215227","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+1839,"UEFS","HUEFS","189081","Minaria_magisteriana",NA,"A Rapini",-19.18924536,-43.64555156,748
+1841,"UEFS","HUEFS","189078","Minaria_parva",NA,"A Rapini",-19.18924536,-43.64555156,748
+1907,"UEFS","HUEFS","145919","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1918,"UEFS","HUEFS","133959","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1919,"UEFS","HUEFS","133960","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+2022,"UEFS","HUEFS","21701","Minaria_micromeria",NA,"A Rapini",-15.78111952,-47.79722597,501
+2053,"UFU","HUFU","25354","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2054,"UFU","HUFU","25350","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2055,"UFU","HUFU","25358","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2056,"UFU","HUFU","25352","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2057,"UFU","HUFU","25351","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2058,"UFU","HUFU","25356","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2059,"UFU","HUFU","25349","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2060,"UFU","HUFU","25357","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2061,"UFU","HUFU","25355","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2062,"UFU","HUFU","25353","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2064,"UFU","HUFU","24796","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2065,"UFU","HUFU","24799","Minaria_cordata",NA,"MA Farinaccio",-19.90498217,-47.26662739,782
+2066,"UFU","HUFU","24795","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2067,"UFU","HUFU","24797","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2068,"UFU","HUFU","24798","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2069,"UFU","HUFU","17705","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2070,"UFU","HUFU","17702","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2071,"UFU","HUFU","17695","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2072,"UFU","HUFU","17588","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2073,"UFU","HUFU","16136","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2074,"UFU","HUFU","16109","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2075,"UFU","HUFU","16114","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2076,"UFU","HUFU","16142","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2077,"UFU","HUFU","16119","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2078,"UFU","HUFU","16113","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2079,"UFU","HUFU","16120","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2080,"UFU","HUFU","16139","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2081,"UFU","HUFU","16118","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2082,"UFU","HUFU","16128","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2083,"UFU","HUFU","16110","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2084,"UFU","HUFU","15340","Minaria_decussata",NA,"J Fontella-Pereira",-19.18924536,-43.64555156,748
+2086,"UFU","HUFU","14492","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2087,"UFU","HUFU","14489","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2088,"UFU","HUFU","14483","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2089,"UFU","HUFU","14484","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2090,"UFU","HUFU","14482","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2091,"UFU","HUFU","14463","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2092,"UFU","HUFU","14453","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2093,"UFU","HUFU","14486","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2094,"UFU","HUFU","14416","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2095,"UFU","HUFU","14374","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2096,"UFU","HUFU","14192","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2097,"UFU","HUFU","14133","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2098,"UFU","HUFU","14096","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2099,"UFU","HUFU","14079","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2100,"UFU","HUFU","12807","Minaria_cordata",NA,"MA Farinaccio",-19.90498217,-47.26662739,782
+2101,"UFU","HUFU","12744","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2102,"UFU","HUFU","12708","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2103,"UFU","HUFU","12479","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2104,"UFU","HUFU","12478","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2107,"UFU","HUFU","10722","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2108,"UFU","HUFU","10721","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2109,"UFU","HUFU","10170","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2110,"UFU","HUFU","9963","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2111,"UFU","HUFU","9854","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2112,"UFU","HUFU","9563","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2113,"UFU","HUFU","9446","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2114,"UFU","HUFU","9379","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2115,"UFU","HUFU","9175","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2116,"UFU","HUFU","8791","Minaria_cordata",NA,"MA Farinaccio",-19.90498217,-47.26662739,782
+2117,"UFU","HUFU","8734","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2118,"UFU","HUFU","8310","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2119,"UFU","HUFU","8212","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2121,"UFU","HUFU","6969","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2122,"UFU","HUFU","6649","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2123,"UFU","HUFU","6498","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2124,"UFU","HUFU","5563","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2125,"UFU","HUFU","5436","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2126,"UFU","HUFU","5225","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2127,"UFU","HUFU","5190","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2135,"UFG","UFG","8591","Minaria_cordata","cordata","J Fontella-Pereira",-14.18302262,-47.53516279,422
+2142,"Universidade Estadual Paulista","HRCB","35324","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2143,"Universidade Estadual Paulista","HRCB","35335","Minaria_acerosa",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2144,"Universidade Estadual Paulista","HRCB","35338","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2145,"Universidade Estadual Paulista","HRCB","35327","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2210,"USP","SPF","159350","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2211,"USP","SPF","159351","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2212,"USP","SPF","157015","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2219,"USP","SPF","148994","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+2221,"USP","SPF","146956","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2223,"USP","SPF","146955","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2235,"USP","SPF","144700","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+2236,"USP","SPF","144064","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2237,"USP","SPF","144079","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2238,"USP","SPF","144068","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2239,"USP","SPF","144072","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2240,"USP","SPF","144078","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2241,"USP","SPF","144077","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2242,"USP","SPF","144075","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2243,"USP","SPF","144070","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2244,"USP","SPF","144062","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2245,"USP","SPF","144071","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2246,"USP","SPF","144057","Minaria_cordata",NA,"A Rapini",-19.90498217,-47.26662739,782
+2247,"USP","SPF","144066","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2248,"USP","SPF","144061","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2249,"USP","SPF","144074","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2250,"USP","SPF","144069","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2251,"USP","SPF","144073","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2253,"USP","SPF","144080","Minaria_cordata",NA,"MA Farinaccio",-20.18751146,-46.51358296,823
+2254,"USP","SPF","144067","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2256,"USP","SPF","144063","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2257,"USP","SPF","143897","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2258,"USP","SPF","144059","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2259,"USP","SPF","144065","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2260,"USP","SPF","144058","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2263,"USP","SPF","144056","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2264,"USP","SPF","144060","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2265,"USP","SPF","143674","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2267,"USP","SPF","144055","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2270,"USP","SPF","143675","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2271,"USP","SPF","143678","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2272,"USP","SPF","143665","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2273,"USP","SPF","143672","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2274,"USP","SPF","143667","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2275,"USP","SPF","143671","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2276,"USP","SPF","143670","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2277,"USP","SPF","143677","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2278,"USP","SPF","143679","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2279,"USP","SPF","143668","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2280,"USP","SPF","143673","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2281,"USP","SPF","143676","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2282,"USP","SPF","143669","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2283,"USP","SPF","142952","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+2285,"USP","SPF","141909","Minaria_semirii",NA,"A Rapini",-19.18924536,-43.64555156,748
+2291,"USP","SPF","140676","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2293,"USP","SPF","140678","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2294,"USP","SPF","140679","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2296,"USP","SPF","140413","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2298,"USP","SPF","140020","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+2299,"USP","SPF","140018","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2300,"USP","SPF","138460","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2301,"USP","SPF","138462","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2302,"USP","SPF","138461","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2303,"USP","SPF","138459","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2304,"USP","SPF","137547","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2305,"USP","SPF","137549","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2306,"USP","SPF","137555","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2307,"USP","SPF","137546","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2308,"USP","SPF","137552","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2309,"USP","SPF","137554","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2310,"USP","SPF","137548","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2311,"USP","SPF","137544","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2324,"USP","SPF","135380","Minaria_diamantinensis",NA,"A Rapini",-17.99283125,-43.61023331,668
+2329,"USP","SPF","135264","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2331,"USP","SPF","135139","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2332,"USP","SPF","135432","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2334,"USP","SPF","135129","Minaria_ditassoides",NA,"A Rapini",-16.05629992,-42.99347467,549
+2337,"USP","SPF","134137","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2338,"USP","SPF","134138","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2339,"USP","SPF","134135","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2340,"USP","SPF","134140","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2341,"USP","SPF","134134","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2342,"USP","SPF","134136","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2343,"USP","SPF","133694","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2344,"USP","SPF","133698","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2345,"USP","SPF","133696","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2346,"USP","SPF","133697","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2351,"USP","SPF","131316","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2352,"USP","SPF","131925","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2353,"USP","SPF","131319","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2357,"USP","SPF","128841","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2358,"USP","SPF","128842","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+2359,"USP","SPF","128463","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2360,"USP","SPF","128840","Minaria_cordata",NA,"A Rapini",-20.18751146,-46.51358296,823
+2361,"USP","SPF","128263","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+2363,"USP","SPF","128269","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+2377,"USP","SPF","128034","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2378,"USP","SPF","128033","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2383,"USP","SPF","125866","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2384,"USP","SPF","125864","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2385,"USP","SPF","125834","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2386,"USP","SPF","125863","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2390,"USP","SPF","124447","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+2391,"USP","SPF","124451","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2392,"USP","SPF","124434","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2393,"USP","SPF","124449","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+2396,"USP","SPF","124340","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2397,"USP","SPF","124450","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2426,"USP","SPF","86537","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+2430,"USP","SPF","80294","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2443,"USP","SPF","64705","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+2445,"USP","SPF","64087","Minaria_diamantinensis",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+2450,"USP","SPF","49151","Minaria_harleyi",NA,"A Rapini",-13.03774692,-41.87902762,351
+2451,"USP","SPF","49274","Minaria_cordata",NA,"A Rapini",-13.03774692,-41.87902762,351
+2454,"USP","SPF","47354","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2456,"USP","SPF","47012","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2460,"USP","SPF","42662","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+2461,"USP","SPF","42761","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2462,"USP","SPF","42663","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2466,"USP","SPF","40926","Minaria_inconspicua",NA,"A Rapini",-17.99283125,-43.61023331,668
+2467,"USP","SPF","40609","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2468,"USP","SPF","40255","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2469,"USP","SPF","36820","Minaria_harleyi",NA,"A Rapini",-13.05221426,-41.48395519,352
+2471,"USP","SPF","35710","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2474,"USP","SPF","35099","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+2477,"USP","SPF","32364","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2481,"USP","SPF","32360","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+2482,"USP","SPF","32365","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+2496,"USP","SPF","21644","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2497,"USP","SPF","21785","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2498,"USP","SPF","20406","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2499,"USP","SPF","19386","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+2529,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","44520","Minaria_harleyi",NA,"J Fontella-Pereira",-13.05221426,-41.48395519,352
+2550,"UNICAMP","UEC","135183","Minaria_acerosa",NA,"A Rapini",-21.3517634,-44.71115287,906
+2555,"UNICAMP","UEC","117870","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2559,"UNICAMP","UEC","117787","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+2563,"UNICAMP","UEC","106657","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2568,"UNICAMP","UEC","84204","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+2575,"UNICAMP","UEC","45554","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2577,"UNICAMP","UEC","42264","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+2587,"UNICAMP","UEC","383","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+2588,"UNICAMP","UEC","366","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+2591,"UNICAMP","UEC","343","Minaria_acerosa",NA,"A Rapini",-20.39135163,-43.61077319,828
+2592,"UNICAMP","UEC","384","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+2701,"UFOP","OUPR","20434","Minaria_decussata",NA,"J Fontella-Pereira",-19.86821438,-43.6376582,788
+2702,"UFOP","OUPR","20413","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2703,"UFOP","OUPR","18248","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2705,"UFOP","OUPR","14167","Minaria_decussata",NA,"J Fontella-Pereira",-19.18924536,-43.64555156,748
+2706,"UFOP","OUPR","9819","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2707,"UFOP","OUPR","8743","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2708,"UFOP","OUPR","5443","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2709,"UFOP","OUPR","825","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2711,"UFOP","OUPR","828","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2713,"UFOP","OUPR","809","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2714,"UFOP","OUPR","824","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2715,"UFOP","OUPR","827","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2717,"UFOP","OUPR","823","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2718,"UFOP","OUPR","811","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2719,"UFOP","OUPR","808","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2722,"UFOP","OUPR","806","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2723,"UFOP","OUPR","826","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2725,"UFOP","OUPR","810","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2727,"UFOP","OUPR","822","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+2759,"FZB-BH","BHZB","9265","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2760,"FZB-BH","BHZB","8936","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2765,"FZB-BH","BHZB","8635","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+2830,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","87992","Minaria_grazielae",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+2833,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","203404","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+2841,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","87994","Minaria_cordata",NA,"A Rapini",-14.18302262,-47.53516279,422
+2843,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","88366","Minaria_abortiva",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+3034,"ESALQ","ESA","60161","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+3040,"ESALQ","ESA","78123","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+3048,"ESALQ","ESA","31379","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+3054,"ESALQ","ESA","73690","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+3058,"ESALQ","ESA","22152","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+3183,"UFOP","OUPR","805","Minaria_acerosa",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+3236,"EAO","IAN","106662","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+3239,"EAO","IAN","107510","Minaria_acerosa",NA,"A Rapini",-19.90498217,-47.26662739,782
+3588,"JBB","HEPH","8059","Minaria_cordata",NA,"J Fontella-Pereira",-14.18302262,-47.53516279,422
+3646,"MO","MOBOT","2826630","Minaria_abortiva",NA,"WD Stevens",-20.18751146,-46.51358296,823
+3656,"MO","MOBOT","2821286","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+3665,"MO","MOBOT","2825995","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+3666,"MO","MOBOT","2826174","Minaria_acerosa",NA,"WD Stevens",-20.18751146,-46.51358296,823
+3667,"MO","MOBOT","427324","Minaria_acerosa",NA,"WD Stevens",-20.07438198,-43.90441805,788
+3726,"MO","MOBOT","1179201","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+3768,"USP","SPF","137545","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+4361,"IBt","SP","25116","Minaria_acerosa",NA,"A Rapini",-19.86821438,-43.6376582,788
+4367,"IBt","SP","350075","Minaria_acerosa",NA,"A Rapini",-20.18751146,-46.51358296,823
+4376,"IBt","SP","54865","Minaria_acerosa",NA,"A Rapini",-20.07438198,-43.90441805,788
+4383,"IBt","SP","246376","Minaria_cordata",NA,"A Rapini",-15.78111952,-47.79722597,501
+4393,"IBt","SP","180048","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+4394,"IBt","SP","185341","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+4396,"IBt","SP","298457","Minaria_decussata",NA,"A Rapini",-19.18924536,-43.64555156,748
+4415,"IBt","SP","180049","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+4416,"IBt","SP","219154","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+4431,"IBt","SP","185334","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+4432,"IBt","SP","219146","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+4440,"IBt","SP","180052","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+4441,"IBt","SP","184878","Minaria_polygaloides",NA,"A Rapini",-19.18924536,-43.64555156,748
+4467,"INPA","INPA","203404","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+3059,"ESALQ","ESA","77924","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+252,"Instituto de Botânica","SP","359044","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+253,"Instituto de Botânica","SP","359054","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+258,"Instituto de Botânica","SP","351717","Minaria_ditassoides",NA,"A Rapini",-19.18924536,-43.64555156,748
+289,"Instituto de Botânica","SP","195137","Minaria_cordata",NA,"A Rapini",-14.18302262,-47.53516279,422
+299,"Instituto de Botânica","SP","180035","Minaria_micromeria",NA,"A Rapini",-19.18924536,-43.64555156,748
+375,"JBRJ","RB","RB00049348","Minaria_harleyi",NA,"TUP Konno",-13.05221426,-41.48395519,352
+578,"NY","NY","971681","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+592,"NY","NY","971847","Minaria_grazielae",NA,"S Liede-Schumann",-17.99283125,-43.61023331,668
+640,"NY","NY","971837","Minaria_cordata",NA,"S Liede-Schumann",-15.78111952,-47.79722597,501
+679,"NY","NY","971703","Minaria_parva",NA,"J Fontella-Pereira",-19.18924536,-43.64555156,748
+891,"JBRJ","RB","RB00674146","Minaria_decussata",NA,"C Bitencourt",-20.39135163,-43.61077319,828
+1198,"UEFS","HUEFS","230008","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+35,"CM","Botany","CM344943","Minaria_harleyi",NA,"J Fontella-Pereira",-13.05221426,-41.48395519,352
+1221,"MO","MO","428635","Minaria_acerosa",NA,"WD Stevens",-17.99283125,-43.61023331,668
+1228,"MO","MO","428485","Minaria_decussata",NA,"WD Stevens",-20.39135163,-43.61077319,828
+1252,"MO","MO","2826463","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+1255,"MO","MO","2826173","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+1258,"MO","MO","2826192","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1259,"MO","MO","2826066","Minaria_parva",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1262,"MO","MO","2825988","Minaria_parva",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1272,"MO","MO","2825532","Minaria_ditassoides",NA,"MA Farinaccio",-17.99283125,-43.61023331,668
+1279,"MO","MO","2825362","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+1281,"MO","MO","2825208","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1283,"MO","MO","2825136","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1291,"MO","MO","2824517","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+1295,"MO","MO","2824335","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+1296,"MO","MO","2824314","Minaria_acerosa",NA,"WD Stevens",-12.42339943,-41.88215591,311
+1298,"MO","MO","2824259","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+1308,"MO","MO","2819689","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1310,"MO","MO","2819595","Minaria_decussata",NA,"MA Farinaccio",-19.18924536,-43.64555156,748
+1314,"MO","MO","2819377","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1315,"MO","MO","2819314","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1325,"MO","MO","2611561","Minaria_inconspicua",NA,"A Rapini",-17.99283125,-43.61023331,668
+1340,"MO","MO","1237548","Minaria_diamantinensis",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1344,"MO","MO","1179174","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+1475,"W","Herbarium W","2001-0002653","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+1476,"W","Herbarium W","2001-0002708","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+1479,"W","Herbarium W","2001-0002664","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1483,"W","Herbarium W","2001-0002672","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1487,"W","Herbarium W","1987-0009149","Minaria_decussata",NA,"J Fontella-Pereira",-20.39135163,-43.61077319,828
+1489,"W","Herbarium W","2001-0002718","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+1491,"W","Herbarium W","2001-0002685","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+1493,"W","Herbarium W","2001-0002673","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1495,"W","Herbarium W","2001-0002661","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+1500,"W","Herbarium W","1897-0002130","Minaria_cordata",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1513,"W","Herbarium W","0001872","Minaria_cordata",NA,"J Fontella-Pereira",-15.78111952,-47.79722597,501
+1561,"UnB","UB","117896","Minaria_micromeria",NA,"J Fontella-Pereira",-20.26749747,-44.34566228,827
+1569,"UnB","UB","117886","Minaria_acerosa",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1571,"UnB","UB","117902","Minaria_parva",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1579,"UnB","UB","117903","Minaria_refractifolia",NA,"J Fontella-Pereira",-17.99283125,-43.61023331,668
+1586,"UnB","UB","117885","Minaria_acerosa",NA,"J Fontella-Pereira",-12.42339943,-41.88215591,311
+1600,"UnB","UB","117800","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1607,"UnB","UB","117798","Minaria_ditassoides",NA,"A Rapini",-17.99283125,-43.61023331,668
+1615,"UnB","UB","115418","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668
+1619,"UnB","UB","115419","Minaria_decussata",NA,"A Rapini",-20.39135163,-43.61077319,828
+1620,"UnB","UB","115421","Minaria_decussata",NA,"A Rapini",-19.89207611,-43.49598526,788
+1775,"MBM","MBM","50370","Minaria_bifurcata",NA,"A Rapini",-17.99283125,-43.61023331,668
+2495,"USP","SPF","21464","Minaria_parva",NA,"A Rapini",-17.99283125,-43.61023331,668
+2837,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","48980","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+3617,"MNHN","RECOLNAT_MNHN_P","P00753691","Minaria_grazielae",NA,"A Rapini",-17.99283125,-43.61023331,668
+3620,"MNHN","RECOLNAT_MNHN_P","P00643421","Minaria_hemipogonoides",NA,"A Rapini",-15.78111952,-47.79722597,501
+3624,"MNHN","RECOLNAT_MNHN_P","P00643446","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+3625,"MNHN","RECOLNAT_MNHN_P","P00643447","Minaria_refractifolia",NA,"A Rapini",-17.99283125,-43.61023331,668
+3658,"MO","MOBOT","2824314","Minaria_acerosa",NA,"WD Stevens",-12.42339943,-41.88215591,311
+3673,"MO","MOBOT","428635","Minaria_acerosa",NA,"WD Stevens",-17.99283125,-43.61023331,668
+3696,"MO","MOBOT","2824259","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+3700,"MO","MOBOT","2824517","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+3706,"MO","MOBOT","2825362","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+3714,"MO","MOBOT","2826173","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+3716,"MO","MOBOT","2826463","Minaria_cordata",NA,"WD Stevens",-15.78111952,-47.79722597,501
+3725,"MO","MOBOT","1179174","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+3727,"MO","MOBOT","2824335","Minaria_grazielae",NA,"WD Stevens",-17.99283125,-43.61023331,668
+3732,"MO","MOBOT","2825988","Minaria_parva",NA,"TUP Konno",-17.99283125,-43.61023331,668
+3733,"MO","MOBOT","2826066","Minaria_parva",NA,"TUP Konno",-17.99283125,-43.61023331,668
+3736,"MO","MOBOT","2826192","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+4453,"INPA","INPA","48980","Minaria_acerosa",NA,"A Rapini",-17.99283125,-43.61023331,668
+552,"NY","NY","971841","Minaria_ditassoides",NA,"S Liede-Schumann",-17.99283125,-43.61023331,668
+585,"NY","NY","971842","Minaria_ditassoides",NA,"S Liede-Schumann",-17.99283125,-43.61023331,668
+970,"JBRJ","RB","RB00050409","Minaria_acerosa",NA,"A Rapini",-20.07438198,-43.90441805,788
+986,"JBRJ","RB","RB00050037","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+994,"JBRJ","RB","RB00049933","Minaria_refractifolia",NA,"TUP Konno",-17.99283125,-43.61023331,668
+1000,"JBRJ","RB","RB00049790","Minaria_decussata",NA,"PL Ribeiro",-17.99283125,-43.61023331,668
+1009,"JBRJ","RB","RB00049765","Minaria_parva",NA,"PL Ribeiro",-17.99283125,-43.61023331,668
+1023,"JBRJ","RB","RB00049811","Minaria_decussata",NA,"A Rapini",-17.99283125,-43.61023331,668

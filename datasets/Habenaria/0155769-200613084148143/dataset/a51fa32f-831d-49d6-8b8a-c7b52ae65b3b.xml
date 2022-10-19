@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a51fa32f-831d-49d6-8b8a-c7b52ae65b3b"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/udpvi1</alternateIdentifier>
+        <alternateIdentifier>a51fa32f-831d-49d6-8b8a-c7b52ae65b3b</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=upcb</alternateIdentifier>
+    <title>UPCB - Herbário do Departamento de Botânica</title>
+    <creator>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Labiak</surName>
+    </individualName>
+<organizationName>Universidade Federal do Paraná (UFPR)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário, Depto. Botânica / SCB / UFPR;Caixa Postal 19031</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>81531-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 41 3361-1627</phone><electronicMailAddress>plabiak@ufpr.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=UPCB</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Labiak</surName>
+    </individualName>
+<organizationName>Universidade Federal do Paraná (UFPR)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário, Depto. Botânica / SCB / UFPR;Caixa Postal 19031</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>81531-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 41 3361-1627</phone><electronicMailAddress>plabiak@ufpr.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=UPCB</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O acervo conta hoje com amostras de plantas (Angiospermas, Gimnospermas, Pteridófitas, Briófitas, Líquens, Macroalgas em coleções secas, Microalgas em coleções líquidas). Possui uma forte ênfase sobre a Flora do Paraná, mas têm coletas de outros estados do Brasil e exterior. É a segunda maior coleção do estado. O herbário possui programa de permuta com outros herbários no Brasil e exterior, e é utilizado para identificação de plantas por leigos e pesquisadores das áreas taxonômica, ecológica, farmacêutica, agronômica e florestal.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=UPCB</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Paulo</givenName>          <surName>Labiak</surName>
+    </individualName>
+<organizationName>Universidade Federal do Paraná (UFPR)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Herbário, Depto. Botânica / SCB / UFPR;Caixa Postal 19031</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>81531-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 41 3361-1627</phone><electronicMailAddress>plabiak@ufpr.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=UPCB</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:35:22Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=UPCB">Labiak P (2021). UPCB - Herbário do Departamento de Botânica. Version 1.69. Universidade Federal do Paraná. Occurrence dataset https://doi.org/10.15468/udpvi1 accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=upcb</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

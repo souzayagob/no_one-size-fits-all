@@ -1,0 +1,145 @@
+#NEXUS
+[R-package APE, Fri Oct  2 08:43:09 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 66;
+	TAXLABELS
+		Eremanthus_arboreus
+		Eremanthus_capitatus
+		Eremanthus_erythropappus
+		Eremanthus_brevifolius
+		Eremanthus_polycephalus
+		Eremanthus_uniflorus
+		Eremanthus_argenteus
+		Eremanthus_veadeiroensis
+		Eremanthus_elaeagnus
+		Eremanthus_glomerulatus
+		Eremanthus_incanus
+		Eremanthus_auriculatus
+		Eremanthus_mollis
+		Eremanthus_goyazensis
+		Eremanthus_mattogrossensis
+		Lychnophora_gardneri
+		Lychnophora_villosissima
+		Lychnophoriopsis_candelabrum
+		Lychnophoriopsis_hatschbachii
+		Lychnophora_ericoides
+		Lychnophora_diamantinana
+		Lychnophora_granmogolensis
+		Lychnophora_ramosissima
+		Lychnophora_crispa
+		Lychnophora_passerina
+		Lychnophora_salicifolia
+		Eremanthus_pabstii
+		Piptolepis_oleaster
+		Piptolepis_monticola
+		Piptolepis_schultziana
+		Piptolepis_ericoides
+		Lychnophora_regis
+		Lychnophora_triflora
+		Eremanthus_leucodendron
+		Lychnophora_bishopii
+		Lychnophora_sellowii
+		Lychnophora_mellobarretoi
+		Lychnophora_humillima
+		Lychnophora_tomentosa
+		Prestelia_eriopus
+		Lychnophoriopsis_damazioi
+		Hololepis_pedunculata
+		Eremanthus_crotonoides
+		Paralychnophora_atkinsiae
+		Paralychnophora_harleyi
+		Paralychnophora_bicolor
+		Paralychnophora_patriciana
+		Paralychnophora_reflexoauriculata
+		Paralychnophora_glaziouana
+		Lychnophora_markgravii
+		Heterocoma_ekmaniana
+		Heterocoma_lanuginosa
+		Heterocoma_robinsoniana
+		Heterocoma_erecta
+		Heterocoma_gracilis
+		Heterocoma_albida
+		Minasia_cabralensis
+		Minasia_ramosa
+		Minasia_scapigera
+		Minasia_alpestris
+		Anteremanthus_hatschbachii
+		Proteopsis_argentea
+		Chronopappus_bifrons
+		Blanchetia_heterotricha
+		Albertinia_brasiliensis
+		Chresta_pacourinoides
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Eremanthus_arboreus,
+		2	Eremanthus_capitatus,
+		3	Eremanthus_erythropappus,
+		4	Eremanthus_brevifolius,
+		5	Eremanthus_polycephalus,
+		6	Eremanthus_uniflorus,
+		7	Eremanthus_argenteus,
+		8	Eremanthus_veadeiroensis,
+		9	Eremanthus_elaeagnus,
+		10	Eremanthus_glomerulatus,
+		11	Eremanthus_incanus,
+		12	Eremanthus_auriculatus,
+		13	Eremanthus_mollis,
+		14	Eremanthus_goyazensis,
+		15	Eremanthus_mattogrossensis,
+		16	Lychnophora_gardneri,
+		17	Lychnophora_villosissima,
+		18	Lychnophoriopsis_candelabrum,
+		19	Lychnophoriopsis_hatschbachii,
+		20	Lychnophora_ericoides,
+		21	Lychnophora_diamantinana,
+		22	Lychnophora_granmogolensis,
+		23	Lychnophora_ramosissima,
+		24	Lychnophora_crispa,
+		25	Lychnophora_passerina,
+		26	Lychnophora_salicifolia,
+		27	Eremanthus_pabstii,
+		28	Piptolepis_oleaster,
+		29	Piptolepis_monticola,
+		30	Piptolepis_schultziana,
+		31	Piptolepis_ericoides,
+		32	Lychnophora_regis,
+		33	Lychnophora_triflora,
+		34	Eremanthus_leucodendron,
+		35	Lychnophora_bishopii,
+		36	Lychnophora_sellowii,
+		37	Lychnophora_mellobarretoi,
+		38	Lychnophora_humillima,
+		39	Lychnophora_tomentosa,
+		40	Prestelia_eriopus,
+		41	Lychnophoriopsis_damazioi,
+		42	Hololepis_pedunculata,
+		43	Eremanthus_crotonoides,
+		44	Paralychnophora_atkinsiae,
+		45	Paralychnophora_harleyi,
+		46	Paralychnophora_bicolor,
+		47	Paralychnophora_patriciana,
+		48	Paralychnophora_reflexoauriculata,
+		49	Paralychnophora_glaziouana,
+		50	Lychnophora_markgravii,
+		51	Heterocoma_ekmaniana,
+		52	Heterocoma_lanuginosa,
+		53	Heterocoma_robinsoniana,
+		54	Heterocoma_erecta,
+		55	Heterocoma_gracilis,
+		56	Heterocoma_albida,
+		57	Minasia_cabralensis,
+		58	Minasia_ramosa,
+		59	Minasia_scapigera,
+		60	Minasia_alpestris,
+		61	Anteremanthus_hatschbachii,
+		62	Proteopsis_argentea,
+		63	Chronopappus_bifrons,
+		64	Blanchetia_heterotricha,
+		65	Albertinia_brasiliensis,
+		66	Chresta_pacourinoides
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((1:0.002022690213,2:0.002022690213):0.001772246505,3:0.003794936718):0.0006051505455,(4:0.003506052113,5:0.003506052113):0.0008940351516):0.001550047513,6:0.005950134776):0.006049118345,(((7:0.00522729097,8:0.00522729097):0.002313550798,9:0.007540841769):0.002852976221,(10:0.009947650572,11:0.009947650572):0.0004461674162):0.001605435132):0.001649907479,(12:0.007733180766,13:0.007733180766):0.005915979835):0.002803941897,(14:0.01152314273,15:0.01152314274):0.004929959767):0.003389466852,(((((((16:0.002596070359,17:0.002596070359):0.0002634269289,(18:0.001064143767,19:0.001064143767):0.001795353521):0.0006503619286,20:0.003509859217):0.001223513548,21:0.004733372765):0.002687550332,((22:0.002892953795,23:0.002892953795):0.001677180933,24:0.004570134727):0.002850788369):0.002122034736,25:0.009542957833):0.002994183609,26:0.01253714144):0.007305427907):0.002193273789,((((27:0.001765522785,28:0.001765522785):0.0008531231751,29:0.00261864596):0.0008998294411,30:0.003518475401):0.002539700942,31:0.006058176342):0.0159776668):0.003547970877,(((32:0.001418309172,33:0.001418309172):0.001334950739,34:0.002753259911):0.01055380225,35:0.01330706216):0.01227675186):0.005360720562,(((((36:0.004068543973,37:0.004068543973):0.002482629575,(38:0.005928881077,39:0.005928881077):0.0006222924705):0.008255696717,(40:0.01191494463,41:0.01191494463):0.002891925638):0.008317043976,42:0.02312391424):0.00142822837,43:0.02455214261):0.006392391966):0.002519414832,(((((((((44:0.0004604594547,45:0.0004604594547):0.001147362694,46:0.001607822149):0.006256339078,(47:0.003400828517,48:0.003400828517):0.00446333271):0.006388856391,49:0.01425301761):0.003154975555,50:0.01740799317):0.001037200542,((((51:0.003266419236,52:0.003266419236):0.001825943343,53:0.005092362578):0.00283235005,(54:0.002789129144,55:0.002789129144):0.005135583484):0.0007254129161,56:0.008650125545):0.009795068166):0.0009227678635,(((57:0.001188408696,58:0.001188408696):0.002966552488,59:0.004154961183):0.001790716409,60:0.005945677592):0.01342228399):0.002727100728,61:0.02209506231):0.003619303355,(62:0.02498061307,63:0.02498061308):0.0007337525849):0.007749583749):0.01133862566,64:0.04480257507):0.02903012656,65:0.07383270164):0.05948250798,66:0.1333152096);
+END;

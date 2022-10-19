@@ -1,0 +1,151 @@
+#NEXUS
+[R-package APE, Tue Mar 30 14:27:39 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 69;
+	TAXLABELS
+		Habenaria_setacea
+		Habenaria_mystacina
+		Habenaria_pubidactyla
+		Habenaria_itaculumia
+		Habenaria_sprucei
+		Habenaria_nuda
+		Habenaria_schwackei
+		Habenaria_alpestris
+		Habenaria_ayangannensis
+		Habenaria_reflexicalcar
+		Habenaria_quadriferricola
+		Habenaria_hippocrepica
+		Habenaria_espinhacensis
+		Habenaria_urbaniana
+		Habenaria_fluminensis
+		Habenaria_lavrensis
+		Habenaria_crucifera
+		Habenaria_spanophytica
+		Habenaria_subfiliformis
+		Habenaria_pungens
+		Habenaria_culicina
+		Habenaria_secundiflora
+		Habenaria_rodeiensis
+		Habenaria_tamanduensis
+		Habenaria_ciliatisepala
+		Habenaria_anisitsii
+		Habenaria_jaguariahyvae
+		Habenaria_trifida
+		Habenaria_heringeri
+		Habenaria_pabstii
+		Habenaria_cultellifolia
+		Habenaria_armata
+		Habenaria_subviridis
+		Habenaria_imbricata
+		Habenaria_balansae
+		Habenaria_melanopoda
+		Habenaria_itatiayae
+		Habenaria_caldensis
+		Habenaria_magniscutata
+		Habenaria_humilis
+		Habenaria_rupicola
+		Habenaria_hexaptera
+		Habenaria_brevidens
+		Habenaria_guilleminii
+		Habenaria_coxipoensis
+		Habenaria_cryptophila
+		Habenaria_pratensis
+		Habenaria_spathulifera
+		Habenaria_hamata
+		Habenaria_obtusa
+		Habenaria_petalodes
+		Habenaria_josephensis
+		Habenaria_magdalenensis
+		Habenaria_curvilabra
+		Habenaria_pseudohamata
+		Habenaria_pleiophylla
+		Habenaria_pseudoglaucophylla
+		Habenaria_johannensis
+		Habenaria_bractescens
+		Habenaria_macronectar
+		Habenaria_repens
+		Habenaria_warmingii
+		Habenaria_montevidensis
+		Habenaria_exaltata
+		Habenaria_parviflora
+		Habenaria_bahiensis
+		Habenaria_edwallii
+		Habenaria_leucosantha
+		Habenaria_achalensis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Habenaria_setacea,
+		2	Habenaria_mystacina,
+		3	Habenaria_pubidactyla,
+		4	Habenaria_itaculumia,
+		5	Habenaria_sprucei,
+		6	Habenaria_nuda,
+		7	Habenaria_schwackei,
+		8	Habenaria_alpestris,
+		9	Habenaria_ayangannensis,
+		10	Habenaria_reflexicalcar,
+		11	Habenaria_quadriferricola,
+		12	Habenaria_hippocrepica,
+		13	Habenaria_espinhacensis,
+		14	Habenaria_urbaniana,
+		15	Habenaria_fluminensis,
+		16	Habenaria_lavrensis,
+		17	Habenaria_crucifera,
+		18	Habenaria_spanophytica,
+		19	Habenaria_subfiliformis,
+		20	Habenaria_pungens,
+		21	Habenaria_culicina,
+		22	Habenaria_secundiflora,
+		23	Habenaria_rodeiensis,
+		24	Habenaria_tamanduensis,
+		25	Habenaria_ciliatisepala,
+		26	Habenaria_anisitsii,
+		27	Habenaria_jaguariahyvae,
+		28	Habenaria_trifida,
+		29	Habenaria_heringeri,
+		30	Habenaria_pabstii,
+		31	Habenaria_cultellifolia,
+		32	Habenaria_armata,
+		33	Habenaria_subviridis,
+		34	Habenaria_imbricata,
+		35	Habenaria_balansae,
+		36	Habenaria_melanopoda,
+		37	Habenaria_itatiayae,
+		38	Habenaria_caldensis,
+		39	Habenaria_magniscutata,
+		40	Habenaria_humilis,
+		41	Habenaria_rupicola,
+		42	Habenaria_hexaptera,
+		43	Habenaria_brevidens,
+		44	Habenaria_guilleminii,
+		45	Habenaria_coxipoensis,
+		46	Habenaria_cryptophila,
+		47	Habenaria_pratensis,
+		48	Habenaria_spathulifera,
+		49	Habenaria_hamata,
+		50	Habenaria_obtusa,
+		51	Habenaria_petalodes,
+		52	Habenaria_josephensis,
+		53	Habenaria_magdalenensis,
+		54	Habenaria_curvilabra,
+		55	Habenaria_pseudohamata,
+		56	Habenaria_pleiophylla,
+		57	Habenaria_pseudoglaucophylla,
+		58	Habenaria_johannensis,
+		59	Habenaria_bractescens,
+		60	Habenaria_macronectar,
+		61	Habenaria_repens,
+		62	Habenaria_warmingii,
+		63	Habenaria_montevidensis,
+		64	Habenaria_exaltata,
+		65	Habenaria_parviflora,
+		66	Habenaria_bahiensis,
+		67	Habenaria_edwallii,
+		68	Habenaria_leucosantha,
+		69	Habenaria_achalensis
+	;
+	TREE * UNTITLED = [&R] (((((((((((1:0.0065665053,2:0.0065665053):0.0005759810261,3:0.007142486327):0.001046606741,4:0.008189093067):0.004891245622,(5:0.009454555048,6:0.009454555048):0.003625783642):0.006248420047,((7:0.005264463016,8:0.005264463016):0.01243357007,9:0.01769803308):0.001630725651):0.0004806698211,(((((10:0.003246762766,11:0.003246762766):0.0002508135975,12:0.003497576364):0.001743823274,13:0.005241399637):0.006907008972,(14:0.004092957346,15:0.004092957346):0.008055451265):0.005613745999,16:0.01776215461):0.002047273948):0.005411378586,(((((17:0.005412958823,18:0.005412958823):0.003215406204,19:0.008628365028):0.002491741324,(20:0.00849382255,21:0.00849382255):0.002626283803):0.009281103899,22:0.02040121025):0.00439040469,((23:0.01336288422,24:0.01336288422):0.007925719902,25:0.02128860412):0.00350301082):0.0004291922018):0.005596927989,(((((((26:0.003716188475,(27:0.001194735396,28:0.001194735396):0.002521453079):0.006251959507,29:0.009968147982):0.005654160709,30:0.01562230869):0.006488149177,31:0.02211045787):0.005651050305,((32:0.006953220826,33:0.006953220826):0.007949772352,34:0.01490299318):0.012858515):0.0009448678771,((((35:0.007881113611,36:0.007881113611):0.003321052635,37:0.01120216624):0.004079805033,(38:0.008942379631,39:0.008942379631):0.006339591647):0.00522887998,40:0.02051085126):0.008195524792):0.0009970385632,((41:0.01209690399,42:0.01209690399):0.001391037258,((43:0.005712856465,44:0.005712856465):0.00234418434,45:0.008057040805):0.005430900441):0.01621547337):0.001114320519):0.005035216684,((46:0.03291122484,(47:0.005142344323,48:0.005142344324):0.02776888053):0.0007341243952,(((((49:0.00293836939,50:0.00293836939):0.003189419235,51:0.006127788626):0.006147625072,52:0.0122754137):0.0006180698237,((53:0.009088469023,54:0.009088469023):0.002959856661,(55:0.002510299302,56:0.002510299302):0.009538026381):0.0008451578383):0.009231884169,57:0.02212536769):0.01151998155):0.002207602575):0.002281349645,(((58:0.002674566754,59:0.002674566754):0.001274249672,60:0.003948816425):0.01318338073,((61:0.009815873348,62:0.009815873348):0.001354852102,(63:0.006635081263,64:0.006635081263):0.004535644187):0.005961471707):0.0210021043):0.001109103068,(((65:0.007829044067,(66:0.005166056626,67:0.005166056626):0.002662987441):0.01388682531,68:0.02171586938):0.002141796985,69:0.02385766636):0.01538573817);
+END;

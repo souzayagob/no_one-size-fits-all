@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="52b78a58-c84a-4370-bb14-b27a007d5da6"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/nfw0hr</alternateIdentifier>
+        <alternateIdentifier>52b78a58-c84a-4370-bb14-b27a007d5da6</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hucs</alternateIdentifier>
+    <title>HUCS - Herbário da Universidade de Caxias do Sul</title>
+    <creator>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Gonzatti</surName>
+    </individualName>
+<organizationName>Universidade de Caxias do Sul (UCS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Francisco Getulio Vargas, 1130 Petrópolis</deliveryPoint><city>Caxias do Sul</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>95010-972</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 9994-6262</phone><electronicMailAddress>fgonzatti@yahoo.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUCS</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Gonzatti</surName>
+    </individualName>
+<organizationName>Universidade de Caxias do Sul (UCS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Francisco Getulio Vargas, 1130 Petrópolis</deliveryPoint><city>Caxias do Sul</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>95010-972</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 9994-6262</phone><electronicMailAddress>fgonzatti@yahoo.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUCS</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-12
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O HUCS, fundado em 1983, possui em seu acervo mais de 40.000 exsicatas entre fungos, liquens e plantas oriundas da flora nordeste do estado do Rio Grande do Sul e também de intercâmbios nacionais e internacionais. Neste acervo, há a coleção histórica de Jürgens &amp;amp; Stier  geógrafos alemães, que coletaram samambaias no início do século XX em nosso estado.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HUCS</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Gonzatti</surName>
+    </individualName>
+<organizationName>Universidade de Caxias do Sul (UCS)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Francisco Getulio Vargas, 1130 Petrópolis</deliveryPoint><city>Caxias do Sul</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>95010-972</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 9994-6262</phone><electronicMailAddress>fgonzatti@yahoo.com</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HUCS</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:24:03Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HUCS">Gonzatti F (2020). HUCS - Herbário da Universidade de Caxias do Sul. Version 1.65. Universidade de Caxias do Sul. Occurrence dataset https://doi.org/10.15468/nfw0hr accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hucs</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

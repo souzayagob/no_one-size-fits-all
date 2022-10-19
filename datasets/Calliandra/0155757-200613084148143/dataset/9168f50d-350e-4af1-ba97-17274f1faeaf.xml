@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9168f50d-350e-4af1-ba97-17274f1faeaf"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sclgzd</alternateIdentifier>
+        <alternateIdentifier>https://ipt.mpm.edu/resource?r=mil</alternateIdentifier>
+        <alternateIdentifier>9168f50d-350e-4af1-ba97-17274f1faeaf</alternateIdentifier>
+        <alternateIdentifier>http://ipt.idigbio.org/resource?r=mil-herb</alternateIdentifier>
+    <title>MPM Milwaukee Public Museum Herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Tyrrell</surName>
+    </individualName>
+<organizationName>Milwaukee Public Museum</organizationName><positionName>Research Curator</positionName>    <address>
+<deliveryPoint>800 W Wells St</deliveryPoint><city>Milwaukee</city><administrativeArea>Wisconsin</administrativeArea><postalCode>53233</postalCode><country>UNITED_STATES</country>    </address>
+<phone>414-278-2761</phone><electronicMailAddress>tyrrell@mpm.edu</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Tyrrell</surName>
+    </individualName>
+<organizationName>Milwaukee Public Museum</organizationName><positionName>Research Curator</positionName>    <address>
+<deliveryPoint>800 W Wells St</deliveryPoint><city>Milwaukee</city><administrativeArea>Wisconsin</administrativeArea><postalCode>53233</postalCode><country>UNITED_STATES</country>    </address>
+<phone>414-278-2761</phone><electronicMailAddress>tyrrell@mpm.edu</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Tyrrell</surName>
+    </individualName>
+<organizationName>Milwaukee Public Museum</organizationName><positionName>Research Curator</positionName>    <address>
+<deliveryPoint>800 W Wells St</deliveryPoint><city>Milwaukee</city><administrativeArea>Wisconsin</administrativeArea><postalCode>53233</postalCode><country>UNITED_STATES</country>    </address>
+<phone>414-278-2761</phone><electronicMailAddress>tyrrell@mpm.edu</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-27
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Milwaukee Public Museum Herbarium houses around 200,000 specimens comprising vascular plants, nonvascular plants, fungi and lichens. Over 50% of the holdings are from the Upper Great Lakes region, 30% from the rest of North America and the remainder features a good representation of taxa worldwide.
+
+Special collections include:
+John T. Curtis Carroll University Collection.
+Albert M. Fuller Collection of Rubus: Eastern U.S.; 4 type specimens.
+Herman Hayward Collection of Black Hills plants: South Dakota.
+Emil P. Kruschke Collection of Crataegus: Upper Midwest; 21 type specimens.
+Charles E. Monroe Collection of Aster and Viola: Eastern U.S.; 5 type specimens.
+Huron H. Smith Ethnobotanical Collection: voucher material from Ho-Chunk, Menominee, Meskwaki, Ojibwe, Oneida, and Potawatomi Tribes gathered in the 1920s.
+W. Carl Taylor Collection of Isoetes: North America; 12 type specimens.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.mpm.edu/research-collections/botany</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1826
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-03-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Plants, fungi and lichens</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Green plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                          <commonName>Fungi and lichens</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Tyrrell</surName>
+    </individualName>
+<organizationName>Milwaukee Public Museum</organizationName><positionName>Research Curator</positionName>    <address>
+<deliveryPoint>800 W Wells St</deliveryPoint><city>Milwaukee</city><administrativeArea>Wisconsin</administrativeArea><postalCode>53233</postalCode><country>UNITED_STATES</country>    </address>
+<phone>414-278-2761</phone><electronicMailAddress>tyrrell@mpm.edu</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:06Z</dateStamp>
+      <citation>Tyrrell C (2020). MPM Milwaukee Public Museum Herbarium. Milwaukee Public Museum. Occurrence dataset https://doi.org/10.15468/sclgzd accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>https://www.mpm.edu/themes/custom/mpm/images/milwaukee-public-museum-logo.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Milwaukee Public Museum Herbarium</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

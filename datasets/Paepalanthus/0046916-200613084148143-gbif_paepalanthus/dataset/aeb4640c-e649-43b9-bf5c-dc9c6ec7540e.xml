@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="aeb4640c-e649-43b9-bf5c-dc9c6ec7540e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/o8q0jz</alternateIdentifier>
+        <alternateIdentifier>aeb4640c-e649-43b9-bf5c-dc9c6ec7540e</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/parceiros_jbrj/resource?r=hucp_5</alternateIdentifier>
+    <title>Herbário da Pontifícia Universidade Católica do Paraná - HUCP</title>
+    <creator>
+    <individualName>
+<givenName>Rodrigo</givenName>          <surName>Kersten</surName>
+    </individualName>
+<organizationName>Pontifícia Universidade Católica do Paraná</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Escola de Ciências da Vida</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>80215-901</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>hucp@bol.com.br</electronicMailAddress><onlineUrl>http://www.pucpr.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rodrigo</givenName>          <surName>Kersten</surName>
+    </individualName>
+<organizationName>Pontifícia Universidade Católica do Paraná</organizationName>    <address>
+<deliveryPoint>Escola de Ciências da Vida</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>80910-215</postalCode><country>BRAZIL</country>    </address>
+<phone>41 3271-2392</phone><electronicMailAddress>r.kersten@pucpr.br</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-05-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The main objective of this paper is to present the Herbarium of the Pontifical Catholic University of Parana&amp;#39;s and it collection. The history of the HUCP’s collection began in the middle 1970s with the foundation of the Biology Museum. This museum gathered both botanical and Zoological specimens. Only in April, 1979 collections where separated and HUCP was founded with preserved specimens of algae (green, red and brown), fungi, lichen and embryophytes. On October, 2016, it encompasses nearly 25,000 specimens from at about 4,000-4,500 species, 1,600 genera and 297 families. Most of the specimens comes from the state of Paraná but it also has specimens from many Brazilian states and other countries, mainly from south America (Chile, Argentina, Uruguay, Paraguay and Colombia) but also from other parts of the world (Cuba, USA, Spain, Germany, China and Australia). Our collection includes 42 fungi and lichen, 122 gimnosperms, 305 briophytes, 2765 pteridophytes, 3065 algae and 18.000 angiosperms and only one type (Mimosa tucumensis Barneby ex Ribas, M. Morales &amp;amp; Santos-Silva – Fabaceae). We also have botanical and education for sustainability programs for basic and high school students and training for teachers.
+
+https://www.pucpr.br/escola-de-ciencias-da-vida/infraestrutura/herbario/
+
+HUCP data are free for non commercial use. Users must give appropriate credits, provide a link to the collection at SIBBr, indicate if changes were made, cite original Data Paper (http://dx.doi.org/10.3390/data2010010), inform the use and send a copy of publications to Curator. Researcher and institutions are responsible for adequate uses of the data. The HUCP herbaria did no guarantee correct identification of specimens or associated data.
+
+Data Paper reference:
+Kersten, R.A., Salesbram,  J. A. M. &amp;amp; Acra, L.A. 2017. Herbarium of the Pontifical Catholic University of Paraná (HUCP), Curitiba, Southern Brazil. 
+Data 2017, 2(1), 10.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Catalogue</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Scientific Collection</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Pontifícia Universidade Católica do Paraná</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Southern Brazil</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Araucaria Forest</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Tropical Atlantic Rain Forest</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Flora of Paraná</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.pucpr.br/escola-de-ciencias-da-vida/infraestrutura/herbario/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Leste do Paraná, Planaltos de Ponta Grossa, Curitiba, Serra do Mar e Litoral</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-51.066</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-48.078</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-24.654</northBoundingCoordinate>
+                      <southBoundingCoordinate>-26.438</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1943-06-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-07-13
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Algas e Plantas Terrestres</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Archaeplastida</taxonRankValue>
+                          <commonName>Plantas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Rodophyta</taxonRankValue>
+                          <commonName>Algas Vermelhas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Embriophyta</taxonRankValue>
+                          <commonName>Plantas Terrestres</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Chlorophyta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rodrigo</givenName>          <surName>Kersten</surName>
+    </individualName>
+<organizationName>Pontifícia Universidade Católica do Paraná</organizationName><positionName>Curador</positionName>      </contact>
+      <contact>
+    <individualName>
+<givenName>Luiz Antônio</givenName>          <surName>Acra</surName>
+    </individualName>
+<organizationName>Pontifícia Universidade Católica do Paraná</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Peru 241, Casa 1</deliveryPoint><city>Curitiba</city><administrativeArea>PR</administrativeArea><postalCode>80215-901</postalCode><country>BRAZIL</country>    </address>
+<phone>41 3271-2392</phone><electronicMailAddress>luiz.acra@pucpr.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rodrigo</givenName>          <surName>Kersten</surName>
+    </individualName>
+<organizationName>Pontifícia Universidade Católica do Paraná</organizationName>    <address>
+<deliveryPoint>Escola de Ciências da Vida</deliveryPoint><city>Curitiba</city><administrativeArea>Paraná</administrativeArea><postalCode>80910-215</postalCode><country>BRAZIL</country>    </address>
+<phone>41 3271-2392</phone><electronicMailAddress>r.kersten@pucpr.br</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Métodos de coleta:
+Plantas coletadas em diversos projetos de iniciação científica, TCC e coletas individuais de professores e alunos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Procedimentos de preparação e armazenamento.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Leste do Paraná, Planaltos de Ponta Grossa, Curitiba, Serra do Mar e Litoral.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Coleta, preparação e armazenamento.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:25Z</dateStamp>
+      <citation>Kersten R (2020). Herbário da Pontifícia Universidade Católica do Paraná - HUCP. Version 1.10. Sistema de Informação sobre a Biodiversidade Brasileira - SiBBr. Occurrence dataset https://doi.org/10.15468/o8q0jz accessed via GBIF.org on 2020-08-26.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="68c90cbc-e74b-4fb6-8ee4-6fa3bd247837"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/8ujflh</alternateIdentifier>
+        <alternateIdentifier>68c90cbc-e74b-4fb6-8ee4-6fa3bd247837</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=vic</alternateIdentifier>
+    <title>VIC - Herbário da Universidade Federal de Viçosa</title>
+    <creator>
+    <individualName>
+<givenName>Flávia</givenName>          <surName>Cristina Pinto Garcia</surName>
+    </individualName>
+<organizationName>Universidade Federal de Viçosa (UFV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. P.H. Rolfs, s.no.</deliveryPoint><city>Viçosa</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>36570-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3899-2694</phone><electronicMailAddress>fcgarcia@ufv.br</electronicMailAddress><onlineUrl>http://www.ufv.br/dbv</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Pedro</givenName>          <surName>Bond Schwartsburd</surName>
+    </individualName>
+<organizationName>Universidade Federal de Viçosa (UFV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. P.H. Rolfs, s.no.</deliveryPoint><city>Viçosa</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>36570-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3899-2693</phone><electronicMailAddress>pedro.schw@ufv.br</electronicMailAddress><onlineUrl>http://www.ufv.br/dbv</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-22
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário VIC foi fundado em 1930, por Ynes Mexia. Ele está sob a responsabilidade do Departamento de Biologia Vegetal, da UFV-Universidade Federal de Viçosa. É um herbário regional, com 54.000 espécimes e 42 exemplares-tipo, sendo o terceiro acervo do Estado de Minas Gerais. Botânicos ilustres depositaram parte de suas coleções no acervo do VIC, como: Agnes Chase, Howard S. Irwin e J. G. Kuhlmann. Seu acervo é constituído por algas, fungos e plantas, principalmente, Angiospermas provenientes de diversos ecossistemas do estado de Minas Gerais: caatinga, campo rupestre, cerrado, florestas semideciduais e ombrófilas incluídas no domínio da Floresta Atlântica, bem como, de outras regiões do Brasil.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=VIC</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rita</givenName>          <surName>Maria de Carvalho Okano</surName>
+    </individualName>
+<organizationName>Universidade Federal de Viçosa (UFV)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. P.H. Rolfs, s.no.</deliveryPoint><city>Viçosa</city><administrativeArea>Minas Gerais</administrativeArea><postalCode>36570-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 31 3899-1290</phone><electronicMailAddress>carvalho@ufv.br</electronicMailAddress><onlineUrl>http://www.ufv.br/dbv</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:22Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=VIC">Cristina Pinto Garcia F, Bond Schwartsburd P (2019). VIC - Herbário da Universidade Federal de Viçosa. Version 1.48. Universidade Federal de Viçosa. Occurrence dataset https://doi.org/10.15468/8ujflh accessed via GBIF.org on 2019-05-14.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=vic</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

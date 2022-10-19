@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4012b76b-7f81-4bd9-b887-6fd3e6a5588c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/scqmlm</alternateIdentifier>
+        <alternateIdentifier>4012b76b-7f81-4bd9-b887-6fd3e6a5588c</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=pmsp</alternateIdentifier>
+    <title>PMSP herbarium - Prefeitura do Município de São Paulo - Herbário Virtual REFLORA</title>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Garcia</surName>
+    </individualName>
+<organizationName>Prefeitura do Município de São Paulo</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Herbário Municipal - PMSP, Av. IV Centenário, 1268 (Parque Ibirapuera, portão 7 A) 04030-000 -São Paulo -SP</deliveryPoint><city>São Paulo</city><administrativeArea>SP</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>rfrancischetti@prefeitura.sp.gov.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22411-030</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Garcia</surName>
+    </individualName>
+<organizationName>Prefeitura do Município de São Paulo</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Herbário Municipal - PMSP, Av. IV Centenário, 1268 (Parque Ibirapuera, portão 7 A) 04030-000 -São Paulo -SP</deliveryPoint><city>São Paulo</city><administrativeArea>SP</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>rfrancischetti@prefeitura.sp.gov.br</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-07-13
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The dataset provides information on all digitized specimens from PMSP Herbarium (Herbário Municipal de São Paulo, São Paulo, São Paulo, Brasil).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Garcia</surName>
+    </individualName>
+<organizationName>Prefeitura do Município de São Paulo</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Herbário Municipal - PMSP, Av. IV Centenário, 1268 (Parque Ibirapuera, portão 7 A) 04030-000 -São Paulo -SP</deliveryPoint><city>São Paulo</city><administrativeArea>SP</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>rfrancischetti@prefeitura.sp.gov.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>REFLORA - coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>reflora@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:23:59Z</dateStamp>
+      <citation>Garcia R, Lanna J (2020). PMSP herbarium - Prefeitura do Município de São Paulo - Herbário Virtual REFLORA. Version 1.18. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/scqmlm accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=pmsp</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

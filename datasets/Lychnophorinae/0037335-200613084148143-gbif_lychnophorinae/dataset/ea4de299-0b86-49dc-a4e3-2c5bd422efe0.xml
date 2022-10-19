@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ea4de299-0b86-49dc-a4e3-2c5bd422efe0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/cplw5c</alternateIdentifier>
+    <title>Sammlung Ernst Ule sinenumero Herbarium Hamburgense HBG</title>
+    <associatedParty>
+    <individualName>
+          <surName>BDI</surName>
+    </individualName>
+<electronicMailAddress>biodiversitydata@bgbm.org</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para></para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>H.H. Poppendieck</surName>
+    </individualName>
+<electronicMailAddress>hans-helmut.poppendieck@web.de</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:30Z</dateStamp>
+      <citation>Botanic Garden and Botanical Museum Berlin. Sammlung Ernst Ule sinenumero Herbarium Hamburgense HBG. Occurrence dataset https://doi.org/10.15468/cplw5c accessed via GBIF.org on 2020-08-12.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

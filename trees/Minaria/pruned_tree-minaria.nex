@@ -1,0 +1,43 @@
+#NEXUS
+[R-package APE, Tue Mar 23 12:14:39 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 15;
+	TAXLABELS
+		Minaria_diamantinensis
+		Minaria_micromeria
+		Minaria_acerosa
+		Minaria_refractifolia
+		Minaria_abortiva
+		Minaria_ditassoides
+		Minaria_campanuliflora
+		Minaria_cordata
+		Minaria_lourteigiae
+		Minaria_parva
+		Minaria_magisteriana
+		Minaria_semirii
+		Minaria_grazielae
+		Minaria_hemipogonoides
+		Minaria_polygaloides
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Minaria_diamantinensis,
+		2	Minaria_micromeria,
+		3	Minaria_acerosa,
+		4	Minaria_refractifolia,
+		5	Minaria_abortiva,
+		6	Minaria_ditassoides,
+		7	Minaria_campanuliflora,
+		8	Minaria_cordata,
+		9	Minaria_lourteigiae,
+		10	Minaria_parva,
+		11	Minaria_magisteriana,
+		12	Minaria_semirii,
+		13	Minaria_grazielae,
+		14	Minaria_hemipogonoides,
+		15	Minaria_polygaloides
+	;
+	TREE * UNTITLED = [&R] (((((((((1:0.0193733416,2:0.0193733416):0.02774333335,3:0.04711667494):0.005173931575,(4:0.0156036127,5:0.0156036127):0.03668699381):0.01034649888,(6:0.0332853796,7:0.0332853796):0.02935172578):0.0002833109434,8:0.06292041635):0.0005874719315,9:0.06350788826):0.002229073028,10:0.06573696129):0.008626680976,(((11:0.0264461631,12:0.0264461631):0.02318449462,13:0.04963065772):0.01918771975,14:0.06881837747):0.005545264801):0.1047709441,15:0.1791345864);
+END;

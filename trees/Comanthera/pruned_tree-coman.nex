@@ -1,0 +1,67 @@
+#NEXUS
+[R-package APE, Thu Oct 22 15:10:48 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 27;
+	TAXLABELS
+		Comanthera_centauroides
+		Comanthera_cipoensis
+		Comanthera_circinnata
+		Comanthera_squarrosa
+		Comanthera_xeranthemoides
+		Comanthera_vernonioides
+		Comanthera_aciphylla
+		Comanthera_aurifibrata
+		Comanthera_bisulcata
+		Comanthera_nitida
+		Comanthera_elegantula
+		Comanthera_dealbata
+		Comanthera_elegans
+		Comanthera_nivea
+		Comanthera_paepalophylla
+		Comanthera_linearis
+		Comanthera_suberosa
+		Comanthera_brunnea
+		Comanthera_magnifica
+		Comanthera_curralensis
+		Comanthera_giuliettiae
+		Comanthera_imbricata
+		Comanthera_mucugensis
+		Comanthera_harleyi
+		Comanthera_retroflexa
+		Comanthera_hatschbachii
+		Comanthera_lanosa
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Comanthera_centauroides,
+		2	Comanthera_cipoensis,
+		3	Comanthera_circinnata,
+		4	Comanthera_squarrosa,
+		5	Comanthera_xeranthemoides,
+		6	Comanthera_vernonioides,
+		7	Comanthera_aciphylla,
+		8	Comanthera_aurifibrata,
+		9	Comanthera_bisulcata,
+		10	Comanthera_nitida,
+		11	Comanthera_elegantula,
+		12	Comanthera_dealbata,
+		13	Comanthera_elegans,
+		14	Comanthera_nivea,
+		15	Comanthera_paepalophylla,
+		16	Comanthera_linearis,
+		17	Comanthera_suberosa,
+		18	Comanthera_brunnea,
+		19	Comanthera_magnifica,
+		20	Comanthera_curralensis,
+		21	Comanthera_giuliettiae,
+		22	Comanthera_imbricata,
+		23	Comanthera_mucugensis,
+		24	Comanthera_harleyi,
+		25	Comanthera_retroflexa,
+		26	Comanthera_hatschbachii,
+		27	Comanthera_lanosa
+	;
+	TREE * UNTITLED = [&R] (((1:0.006009967433,2:0.01072898518,3:0.003636355747,4:0.003584283827):0.01144280442,5:0.1460313603,6:0.0287046459):0.1402578862,((((7:0.007021030547,8:0.01833582483,(9:0.005738759517,10:0.002390968993):0.00451073007,11:0.01492728373):0.007539580083,(12:0.003805589487,13:0.006493802357):0.006472105723,14:0.008847887073,15:0.06935762778):0.0146213612,((16:0.01132998193,17:0.008029923997):0.00805812962,(18:0.02833580313,19:0.00936643661):0.00783031497):0.02129741528):0.00529831786,(20:0.03913855687,(21:0.00823387235,22:0.03567794385,23:0.01552611081):0.03077016539,(24:0.06351689408,25:0.006140147233):0.02654366122,26:0.007500526143,27:0.01156647523):0.007639384597):0.1277410984);
+END;

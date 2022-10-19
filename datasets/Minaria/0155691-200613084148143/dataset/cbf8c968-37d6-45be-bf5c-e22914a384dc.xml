@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cbf8c968-37d6-45be-bf5c-e22914a384dc"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/6e9ry8</alternateIdentifier>
+        <alternateIdentifier>cbf8c968-37d6-45be-bf5c-e22914a384dc</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=esa</alternateIdentifier>
+    <title>ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz</title>
+    <creator>
+    <individualName>
+<givenName>Vinicius</givenName>          <surName>Castro Souza</surName>
+    </individualName>
+<organizationName>Escola Superior de Agricultura Luiz de Queiroz (ESALQ)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Pádua Dias, 11; Caixa Postal 09</deliveryPoint><city>Piracicaba</city><administrativeArea>São Paulo</administrativeArea><postalCode>13418-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3447-6726</phone><electronicMailAddress>vcsouza@usp.br</electronicMailAddress><onlineUrl>http://www.esalq.usp.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Vinicius</givenName>          <surName>Castro Souza</surName>
+    </individualName>
+<organizationName>Escola Superior de Agricultura Luiz de Queiroz (ESALQ)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Pádua Dias, 11; Caixa Postal 09</deliveryPoint><city>Piracicaba</city><administrativeArea>São Paulo</administrativeArea><postalCode>13418-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3447-6726</phone><electronicMailAddress>vcsouza@usp.br</electronicMailAddress><onlineUrl>http://www.esalq.usp.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A história do Herbário ESA se inicia no começo do século XX, com a formação de pequenas coleções individuais de plantas de interesse agronômico por parte de professores da ESALQ. Em meados da década de 1980, por iniciativa principalmente dos Professores Luís Eduardo Catharino, Waldir Mantovani e Luís Antônio Rochelle houve uma reunião dessas diversas coleções e das coleções deles próprios em um único acervo e o início de uma numeração de tombo que vem sendo seguida até hoje, o que pode ser considerado o momento efetivo de implantação do Herbário ESA. Até 1990 a curadoria do herbário foi exercida pelo Prof. Rochelle e durante o período de 1991-1992 pelo Prof. Lindolpho Capellari Jr., os quais se incumbiram de estabelecer as rotinas e a estruturação efetiva do herbário. A partir do final de 1992 e até o presente (com uma interrupção em 2001), a curadoria foi exercida pelo Prof. Vinicius Castro Souza. Os períodos de crescimento do herbário acompanharam de forma bastante próxima este histórico. Durante o período de implantação e consolidação o acervo cresceu de forma discreta, tendo assumido um franco desenvolvimento a partir de meados dos anos 1990, proveniente principalmente do desenvolvimento de projetos de pesquisa por parte dos Profs. Ricardo Ribeiro Rodrigues e Vinicius C. Souza e através de um intenso programa de permuta, especialmente com os herbários MBM, BHCB e FUEL, mas que hoje inclui cerca de 20 herbários e é responsável por cerca de 15% do acervo. Outro evento importante foi a reunião da coleção principal do herbário com a &amp;#34;Coleção Brieger&amp;#34; do Departamento de Genética da ESALQ, que inclui cerca de 30.000 espécimes de Orchidaceae, que hoje se encontram incorporados ao acervo do Herbário ESA. O crescimento do Herbário ESA e do Laboratório de Sistemática a ele associado e seu desenvolvimento em bases sólidas permitiu a participação dos docentes do Departamento de Ciências Biológicas da ESALQ e de seus orientados em projetos de larga escala, em colaboração com outras instituições, como o Projeto &amp;#34;Flora Fanerogâmica do Estado de São Paulo&amp;#34;, em relação ao qual a ESALQ assumiu um papel de destaque, sendo a instituição que realizou o maior número de novas coletas neste projeto e a responsável por um grande número de monografias no recém-publicado volume 2 da &amp;#34;Flora de São Paulo&amp;#34; (12 das 57 monografias). Além disso, este crescimento permitiu também a condução, como instituição principal, de projetos diretamente ligados às áreas de Taxonomia Vegetal e de Ecologia de Ecossistemas, como ocorre com os Projetos &amp;#34;Dinâmica das Formações Florestais do Estado de São Paulo, 40 hectares de Parcelas Permanentes&amp;#34; (temático FAPESP) e &amp;#34;Diversificação e Regionalização das Matrizes de Árvores Nativas do Estado de São Paulo&amp;#34; (apoio FNMA). Hoje o Herbário ESA apresenta cerca de 120.000 espécimes (cerca de 90.000 da coleção principal e cerca de 30.000 da Coleção Brieger), correspondendo ao quarto maior acervo do Estado de São, o que é digno de nota, considerando o histórico recente deste herbário. A partir de 1997, a maior parte das etiquetas dos espécimes passou a ser confeccionada a partir de um modelo único de banco de dados, o que permitiu uma padronização que viabilizaria no futuro o processo de informatização. Em 2002 este processo se iniciou, a partir da iniciativa voluntária de uma pós-graduanda, Juliana de Paula Souza, que se responsabilizou pela unificação dos bancos de dados existentes e pela orientação de alunos de graduação e técnicos no que se refere à incorporação de novos dados. Um ano mais tarde, conta-se com aproximadamente 60% da coleção principal (excluída a &amp;#34;Coleção Brieger&amp;#34;) já informatizada e no padrão HISPID utilizado internacionalmente. Iniciou-se então uma série de contatos com o Centro de Referências em Informação Ambiental (CRIA) que passou a oferecer suporte técnico para a consolidação do banco de dados e para o uso do programa BRAHMS. A partir de julho de 2003, parte da coleção (correspondente aos materiais de Apocynaceae) passou a estar disponível on line, através da primeira fase do Projeto SpeciesLink, sediado no CRIA. Apesar de todo este avanço em relação ao processo de informatização, o Herbário ESA passa hoje por um impasse no que se refere à continuidade deste processo, devido à inexistência de verbas específicas para este fim. Deve ser notado que o resultado obtido até o momento deveu-se ao trabalho voluntário de graduandos e pós-graduandos e ao uso de equipamentos destinados prioritariamente à pesquisa. O Departamento de Ciências Biológicas da ESALQ/USP vem desenvolvendo uma linha de pesquisa na área de Botânica Sistemática voltada principalmente para plantas de interesse agronômico e florestal, incluindo plantas medicinais, daninhas, forrageiras, alimentícias e utilizadas em projetos de adequação ambiental e recuperação de áreas degradadas, além de projetos voltados ao estudo da Biodiversidade dos Ecossistemas Brasileiros, incluindo aspectos taxonômicos e ecológicos. Cinco professores do departamento vêm trabalhando diretamente nesta área e são responsáveis pela orientação de cerca de 20 alunos de graduação e 30 de pós-graduação. Assim, a existência de um Herbário dinâmico e ativo nesta unidade de pesquisa é imprescindível, visto que além de estarem depositadas as plantas que servem de referência para a realização de identificações, no herbário são depositados os &amp;#34;vouchers&amp;#34; de plantas que são objetos de experimentações científicas, conforme tem sido requerido para publicação de trabalhos científicos. O Herbário ESA tem a cada dia tido um papel mais importante nesta linha, já que a ampliação do acervo e a visita freqüente de especialistas têm tornado possível que a maioria das identificações seja realizada no próprio departamento, sem a necessidade de deslocamento para outros herbários de maior porte, como o Herbário do Instituto de Botânica do Estado, que não apresenta vocação agrícola como o próprio ESA. Outros departamentos da ESALQ também utilizam de forma bastante freqüente o herbário e, desta forma, a qualidade deste setor tem reflexos não só no próprio Departamento de Ciências Biológicas, mas para a ESALQ como um todo. Atualmente cerca de 55 projetos estão em andamento utilizando o acervo do Herbário ESA, a maioria dos quais relacionados a temas de dissertações e teses incluindo 11 diferentes orientadores, coordenadores ou supervisores, provenientes do próprio Departamento de Ciências Biológicas ou de outros Departamentos da ESALQ, como o Departamento de Ciências Florestais ou de outras unidades da USP (IB/USP e FFCLRP/USP) e da UNICAMP, que serão diretamente beneficiados pela pronta disponibilidade das informações obtida a partir do processo de informatização. O número de beneficiados, entretanto, será muito maior, considerando o grande número de consultas eventuais e de visitantes que o herbário recebe.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=ESA</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Vinicius</givenName>          <surName>Castro Souza</surName>
+    </individualName>
+<organizationName>Escola Superior de Agricultura Luiz de Queiroz (ESALQ)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Pádua Dias, 11; Caixa Postal 09</deliveryPoint><city>Piracicaba</city><administrativeArea>São Paulo</administrativeArea><postalCode>13418-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3447-6726</phone><electronicMailAddress>vcsouza@usp.br</electronicMailAddress><onlineUrl>http://www.esalq.usp.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-14T22:55:16Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=ESA">Castro Souza V (2021). ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz. Version 1.71. Escola Superior de Agricultura Luiz de Queiroz. Occurrence dataset https://doi.org/10.15468/6e9ry8 accessed via GBIF.org on 2021-01-14.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=esa</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

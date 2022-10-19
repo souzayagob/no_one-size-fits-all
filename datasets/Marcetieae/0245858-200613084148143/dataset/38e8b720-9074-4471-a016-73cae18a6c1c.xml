@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="38e8b720-9074-4471-a016-73cae18a6c1c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rnr66q</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.jp/ipt/resource?r=psdtf</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.jp/ipt/resource?r=psdtf</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.jp/ipt/resource.do?r=psdtf</alternateIdentifier>
+        <alternateIdentifier>38e8b720-9074-4471-a016-73cae18a6c1c</alternateIdentifier>
+        <alternateIdentifier>79f5e3eb-88c4-42ff-ad52-671b5aa9db08</alternateIdentifier>
+        <alternateIdentifier>13031</alternateIdentifier>
+    <title>Plant Specimen Database of Tama Forest Science Garden, Forestry and Forest Products Research Institute, Japan</title>
+    <creator>
+    <individualName>
+<givenName>Hiroki</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tama Forest Science Garden</organizationName><positionName>Dr.</positionName>    <address>
+<country>JAPAN</country>    </address>
+<phone>+81-42-661-1121</phone><electronicMailAddress>hiroki@affrc.go.jp</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Hiroki</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tama Forest Science Garden</organizationName><positionName>Dr.</positionName>    <address>
+<country>JAPAN</country>    </address>
+<phone>+81-42-661-1121</phone><electronicMailAddress>hiroki@affrc.go.jp</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Hiroki</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tama Forest Science Garden</organizationName><positionName>Dr.</positionName>    <address>
+<country>JAPAN</country>    </address>
+<phone>+81-42-661-1121</phone><electronicMailAddress>hiroki@affrc.go.jp</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-08-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Database of beetle specimens preserved in the National Institute for Agro-Environmental Sciences (NIAES)</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Angiosperms</keyword>
+              <keyword>Gymnosperms</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Hiroki</givenName>          <surName>Ito</surName>
+    </individualName>
+<organizationName>Tama Forest Science Garden</organizationName><positionName>Dr.</positionName>    <address>
+<country>JAPAN</country>    </address>
+<phone>+81-42-661-1121</phone><electronicMailAddress>hiroki@affrc.go.jp</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-04-08T20:38:15Z</dateStamp>
+      <citation>Ito H (2019). Plant Specimen Database of Tama Forest Science Garden, Forestry and Forest Products Research Institute, Japan. Version 9.4. National Institute of Genetics, ROIS. Occurrence dataset https://doi.org/10.15468/rnr66q accessed via GBIF.org on 2021-04-08.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

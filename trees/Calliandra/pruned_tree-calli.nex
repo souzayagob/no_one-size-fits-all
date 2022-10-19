@@ -1,0 +1,87 @@
+#NEXUS
+[R-package APE, Mon Mar 22 11:54:58 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 37;
+	TAXLABELS
+		Calliandra_longipes
+		Calliandra_bella
+		Calliandra_brevipes
+		Calliandra_silvicola
+		Calliandra_brevicaulis
+		Calliandra_pilgerana
+		Calliandra_dysantha
+		Calliandra_macrocalyx
+		Calliandra_pittieri
+		Calliandra_virgata
+		Calliandra_riparia
+		Calliandra_sessilis
+		Calliandra_depauperata
+		Calliandra_parviflora
+		Calliandra_leptopoda
+		Calliandra_asplenioides
+		Calliandra_bahiana
+		Calliandra_erubescens
+		Calliandra_paganuccii
+		Calliandra_viscidula
+		Calliandra_lanata
+		Calliandra_semisepulta
+		Calliandra_iligna
+		Calliandra_fasciculata
+		Calliandra_paterna
+		Calliandra_nebulosa
+		Calliandra_mucugeana
+		Calliandra_lintea
+		Calliandra_cumbucana
+		Calliandra_hirtiflora
+		Calliandra_calycina
+		Calliandra_coccinea
+		Calliandra_renvoizeana
+		Calliandra_longipinna
+		Calliandra_luetzelburgii
+		Calliandra_crassipes
+		Calliandra_hygrophila
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Calliandra_longipes,
+		2	Calliandra_bella,
+		3	Calliandra_brevipes,
+		4	Calliandra_silvicola,
+		5	Calliandra_brevicaulis,
+		6	Calliandra_pilgerana,
+		7	Calliandra_dysantha,
+		8	Calliandra_macrocalyx,
+		9	Calliandra_pittieri,
+		10	Calliandra_virgata,
+		11	Calliandra_riparia,
+		12	Calliandra_sessilis,
+		13	Calliandra_depauperata,
+		14	Calliandra_parviflora,
+		15	Calliandra_leptopoda,
+		16	Calliandra_asplenioides,
+		17	Calliandra_bahiana,
+		18	Calliandra_erubescens,
+		19	Calliandra_paganuccii,
+		20	Calliandra_viscidula,
+		21	Calliandra_lanata,
+		22	Calliandra_semisepulta,
+		23	Calliandra_iligna,
+		24	Calliandra_fasciculata,
+		25	Calliandra_paterna,
+		26	Calliandra_nebulosa,
+		27	Calliandra_mucugeana,
+		28	Calliandra_lintea,
+		29	Calliandra_cumbucana,
+		30	Calliandra_hirtiflora,
+		31	Calliandra_calycina,
+		32	Calliandra_coccinea,
+		33	Calliandra_renvoizeana,
+		34	Calliandra_longipinna,
+		35	Calliandra_luetzelburgii,
+		36	Calliandra_crassipes,
+		37	Calliandra_hygrophila
+	;
+	TREE * UNTITLED = [&R] (((((((((((1:0.01481867042,2:0.01481867042):0.003673546567,3:0.01849221699):0.006046447533,4:0.02453866452):0.00430628302,5:0.02884494754):0.0080532342,6:0.03689818174):0.0006010551611,(7:0.01267326446,8:0.01267326446):0.02482597244):0.01353358022,9:0.05103281712):0.00422420779,(10:0.03072857917,11:0.03072857917):0.02452844574):0.0006142524172,12:0.05587127732):0.005054357001,((13:0.02491757278,14:0.02491757278):0.01571726489,15:0.04063483767):0.02029079666):0.03243075162,((((((16:0.01154165489,17:0.01154165489):0.001977625687,(18:0.008300855568,19:0.008300855568):0.005218425009):0.009447166254,(((20:0.01457399086,21:0.01457399086):0.003922883917,22:0.01849687478):0.001984566265,(23:0.008938906401,24:0.008938906401):0.01154253465):0.002485005785):0.0008395138115,((25:0.01062388445,26:0.01062388445):0.003761592311,27:0.01438547676):0.009420483882):0.0001484371952,(((28:0.009767575975,29:0.009767575975):0.002425341293,30:0.01219291727):0.0005449724558,31:0.01273788972):0.01121650811):0.00122555819,(((32:0.007948453254,33:0.007948453254):0.003530944646,34:0.0114793979):0.006530156509,((35:0.01529931749,36:0.01529931749):0.000650752075,37:0.01595006957):0.002059484846):0.007170401615):0.06817642992);
+END;

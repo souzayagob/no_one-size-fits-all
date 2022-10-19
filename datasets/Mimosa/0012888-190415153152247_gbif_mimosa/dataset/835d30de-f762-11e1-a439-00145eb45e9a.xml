@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="835d30de-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/l8vpay</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=collectionherbariumextremadura</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=collectionherbariumextremadura</alternateIdentifier>
+        <alternateIdentifier>835d30de-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>255</alternateIdentifier>
+    <title>Herbarium of Vascular Plants Collection of the University of Extremadura (Spain)</title>
+    <creator>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Espinosa Sánchez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Tecnical contact</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>martaespinosa_ccaa@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Espinosa Sánchez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Metadata Provider</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<phone>+34924289300 ext. 6869</phone><electronicMailAddress>martaespinosa_ccaa@hotmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Josefa</givenName>          <surName>López Martínez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<phone>+34924289300 ext. 6869</phone><electronicMailAddress>josefalopez@unex.es</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Antonio</givenName>          <surName>Devesa Alcaraz</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Associated Party</positionName>    <address>
+<city>Córdoba</city><administrativeArea>Córdoba</administrativeArea><country>SPAIN</country>    </address>
+<electronicMailAddress>bv1dealj@uco.es</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ana</givenName>          <surName>Ortega Olivencia</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>aortega@unex.es</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Trinidad</givenName>          <surName>Ruiz Téllez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>truiz@unex.es</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Trinidad</givenName>          <surName>Ruiz Téllez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>truiz@unex.es</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rafael</givenName>          <surName>Tormo Molina</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><country>SPAIN</country>    </address>
+<electronicMailAddress>ratormo@unex.es</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Rafael</givenName>          <surName>Tormo Molina</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>ratormo@unex.es</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Tomás</givenName>          <surName>Rodríguez Riaño</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<electronicMailAddress>trodri@unex.es</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The herbarium of University of Extremadura (UNEX Herbarium) is formed by 36451 specimens of vascular plants whose main origin is the autonomous region of Extremadura (Spain) and Portugal, although it also contains a smaller number of specimens from different places, including the rest of peninsular Spain, the Baleares Islands, the Macaronesian region (Canary Islands, Madeira and Azores), northwest of Africa (Morocco) and Brazil. 98% of the total records are georeferenced. 
+It is an active collection in continuous growth. Its data can be accessed through the GBIF data portal at http://data.gbif.org/datasets/resource/255 and http://www.eweb.unex.es/eweb/botanica/herbario/. This paper describes the specimen associated data set of the UNEX Herbarium, with an objective to disseminate the data contained in a data set with potential users, and promote the multiple uses of the data.
+Established in 1986, the specimens that the herbarium of vascular plants collection of University of Extremadura (UNEX Herbarium) incorporates is the result of the work of collections and identifications by different researchers, associated with the Botany Area (Department of Plant Biology, Ecology and Earth Sciences) of the University of Extremadura. Chief amongst these individuals include; Professor Juan Antonio Devesa, founder and director of the herbarium until 2004, and Dr. Trinidad Ruiz, curator and current director of the UNEX Herbarium. Significant contributions have also been made by Professor Ana Ortega, Dr. Rafael Tormo,                                                                                                      Dr. Josefa López, and Dr. Tomás Rodríguez. Other researchers who contributed to the growth of the UNEX Herbarium includes, Mª Carmen Viera, Jacinto Pedro Carrasco, Adolfo Muñoz, Inmaculada Montero, and Francisco Mª Vázquez. In addition, the disinterested work developed throughout time by a lot of students of the University of Extremadura, especially, Mª Luisa Navarro Pérez and Dr. Francisco Javier Valtueña.
+The development of different research projects has made it possible to improve the quality of the herbarium. Among them, the numerous compilations carried out by differents members of the Botany Area in order to elaborate the first flora of the Extremadura region (Devesa 1995) or the synthesis of different taxonomic families or genera for Flora Ibérica (http://www.floraiberica.org/). Additionally, 4.5% of the material comes from the purchase of part of the herbarium of Dr. J.V.C. Malato-Beliz.
+Limited and unpredictable funding has always pose challenge for ensuring sustained growth of the collection facility since its establishment.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Macaronesian region</keyword>
+              <keyword>herbarium collection</keyword>
+              <keyword>Morocco</keyword>
+              <keyword>Baleares islands</keyword>
+              <keyword>Liliopsida</keyword>
+              <keyword>Brazil</keyword>
+              <keyword>vascular plant taxonomy.</keyword>
+              <keyword>Magnoliopsida</keyword>
+              <keyword>Extremadura</keyword>
+              <keyword>Portugal</keyword>
+              <keyword>Spain</keyword>
+              <keyword>UNEX Herbarium</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://www.eweb.unex.es/eweb/botanica/herbario/</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://data.gbif.org/datasets/resource/255</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens deposited in the UNEX Herbarium have been collected mainly from Iberian Peninsula (Spain and Portugal) northwest of Africa (Morocco) and Brazil. As indicated in Figure 4, maximum number of specimens included in the dataset are collected from Spain (31490) followed by Portugal (3488), Brazil (722) and Morocco (111) respectively. With regards to collections from Spanish provinces, Badajoz contributes 16910 specimens, followed by Cáceres (6855 specimens) and Cádiz (1012 specimens). Other sampling areas include Almería (711 specimens), Jaén (495 specimens), Málaga (411 specimens), Gerona (388 specimens), Huesca (371 specimens), León (308 specimens), Oviedo (293 specimens), Granada (290 specimens), Huelva (260 specimens) and Lérida (249 specimens).
+The specimens better represented in the database correspond to elements of the Mediterranean forest and/or scrubland. These specimens are developed under a seasonal climate of mild winters and hot and dry summers, with abundant rainfall in autumn and spring. Frequent in this climate are forest fires, to which the vegetation is adapted. Specimens from Brazil (except one specimen collected in the state of Santa Catarina), are collected in the state of Río Grande do Sul. This state has a humid subtropical climate and a hydrography classified into three major regions: Uruguay River Basin, Guaiba River, and Litoral.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-115</westBoundingCoordinate>
+                      <eastBoundingCoordinate>65</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52</northBoundingCoordinate>
+                      <southBoundingCoordinate>-38</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1911
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>As depicted in Figure 1, majority of the specimens in UNEX Herbarium belong to class Magnoliopsida (27143 specimens) and Liliopsida (8508 specimens). These classes are followed by Filicopsida (505 specimens), Lycopsida (138 specimens), Coniferopsida (104 specimens), Equisetopsida (24 specimens), Ophioglossopsida (14 specimens), Gnetopsida (6 specimens), Taxopsida (4 specimens) Cycadopsida and Gingkgopsida 
+(both with 2 specimens), and Psilotopsida (1 specimen). UNEX herbarium represents 210 families, of which 22% and 21% of the specimens belongs to Poaceae and Fabaceae family respectively. This is followed by Asteraceae (15%), Scrophulariaceae (6%), Lamiaceae (6%), Caryophyllacae (5%), Brassicaceae (4%), Cyperaceae (4%), Rubiaceae (3%), Ranunculaceae (3%), Liliaceae (3%), Boraginaceae (3%), Apiaceae (3%), and Cistaceae (2%). The herbarium includes 1253 genera (Figure 3), significant ones amongst them are Trifolium (1345 specimens), Ranunculus (623 specimens), Scrophularia (583 specimens), Vicia (537 specimens), Stipa(505 specimens), Galium (479 specimens), Juncus (439 specimens), Vulpia (381 specimens), Medicago (365 specimens) and Bromus (342 specimens).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aceraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Adiantaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Agavaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aizoaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alismataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaryllidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anacardiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apocynaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aquifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araucariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Arecaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aristolochiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asclepiadaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aspidiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aspleniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Athyriaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Azollaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Balanophoraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Balsaminaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Basellaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Begoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Berberidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Betulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bignoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Blechnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Brassicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Buddlejaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Butomaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Buxaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cactaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Callitrichaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Calycanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Calyceraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Campanulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cannabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cannaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Capparaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprifoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caryophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Casuarinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Celastraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ceratophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Characeae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chenopodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cistaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Clethraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Clusiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cneoraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Commelinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Convolvulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Coriariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cornaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crassulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cryptogrammaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cucurbitaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cunoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cupressaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyathaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cycadaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Davalliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dicksoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dioscoreaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dipsacaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Droseraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ebenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Elaeagnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Elaphoglossaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Elatinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Empetraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ephedraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Equisetaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ericaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fagaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Flacourtiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fontinalaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Frankeniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fumariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gentianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Geraniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gesneriaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ginkgoaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Globulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grossulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Guttiferaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Haloragaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hamamelidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hemionitidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hippocastanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrangeaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hymenophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hypolepidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Isoetaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juglandaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Juncaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lauraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lemnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Liliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Linaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Loranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lycopodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lythraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Magnoliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malpighiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malvaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Maranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Marsileaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Melastomataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Meliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Melianthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Molluginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Monimiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Moraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myoporaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrsinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrtaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Najadaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nymphaeaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oleaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Onagraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ophioglossaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orchidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orobanchaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Osmundaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oxalidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Paeoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Papaveraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Passifloraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phytolaccaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pinaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Piperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pittosporaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plantaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Platanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Plumbaginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podocarpaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polemoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygalaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polypodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pontederiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Portulacaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Potamogetonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Primulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Proteaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psilotaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pteridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Punicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pyrolaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rafflesiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranunculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Resedaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rhamnaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rosaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ruppiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rutaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Santalaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapindaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Saxifragaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scrophulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Selaginellaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Simaroubaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sinopteridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Solanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sparganiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sterculiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Styracaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Symplocaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tamaricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Taxaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Taxodiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Theaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Theligonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thelypteridaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thymelaeaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tiliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tropaeolaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Typhaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ulmaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Umbelliferaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Urticaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Valerianaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Verbenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Violaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vitaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Zannichelliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Zingiberaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Zygophyllaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pteridophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Spermatophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Filicopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Coniferopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Equisetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Ophioglossopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gnetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Taxopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Cycadopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gingkgopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Psilotopsida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Josefa</givenName>          <surName>López Martínez</surName>
+    </individualName>
+<organizationName>Área de Botánica, Facultad de Ciencias, Universidad de Extremadura</organizationName><positionName>Associated Party</positionName>    <address>
+<deliveryPoint>Avda. de Elvas s/n</deliveryPoint><city>Badajoz</city><administrativeArea>Badajoz</administrativeArea><postalCode>06006</postalCode><country>SPAIN</country>    </address>
+<phone>+34924289300 ext. 6869</phone><electronicMailAddress>josefalopez@unex.es</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Dried and pressed method has been adopted for preservation of the specimens deposited in the collection. After collection of specimens in the field (see “sampling description” for the collection protocol) they are pressed and dried with the aim of adapting them to a flat surface and remove water from the tissue, thereby preventing their degeneration or attacks by bacteria, fungi or insects that would destroy them.
+Assembly of specimens: The dried material is mounted on a holder constituted by an A3 cardboard (42 × 29.7 cm) and a resistant paper (so-called jacket) dimension A2 42 × 59.4 cm) that perfectly covers the cardboard, thus protecting the specimen. The assembly is made on the cardboard with transparent tape, allowing both that the specimen be tighten to the holder and that the assembly be aesthetic.
+Registration of herbarium specimens: After assembly, specimens are registered and labeled. Registration is done in a database (Microsoft Office Access Database → DarwinCore 1.2) in which each specimen is assigned a reference number allocated consecutively. The information contained in the record of each specimen is: institution owner of the herbarium, reference number, scientific name of the family and species, 
+date of collection, georeferencing data (country, province, town), habitat, Legitimavit, and Determinavit. All log data are printed and constitute the sheet label.
+Treatment of specimens: Before putting the specimens in the herbarium they are stored in hermetic plastic boxes and kept for 72 hours in cold storage (freezers) at -40°C. In this way the material is decontaminated from possible attacks of pathogens that can destroy them and the rest of material already in the herbarium.
+Storage of specimens: Finally, the specimens are kept inside compact enclosures in shelves where they are arranged taking into account the four main groups: pteridophytes, gymnosperms, monocots, and dicots. Within each main group the specimens are alphabetical arranged by families and genera.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Iberian Peninsula is the most significant geographic zone represented in UNEX Herbarium. Figure 6 depicts the collections from various provinces of Iberian Peninsula. Over 5000 specimens are collected from two provinces (Badajoz and Cáceres). Two provinces (Cádiz and Almería) contributed specimens in the range of 500-1500. The specimens collected from morocco (111 sheets) are representatives for an area greater than 50% of the country (Fig. 7a). Conversely, specimens from Brazil (721 sheets)cover not more than 3% of the area of the country (Fig. 7b).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>As evident from the previous section, the specimens deposited in the UNEX Herbarium comes from diverse regions, which is outcome of several research projects depositing the specimens. As a result, specimens are not collected using a single, uniform protocol. Of the materials from donations or purchases (e.g. herbarium of Dr. J.V.C. Malato-Beliz) the protocol followed for the collection of specimens is unknown. The methodology used in collecting plants by researchers from the Botany Area may change depending on the objectives pursued by the work they are carried out for. In general, collection takes place following previous available references drawn from scientific works, herbarium material or indications from reliable collectors. The collection campaigns are designed to be more or less exhaustive of different available areas depending on the purpose of the collection (e.g. for taxonomic works, we do exhaustive inspections of whole territories with expansion of the collection area beyond known indications).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Each specimens and associated data record was subjected to two quality procedures; (a) taxonomic determination or identification and (b) geo-referencing. For taxonomic identification, trusted experts were contacted, the 85% of the material has been identified by investigators of the Botany Area of the University of Extremadura. These experts have 
+authored number of monographs, which include Vegetación y Flora de Extremadura (Devesa 1995) in which 2050 taxa’s are described. Other includes Las Gramíneas de Extremadura (Devesa 1999) or the volumes of Flora iberica XV (Devesa et al. 2007) comprising the taxonomic synthesis of families Adoxaceae, Caprifoliaceae, Dipsacaceae, Rubiaceae and Valerianaceae, and XVI (under edition, see http://www.floraiberica.org/) in which these experts are responsible for the genera Arctium, Atractylis, Carlina, Crupina, Cynara, Echinops, Onopordum, Rhaponticum, Saussurea, Staehelina, and Xeranthemum. It is worth also to note the publications of new species of flora (Centaurea bethurica, Devesa 
+and López 2008; Scrophularia fontqueri Ortega-Olivencia and Devesa 1998; Galiummoralesianum and G. talaveranum Ortega-Olivencia and Devesa 2003; Galium belizianum Ortega-Olivencia et al. 2004), whose typus are preserved in UNEX Herbarium. Besides the above mentioned authoritative literature, experts have also relied upon the biology of the reproduction of different taxa of the family Fabaceae (López et al. 1998, 1999a, 1999b, 2000, Ortega-Olivencia and Devesa 1997, Ortega-Olivencia et 
+al. 1997, 2005, Rodríguez-Riaño et al. 1999a, 1999b, 1999c, 2004, 2006, Valtueña et al. 2007, 2008a, 2008b, 2010a, 2010b, 2011, 2012) or the genera Drosophyllum (Ortega-Olivencia et al. 1995, 1998) or Scrophularia (Ortega-Olivencia and Devesa 1993a, 1993b, Ortega-Olivencia et al. 2012, Valtueña et al. 2013). Use of these literature resources and long tanding experience of the researchers high degree of confidence to the taxonomic identification of the specimens.
+The 98% of the records in the collection are georeferenced. A total of 58.38% have MGRS coordinates and the rest geographical coordinates. The MGRS coordinate system has been transformed into geographical coordinates through a geographic calculator (http://www.asturnatura.com/sinflac/calculadora-conversiones-coordenadas.php), while at the same time maintaining the MGRS coordinates in the database. The accuracy of these coordinates grids varies from 1 km2 to 10 km2. The geographical coordinates have been taken through the description of localities and search of these localities in Google Earth 
+(http://www.google.com/earth/index.html). The accuracy of geographic coordinate values also varies between 2 and 12 km depending on the number of decimal places contained.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>NA</title>
+          <personnel>
+    <individualName>
+          <surName>NA</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:13Z</dateStamp>
+      <citation>Espinosa Sánchez M (2018). Herbarium of Vascular Plants Collection of the University of Extremadura (Spain). Dep. of Plant Biology, Ecology and Earth Sciences, Botany Area, Univ. Extremadura. Occurrence dataset https://doi.org/10.15468/l8vpay accessed via GBIF.org on 2019-05-14.</citation>
+              <bibliography>
+      <citation>Devesa JA (1995) Vegetación y Flora de Extremadura. Universitas Editorial. Badajoz, 1-773.</citation>
+      <citation>Devesa JA (1999) Las Gramíneas de Extremadura. Monografías Botánicas. Universidad de Extremadura. Badajoz, 1-358.</citation>
+      <citation>Devesa J, Gonzalo R, Herrero A (Ed) (2007) Flora iberica. Vol. 15. Real Jardín Botánico de Madrid, CSIC, Madrid, 1-496.</citation>
+      <citation>Devesa JA, López E (2008) Notas taxonómicas sobre el género Centaurea L. (Asteraceae) en la Península Ibérica. I. C. cordubensis Font Quer, C. bethurica E. López &amp; Devesa, sp. Nov., y C. schousboei Lange. Anales del Jardín Botánico de Madrid 65(2): 331-341.</citation>
+      <citation>López J, Devesa JA, Ruiz T, Ortega-Olivencia A (1998) Seedling morphology in Genisteae (Fabaceae) from South-West Spain. Botanical Journal of the Linnean Society 128(3): 229-250. doi: 10.1111/j.1095-8339.1998.tb02119.x</citation>
+      <citation>López J, Devesa JA, Ruiz T, Ortega-Olivencia A (1999a) Seed germination in Genisteae (Fabaceae) from South-West Spain. Phyton -Annales Rei Botanicae- 39(1): 107-129.</citation>
+      <citation>López J, Rodríguez-Riaño T, Ortega-Olivencia A, Devesa JA, Ruiz T (1999b) Pollination mechanisms and pollen-ovule ratios in some Genisteae (Fabaceae) from Southwestern Europe. Plant Systematics and Evolution, 216(1-2): 23-47. doi: 10.1007/BF00985099</citation>
+      <citation>López J, Devesa JA, Ortega-Olivencia A, Ruiz T (2000) Production and morphology of fruit and seeds in Genisteae (Fabaceae) of South-West Spain. Botanical Journal of the Linnean Society 132(2): 97-120. doi: 10.1111/j.1095-8339.2000.tb01208.x</citation>
+      <citation>Ortega-Olivencia A, Devesa JA (1993) Floral rewards in some Scrophularia species (Scrophulariaceae) from the Iberian Peninsula and the Balearic Islands. Plant Systematics and Evolution 184(3-4): 139-158. doi: 10.1007/BF00937432</citation>
+      <citation>Ortega-Olivencia A, Devesa JA (1993b) Sexual reproduction in some Scrophularia species (Scrophulariaceae) from the iberian peninsula and the balearic islands. Plant Systematics and Evolution 184(3-4): 159-174. doi: 10.1007/BF00937433</citation>
+      <citation>Ortega-Olivencia A, Carrasco Claver JP, Devesa JA (1995) Floral and reproductive biology of Drosophyllum lusitanicum (L.) Link (Droseraceae). Botanical Journal of the Linnean Society 118(4), 331-351.</citation>
+      <citation>Ortega-Olivencia A, Devesa JA (1997) Seed set and germination in some wild species of Vicia from SW Europe (Spain). Nordic Journal of Botany 17(6): 639-648. doi: 10.1111/j.1756-1051.1997.tb00360.x</citation>
+      <citation>Ortega Olivencia A, Ramos S, Rodríguez T, Devesa JA (1997) Floral biometry, floral rewards and pollen-ovule ratios in some Vicia from Extremadura, Spain. Edinburgh Journal of Botany 54(1): 39-53.</citation>
+      <citation>Ortega-Olivencia A, Devesa JA (1998) Taxonomy and breeding system in a new species of Scrophularia L. (Scrophulariaceae) from Morocco. Botanical Journal of the Linnean Society 128(2): 185-202. doi: 10.1111/j.1095-8339.1998.tb02115.x</citation>
+      <citation>Ortega-Olivencia A, López-Paredes JA, Rodríguez-Riaño T, Devesa JA (1998) Modes of self-pollination and absence of cryptic self-incompatibility in Drosophyllum lusitanicum (Droseraceae). Botanica Acta 111(6): 474-480.</citation>
+      <citation>Ortega-Olivencia A, Devesa JA (2003) Two new species of Galium (Rubiaceae) from the Iberian Peninsula. Botanical Journal of the Linnean Society 143(2): 177-187. doi: 10.1046/j.1095-8339.2003.00212.x</citation>
+      <citation>Ortega-Olivencia A, Devesa JA, Rodríguez-Riaño T (2004) A new Galium species from NW Portugal. Botanica Helvetica 114(1): 1-6.</citation>
+      <citation>Ortega-Olivencia A, Rodríguez-Riaño T, Valtueña FJ, López J, Devesa JA (2005) First confirmation of a native bird-pollinated plant in Europe. Oikos 110(3): 578-590. doi: 10.1111/j.0030-1299.2005.13877.x</citation>
+      <citation>Ortega-Olivencia A, Rodríguez-Riaño T, Pérez-Bote JL, López J, Mayo C, Valtueña FJ, Navarro-Pérez M (2012) Insects, birds and lizards as pollinators of the largest-flowered Scrophularia of Europe and Macaronesia. Annals of Botany 109(1): 153-167. doi: 10.1093/aob/mcr255</citation>
+      <citation>Rodríguez-Riaño T, Ortega-Olivencia A, Devesa JA (1999a). Biología floral en Fabaceae. Ruizia 16. Monografías del Real Jardín Botánico de Madrid, CSIC, Madrid, 1-176.</citation>
+      <citation>Rodríguez-Riaño T, Ortega-Olivencia A, Devesa JA (1999b) Types of androecium in the Fabaceae of SW Europe. Annals of Botany 83(2): 109-116. doi: 10.1006/anbo.1998.0808</citation>
+      <citation>Rodriguez-Riaño T, Ortega-Olivencia A, Devesa JA (1999c) Reproductive biology in two Genisteae (Papilionoideae) endemic of the western Mediterranean region: Cytisus striatus and Retama sphaerocarpa. Canadian Journal of Botany 77(6): 809-820.</citation>
+      <citation>Rodríguez-Riaño T, Ortega-Olivencia A, Devesa JA (2004) Reproductive biology in Cytisus multiflorus (Fabaceae). Annales. Botanici Fennici 41(3): 179-188. doi: 10.3732/ajb.0800332</citation>
+      <citation>Rodríguez-Riaño T, Valtueña FJ, Ortega-Olivencia A (2006) Megasporogenesis, megagametogenesis and ontogeny of the Aril in Cytisus striatus and C. multiflorus (Leguminosae: Papilionoideae). Annals of Botany 98(4): 777-791. doi:  10.1093/aob/mcl166</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T (2007) Nectar production in Anagyris foetida (Fabaceae): Two types of concentration in flowers with hanging droplet. International Journal of Plant Sciences 168(5): 627-638.</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T (2008a) Germination and seed bank biology in some Iberian populations of Anagyris foetida L. (Leguminosae). Plant Systematics and Evolution 275(3-4): 231-243. doi: 10.1007/s00606-008-0067-2</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T, López J (2008b)  Reproductive biology in Anagyris foetida L. (Leguminosae), an autumn-winter flowering and ornithophilous Mediterranean shrub. Botanical Journal of the Linnean Society 157(3): 519-532. doi: 10.1111/boj.2008.157.issue-3</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T, López J (2010a) Causes of low fruit and seed set in bird-pollinated Anagyris foetida (Leguminosae): Pollen limitation and other extrinsic factors. Folia Geobotanica 45(1): 77-94. doi:10.1007/s12224-009-9054-9</citation>
+      <citation>Valtueña FJ, Rodríguez-Riaño T, Espinosa F, Ortega-Olivencia A (2010b) Self-sterility in two Cytisus species (Leguminosae, Papilionoideae) due to early-acting inbreeding depression. American Journal of Botany 97(1): 123-135. doi:10.3732/ajb.0800332</citation>
+      <citation>Valtueña FJ, Rodríguez-Riaño T, Ortega-Olivencia A (2011) Ephemeral and non-ephemeral structures during seed development in two Cytisus species (Papilionoideae, Leguminosae). Plant Biosystems 145(1): 98-105. doi:10.1080/11263504.2010.540379</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T (2012) Regulation of fruit and seed set in Anagyris foetida L. (Fabaceae): The role of intrinsic factors. Plant Biosystems, 146 (SUPPL. 1): 190-200. doi:10.1080/11263504.2012.679976</citation>
+      <citation>Valtueña FJ, Ortega-Olivencia A, Rodríguez-Riaño T, Pérez-Bote JL, Mayo C (2013) Behaviour of pollinator insects within inflorescences of Scrophularia species from Iberian Peninsula. Plant Biology 15(2): 328-334. doi: 10.1111/j.1438-8677.2012.00644.x</citation>
+      <citation>Flora Ibérica: http://www.floraiberica.es/ [accessed 15.05.2013]</citation>
+      <citation>Geographic calculator: http://www.asturnatura.com/sinflac/calculadora-conversiones-coordenadas.php [accessed 16.05.2013]</citation>
+      <citation>Google Earth: http://www.google.com/earth/index.html [accessed 16.05.2013]</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Herbario UNEX</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Access</formatName>
+                            <formatVersion>1.0</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://data.gbif.org/datasets/resource/255</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=collectionherbariumextremadura</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not defined</parentCollectionIdentifier>
+                <collectionIdentifier>http://data.gbif.org/datasets/resource/255</collectionIdentifier>
+                <collectionName>UNEX Herbarium, University of Extremadura.</collectionName>
+              </collection>
+              <formationPeriod>1986-2013</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Specimens</jgtiUnitType>
+                      <jgtiUnits>36,451</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Genera</jgtiUnitType>
+                      <jgtiUnits>1,253</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

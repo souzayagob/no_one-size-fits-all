@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0afba960-be3b-4202-a7de-736ae05aec9e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/tnj8wm</alternateIdentifier>
+    <title>University of Vienna, Institute for Botany - Herbarium WU</title>
+    <associatedParty>
+    <individualName>
+          <surName>Heimo Rainer</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Rennweg 14, A-1030 Vienna, Austria</deliveryPoint>    </address>
+<phone>+43 (1) 4277-54171</phone><electronicMailAddress>heimo.rainer@univie.ac.at</electronicMailAddress>    <role>TECHNICAL_POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>en</language>
+    <abstract>
+        <para></para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Heimo Rainer</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Rennweg 14, A-1030 Vienna, Austria / Europe</deliveryPoint>    </address>
+<phone>+43 (1) 4277-54171</phone><electronicMailAddress>heimo.rainer@univie.ac.at</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:12Z</dateStamp>
+      <citation>University of Vienna, Institute for Botany - Herbarium WU. University of Vienna, Institute for Botany - Herbarium WU. Occurrence dataset https://doi.org/10.15468/tnj8wm accessed via GBIF.org on 2019-05-14.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

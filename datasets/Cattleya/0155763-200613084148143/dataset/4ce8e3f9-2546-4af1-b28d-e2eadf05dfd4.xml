@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4ce8e3f9-2546-4af1-b28d-e2eadf05dfd4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rhzrxw</alternateIdentifier>
+        <alternateIdentifier>60147dbf-f098-3cc3-9b85-e7c198193460</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr376</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr376</alternateIdentifier>
+        <alternateIdentifier>4ce8e3f9-2546-4af1-b28d-e2eadf05dfd4</alternateIdentifier>
+        <alternateIdentifier>urn:lsid:biocol.org:col:15596</alternateIdentifier>
+        <alternateIdentifier>57f201e3-6562-37ec-94d8-bf9b12293f12</alternateIdentifier>
+    <title>MEL AVH data</title>
+    <creator>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </creator>
+    <creator>
+<organizationName>National Herbarium of Victoria</organizationName>    <address>
+<deliveryPoint>Birdwood Avenue</deliveryPoint><city>Melbourne</city><administrativeArea>Victoria</administrativeArea><postalCode>3004</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(03) 9252 2300</phone><electronicMailAddress>rbg@rbg.vic.gov.au</electronicMailAddress><onlineUrl>http://www.rbg.vic.gov.au/science/herbarium-and-resources</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Australia&apos;s Virtual Herbarium</organizationName><onlineUrl>https://ipt.rbg.vic.gov.au/ipt</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data for the Australasian Virtual Herbarium (AVH) from the National Herbarium of Victoria (MEL)</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr376</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The data set contains records of herbarium specimens from all over the world, but with a focus on Australia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Niels</givenName>          <surName>Klazenga</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>niels.klazenga@rbg.vic.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:24:29Z</dateStamp>
+      <citation>Australia&apos;s Virtual Herbarium (2021). MEL AVH data. Occurrence dataset https://doi.org/10.15468/rhzrxw accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/avh_logo_green_transparent.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

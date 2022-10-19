@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="121275a3-dcce-44f4-9868-37326e9f64ef"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/yaie53</alternateIdentifier>
+        <alternateIdentifier>121275a3-dcce-44f4-9868-37326e9f64ef</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=flor</alternateIdentifier>
+    <title>FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina</title>
+    <creator>
+    <individualName>
+<givenName>Silvia</givenName>          <surName>Venturi</surName>
+    </individualName>
+<organizationName>Universidade Federal de Santa Catarina (UFSC)</organizationName><positionName>Curadora geral</positionName>    <address>
+<deliveryPoint>Campus Reitor João David Ferreira Lima - Trindade; Caixa Postal 476</deliveryPoint><city>Florianópolis</city><administrativeArea>Santa Catarina</administrativeArea><postalCode>88040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 48 3721-2905</phone><electronicMailAddress>silvia.venturi@ufsc.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=FLOR</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Silvia</givenName>          <surName>Venturi</surName>
+    </individualName>
+<organizationName>Universidade Federal de Santa Catarina (UFSC)</organizationName><positionName>Curadora geral</positionName>    <address>
+<deliveryPoint>Campus Reitor João David Ferreira Lima - Trindade; Caixa Postal 476</deliveryPoint><city>Florianópolis</city><administrativeArea>Santa Catarina</administrativeArea><postalCode>88040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 48 3721-2905</phone><electronicMailAddress>silvia.venturi@ufsc.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=FLOR</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário FLOR da Universidade Federal de Santa Catarina foi fundado em 1964 pelos professores Ranulpho José de Souza Sobrinho e Roberto Miguel Klein. Seu acervo compreende exemplares de plantas vasculares, fungos e algas. Seu acervo é o segundo maior do estado e está voltado especialmente para a flora do estado de Santa Catarina.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=FLOR</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Silvia</givenName>          <surName>Venturi</surName>
+    </individualName>
+<organizationName>Universidade Federal de Santa Catarina (UFSC)</organizationName><positionName>Curadora geral</positionName>    <address>
+<deliveryPoint>Campus Reitor João David Ferreira Lima - Trindade; Caixa Postal 476</deliveryPoint><city>Florianópolis</city><administrativeArea>Santa Catarina</administrativeArea><postalCode>88040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 48 3721-2905</phone><electronicMailAddress>silvia.venturi@ufsc.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=FLOR</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:17:13Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=FLOR">Venturi S (2021). FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina. Version 1.74. Universidade Federal de Santa Catarina. Occurrence dataset https://doi.org/10.15468/yaie53 accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=flor</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

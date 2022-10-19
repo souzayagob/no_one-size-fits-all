@@ -1,0 +1,1687 @@
+"id","institutioncode","collectioncode","catalognumber","gen_sp","subspecies","identifiedby","latitude","longitude","id_grid"
+564,"Universidade Federal de Sergipe","ASE","9975","Calliandra_dysantha",NA,"CEB Proença",-15.866667,-47.833333,501
+1031,"Instituto de Botânica","SP","316149","Calliandra_fuscipila",NA,"LP de Queiroz",-13.25,-41.9,351
+1042,"Instituto de Botânica","SP","313985","Calliandra_elegans",NA,"LP de Queiroz",-13.266667,-41.9,351
+1043,"Instituto de Botânica","SP","316080","Calliandra_bahiana",NA,"LP de Queiroz",-13.216667,-41.833333,351
+1589,"JBRJ","RB","RB00576118","Calliandra_viscidula",NA,"VC de Souza",-12.96359,-41.57273,351
+1595,"JBRJ","RB","RB00418646","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.5,-41.45,312
+1616,"JBRJ","RB","RB00161257","Calliandra_viscidula",NA,"RC Barneby",-13,-41.4,352
+1617,"JBRJ","RB","RB00159999","Calliandra_lintea",NA,"LP de Queiroz",-12.45361,-41.44722,312
+1618,"JBRJ","RB","RB00159948","Calliandra_calycina",NA,"VC de Souza",-12.939004,-41.327911,352
+1623,"JBRJ","RB","RB00160411","Calliandra_calycina",NA,"VC de Souza",-13.024636,-41.417952,352
+1625,"JBRJ","RB","RB00159878","Calliandra_calycina",NA,"VC de Souza",-12.5,-41.45,312
+1634,"JBRJ","RB","RB00160026","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-12.47222,-41.47083,312
+1637,"JBRJ","RB","RB00160333","Calliandra_viscidula",NA,"HC de Lima",-12.91667,-41.35,352
+1640,"JBRJ","RB","RB00160208","Calliandra_mucugeana",NA,"SA Renvoize",-12.91667,-41.35,352
+1641,"JBRJ","RB","RB00160417","Calliandra_viscidula",NA,"VC de Souza",-13.021283,-41.367003,352
+1903,"UESC","UESC","24121","Calliandra_sessilis",NA,"ML Guedes",-14.359167,-42.537222,430
+1978,"NY","NY","390341","Calliandra_bahiana","bahiana","RC Barneby",-10.37,-41.33,152
+1979,"NY","NY","390327","Calliandra_asplenioides",NA,"RC Barneby",-18.25,-43.67,668
+1984,"NY","NY","00632369","Calliandra_coccinea",NA,"GP Lewis",-13.25,-41.9,351
+1997,"NY","NY","02423412","Calliandra_fasciculata","fasciculata","LM Borges",-18.198,-43.61428,668
+2002,"NY","NY","00917702","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2003,"NY","NY","00917705","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2006,"NY","NY","00390221","Calliandra_lanata",NA,"RC Barneby",-13.53,-41.88,391
+2009,"NY","NY","00917372","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2013,"NY","NY","632440","Calliandra_sessilis",NA,"GP Lewis",-13.32,-41.83,351
+2018,"NY","NY","408627","Calliandra_squarrosa",NA,"RC Barneby",-10.37,-41.32,152
+2025,"NY","NY","00917370","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2029,"NY","NY","00917361","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2030,"NY","NY","390241","Calliandra_longipinna",NA,"RC Barneby",-13.58,-41.3,392
+2034,"NY","NY","00917533","Calliandra_fasciculata","fasciculata","RC Barneby",-18.4293,-43.7215,708
+2035,"NY","NY","00917503","Calliandra_asplenioides",NA,"RC Barneby",-18.38,-43.7,708
+2042,"NY","NY","00924378","Calliandra_linearis",NA,"JW Grimes",-19.391463,-43.567098,748
+2047,"NY","NY","00917726","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2063,"NY","NY","00924137","Calliandra_dysantha","dysantha","S Leython",-14.07196,-47.56254,381
+2079,"NY","NY","408658","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+2080,"NY","NY","632437","Calliandra_semisepulta",NA,"GP Lewis",-13.23,-41.9,351
+2084,"NY","NY","00924381","Calliandra_linearis",NA,"RC Barneby",-19.32,-43.6,748
+2085,"NY","NY","00917568","Calliandra_asplenioides",NA,"RC Barneby",-16.25,-42.88,549
+2088,"NY","NY","00390114","Calliandra_calycina",NA,"RC Barneby",-12.95,-41.33,352
+2090,"NY","NY","00917368","Calliandra_dysantha","dysantha","HS Irwin",-15.7834208090807,-47.9298726661488,501
+2098,"NY","NY","00917388","Calliandra_dysantha",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2099,"NY","NY","00390186","Calliandra_fuscipila",NA,"GP Lewis",-13.55,-41.95,391
+2102,"NY","NY","408595","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.9,391
+2110,"NY","NY","00917593","Calliandra_asplenioides",NA,"RC Barneby",-16.87,-43.02,589
+2112,"NY","NY","01493046","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.52,-41.97,391
+2119,"NY","NY","00390207","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.6003,-41.4547,312
+2129,"NY","NY","00390121","Calliandra_coccinea",NA,"LP de Queiroz",-13.25,-41.9,351
+2134,"NY","NY","00632378","Calliandra_erubescens",NA,"GP Lewis",-13.32,-41.87,351
+2135,"NY","NY","00917696","Calliandra_virgata",NA,"HS Irwin",-15.60619,-47.8167,501
+2136,"NY","NY","632426","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.85,351
+2138,"NY","NY","408608","Calliandra_sessilis",NA,"RC Barneby",-13.58,-41.3,392
+2140,"NY","NY","00632416","Calliandra_fuscipila",NA,"GP Lewis",-13.28,-41.9,351
+2142,"NY","NY","632354","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.88,351
+2153,"NY","NY","00917570","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+2155,"NY","NY","408557","Calliandra_macrocalyx",NA,"RC Barneby",-12.42,-42.07,311
+2159,"NY","NY","632418","Calliandra_lanata",NA,"GP Lewis",-13.27,-41.88,351
+2167,"NY","NY","00917347","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2168,"NY","NY","632423","Calliandra_luetzelburgii",NA,"GP Lewis",-13.77,-42.38,390
+2170,"NY","NY","632429","Calliandra_nebulosa",NA,"GP Lewis",-13.22,-41.9,351
+2172,"NY","NY","632439","Calliandra_sessilis",NA,"GP Lewis",-13.37,-41.82,351
+2194,"NY","NY","632433","Calliandra_parvifolia",NA,"GP Lewis",-13.32,-41.85,351
+2196,"NY","NY","632434","Calliandra_semisepulta",NA,"GP Lewis",-13.28,-41.9,351
+2197,"NY","NY","00917403","Calliandra_dysantha",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2199,"NY","NY","632432","Calliandra_parvifolia",NA,"GP Lewis",-13.32,-41.83,351
+2209,"NY","NY","390243","Calliandra_luetzelburgii",NA,"RC Barneby",-13.3889,-41.8969,351
+2224,"NY","NY","00917571","Calliandra_asplenioides",NA,"RC Barneby",-17.0684541688631,-43.309069193446,589
+2226,"NY","NY","390248","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53,-41.97,391
+2228,"NY","NY","632358","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.88,351
+2235,"NY","NY","00924357","Calliandra_linearis",NA,"RC Barneby",-19.388386,-43.539757,748
+2247,"NY","NY","00917595","Calliandra_asplenioides",NA,"RC Barneby",-18.55,-43.55,708
+2264,"NY","NY","00917427","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2273,"NY","NY","632367","Calliandra_bahiana",NA,"GP Lewis",-13.37,-41.82,351
+2275,"NY","NY","00917394","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2277,"NY","NY","00917364","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2281,"NY","NY","632366","Calliandra_bahiana",NA,"GP Lewis",-13.28,-41.88,351
+2288,"NY","NY","00917526","Calliandra_asplenioides",NA,"RC Barneby",-18.56465,-43.83445,708
+2289,"NY","NY","632359","Calliandra_asplenioides",NA,"GP Lewis",-13.32,-41.85,351
+2294,"NY","NY","408593","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.82,391
+2299,"NY","NY","00924358","Calliandra_linearis",NA,"RC Barneby",-19.33,-43.58,748
+2313,"NY","NY","390338","Calliandra_bahiana","bahiana","RC Barneby",-11.52,-41.27,232
+2322,"NY","NY","00917386","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2338,"NY","NY","390245","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.48,-41.82,351
+2339,"NY","NY","408574","Calliandra_nebulosa",NA,"RC Barneby",-13.3889,-41.8969,351
+2341,"NY","NY","632435","Calliandra_semisepulta",NA,"GP Lewis",-13.25,-41.9,351
+2345,"NY","NY","00917373","Calliandra_dysantha",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2347,"NY","NY","00632414","Calliandra_fuscipila",NA,"GP Lewis",-13.25,-41.9,351
+2351,"NY","NY","00917592","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+2353,"NY","NY","00917514","Calliandra_fasciculata","fasciculata","RC Barneby",-18.4581810723501,-43.7407994499746,708
+2359,"NY","NY","00390208","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.2856,-41.8267,311
+2362,"NY","NY","00917385","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2369,"NY","NY","632361","Calliandra_asplenioides",NA,"GP Lewis",-13.25,-41.9,351
+2377,"NY","NY","00917534","Calliandra_fasciculata","fasciculata","RC Barneby",-18.1838,-43.536667,668
+2385,"NY","NY","00632370","Calliandra_coccinea",NA,"GP Lewis",-13.3,-41.83,351
+2393,"NY","NY","00390168","Calliandra_erubescens",NA,"RC Barneby",-11.38,-40.75,233
+2394,"NY","NY","00924376","Calliandra_linearis",NA,"JW Grimes",-18.55,-43.67,708
+2399,"NY","NY","632368","Calliandra_bahiana",NA,"GP Lewis",-13.32,-41.83,351
+2406,"NY","NY","00924290","Calliandra_sessilis",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2412,"NY","NY","00917374","Calliandra_dysantha","dysantha","RC Barneby",-15.9561,-47.8814,541
+2430,"NY","NY","00632355","Calliandra_asplenioides",NA,"GP Lewis",-13.3,-41.87,351
+2439,"NY","NY","00891671","Calliandra_sessilis",NA,"GP Lewis",-11.599283,-41.209783,232
+2441,"NY","NY","00917703","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2445,"NY","NY","00917383","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2446,"NY","NY","00917729","Calliandra_virgata",NA,"HS Irwin",-15.7834208090807,-47.9298726661488,501
+2450,"NY","NY","632425","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.82,351
+2459,"NY","NY","00917399","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2466,"NY","NY","01131890","Calliandra_bahiana",NA,"GP Lewis",-13.5978,-41.8286,391
+2468,"NY","NY","00917371","Calliandra_dysantha",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2475,"NY","NY","632438","Calliandra_semisepulta",NA,"GP Lewis",-13.38,-41.85,351
+2483,"NY","NY","390321","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+2485,"NY","NY","00917700","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2486,"NY","NY","00917309","Calliandra_dysantha","dysantha","RC Barneby",-18.4581810723501,-43.7407994499746,708
+2494,"NY","NY","408629","Calliandra_stelligera",NA,"RC Barneby",-13.1,-41.93,351
+2499,"NY","NY","00917384","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2504,"NY","NY","00917535","Calliandra_fasciculata",NA,"RC Barneby",-18.0062,-43.7296,668
+2517,"NY","NY","00924382","Calliandra_linearis",NA,"RC Barneby",-19.388386,-43.539757,748
+2520,"NY","NY","00390216","Calliandra_hygrophila",NA,"LP de Queiroz",-12.0058,-41.3894,272
+2524,"NY","NY","632420","Calliandra_lanata",NA,"GP Lewis",-13.32,-41.85,351
+2533,"NY","NY","01131981","Calliandra_asplenioides",NA,"LM Borges",-18.5247,-43.4494,708
+2536,"NY","NY","00632371","Calliandra_coccinea",NA,"GP Lewis",-13.32,-41.83,351
+2537,"NY","NY","01144930","Calliandra_ganevii",NA,"RC Barneby",-13.13,-41.83,351
+2538,"NY","NY","00917390","Calliandra_dysantha",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2539,"NY","NY","408661","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.33,352
+2543,"NY","NY","00639036","Calliandra_ganevii",NA,"GP Lewis",-13.27,-41.78,351
+2549,"NY","NY","408670","Calliandra_viscidula",NA,"RC Barneby",-12.98,-41.33,352
+2556,"NY","NY","00917728","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2567,"NY","NY","00390220","Calliandra_lanata",NA,"RC Barneby",-13.53,-41.82,391
+2574,"NY","NY","408662","Calliandra_viscidula",NA,"RC Barneby",-13,-41.4,352
+2580,"NY","NY","00917591","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+2585,"NY","NY","390149","Calliandra_dysantha",NA,"RC Barneby",-14.0803,-42.5139,390
+2587,"NY","NY","00924136","Calliandra_dysantha","dysantha","S Leython",-14.07196,-47.56254,381
+2589,"NY","NY","00917393","Calliandra_dysantha","dysantha","RC Barneby",-15.97,-48.03,541
+2590,"NY","NY","00917375","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2594,"NY","NY","408659","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+2595,"NY","NY","00632379","Calliandra_erubescens",NA,"GP Lewis",-13.28,-41.87,351
+2596,"NY","NY","419489","Calliandra_lanata",NA,"S Leython",-13.53,-41.95,391
+2603,"NY","NY","00632373","Calliandra_elegans",NA,"GP Lewis",-13.28,-41.88,351
+2606,"NY","NY","632419","Calliandra_lanata",NA,"GP Lewis",-13.27,-41.88,351
+2607,"NY","NY","632427","Calliandra_nebulosa",NA,"GP Lewis",-13.1,-41.78,351
+2611,"NY","NY","00917590","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+2613,"NY","NY","632428","Calliandra_nebulosa",NA,"GP Lewis",-13.3,-41.85,351
+2621,"NY","NY","00632356","Calliandra_asplenioides",NA,"GP Lewis",-13.87,-42.32,390
+2622,"NY","NY","00917306","Calliandra_dysantha","dysantha","RC Barneby",-19,-43.4,748
+2624,"NY","NY","00917508","Calliandra_fasciculata",NA,"VC de Souza",-18.2531772779915,-43.6004898201051,668
+2626,"NY","NY","390247","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53,-41.93,391
+2628,"NY","NY","00917567","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+2630,"NY","NY","00917405","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2635,"NY","NY","408612","Calliandra_sessilis",NA,"RC Barneby",-13.48,-41.82,351
+2638,"NY","NY","632357","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.9,351
+2663,"NY","NY","00917517","Calliandra_fasciculata","fasciculata","RC Barneby",-18.2531772779915,-43.6004898201051,668
+2664,"NY","NY","00917402","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2671,"NY","NY","00917360","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2678,"NY","NY","00917333","Calliandra_dysantha",NA,"HS Irwin",-18.4581810723501,-43.7407994499746,708
+2681,"NY","NY","00390153","Calliandra_dysantha","dysantha","RC Barneby",-17.7,-44.28,667
+2684,"NY","NY","00917395","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2685,"NY","NY","390324","Calliandra_asplenioides",NA,"RC Barneby",-12.2842,-41.8158,311
+2694,"NY","NY","00924296","Calliandra_santosiana",NA,"RC Barneby",-18.2531772779915,-43.6004898201051,668
+2695,"NY","NY","632430","Calliandra_parvifolia",NA,"GP Lewis",-13.4,-41.78,351
+2705,"NY","NY","00632372","Calliandra_elegans",NA,"GP Lewis",-13.87,-42.32,390
+2707,"NY","NY","00917531","Calliandra_asplenioides",NA,"RC Barneby",-18.17,-43.83,668
+2713,"NY","NY","00917428","Calliandra_dysantha","dysantha","RC Barneby",-16.7723416525899,-47.6137541731285,581
+2714,"NY","NY","00917365","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2715,"NY","NY","00632413","Calliandra_fuscipila",NA,"GP Lewis",-13.1555700155626,-41.7728657096051,351
+2724,"NY","NY","00917391","Calliandra_dysantha",NA,"RC Barneby",-15.57,-48.03,501
+2731,"NY","NY","390322","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+2732,"NY","NY","00917513","Calliandra_fasciculata",NA,"RC Barneby",-18.4495809958804,-43.6557937420119,708
+2740,"NY","NY","00917701","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2741,"NY","NY","00917739","Calliandra_parvifolia",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2746,"NY","NY","00917362","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2752,"NY","NY","00632377","Calliandra_erubescens",NA,"GP Lewis",-13.32,-41.9,351
+2753,"NY","NY","00632381","Calliandra_erubescens",NA,"GP Lewis",-13.3,-41.87,351
+2765,"NY","NY","390242","Calliandra_longipinna",NA,"RC Barneby",-13.13,-41.38,352
+2767,"NY","NY","632360","Calliandra_asplenioides",NA,"GP Lewis",-13.27,-41.9,351
+2773,"NY","NY","00917319","Calliandra_dysantha","dysantha","RC Barneby",-17.7,-44.28,667
+2780,"NY","NY","632365","Calliandra_bahiana",NA,"GP Lewis",-13.22,-41.83,351
+2788,"NY","NY","00917733","Calliandra_virgata",NA,"RC Barneby",-15.7834208090807,-47.9298726661488,501
+2789,"NY","NY","00917536","Calliandra_fasciculata","fasciculata","RC Barneby",-18.162,-43.5028,668
+2798,"NY","NY","00917332","Calliandra_dysantha","dysantha","RC Barneby",-16.5631441886376,-42.889540899897,589
+2813,"NY","NY","408610","Calliandra_sessilis",NA,"RC Barneby",-13.03,-41.42,352
+2814,"NY","NY","00408660","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+2816,"NY","NY","00632415","Calliandra_fuscipila",NA,"GP Lewis",-13.33,-41.88,351
+2830,"NY","NY","00390206","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.6003,-41.4547,312
+2839,"NY","NY","00917528","Calliandra_asplenioides",NA,"RC Barneby",-18.2531772779915,-43.6004898201051,668
+2851,"NY","NY","632436","Calliandra_semisepulta",NA,"GP Lewis",-13.45,-41.83,351
+2872,"NY","NY","00917369","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2874,"NY","NY","390244","Calliandra_luetzelburgii",NA,"RC Barneby",-13.6,-41.83,391
+2882,"NY","NY","632364","Calliandra_bahiana",NA,"GP Lewis",-13.87,-42.32,390
+2886,"NY","NY","632431","Calliandra_parvifolia",NA,"GP Lewis",-13.28,-41.87,351
+2898,"NY","NY","00917367","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2907,"NY","NY","632422","Calliandra_lintea",NA,"GP Lewis",-13.3,-41.85,351
+2908,"NY","NY","00632375","Calliandra_elegans",NA,"GP Lewis",-13.3,-41.78,351
+2920,"NY","NY","00886230","Calliandra_crassipes",NA,"SA Renvoize",-13.58,-41.3,392
+2927,"NY","NY","00917389","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+2940,"NY","NY","408607","Calliandra_sessilis",NA,"RC Barneby",-13.57,-41.83,391
+2961,"NY","NY","00917324","Calliandra_dysantha","dysantha","RC Barneby",-16.7723416525899,-47.6137541731285,581
+2962,"NY","NY","632363","Calliandra_bahiana",NA,"GP Lewis",-13.32,-41.83,351
+2982,"NY","NY","00390110","Calliandra_calycina",NA,"RC Barneby",-12.5,-41.45,312
+2984,"NY","NY","00917400","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2987,"NY","NY","00917401","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+2999,"NY","NY","632441","Calliandra_sessilis",NA,"GP Lewis",-13.32,-41.83,351
+3001,"NY","NY","00390162","Calliandra_elegans",NA,"LP de Queiroz",-13.27,-41.9,351
+3003,"NY","NY","408575","Calliandra_nebulosa",NA,"RC Barneby",-13.59829,-41.829003,391
+3013,"NY","NY","00917539","Calliandra_fasciculata","fasciculata","RC Barneby",-18.17,-43.55,668
+3014,"NY","NY","00390163","Calliandra_elegans",NA,"LP de Queiroz",-13.25,-41.9,351
+3022,"NY","NY","00632421","Calliandra_lanata",NA,"LP de Queiroz",-13.32,-41.87,351
+3033,"NY","NY","00917396","Calliandra_dysantha","dysantha","RC Barneby",-15.7834208090807,-47.9298726661488,501
+3035,"NY","NY","00917529","Calliandra_asplenioides",NA,"RC Barneby",-16.5631441886376,-42.889540899897,589
+3038,"NY","NY","00917512","Calliandra_fasciculata",NA,"RC Barneby",-18.2531772779915,-43.6004898201051,668
+3143,"UNIVASF","HVASF","23670","Calliandra_bahiana",NA,"LP de Queiroz",-10.341916,-41.460972,152
+3144,"UNIVASF","HVASF","23658","Calliandra_bahiana",NA,"LP de Queiroz",-10.342861,-41.462333,152
+3229,"JBRJ","RB","RB01386927","Calliandra_coccinea",NA,"VC de Souza",-13.418056,-41.877222,351
+3272,"UEFS","HUEFS","239380","Calliandra_calycina",NA,"LP de Queiroz",-13.394444,-41.2275,352
+3276,"UEFS","HUEFS","239381","Calliandra_longipinna",NA,"LP de Queiroz",-13.394444,-41.2275,352
+3288,"UEFS","HUEFS","239106","Calliandra_asplenioides",NA,"LP de Queiroz",-17.073889,-43.310833,589
+3290,"UEFS","HUEFS","239016","Calliandra_paganuccii",NA,"LP de Queiroz",-13.232778,-41.287778,352
+3319,"USP","SPF","221328","Calliandra_fasciculata",NA,"LM Borges",-17.941667,-43.836983,668
+3545,"USP","SPF","125129","Calliandra_fuscipila",NA,"VC de Souza",-13.121389,-41.773806,351
+3546,"USP","SPF","119900","Calliandra_germana",NA,"VC de Souza",-13.283333,-41.866667,351
+3547,"USP","SPF","119898","Calliandra_germana",NA,"VC de Souza",-13.3,-41.866667,351
+3548,"USP","SPF","111773","Calliandra_fuscipila",NA,"LP de Queiroz",-13.333333,-41.883333,351
+3549,"USP","SPF","111677","Calliandra_germana",NA,"VC de Souza",-13.316667,-41.9,351
+3551,"USP","SPF","95737","Calliandra_germana",NA,"VC de Souza",-13.408333,-41.853611,351
+3552,"USP","SPF","95392","Calliandra_germana",NA,"VC de Souza",-13.08,-41.933056,351
+3553,"USP","SPF","95371","Calliandra_germana",NA,"VC de Souza",-13.08,-41.933056,351
+3555,"USP","SPF","90199","Calliandra_fuscipila",NA,"LP de Queiroz",-13.25,-41.9,351
+3556,"USP","SPF","88644","Calliandra_ganevii",NA,"RC Barneby",-13.266667,-41.783333,351
+3561,"USP","SPF","74244","Calliandra_fuscipila",NA,"GP Lewis",-13.3,-41.883333,351
+3742,"JBRJ","RB","RB01369935","Calliandra_dysantha",NA,"RC Barneby",-15.566667,-48.033333,501
+3759,"JBRJ","RB","RB01353880","Calliandra_fuscipila",NA,"LP de Queiroz",-13.25,-41.9,351
+3760,"JBRJ","RB","RB01353828","Calliandra_coccinea",NA,"LP de Queiroz",-13.303889,-41.833333,351
+3820,"JBRJ","RB","RB01339648","Calliandra_dysantha",NA,"HC de Lima",-14.108333,-42.474722,430
+4285,"Universidade Federal da Bahia","ALCB","127129","Calliandra_bahiana",NA,"ML Guedes",-13.583333,-41.8,391
+4317,"UFRB","HURB","20357","Calliandra_longipinna",NA,"VC de Souza",-13.58125,-41.381806,392
+4318,"UFRB","HURB","20304","Calliandra_longipinna",NA,"VC de Souza",-13.698806,-41.309222,392
+4319,"UFRB","HURB","20300","Calliandra_bahiana",NA,"VC de Souza",-13.698806,-41.309222,392
+4320,"UFRB","HURB","20342","Calliandra_bahiana",NA,"VC de Souza",-13.58125,-41.381806,392
+4346,"Jardim Botânico de Brasília","HEPH","20177","Calliandra_dysantha","dysantha","SA Harris",-15.866667,-47.833333,501
+4348,"Jardim Botânico de Brasília","HEPH","19550","Calliandra_dysantha","dysantha","SA Harris",-15.926389,-47.897778,541
+4364,"Jardim Botânico de Brasília","HEPH","11437","Calliandra_dysantha","dysantha","SA Harris",-15.866667,-47.833333,501
+4380,"Jardim Botânico de Brasília","HEPH","6426","Calliandra_virgata",NA,"SA Harris",-15.4375,-47.5625,501
+4389,"Jardim Botânico de Brasília","HEPH","1702","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+4392,"Jardim Botânico de Brasília","HEPH","1083","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+4394,"Jardim Botânico de Brasília","HEPH","893","Calliandra_dysantha","dysantha","SA Harris",-15.568581,-47.590003,501
+4396,"Jardim Botânico de Brasília","HEPH","883","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+4397,"Jardim Botânico de Brasília","HEPH","739","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+4439,"JBRJ","RB","RB00988167","Calliandra_linearis",NA,"LM Borges",-18.8425,-43.758889,708
+4498,"JBRJ","RB","RB00878635","Calliandra_linearis",NA,"LM Borges",-18.116667,-43.45,668
+4499,"JBRJ","RB","RB00878479","Calliandra_concinna",NA,"LM Borges",-18.197778,-43.491111,668
+4501,"JBRJ","RB","RB00878466","Calliandra_asplenioides",NA,"LM Borges",-18.186944,-43.584722,668
+4515,"JBRJ","RB","RB00867698","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.526944,-41.968056,391
+4556,"JBRJ","RB","RB00820725","Calliandra_bahiana",NA,"LP de Queiroz",-14.553333,-42.557778,430
+4630,"JBRJ","RB","RB00603508","Calliandra_asplenioides",NA,"VC de Souza",-18.908333,-43.789167,748
+4633,"JBRJ","RB","RB00598705","Calliandra_linearis",NA,"JM Fernandes",-18.9475,-43.751111,748
+4648,"JBRJ","RB","RB00580783","Calliandra_fasciculata",NA,"LM Borges",-18.7975,-43.443055,708
+4664,"JBRJ","RB","RB00561589","Calliandra_asplenioides",NA,"LM Borges",-18.524722,-43.449444,708
+4699,"JBRJ","RB","RB00515362","Calliandra_asplenioides",NA,"JM Fernandes",-16.870278,-43.991667,587
+4794,"JBRJ","RB","RB00184054","Calliandra_dysantha",NA,"JM Fernandes",-19.128056,-43.699444,748
+4821,"JBRJ","RB","RB00165713","Calliandra_sessilis",NA,"JM Fernandes",-13.583333,-41.3,392
+4823,"JBRJ","RB","RB00165728","Calliandra_longipinna",NA,"VC de Souza",-13.583333,-41.3,392
+4836,"JBRJ","RB","RB00162451","Calliandra_luetzelburgii",NA,"VC de Souza",-13.55,-41.95,391
+4869,"JBRJ","RB","RB00161184","Calliandra_longipinna",NA,"VC de Souza",-13.133333,-41.383333,352
+4910,"JBRJ","RB","RB00160444","Calliandra_dysantha",NA,"JM Fernandes",-15.956111,-47.881389,541
+4911,"JBRJ","RB","RB00160420","Calliandra_fuscipila",NA,"VC de Souza",-13.55,-41.95,391
+4932,"JBRJ","RB","RB00160376","Calliandra_lanata",NA,"JM Fernandes",-13.5925,-41.830833,391
+5035,"JBRJ","RB","RB00160290","Calliandra_asplenioides",NA,"JM Fernandes",-16.830278,-43.044444,589
+5060,"JBRJ","RB","RB00160228","Calliandra_coccinea",NA,"VC de Souza",-13.069444,-41.808056,351
+5073,"JBRJ","RB","RB00160200","Calliandra_macrocalyx",NA,"GP Lewis",-12.383333,-41.933333,311
+5096,"JBRJ","RB","RB00160206","Calliandra_dysantha",NA,"GP Lewis",-13.816667,-42.65,390
+5097,"JBRJ","RB","RB00160214","Calliandra_asplenioides",NA,"JM Fernandes",-16.853611,-43.032778,589
+5261,"JBRJ","RB","RB00159978","Calliandra_asplenioides",NA,"VC de Souza",-12.6,-41.483333,312
+5277,"JBRJ","RB","RB00159931","Calliandra_erubescens",NA,"LP de Queiroz",-13.08,-41.933056,351
+5280,"JBRJ","RB","RB00159923","Calliandra_asplenioides",NA,"VC de Souza",-13.519167,-41.309167,392
+5301,"JBRJ","RB","RB00159883","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.883333,391
+5315,"JBRJ","RB","RB00159845","Calliandra_sessilis",NA,"JM Fernandes",-13.483333,-41.816667,351
+5345,"JBRJ","RB","RB00159773","Calliandra_sessilis",NA,"JM Fernandes",-13.633333,-41.466667,392
+5450,"Universidade Federal da Bahia","ALCB","92816A","Calliandra_longipinna",NA,"VC de Souza",-13.684167,-41.298611,392
+5451,"Universidade Federal da Bahia","ALCB","92831A","Calliandra_longipinna",NA,"VC de Souza",-13.684167,-41.298611,392
+5463,"Universidade Federal da Bahia","ALCB","89363","Calliandra_macrocalyx",NA,"VC de Souza",-12.396389,-41.9175,311
+5465,"Universidade Federal da Bahia","ALCB","80446","Calliandra_bella",NA,"VC de Souza",-11.398611,-42.535556,230
+5466,"Universidade Federal da Bahia","ALCB","72695","Calliandra_lanata",NA,"VC de Souza",-13.5925,-41.830833,391
+5475,"Universidade Federal da Bahia","ALCB","59715","Calliandra_bahiana",NA,"LP de Queiroz",-13.265278,-42.106111,351
+5486,"Universidade Federal da Bahia","ALCB","036409","Calliandra_dysantha",NA,"VC de Souza",-14.087778,-42.505278,430
+5537,"MNHN","P","P01167568","Calliandra_luetzelburgii",NA,"VC de Souza",-13.49306,-41.86889,391
+5540,"MNHN","P","P01167567","Calliandra_asplenioides",NA,"VC de Souza",-15.97972,-42.4375,550
+5541,"MNHN","P","P01167569","Calliandra_luetzelburgii",NA,"VC de Souza",-13.31667,-41.83333,351
+5542,"MNHN","P","P01167558","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.73083,-41.50917,312
+5545,"MNHN","P","P01167570","Calliandra_luetzelburgii",NA,"VC de Souza",-13.49306,-41.86889,391
+5546,"MNHN","P","P01167557","Calliandra_silvicola",NA,"VC de Souza",-13.11361,-41.55917,351
+5547,"MNHN","P","P01167552","Calliandra_bahiana",NA,"VC de Souza",-13.59778,-41.82806,391
+5549,"MNHN","P","P01167541","Calliandra_renvoizeana",NA,"VC de Souza",-12.73083,-41.50917,312
+5556,"MNHN","P","P01167508","Calliandra_erubescens",NA,"VC de Souza",-13.59778,-41.82861,391
+5557,"MNHN","P","P01167501","Calliandra_longipinna",NA,"VC de Souza",-13.57806,-41.39472,392
+5558,"MNHN","P","P01167497","Calliandra_luetzelburgii",NA,"VC de Souza",-13.53056,-41.86361,391
+5582,"UESC","UESC","2288","Calliandra_fuscipila",NA,"LP de Queiroz",-13.033333,-41.833333,351
+5585,"USP","SPF","204479","Calliandra_dysantha",NA,"LM Borges",-19.360917,-43.619167,748
+5586,"USP","SPF","204469","Calliandra_elegans",NA,"GP Lewis",-13.466667,-41.833333,351
+5595,"USP","SPF","201752","Calliandra_asplenioides",NA,"LM Borges",-18.314056,-43.551333,708
+5597,"USP","SPF","201592","Calliandra_asplenioides",NA,"LM Borges",-18.238083,-43.649689,668
+5602,"USP","SPF","198659","Calliandra_fasciculata",NA,"LM Borges",-18.769444,-43.745833,708
+5605,"USP","SPF","198358","Calliandra_bella",NA,"VC de Souza",-11.398611,-42.535556,230
+5606,"USP","SPF","198680","Calliandra_linearis",NA,"LM Borges",-18.799167,-43.709722,708
+5609,"USP","SPF","198657","Calliandra_linearis",NA,"LM Borges",-18.3075,-43.8975,708
+5610,"USP","SPF","198679","Calliandra_fasciculata","fasciculata","LM Borges",-18.799167,-43.709722,708
+5613,"USP","SPF","197027","Calliandra_dysantha",NA,"LM Borges",-19.353306,-43.624556,748
+5614,"USP","SPF","198660","Calliandra_iligna",NA,"LM Borges",-18.769444,-43.745833,708
+5615,"USP","SPF","196267","Calliandra_erubescens",NA,"LM Borges",-13.052778,-41.953889,351
+5629,"USP","SPF","185532","Calliandra_dysantha",NA,"LM Borges",-17.689694,-44.20275,667
+5637,"USP","SPF","183799","Calliandra_asplenioides",NA,"LM Borges",-16.870278,-43.991667,587
+5644,"USP","SPF","183587","Calliandra_fasciculata",NA,"LM Borges",-18.7975,-43.443056,708
+5645,"USP","SPF","183801","Calliandra_dysantha",NA,"LM Borges",-19.128056,-43.699444,748
+5646,"USP","SPF","183098","Calliandra_asplenioides",NA,"LM Borges",-18.524722,-43.449444,708
+5650,"USP","SPF","182788","Calliandra_fasciculata","fasciculata","LM Borges",-19.006111,-43.755556,748
+5659,"USP","SPF","179038","Calliandra_linearis",NA,"LM Borges",-18.842583,-43.758917,708
+5663,"USP","SPF","179645","Calliandra_bella",NA,"VC de Souza",-11.398611,-42.535556,230
+5666,"USP","SPF","176842","Calliandra_fasciculata",NA,"LM Borges",-18.453167,-43.336083,709
+5669,"USP","SPF","175576","Calliandra_dysantha","dysantha","JM Fernandes",-19.22625,-43.666111,748
+5670,"USP","SPF","175574","Calliandra_dysantha",NA,"JM Fernandes",-16.424583,-43.2195,549
+5681,"USP","SPF","169775","Calliandra_coccinea",NA,"VC de Souza",-13.069444,-41.808056,351
+5682,"USP","SPF","169550","Calliandra_bahiana",NA,"VC de Souza",-13.433333,-41.5,352
+5683,"USP","SPF","169774","Calliandra_asplenioides",NA,"JM Fernandes",-16.830278,-43.044444,589
+5724,"USP","SPF","164260","Calliandra_fasciculata",NA,"JM Fernandes",-18.810833,-43.7525,708
+5725,"USP","SPF","164443","Calliandra_dysantha",NA,"CEB Proença",-15.579833,-47.4595,502
+5727,"USP","SPF","161175","Calliandra_macrocalyx",NA,"VC de Souza",-14.184444,-42.493056,430
+5728,"USP","SPF","162359","Calliandra_nebulosa",NA,"VC de Souza",-13.005556,-41.434167,352
+5731,"USP","SPF","159902","Calliandra_sessilis",NA,"VC de Souza",-14.088611,-42.505278,430
+5745,"USP","SPF","155143","Calliandra_semisepulta",NA,"VC de Souza",-13.534444,-41.8775,391
+5768,"USP","SPF","142729","Calliandra_dysantha","dysantha","JM Fernandes",-16.716667,-47.633333,581
+5775,"USP","SPF","140922","Calliandra_asplenioides",NA,"VC de Souza",-13.404722,-41.233611,352
+5779,"USP","SPF","140923","Calliandra_asplenioides",NA,"VC de Souza",-13.404722,-41.233611,352
+5781,"USP","SPF","140921","Calliandra_viscidula",NA,"VC de Souza",-13.404722,-41.233611,352
+5783,"USP","SPF","140459","Calliandra_sessilis",NA,"JM Fernandes",-13.444306,-41.406417,352
+5785,"USP","SPF","138343","Calliandra_sessilis",NA,"LP de Queiroz",-10.366667,-41.316667,152
+5793,"USP","SPF","133904","Calliandra_bahiana",NA,"LP de Queiroz",-13.574444,-41.840556,391
+5798,"USP","SPF","129986","Calliandra_mucugeana",NA,"VC de Souza",-12.97,-41.335,352
+5800,"USP","SPF","129988","Calliandra_sessilis",NA,"VC de Souza",-14.087778,-42.505278,430
+5802,"USP","SPF","129337","Calliandra_lanata",NA,"VC de Souza",-13.5925,-41.830833,391
+5803,"USP","SPF","129336","Calliandra_sessilis",NA,"VC de Souza",-13.5925,-41.830833,391
+5804,"USP","SPF","129338","Calliandra_longipinna",NA,"VC de Souza",-13.690833,-41.316667,392
+5805,"USP","SPF","129020","Calliandra_asplenioides",NA,"VC de Souza",-13.005556,-41.563333,351
+5807,"USP","SPF","129637","Calliandra_linearis",NA,"LM Borges",-18.916667,-43.683333,748
+5809,"USP","SPF","127085","Calliandra_asplenioides",NA,"JM Fernandes",-11.590556,-41.207222,232
+5810,"USP","SPF","127086","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+5813,"USP","SPF","125130","Calliandra_asplenioides",NA,"VC de Souza",-13.126111,-41.758333,351
+5822,"USP","SPF","121629","Calliandra_viscidula",NA,"VC de Souza",-13.149167,-41.766111,351
+5825,"USP","SPF","119905","Calliandra_bahiana",NA,"VC de Souza",-13.283333,-41.883333,351
+5829,"USP","SPF","119908","Calliandra_lanata",NA,"LP de Queiroz",-13.316667,-41.85,351
+5830,"USP","SPF","119896","Calliandra_bahiana",NA,"VC de Souza",-13.366667,-41.816667,351
+5831,"USP","SPF","119897","Calliandra_sessilis",NA,"VC de Souza",-13.366667,-41.816667,351
+5832,"USP","SPF","119906","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.3,-41.85,351
+5833,"USP","SPF","119901","Calliandra_asplenioides",NA,"VC de Souza",-13.316667,-41.85,351
+5834,"USP","SPF","119907","Calliandra_lanata",NA,"LP de Queiroz",-13.316667,-41.866667,351
+5836,"USP","SPF","119899","Calliandra_semisepulta",NA,"VC de Souza",-13.316667,-41.866667,351
+5837,"USP","SPF","119902","Calliandra_bahiana",NA,"VC de Souza",-13.316667,-41.833333,351
+5838,"USP","SPF","119904","Calliandra_elegans",NA,"VC de Souza",-13.283333,-41.883333,351
+5848,"USP","SPF","113770","Calliandra_elegans",NA,"LP de Queiroz",-13.3,-41.883333,351
+5851,"USP","SPF","113769","Calliandra_asplenioides",NA,"VC de Souza",-13.283333,-41.883333,351
+5853,"USP","SPF","113766","Calliandra_semisepulta",NA,"VC de Souza",-13.45,-41.833333,351
+5859,"USP","SPF","111908","Calliandra_sessilis",NA,"LP de Queiroz",-13.316667,-41.833333,351
+5860,"USP","SPF","111903","Calliandra_coccinea",NA,"LP de Queiroz",-13.316667,-41.833333,351
+5862,"USP","SPF","111896","Calliandra_sessilis",NA,"LP de Queiroz",-13.316667,-41.833333,351
+5863,"USP","SPF","112197","Calliandra_parvifolia",NA,"LP de Queiroz",-13.4,-41.783333,351
+5864,"USP","SPF","111893","Calliandra_parvifolia",NA,"LP de Queiroz",-13.316667,-41.833333,351
+5866,"USP","SPF","111895","Calliandra_bahiana",NA,"LP de Queiroz",-13.316667,-41.833333,351
+5867,"USP","SPF","111764","Calliandra_asplenioides",NA,"VC de Souza",-13.283333,-41.9,351
+5868,"USP","SPF","111753","Calliandra_semisepulta",NA,"VC de Souza",-13.283333,-41.9,351
+5874,"USP","SPF","104941","Calliandra_viscidula",NA,"VC de Souza",-13.033333,-41.383333,352
+5876,"USP","SPF","104996","Calliandra_viscidula",NA,"LP de Queiroz",-13.466944,-41.454167,352
+5882,"USP","SPF","104148","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.472222,-41.470833,312
+5888,"USP","SPF","100283","Calliandra_asplenioides",NA,"VC de Souza",-18.166667,-43.833333,668
+5891,"USP","SPF","96768","Calliandra_macrocalyx",NA,"LP de Queiroz",-14.421944,-42.551111,430
+5896,"USP","SPF","95699","Calliandra_lanata",NA,"LP de Queiroz",-13.408333,-41.853611,351
+5897,"USP","SPF","95696","Calliandra_elegans",NA,"VC de Souza",-13.408333,-41.853611,351
+5898,"USP","SPF","94870","Calliandra_renvoizeana",NA,"VC de Souza",-12.975,-41.342222,352
+5900,"USP","SPF","95594","Calliandra_bahiana",NA,"LP de Queiroz",-13.597778,-41.828611,391
+5903,"USP","SPF","94899","Calliandra_viscidula",NA,"VC de Souza",-12.975,-41.342222,352
+5905,"USP","SPF","95362","Calliandra_stelligera",NA,"VC de Souza",-13.08,-41.933056,351
+5909,"USP","SPF","95677","Calliandra_semisepulta",NA,"VC de Souza",-13.408333,-41.853611,351
+5913,"USP","SPF","94790","Calliandra_sessilis",NA,"LP de Queiroz",-12.654167,-41.564167,311
+5914,"USP","SPF","92226","Calliandra_semisepulta",NA,"VC de Souza",-13.233333,-41.9,351
+5915,"USP","SPF","92156","Calliandra_elegans",NA,"LP de Queiroz",-13.266667,-41.9,351
+5917,"USP","SPF","90819","Calliandra_semisepulta",NA,"VC de Souza",-13.25,-41.9,351
+5918,"USP","SPF","90256","Calliandra_asplenioides",NA,"VC de Souza",-13.25,-41.9,351
+5919,"USP","SPF","90293","Calliandra_coccinea",NA,"LP de Queiroz",-13.25,-41.9,351
+5920,"USP","SPF","90558","Calliandra_coccinea",NA,"LP de Queiroz",-13.3,-41.833333,351
+5921,"USP","SPF","90214","Calliandra_bahiana",NA,"LP de Queiroz",-13.216667,-41.833333,351
+5922,"USP","SPF","88018","Calliandra_elegans",NA,"LP de Queiroz",-13.3,-41.783333,351
+5923,"USP","SPF","88897","Calliandra_nebulosa",NA,"LP de Queiroz",-13.316667,-41.85,351
+5924,"USP","SPF","87741","Calliandra_coccinea",NA,"LP de Queiroz",-13.266667,-41.9,351
+5925,"USP","SPF","88167","Calliandra_parvifolia",NA,"VC de Souza",-13.283333,-41.866667,351
+5927,"USP","SPF","87887","Calliandra_parvifolia",NA,"VC de Souza",-13.316667,-41.85,351
+5928,"USP","SPF","88088","Calliandra_lanata",NA,"LP de Queiroz",-13.266667,-41.883333,351
+5929,"USP","SPF","87820","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-13.216667,-41.9,351
+5930,"USP","SPF","87866","Calliandra_nebulosa",NA,"LP de Queiroz",-13.1,-41.783333,351
+5932,"USP","SPF","87722","Calliandra_nebulosa",NA,"LP de Queiroz",-13.316667,-41.816667,351
+5933,"USP","SPF","88034","Calliandra_elegans",NA,"LM Borges",-13.3,-41.866667,351
+5934,"USP","SPF","87794","Calliandra_mucugeana",NA,"LP de Queiroz",-13.233333,-41.383333,352
+5950,"USP","SPF","79122","Calliandra_parvifolia",NA,"VC de Souza",-13.533333,-41.9,391
+5951,"USP","SPF","79123","Calliandra_lanata",NA,"VC de Souza",-13.516667,-42,391
+5952,"USP","SPF","77718","Calliandra_viscidula",NA,"RC Barneby",-12.983333,-41.333333,352
+5953,"USP","SPF","77536","Calliandra_dysantha",NA,"JM Fernandes",-19.333333,-43.583333,748
+5954,"USP","SPF","77260","Calliandra_asplenioides",NA,"RC Barneby",-16.866667,-43.016667,589
+5955,"USP","SPF","77325","Calliandra_dysantha",NA,"VC de Souza",-17.7,-44.283333,667
+5956,"USP","SPF","79126","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.516667,-41.966667,391
+5966,"USP","SPF","74576","Calliandra_luetzelburgii",NA,"GP Lewis",-13.533333,-41.966667,391
+5967,"USP","SPF","74242","Calliandra_semisepulta",NA,"VC de Souza",-13.3,-41.883333,351
+5968,"USP","SPF","74237","Calliandra_bahiana",NA,"GP Lewis",-13.3,-41.883333,351
+5969,"USP","SPF","74575","Calliandra_luetzelburgii",NA,"GP Lewis",-13.533333,-41.933333,391
+5970,"USP","SPF","74577","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.466667,-41.833333,351
+5971,"USP","SPF","74235","Calliandra_lanata",NA,"VC de Souza",-13.533333,-41.95,391
+5973,"USP","SPF","74238","Calliandra_erubescens",NA,"GP Lewis",-13.3,-41.883333,351
+5983,"USP","SPF","62310","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.533333,-41.966667,391
+5985,"USP","SPF","62399","Calliandra_semisepulta",NA,"VC de Souza",-13.5,-41.983333,391
+5986,"USP","SPF","62261","Calliandra_semisepulta",NA,"VC de Souza",-13.533333,-41.9,391
+5993,"USP","SPF","60676","Calliandra_asplenioides",NA,"VC de Souza",-17.7,-44.233333,667
+6013,"USP","SPF","40163","Calliandra_paterna",NA,"VC de Souza",-12.5,-41.45,312
+6016,"USP","SPF","38714","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+6051,"USP","SPF","34788","Calliandra_dysantha",NA,"SA Renvoize",-14.116667,-42.483333,430
+6053,"USP","SPF","34796","Calliandra_crassipes",NA,"SA Renvoize",-13.583333,-41.3,392
+6054,"USP","SPF","34791","Calliandra_sessilis",NA,"VC de Souza",-14.116667,-42.483333,430
+6055,"USP","SPF","34772","Calliandra_calycina",NA,"VC de Souza",-13.016667,-41.4,352
+6056,"USP","SPF","34807","Calliandra_asplenioides",NA,"VC de Souza",-13.583333,-41.45,392
+6057,"USP","SPF","34793","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.483333,-41.816667,351
+6062,"USP","SPF","34786","Calliandra_mucugeana",NA,"SA Renvoize",-13.016667,-41.4,352
+6063,"USP","SPF","34792","Calliandra_hirsuticaulis",NA,"SA Renvoize",-12.6,-41.483333,312
+6066,"USP","SPF","34775","Calliandra_calycina",NA,"VC de Souza",-12.95,-41.333333,352
+6067,"USP","SPF","34795","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+6069,"USP","SPF","34784","Calliandra_viscidula",NA,"SA Renvoize",-13.016667,-41.4,352
+6071,"USP","SPF","34777","Calliandra_calycina",NA,"VC de Souza",-12.95,-41.333333,352
+6074,"USP","SPF","34785","Calliandra_viscidula",NA,"SA Renvoize",-13.016667,-41.4,352
+6083,"USP","SPF","19933","Calliandra_viscidula",NA,"VC de Souza",-12.95,-41.35,352
+6160,"MPEG","HERBMG","MG129834","Calliandra_mucugeana",NA,"VC de Souza",-13.519167,-41.309167,392
+6384,"UEFS","HUEFS","221679","Calliandra_asplenioides",NA,"LP de Queiroz",-16.358611,-42.878611,549
+6437,"Universidade Federal da Bahia","ALCB","82948","Calliandra_luetzelburgii",NA,"VC de Souza",-13.493056,-41.868889,391
+6472,"Universidade Federal da Bahia","ALCB","15972","Calliandra_macrocalyx",NA,"VC de Souza",-12.416667,-42.066667,311
+6512,"UEFS","HUEFS","220991","Calliandra_fasciculata",NA,"VC de Souza",-18.029167,-43.788889,668
+6554,"MO","MO","2893896","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.33333,352
+6674,"MO","MO","2889121","Calliandra_coccinea",NA,"GP Lewis",-13.25,-41.9,351
+6805,"MO","MO","2887367","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53333,-41.96666,391
+6819,"MO","MO","2887232","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53333,-41.93333,391
+6828,"MO","MO","2887143","Calliandra_asplenioides",NA,"GP Lewis",-13.25,-41.9,351
+6853,"MO","MO","2886883","Calliandra_luetzelburgii",NA,"RC Barneby",-13.38888,-41.89694,351
+6866,"MO","MO","2886821","Calliandra_semisepulta",NA,"GP Lewis",-13.25,-41.9,351
+6892,"MO","MO","2886608","Calliandra_fuscipila",NA,"GP Lewis",-13.25,-41.9,351
+6924,"MO","MO","2738864","Calliandra_hygrophila",NA,"RC Barneby",-13.01666,-41.4,352
+6943,"USP","SPF","87926","Calliandra_asplenioides",NA,"VC de Souza",-13.283333,-41.883333,351
+6978,"W","Herbarium W","1889-0124612","Calliandra_sessilis",NA,"LP de Queiroz",-11.5,-42.5,230
+7290,"UnB","UB","190406","Calliandra_linearis",NA,"JW Grimes",-19.316667,-43.6,748
+7301,"UnB","UB","180520","Calliandra_dysantha",NA,"JS Silva",-15.916667,-47.891111,541
+7309,"UnB","UB","167805","Calliandra_asplenioides",NA,"SA Harris",-18.233611,-43.583611,668
+7346,"UnB","UB","128780","Calliandra_luetzelburgii",NA,"VC de Souza",-13.316667,-41.833333,351
+7357,"UnB","UB","128776","Calliandra_fuscipila",NA,"LP de Queiroz",-13.033333,-41.833333,351
+7383,"UnB","UB","128728","Calliandra_asplenioides",NA,"RC Barneby",-18.166667,-43.833333,668
+7413,"UnB","UB","113592","Calliandra_linearis",NA,"JM Fernandes",-19.316667,-43.6,748
+7421,"UnB","UB","113545","Calliandra_asplenioides",NA,"RC Barneby",-18.25,-43.666667,668
+7443,"UnB","UB","111098","Calliandra_dysantha",NA,"CEB Proença",-16.733833,-47.620167,581
+8032,"MBM","MBM","105421","Calliandra_hygrophila",NA,"VC de Souza",-13.016667,-41.4,352
+8313,"Cenargen","CEN","84620","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.531944,-41.966388,391
+8314,"Cenargen","CEN","84619","Calliandra_erubescens",NA,"LP de Queiroz",-13.531944,-41.966388,391
+8315,"Cenargen","CEN","84624","Calliandra_parvifolia",NA,"LP de Queiroz",-13.2925,-41.543055,352
+8318,"Cenargen","CEN","84616","Calliandra_fuscipila",NA,"LP de Queiroz",-13.531944,-41.966388,391
+8319,"Cenargen","CEN","84617","Calliandra_nebulosa",NA,"LP de Queiroz",-13.531944,-41.966388,391
+8320,"Cenargen","CEN","84608","Calliandra_renvoizeana",NA,"LP de Queiroz",-13.077222,-41.375277,352
+8355,"Cenargen","CEN","69393","Calliandra_semisepulta",NA,"VC de Souza",-13.311666,-41.5625,351
+8374,"Cenargen","CEN","62457","Calliandra_bahiana",NA,"VC de Souza",-11.536944,-41.153333,232
+8422,"Cenargen","CEN","42597","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.285555,-41.826666,311
+8458,"Cenargen","CEN","23002","Calliandra_dysantha","dysantha","SA Harris",-15.670277,-47.878611,501
+8560,"UEFS","HUEFS","213881","Calliandra_sessilis",NA,"LP de Queiroz",-13.518889,-41.870278,391
+8561,"UEFS","HUEFS","213894","Calliandra_sessilis",NA,"LP de Queiroz",-13.6975,-41.301111,392
+8564,"UEFS","HUEFS","213895","Calliandra_bahiana",NA,"LP de Queiroz",-13.698056,-41.301944,392
+8568,"UEFS","HUEFS","213885","Calliandra_bahiana",NA,"LP de Queiroz",-13.519167,-41.940278,391
+8569,"UEFS","HUEFS","213883","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.530556,-41.863611,391
+8570,"UEFS","HUEFS","213886","Calliandra_fuscipila",NA,"LP de Queiroz",-13.519167,-41.940278,391
+8572,"UEFS","HUEFS","213884","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.517778,-41.915278,391
+8573,"UEFS","HUEFS","213882","Calliandra_germana",NA,"LP de Queiroz",-13.450833,-41.829167,351
+8574,"UEFS","HUEFS","213879","Calliandra_sessilis",NA,"LP de Queiroz",-13.073611,-41.803611,351
+8575,"UEFS","HUEFS","213880","Calliandra_geraisensis",NA,"LP de Queiroz",-13.073611,-41.803611,351
+8602,"UEFS","HUEFS","207124","Calliandra_bahiana",NA,"LP de Queiroz",-13.121944,-41.699722,351
+8658,"UEFS","HUEFS","203638","Calliandra_calycina",NA,"VC de Souza",-12.961111,-41.305833,352
+8669,"UEFS","HUEFS","200744","Calliandra_viscidula",NA,"LP de Queiroz",-13.445833,-41.38,352
+8709,"UEFS","HUEFS","193675","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.526944,-41.968056,391
+8716,"UEFS","HUEFS","193662","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.526944,-41.968056,391
+8760,"UEFS","HUEFS","190871","Calliandra_sessilis",NA,"LP de Queiroz",-12.683333,-41.516667,312
+8787,"UEFS","HUEFS","185881","Calliandra_paterna",NA,"VC de Souza",-12.638056,-41.503056,312
+8792,"UEFS","HUEFS","185049","Calliandra_asplenioides",NA,"VC de Souza",-14.877222,-43.039722,469
+8793,"UEFS","HUEFS","185046","Calliandra_dysantha",NA,"LP de Queiroz",-14.936667,-43.011389,469
+8797,"UEFS","HUEFS","182412","Calliandra_fasciculata",NA,"LP de Queiroz",-16.113611,-42.78,549
+8808,"UEFS","HUEFS","179547","Calliandra_lanata",NA,"VC de Souza",-13.449167,-41.752222,351
+8853,"UEFS","HUEFS","173858","Calliandra_asplenioides",NA,"VC de Souza",-14.887222,-42.519444,470
+8930,"UEFS","HUEFS","166475","Calliandra_fuscipila",NA,"VC de Souza",-13.517778,-41.943611,391
+8934,"UEFS","HUEFS","165721","Calliandra_dysantha",NA,"VC de Souza",-12.033611,-42.689722,270
+8947,"UEFS","HUEFS","165337","Calliandra_asplenioides",NA,"VC de Souza",-15.223889,-42.811944,469
+8948,"UEFS","HUEFS","165323","Calliandra_asplenioides",NA,"VC de Souza",-15.22,-42.808333,469
+8977,"UEFS","HUEFS","160606","Calliandra_involuta",NA,"LP de Queiroz",-13.284722,-41.887778,351
+8979,"UEFS","HUEFS","160607","Calliandra_geraisensis",NA,"VC de Souza",-13.069722,-41.806667,351
+8981,"UEFS","HUEFS","160337","Calliandra_parvifolia",NA,"VC de Souza",-13.127778,-41.840556,351
+8998,"UEFS","HUEFS","156811","Calliandra_asplenioides",NA,"LP de Queiroz",-18.113611,-43.056389,669
+8999,"UEFS","HUEFS","156799","Calliandra_fuscipila",NA,"LP de Queiroz",-17.080833,-43.310278,589
+9073,"UEFS","HUEFS","142977","Calliandra_bromelioides",NA,"VC de Souza",-12.75,-41.5,312
+9087,"UEFS","HUEFS","140549","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.616667,-41.566667,311
+9088,"UEFS","HUEFS","139757","Calliandra_stelligera",NA,"VC de Souza",-13.335556,-42.100278,351
+9089,"UEFS","HUEFS","139758","Calliandra_bahiana",NA,"VC de Souza",-13.335556,-42.100278,351
+9091,"UEFS","HUEFS","138221","Calliandra_erubescens",NA,"VC de Souza",-11.361944,-40.527778,233
+9097,"UEFS","HUEFS","138215","Calliandra_calycina",NA,"VC de Souza",-11.368611,-40.528056,233
+9126,"UEFS","HUEFS","138207","Calliandra_calycina",NA,"VC de Souza",-11.398333,-40.537778,233
+9144,"UEFS","HUEFS","135870","Calliandra_asplenioides",NA,"VC de Souza",-12.613611,-41.574167,311
+9149,"UEFS","HUEFS","134780","Calliandra_mucugeana",NA,"LP de Queiroz",-12.758333,-41.508333,312
+9152,"UEFS","HUEFS","133042","Calliandra_sessilis",NA,"LP de Queiroz",-13.270833,-42.103333,351
+9166,"UEFS","HUEFS","127796","Calliandra_mucugeana",NA,"VC de Souza",-12.966667,-41.333333,352
+9167,"UEFS","HUEFS","127785","Calliandra_viscidula",NA,"VC de Souza",-12.966667,-41.333333,352
+9193,"UEFS","HUEFS","124473","Calliandra_fasciculata",NA,"VC de Souza",-18.1675,-43.710278,668
+9197,"UEFS","HUEFS","123666","Calliandra_coccinea",NA,"VC de Souza",-13.591389,-41.799722,391
+9200,"UEFS","HUEFS","123635","Calliandra_bahiana",NA,"VC de Souza",-13.533611,-41.8775,391
+9203,"UEFS","HUEFS","123642","Calliandra_sessilis",NA,"VC de Souza",-13.554722,-41.845278,391
+9204,"UEFS","HUEFS","123673","Calliandra_germana",NA,"VC de Souza",-13.518333,-41.915278,391
+9205,"UEFS","HUEFS","123660","Calliandra_asplenioides",NA,"VC de Souza",-13.079167,-41.887778,351
+9212,"UEFS","HUEFS","123083","Calliandra_nebulosa",NA,"VC de Souza",-13.118889,-41.386944,352
+9225,"UEFS","HUEFS","121950","Calliandra_erubescens",NA,"VC de Souza",-11.439444,-41.193333,232
+9228,"UEFS","HUEFS","121465","Calliandra_erubescens",NA,"VC de Souza",-11.44,-41.194167,232
+9232,"UEFS","HUEFS","121024","Calliandra_macrocalyx",NA,"VC de Souza",-12.034722,-42.677778,270
+9233,"UEFS","HUEFS","120929","Calliandra_dysantha",NA,"VC de Souza",-12.0375,-42.680556,270
+9242,"UEFS","HUEFS","119829","Calliandra_erubescens",NA,"VC de Souza",-11.44,-41.194167,232
+9243,"UEFS","HUEFS","119752","Calliandra_bahiana",NA,"VC de Souza",-11.586667,-41.208889,232
+9264,"UEFS","HUEFS","114398","Calliandra_bahiana",NA,"VC de Souza",-11.585833,-41.202778,232
+9270,"UEFS","HUEFS","112849","Calliandra_renvoizeana",NA,"VC de Souza",-13.083333,-41.366667,352
+9271,"UEFS","HUEFS","112839","Calliandra_renvoizeana",NA,"VC de Souza",-12.730833,-41.509167,312
+9272,"UEFS","HUEFS","112848","Calliandra_bromelioides",NA,"VC de Souza",-13.083333,-41.366667,352
+9273,"UEFS","HUEFS","112842","Calliandra_viscidula",NA,"VC de Souza",-12.730833,-41.509167,312
+9274,"UEFS","HUEFS","112840","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.730833,-41.509167,312
+9275,"UEFS","HUEFS","112846","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.083333,-41.366667,352
+9276,"UEFS","HUEFS","112714","Calliandra_mucugeana",NA,"VC de Souza",-12.775833,-41.478333,312
+9283,"UEFS","HUEFS","112659","Calliandra_sessilis",NA,"VC de Souza",-16.561667,-42.874444,589
+9290,"UEFS","HUEFS","111665","Calliandra_silvicola",NA,"VC de Souza",-13.113611,-41.559167,351
+9291,"UEFS","HUEFS","111535","Calliandra_luetzelburgii",NA,"VC de Souza",-13.530556,-41.863611,391
+9292,"UEFS","HUEFS","111439","Calliandra_renvoizeana",NA,"VC de Souza",-13.087222,-41.3775,352
+9348,"UEFS","HUEFS","110010","Calliandra_calycina",NA,"VC de Souza",-11.3925,-40.539722,233
+9354,"UEFS","HUEFS","108196","Calliandra_asplenioides",NA,"VC de Souza",-15.979722,-42.4375,550
+9369,"UEFS","HUEFS","106860","Calliandra_cumbucana",NA,"VC de Souza",-12.85,-41.5,312
+9372,"UEFS","HUEFS","106750","Calliandra_semisepulta",NA,"VC de Souza",-13.25,-41.896667,351
+9381,"UEFS","HUEFS","105345","Calliandra_fuscipila",NA,"VC de Souza",-13.048333,-41.891389,351
+9386,"UEFS","HUEFS","104457","Calliandra_asplenioides",NA,"VC de Souza",-16.216944,-42.871389,549
+9387,"UEFS","HUEFS","104458","Calliandra_asplenioides",NA,"VC de Souza",-16.216944,-42.871389,549
+9390,"UEFS","HUEFS","104283","Calliandra_longipinna",NA,"VC de Souza",-13.690833,-41.316667,392
+9391,"UEFS","HUEFS","104286","Calliandra_longipinna",NA,"VC de Souza",-13.690833,-41.316667,392
+9392,"UEFS","HUEFS","104247","Calliandra_semisepulta",NA,"VC de Souza",-13.311667,-41.5625,351
+9393,"UEFS","HUEFS","104214","Calliandra_sessilis",NA,"LP de Queiroz",-13.311667,-41.5625,351
+9394,"UEFS","HUEFS","104224","Calliandra_viscidula",NA,"VC de Souza",-13.311667,-41.5625,351
+9399,"UEFS","HUEFS","103082","Calliandra_calycina",NA,"VC de Souza",-12.463889,-41.457778,312
+9401,"UEFS","HUEFS","102867","Calliandra_bahiana",NA,"VC de Souza",-12.86,-41.514167,312
+9402,"UEFS","HUEFS","102825","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.885,-41.528611,352
+9403,"UEFS","HUEFS","102389","Calliandra_lintea",NA,"VC de Souza",-12.45,-41.45,312
+9417,"UEFS","HUEFS","99557","Calliandra_asplenioides",NA,"VC de Souza",-12.511944,-41.496667,312
+9418,"UEFS","HUEFS","99531","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.498889,-41.505,312
+9427,"UEFS","HUEFS","98671","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.442778,-41.753056,351
+9436,"UEFS","HUEFS","96964","Calliandra_asplenioides",NA,"VC de Souza",-12.75,-41.5,312
+9445,"UEFS","HUEFS","95573","Calliandra_nebulosa",NA,"VC de Souza",-13.084722,-41.377778,352
+9454,"UEFS","HUEFS","94697","Calliandra_fuscipila",NA,"VC de Souza",-12.75,-41.5,312
+9455,"UEFS","HUEFS","94684","Calliandra_hirtiflora",NA,"VC de Souza",-12.730833,-41.509167,312
+9456,"UEFS","HUEFS","94688","Calliandra_calycina",NA,"VC de Souza",-12.716667,-41.5,312
+9464,"UEFS","HUEFS","94238","Calliandra_dysantha",NA,"VC de Souza",-19.216111,-43.499444,748
+9467,"UEFS","HUEFS","93982","Calliandra_asplenioides",NA,"VC de Souza",-17.692778,-44.198889,667
+9473,"UEFS","HUEFS","93008","Calliandra_fuscipila",NA,"VC de Souza",-13.55,-41.816667,391
+9474,"UEFS","HUEFS","93000","Calliandra_germana",NA,"VC de Souza",-13.55,-41.816667,391
+9477,"UEFS","HUEFS","92587","Calliandra_asplenioides",NA,"VC de Souza",-12.733333,-41.5,312
+9479,"UEFS","HUEFS","92573","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.733333,-41.5,312
+9481,"UEFS","HUEFS","91769","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.076667,-41.377778,352
+9483,"UEFS","HUEFS","91786","Calliandra_germana",NA,"VC de Souza",-13.076667,-41.377778,352
+9484,"UEFS","HUEFS","91663","Calliandra_bromelioides",NA,"VC de Souza",-13.073333,-41.379444,352
+9523,"UEFS","HUEFS","85217","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.077222,-41.375278,352
+9551,"UEFS","HUEFS","82843","Calliandra_asplenioides",NA,"VC de Souza",-17.080556,-43.315833,589
+9555,"UEFS","HUEFS","80942","Calliandra_fasciculata",NA,"VC de Souza",-19.143611,-43.553056,748
+9711,"UEFS","HUEFS","73886","Calliandra_bahiana",NA,"VC de Souza",-13.299722,-41.716667,351
+9800,"UEFS","HUEFS","60635","Calliandra_viscidula",NA,"LP de Queiroz",-13.446944,-41.538333,352
+9803,"UEFS","HUEFS","60620","Calliandra_elegans",NA,"VC de Souza",-13.446944,-41.538333,352
+9807,"UEFS","HUEFS","60481","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-12.455556,-41.466389,312
+9811,"UEFS","HUEFS","59782","Calliandra_sessilis",NA,"LP de Queiroz",-13.119722,-41.390278,352
+9820,"UEFS","HUEFS","59033","Calliandra_sessilis",NA,"VC de Souza",-10.341667,-41.397222,152
+9841,"UEFS","HUEFS","55840","Calliandra_semisepulta",NA,"GP Lewis",-13.534444,-41.8775,391
+9865,"UEFS","HUEFS","52644","Calliandra_macrocalyx",NA,"LP de Queiroz",-13.761111,-42.375,390
+9903,"UEFS","HUEFS","50055","Calliandra_sessilis",NA,"LP de Queiroz",-13.509722,-41.872778,391
+9906,"UEFS","HUEFS","50020","Calliandra_lanata",NA,"LP de Queiroz",-13.5275,-41.862778,391
+9909,"UEFS","HUEFS","49622","Calliandra_parvifolia",NA,"LP de Queiroz",-12.45,-41.45,312
+9912,"UEFS","HUEFS","49364","Calliandra_imbricata",NA,"VC de Souza",-13.08,-41.933056,351
+9922,"UEFS","HUEFS","49362","Calliandra_asplenioides",NA,"VC de Souza",-13.404722,-41.233611,352
+10011,"UEFS","HUEFS","42261","Calliandra_sessilis",NA,"LP de Queiroz",-13.444167,-41.406389,352
+10018,"UEFS","HUEFS","40882","Calliandra_elegans",NA,"LP de Queiroz",-13.320278,-41.893889,351
+10019,"UEFS","HUEFS","40880","Calliandra_fuscipila",NA,"LP de Queiroz",-13.320278,-41.877222,351
+10027,"UEFS","HUEFS","39652","Calliandra_coccinea",NA,"LP de Queiroz",-13.4,-41.808333,351
+10099,"UEFS","HUEFS","31650","Calliandra_mucugeana",NA,"LP de Queiroz",-12.9925,-41.328889,352
+10106,"UEFS","HUEFS","31615","Calliandra_hygrophila",NA,"VC de Souza",-13.016667,-41.4,352
+10127,"UEFS","HUEFS","29081","Calliandra_mucugeana",NA,"LP de Queiroz",-12.97,-41.335,352
+10137,"UEFS","HUEFS","27431","Calliandra_longipinna",NA,"LP de Queiroz",-13.133333,-41.383333,352
+10139,"UEFS","HUEFS","27421","Calliandra_sessilis",NA,"LP de Queiroz",-13.633333,-41.466667,392
+10142,"UEFS","HUEFS","27419","Calliandra_sessilis",NA,"LP de Queiroz",-10.366667,-41.316667,152
+10145,"UEFS","HUEFS","27420","Calliandra_sessilis",NA,"LP de Queiroz",-12.666667,-41.816667,311
+10150,"UEFS","HUEFS","27416","Calliandra_calycina",NA,"LP de Queiroz",-10.366667,-41.316667,152
+10158,"UEFS","HUEFS","27103","Calliandra_coccinea",NA,"LP de Queiroz",-13.3,-41.833333,351
+10159,"UEFS","HUEFS","27096","Calliandra_bahiana",NA,"LP de Queiroz",-13.216667,-41.833333,351
+10172,"UEFS","HUEFS","25035","Calliandra_elegans",NA,"LP de Queiroz",-13.283333,-41.9,351
+10173,"UEFS","HUEFS","24977","Calliandra_hirtiflora",NA,"LP de Queiroz",-13.216667,-41.75,351
+10175,"UEFS","HUEFS","24985","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.216667,-41.75,351
+10177,"UEFS","HUEFS","24966","Calliandra_parvifolia",NA,"LP de Queiroz",-13.083333,-41.783333,351
+10180,"UEFS","HUEFS","24802","Calliandra_geraisensis",NA,"VC de Souza",-13.05,-41.816667,351
+10181,"UEFS","HUEFS","24800","Calliandra_parvifolia",NA,"LP de Queiroz",-13.05,-41.816667,351
+10183,"UEFS","HUEFS","24801","Calliandra_geraisensis",NA,"VC de Souza",-13.05,-41.816667,351
+10194,"UEFS","HUEFS","21516","Calliandra_pittieri",NA,"LP de Queiroz",-12.45,-41.433333,312
+10197,"UEFS","HUEFS","21520","Calliandra_calycina",NA,"LP de Queiroz",-12.45,-41.433333,312
+10221,"UEFS","HUEFS","18273","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-13.3,-41.85,351
+10222,"UEFS","HUEFS","18160","Calliandra_bahiana",NA,"LP de Queiroz",-13.283333,-41.883333,351
+10223,"UEFS","HUEFS","18148","Calliandra_elegans",NA,"LP de Queiroz",-13.283333,-41.883333,351
+10225,"UEFS","HUEFS","18100","Calliandra_bahiana",NA,"LP de Queiroz",-13.316667,-41.833333,351
+10236,"UEFS","HUEFS","16502","Calliandra_sessilis",NA,"LP de Queiroz",-13.366667,-41.816667,351
+10237,"UEFS","HUEFS","16500","Calliandra_bahiana",NA,"LP de Queiroz",-13.366667,-41.816667,351
+10239,"UEFS","HUEFS","16396","Calliandra_fuscipila",NA,"LP de Queiroz",-13.283333,-41.9,351
+10244,"UEFS","HUEFS","16139","Calliandra_sessilis",NA,"LP de Queiroz",-13.316667,-41.833333,351
+10245,"UEFS","HUEFS","16140","Calliandra_bahiana",NA,"LP de Queiroz",-13.316667,-41.833333,351
+10247,"UEFS","HUEFS","16133","Calliandra_coccinea","coccinea","LP de Queiroz",-13.316667,-41.833333,351
+10248,"UEFS","HUEFS","16056","Calliandra_germana",NA,"LP de Queiroz",-13.316667,-41.9,351
+10249,"UEFS","HUEFS","16039","Calliandra_elegans",NA,"LP de Queiroz",-13.3,-41.883333,351
+10250,"UEFS","HUEFS","16008","Calliandra_fuscipila",NA,"LP de Queiroz",-13.333333,-41.883333,351
+10253,"UEFS","HUEFS","15749","Calliandra_nebulosa",NA,"LP de Queiroz",-13.3,-41.85,351
+10263,"UEFS","HUEFS","14897","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.816667,391
+10264,"UEFS","HUEFS","14903","Calliandra_nebulosa",NA,"RC Barneby",-13.316667,-41.933333,351
+10265,"UEFS","HUEFS","14893","Calliandra_parvifolia",NA,"RC Barneby",-13.533333,-41.816667,391
+10288,"UEFS","HUEFS","13754","Calliandra_macrocalyx",NA,"GP Lewis",-12.383333,-41.916667,311
+10293,"UEFS","HUEFS","12480","Calliandra_parvifolia",NA,"LP de Queiroz",-13.316667,-41.85,351
+10294,"UEFS","HUEFS","12383","Calliandra_parvifolia",NA,"LP de Queiroz",-13.283333,-41.866667,351
+10295,"UEFS","HUEFS","12269","Calliandra_asplenioides",NA,"LP de Queiroz",-13.283333,-41.883333,351
+10386,"UESC","UESC","19200","Calliandra_depauperata",NA,"ML Guedes",-11.583333,-41.2,232
+10406,"UESC","UESC","16322","Calliandra_calycina",NA,"VC de Souza",-12.961111,-41.305833,352
+10611,"UFV","VIC","36529","Calliandra_brevipes",NA,"JM Fernandes",-20.206694,-43.490083,828
+10618,"UFV","VIC","36508","Calliandra_sessilis",NA,"JM Fernandes",-15.168694,-42.483028,470
+10622,"UFV","VIC","36507","Calliandra_sessilis",NA,"JM Fernandes",-14.993528,-43.0185,469
+10646,"UFV","VIC","35025","Calliandra_asplenioides",NA,"JM Fernandes",-18.1425,-43.353333,669
+10649,"UFV","VIC","35026","Calliandra_parvifolia",NA,"JM Fernandes",-20.206667,-43.49,828
+10684,"UFV","VIC","34731","Calliandra_iligna",NA,"JM Fernandes",-18.144389,-43.639222,668
+10695,"UFV","VIC","34653","Calliandra_fasciculata","fasciculata","JM Fernandes",-18.204583,-43.603361,668
+10698,"UFV","VIC","34651","Calliandra_asplenioides",NA,"JM Fernandes",-17.7,-44.233333,667
+10713,"UFV","VIC","29088","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.55,-41.383333,392
+10877,"Universidade Estadual Paulista","HRCB","49005","Calliandra_sessilis",NA,"ML Guedes",-13.149578,-41.914167,351
+10883,"Universidade Estadual Paulista","HRCB","42147","Calliandra_sessilis",NA,"ML Guedes",-13.149578,-41.914167,351
+10926,"USP","SPF","210364","Calliandra_dysantha","dysantha","L Rico",-18.961001,-43.76945,748
+10927,"USP","SPF","210369","Calliandra_linearis",NA,"L Rico",-18.947649,-43.751218,748
+10931,"USP","SPF","210365","Calliandra_fasciculata","fasciculata","LM Borges",-18.925455,-43.795606,748
+10934,"USP","SPF","210348","Calliandra_fasciculata",NA,"L Rico",-18.908396,-43.789205,748
+10941,"USP","SPF","208980","Calliandra_linearis",NA,"LM Borges",-18.119944,-43.454778,668
+10943,"USP","SPF","208908","Calliandra_fasciculata","fasciculata","LM Borges",-18.198,-43.614278,668
+10948,"USP","SPF","149000","Calliandra_semisepulta",NA,"VC de Souza",-13.533333,-41.866667,391
+10950,"USP","SPF","88852","Calliandra_ganevii",NA,"RC Barneby",-13.133333,-41.833333,351
+10951,"USP","SPF","86865","Calliandra_stelligera",NA,"RC Barneby",-13.1,-41.933333,351
+10952,"USP","SPF","40165","Calliandra_hygrophila",NA,"LP de Queiroz",-13.016667,-41.4,352
+10958,"USP","SPF","34780","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.3,392
+10963,"USP","SPF","34805","Calliandra_elegans",NA,"SA Renvoize",-13.483333,-41.816667,351
+10965,"USP","SPF","34798","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+10968,"USP","SPF","34809","Calliandra_lanata",NA,"SA Renvoize",-13.55,-41.883333,391
+11080,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","119394","Calliandra_asplenioides",NA,"S Leython",-13.283333,-41.833333,351
+11106,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","107497","Calliandra_fuscipila",NA,"ML Guedes",-13.060556,-41.8325,351
+11119,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","101542","Calliandra_dysantha",NA,"S Leython",-14.088611,-42.505278,430
+11120,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","101279","Calliandra_macrocalyx",NA,"S Leython",-14.184444,-42.493056,430
+11126,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","99948","Calliandra_nebulosa",NA,"VC de Souza",-13.1,-41.783333,351
+11127,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","99949","Calliandra_nebulosa",NA,"VC de Souza",-13.316667,-41.85,351
+11135,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","98809","Calliandra_bahiana",NA,"LP de Queiroz",-13.265278,-42.106111,351
+11139,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","97864","Calliandra_dysantha",NA,"S Leython",-13.761111,-42.375,390
+11146,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","95800","Calliandra_stelligera",NA,"VC de Souza",-13.08,-41.933056,351
+11147,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","95798","Calliandra_semisepulta",NA,"VC de Souza",-13.25,-41.9,351
+11151,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94129","Calliandra_nebulosa",NA,"LP de Queiroz",-13.316667,-41.816667,351
+11152,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94123","Calliandra_parvifolia",NA,"LP de Queiroz",-13.283333,-41.866667,351
+11153,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94128","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-13.216667,-41.9,351
+11154,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94122","Calliandra_elegans",NA,"LP de Queiroz",-13.3,-41.783333,351
+11155,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94124","Calliandra_ganevii",NA,"LP de Queiroz",-13.266667,-41.783333,351
+11157,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","93159","Calliandra_asplenioides",NA,"LP de Queiroz",-13.283333,-41.883333,351
+11164,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","91992","Calliandra_sessilis",NA,"VC de Souza",-11.583333,-41.2,232
+11165,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","90355","Calliandra_hirtiflora",NA,"VC de Souza",-12.466667,-41.45,312
+11189,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","83546","Calliandra_erubescens",NA,"LP de Queiroz",-13.408333,-41.853611,351
+11198,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","82321","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.466667,-41.833333,351
+11201,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","82320","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.516667,-41.966667,391
+11205,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","80443","Calliandra_nebulosa",NA,"RC Barneby",-13.388889,-41.896944,351
+11219,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","79966","Calliandra_luetzelburgii",NA,"RC Barneby",-13.388889,-41.896944,351
+11224,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","79300","Calliandra_hirsuticaulis",NA,"VC de Souza",-14.16,-42.496111,430
+11225,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","79292","Calliandra_sessilis",NA,"VC de Souza",-14.087778,-42.505278,430
+11230,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","78812","Calliandra_asplenioides",NA,"VC de Souza",-13.005556,-41.563333,351
+11231,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","78649","Calliandra_dysantha",NA,"RC Barneby",-15.566667,-48.033333,501
+11245,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","77790","Calliandra_longipinna",NA,"RC Barneby",-13.690833,-41.316667,392
+11246,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","77660","Calliandra_parvifolia",NA,"VC de Souza",-13.05,-41.816667,351
+11252,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","76442","Calliandra_viscidula",NA,"VC de Souza",-13.149167,-41.766111,351
+11253,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","76312","Calliandra_fuscipila",NA,"VC de Souza",-13.121389,-41.773611,351
+11254,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","76286","Calliandra_asplenioides",NA,"VC de Souza",-13.126111,-41.908333,351
+11255,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","75833","Calliandra_mucugeana",NA,"VC de Souza",-12.9925,-41.328889,352
+11265,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74893","Calliandra_lanata",NA,"VC de Souza",-13.5925,-41.830833,391
+11266,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74882","Calliandra_sessilis",NA,"VC de Souza",-13.5925,-41.830833,391
+11267,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74849","Calliandra_mucugeana",NA,"VC de Souza",-12.97,-41.335,352
+11268,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74795","Calliandra_bahiana",NA,"VC de Souza",-13.598056,-41.830556,391
+11270,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74426","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+11272,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","74357","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+11285,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","70839","Calliandra_dysantha",NA,"RC Barneby",-14.080278,-42.513889,390
+11288,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","70686","Calliandra_viscidula",NA,"VC de Souza",-12.466944,-41.454167,312
+11308,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","67774","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.472222,-41.470833,312
+11324,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","62806","Calliandra_sessilis",NA,"VC de Souza",-13.566667,-41.833333,391
+11365,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","50380","Calliandra_bahiana",NA,"GP Lewis",-13.583333,-41.8,391
+11374,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49227","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.533333,-41.966667,391
+11375,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49220","Calliandra_erubescens",NA,"GP Lewis",-13.5,-41.983333,391
+11376,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","49229","Calliandra_semisepulta",NA,"VC de Souza",-13.533333,-41.9,391
+11378,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","48843","Calliandra_parvifolia",NA,"RC Barneby",-13.533333,-41.9,391
+11388,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47366","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.95,391
+11389,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47327","Calliandra_erubescens",NA,"GP Lewis",-13.533333,-41.866667,391
+11390,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47284","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.516667,-41.966667,391
+11391,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47186","Calliandra_erubescens",NA,"RC Barneby",-13.3,-41.883333,351
+11392,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47195","Calliandra_bahiana","bahiana","RC Barneby",-13.3,-41.883333,351
+11393,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47108","Calliandra_semisepulta",NA,"RC Barneby",-13.3,-41.883333,351
+11394,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","47111","Calliandra_fuscipila",NA,"RC Barneby",-13.3,-41.883333,351
+11398,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46726","Calliandra_luetzelburgii",NA,"RC Barneby",-13.533333,-41.966667,391
+11400,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46734","Calliandra_elegans",NA,"RC Barneby",-13.466667,-41.833333,351
+11401,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46735","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.466667,-41.833333,351
+11404,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","46176","Calliandra_lanata",NA,"RC Barneby",-13.516667,-42,391
+11410,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","43468","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.600278,-41.454722,312
+11414,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","41775","Calliandra_dysantha","dysantha","RC Barneby",-13.816667,-42.65,390
+11436,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","37240","Calliandra_macrocalyx",NA,"RC Barneby",-12.416667,-42.066667,311
+11438,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","37119","Calliandra_lanata",NA,"GP Lewis",-13.55,-41.883333,391
+11439,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","37118","Calliandra_asplenioides",NA,"VC de Souza",-13.483333,-41.816667,351
+11440,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","37120","Calliandra_luetzelburgii",NA,"RC Barneby",-13.6,-41.833333,391
+11444,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","35874","Calliandra_dysantha","dysantha","RC Barneby",-15.966667,-48.033333,541
+11464,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","31576","Calliandra_hirsuticaulis",NA,"SA Renvoize",-12.6,-41.483333,312
+11465,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","31571","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.483333,312
+11466,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","31575","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.483333,312
+11469,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30861","Calliandra_viscidula",NA,"SA Renvoize",-12.6,-41.483333,312
+11476,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30214","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+11479,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30094","Calliandra_calycina",NA,"RC Barneby",-12.5,-41.45,312
+11480,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30095","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.5,-41.45,312
+11481,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","30069","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+11497,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","26033","Calliandra_dysantha","dysantha","RC Barneby",-14.116667,-42.483333,430
+11501,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25666","Calliandra_longipinna",NA,"RC Barneby",-13.583333,-41.45,392
+11502,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25697","Calliandra_sessilis",NA,"RC Barneby",-14.116667,-42.483333,430
+11503,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25625","Calliandra_asplenioides",NA,"RC Barneby",-13.583333,-41.45,392
+11504,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25612","Calliandra_calycina",NA,"SA Renvoize",-12.966667,-41.333333,352
+11506,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25483","Calliandra_viscidula",NA,"RC Barneby",-13.016667,-41.4,352
+11507,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25485","Calliandra_calycina",NA,"RC Barneby",-13.016667,-41.4,352
+11508,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25467","Calliandra_hygrophila",NA,"GP Lewis",-13.016667,-41.4,352
+11509,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25471","Calliandra_mucugeana",NA,"SA Renvoize",-13.016667,-41.4,352
+11510,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25470","Calliandra_viscidula",NA,"SA Renvoize",-13.016667,-41.4,352
+11511,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25428","Calliandra_sessilis",NA,"RC Barneby",-13.583333,-41.45,392
+11512,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25433","Calliandra_crassipes",NA,"RC Barneby",-13.583333,-41.45,392
+11515,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25244","Calliandra_ganevii",NA,"RC Barneby",-12.966667,-41.333333,352
+11517,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","25126","Calliandra_viscidula",NA,"GP Lewis",-12.95,-41.35,352
+11519,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","23257","Calliandra_macrocalyx",NA,"SA Renvoize",-12.383333,-41.933333,311
+11520,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21857","Calliandra_bahiana",NA,"SA Renvoize",-13.55,-41.95,391
+11523,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21791","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+11525,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21790","Calliandra_fuscipila",NA,"SA Renvoize",-13.55,-41.95,391
+11526,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21789","Calliandra_calycina",NA,"SA Renvoize",-12.95,-41.333333,352
+11527,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21825","Calliandra_lanata",NA,"SA Renvoize",-13.55,-41.883333,391
+11528,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21813","Calliandra_elegans",NA,"SA Renvoize",-13.483333,-41.816667,351
+11529,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21787","Calliandra_nebulosa",NA,"RC Barneby",-13.6,-41.833333,391
+11530,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21788","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+11531,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","21667","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.483333,-41.816667,351
+11545,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","17845","Calliandra_renvoizeana",NA,"RC Barneby",-13,-41.4,352
+11546,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","17797","Calliandra_viscidula",NA,"RC Barneby",-13,-41.4,352
+11550,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","17167","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.333333,352
+11552,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","16913","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.883333,391
+11553,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","16843","Calliandra_luetzelburgii",NA,"GP Lewis",-13.55,-41.95,391
+11562,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","10457","Calliandra_crassipes",NA,"SA Renvoize",-13.583333,-41.3,392
+11571,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","10456","Calliandra_sessilis",NA,"RC Barneby",-13.583333,-41.3,392
+11587,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","10446","Calliandra_sessilis",NA,"RC Barneby",-13.033333,-41.416667,352
+12100,"UNICAMP","UEC","130536","Calliandra_dysantha",NA,"LM Borges",-20.102778,-43.671389,828
+12106,"UNICAMP","UEC","126791","Calliandra_bahiana",NA,"LP de Queiroz",-13.366667,-41.816667,351
+12107,"UNICAMP","UEC","126792","Calliandra_sessilis",NA,"LP de Queiroz",-13.366667,-41.816667,351
+12120,"UNICAMP","UEC","122941","Calliandra_asplenioides",NA,"JM Fernandes",-16.983333,-43.333333,589
+12121,"UNICAMP","UEC","122462","Calliandra_dysantha","dysantha","JM Fernandes",-17,-43.333333,589
+12122,"UNICAMP","UEC","122432","Calliandra_dysantha","dysantha","JM Fernandes",-16.6,-43.3,589
+12186,"UNICAMP","UEC","63460","Calliandra_calycina",NA,"RC Barneby",-13.333333,-41.416667,352
+12191,"UNICAMP","UEC","57490","Calliandra_mucugeana",NA,"GP Lewis",-13.333333,-41.416667,352
+12220,"UNICAMP","UEC","39820","Calliandra_dendroidea",NA,"GP Lewis",-12.6,-41.483333,312
+12222,"UNICAMP","UEC","39178","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+12223,"UNICAMP","UEC","39177","Calliandra_sessilis",NA,"JM Fernandes",-15.166667,-42.483333,470
+12224,"UNICAMP","UEC","39173","Calliandra_hirsuticaulis",NA,"SA Renvoize",-12.6,-41.483333,312
+12226,"UNICAMP","UEC","39157","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.483333,-41.816667,351
+12227,"UNICAMP","UEC","39149","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+12230,"UNICAMP","UEC","37929","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+12231,"UNICAMP","UEC","37900","Calliandra_lanata",NA,"ML Guedes",-13.55,-41.883333,391
+12239,"UNICAMP","UEC","37902","Calliandra_macrocalyx",NA,"SA Renvoize",-14.833333,-42.483333,470
+12240,"UNICAMP","UEC","37885","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.45,392
+12241,"UNICAMP","UEC","37653","Calliandra_crassipes",NA,"SA Renvoize",-13.583333,-41.3,392
+12243,"UNICAMP","UEC","37627","Calliandra_macrocalyx",NA,"SA Renvoize",-14.833333,-42.483333,470
+12244,"UNICAMP","UEC","37467","Calliandra_dysantha",NA,"SA Renvoize",-15.166667,-42.483333,470
+12250,"UNICAMP","UEC","31751","Calliandra_calycina",NA,"SA Renvoize",-12.95,-41.333333,352
+12254,"UNICAMP","UEC","31744","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.3,392
+12263,"UNICAMP","UEC","23919","Calliandra_sessilis",NA,"JM Fernandes",-13.333333,-41.416667,352
+12695,"UnB","UB","39714","Calliandra_dysantha",NA,"SA Harris",-15.55,-48.033333,501
+12700,"UnB","UB","39757","Calliandra_dysantha",NA,"SA Harris",-15.9,-47.833333,541
+12709,"UnB","UB","39713","Calliandra_dysantha",NA,"SA Harris",-15.55,-48.033333,501
+12710,"UnB","UB","39728","Calliandra_dysantha",NA,"CEB Proença",-15.866667,-47.833333,501
+12731,"UnB","UB","39731","Calliandra_dysantha",NA,"SA Harris",-15.55,-48.033333,501
+12741,"UnB","UB","39693","Calliandra_dysantha",NA,"SA Harris",-15.583333,-48.033333,501
+12751,"UnB","UB","39692","Calliandra_dysantha",NA,"SA Harris",-15.55,-48.033333,501
+12801,"UnB","UB","38843","Calliandra_longipes",NA,"SA Harris",-16.7686,-47.6136,581
+12833,"UnB","UB","38484","Calliandra_dysantha",NA,"CEB Proença",-15.975278,-47.8775,541
+12834,"UnB","UB","38468","Calliandra_dysantha",NA,"CEB Proença",-15.970833,-47.8775,541
+12835,"UnB","UB","38306","Calliandra_dysantha",NA,"CEB Proença",-15.6,-47.95,501
+12836,"UnB","UB","38274","Calliandra_dysantha",NA,"CEB Proença",-15.6,-47.95,501
+12846,"UnB","UB","14587","Calliandra_dysantha",NA,"CEB Proença",-16.05,-47.933333,541
+12848,"UnB","UB","13155","Calliandra_dysantha",NA,"CEB Proença",-15.5,-47.533333,502
+12873,"UnB","UB","2516","Calliandra_dysantha",NA,"SA Harris",-15.55,-48.033333,501
+13384,"UFPR","UPCB","23712","Calliandra_macrocalyx",NA,"RC Barneby",-12.583333,-42.066667,311
+13457,"IPA","IPA","81796","Calliandra_lanata",NA,"LP de Queiroz",-13.5275,-41.862778,391
+13460,"IPA","IPA","81795","Calliandra_viscidula",NA,"VC de Souza",-12.956667,-41.319167,352
+13461,"IPA","IPA","81797","Calliandra_sessilis",NA,"VC de Souza",-13.5275,-41.862778,391
+13758,"IPA","IPA","32810","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.3,392
+13769,"IPA","IPA","32453","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.483333,-41.816667,351
+14250,"Universidade Federal da Bahia","ALCB","102040A","Calliandra_stelligera",NA,"VC de Souza",-13.233333,-41.75,351
+14251,"Universidade Federal da Bahia","ALCB","88964A","Calliandra_bahiana",NA,"ML Guedes",-13.08,-41.894167,351
+14252,"Universidade Federal da Bahia","ALCB","119178","Calliandra_lanata",NA,"ML Guedes",-12.995278,-41.326667,352
+14253,"Universidade Federal da Bahia","ALCB","119171","Calliandra_calycina",NA,"ML Guedes",-12.995278,-41.326667,352
+14254,"Universidade Federal da Bahia","ALCB","119168","Calliandra_hygrophila",NA,"ML Guedes",-12.995278,-41.326667,352
+14261,"Universidade Federal da Bahia","ALCB","117766","Calliandra_sessilis",NA,"ML Guedes",-13.233333,-41.816667,351
+14265,"Universidade Federal da Bahia","ALCB","115595","Calliandra_hirsuticaulis",NA,"ML Guedes",-13.489722,-41.805833,391
+14267,"Universidade Federal da Bahia","ALCB","115407","Calliandra_macrocalyx",NA,"ML Guedes",-14.655833,-42.546944,430
+14268,"Universidade Federal da Bahia","ALCB","115334","Calliandra_macrocalyx",NA,"ML Guedes",-14.752778,-42.546667,470
+14272,"Universidade Federal da Bahia","ALCB","114620","Calliandra_sessilis",NA,"ML Guedes",-13.093056,-41.904444,351
+14279,"Universidade Federal da Bahia","ALCB","113149","Calliandra_depauperata",NA,"ML Guedes",-11.583333,-41.2,232
+14292,"Universidade Federal da Bahia","ALCB","106513","Calliandra_bahiana",NA,"LP de Queiroz",-14.553333,-42.557778,430
+14299,"Universidade Federal da Bahia","ALCB","106325","Calliandra_hygrophila",NA,"ML Guedes",-13,-41.366667,352
+14301,"Universidade Federal da Bahia","ALCB","102915","Calliandra_hygrophila",NA,"ML Guedes",-13,-41.366667,352
+14302,"Universidade Federal da Bahia","ALCB","102873","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+14306,"Universidade Federal da Bahia","ALCB","102812","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+14343,"Universidade Federal da Bahia","ALCB","93729","Calliandra_sessilis",NA,"VC de Souza",-13.082778,-41.860278,351
+14351,"Universidade Federal da Bahia","ALCB","93205","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.604167,-41.474444,312
+14352,"Universidade Federal da Bahia","ALCB","93204","Calliandra_calycina",NA,"VC de Souza",-12.604167,-41.474444,312
+14354,"Universidade Federal da Bahia","ALCB","93164","Calliandra_sessilis",NA,"ML Guedes",-13.069722,-41.806667,351
+14356,"Universidade Federal da Bahia","ALCB","93153","Calliandra_geraisensis",NA,"VC de Souza",-13.069722,-41.806667,351
+14357,"Universidade Federal da Bahia","ALCB","93096","Calliandra_involuta",NA,"VC de Souza",-13.284722,-41.887778,351
+14358,"Universidade Federal da Bahia","ALCB","93124","Calliandra_bahiana",NA,"VC de Souza",-13.284722,-41.887778,351
+14359,"Universidade Federal da Bahia","ALCB","93076","Calliandra_coccinea",NA,"VC de Souza",-13.284722,-41.887778,351
+14361,"Universidade Federal da Bahia","ALCB","93129","Calliandra_geraisensis",NA,"VC de Souza",-13.069722,-41.806667,351
+14363,"Universidade Federal da Bahia","ALCB","92801","Calliandra_asplenioides",NA,"VC de Souza",-13.684167,-41.298611,392
+14365,"Universidade Federal da Bahia","ALCB","92028","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+14370,"Universidade Federal da Bahia","ALCB","89358","Calliandra_parvifolia",NA,"VC de Souza",-13.08,-41.894167,351
+14371,"Universidade Federal da Bahia","ALCB","89201","Calliandra_erubescens",NA,"VC de Souza",-13.08,-41.894167,351
+14372,"Universidade Federal da Bahia","ALCB","88912","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+14373,"Universidade Federal da Bahia","ALCB","88843","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+14374,"Universidade Federal da Bahia","ALCB","88797","Calliandra_bahiana",NA,"VC de Souza",-13.08,-41.894167,351
+14375,"Universidade Federal da Bahia","ALCB","88796","Calliandra_parvifolia",NA,"VC de Souza",-13.08,-41.894167,351
+14376,"Universidade Federal da Bahia","ALCB","88791","Calliandra_geraisensis",NA,"VC de Souza",-13.058611,-41.829444,351
+14378,"Universidade Federal da Bahia","ALCB","88792","Calliandra_sessilis",NA,"VC de Souza",-13.058611,-41.829444,351
+14393,"Universidade Federal da Bahia","ALCB","83560","Calliandra_hygrophila",NA,"ML Guedes",-14.350833,-42.537222,430
+14394,"Universidade Federal da Bahia","ALCB","83192","Calliandra_sessilis",NA,"VC de Souza",-11.591111,-41.2075,232
+14396,"Universidade Federal da Bahia","ALCB","82404","Calliandra_sessilis",NA,"ML Guedes",-14.359167,-42.537222,430
+14426,"Universidade Federal da Bahia","ALCB","74498","Calliandra_hirtiflora",NA,"VC de Souza",-13.15,-41.766667,351
+14427,"Universidade Federal da Bahia","ALCB","74478","Calliandra_parvifolia",NA,"VC de Souza",-13.15,-41.766667,351
+14430,"Universidade Federal da Bahia","ALCB","74052","Calliandra_calycina",NA,"ML Guedes",-11.333333,-40.516667,233
+14431,"Universidade Federal da Bahia","ALCB","73922","Calliandra_calycina",NA,"ML Guedes",-11.386389,-40.530278,233
+14433,"Universidade Federal da Bahia","ALCB","73719","Calliandra_calycina",NA,"ML Guedes",-11.383333,-40.518611,233
+14434,"Universidade Federal da Bahia","ALCB","73717","Calliandra_asplenioides",NA,"ML Guedes",-11.385556,-40.5225,233
+14435,"Universidade Federal da Bahia","ALCB","73698","Calliandra_calycina",NA,"ML Guedes",-11.3925,-40.539722,233
+14440,"Universidade Federal da Bahia","ALCB","72973","Calliandra_asplenioides",NA,"VC de Souza",-13.283333,-41.833333,351
+14441,"Universidade Federal da Bahia","ALCB","72902","Calliandra_elegans",NA,"VC de Souza",-13.283333,-41.833333,351
+14442,"Universidade Federal da Bahia","ALCB","69810","Calliandra_coccinea",NA,"VC de Souza",-13.285278,-41.888611,351
+14443,"Universidade Federal da Bahia","ALCB","69807","Calliandra_bahiana",NA,"VC de Souza",-13.285278,-41.888611,351
+14444,"Universidade Federal da Bahia","ALCB","69809","Calliandra_sessilis",NA,"VC de Souza",-13.245278,-41.874444,351
+14445,"Universidade Federal da Bahia","ALCB","69808","Calliandra_sessilis",NA,"VC de Souza",-13.245278,-41.874444,351
+14446,"Universidade Federal da Bahia","ALCB","69806","Calliandra_asplenioides",NA,"VC de Souza",-13.285278,-41.888611,351
+14449,"Universidade Federal da Bahia","ALCB","67881","Calliandra_fuscipila",NA,"ML Guedes",-13.060833,-41.8325,351
+14453,"Universidade Federal da Bahia","ALCB","67651","Calliandra_sessilis",NA,"ML Guedes",-13.160556,-41.423611,352
+14454,"Universidade Federal da Bahia","ALCB","67657","Calliandra_fuscipila",NA,"ML Guedes",-13.131111,-41.423611,352
+14459,"Universidade Federal da Bahia","ALCB","65527","Calliandra_sessilis",NA,"VC de Souza",-13.518056,-41.9075,391
+14460,"Universidade Federal da Bahia","ALCB","65422","Calliandra_coccinea",NA,"VC de Souza",-13.206389,-41.758611,351
+14471,"Universidade Federal da Bahia","ALCB","62298","Calliandra_macrocalyx",NA,"VC de Souza",-14.184444,-42.493056,430
+14472,"Universidade Federal da Bahia","ALCB","62193","Calliandra_dysantha",NA,"VC de Souza",-14.088611,-42.505278,430
+14473,"Universidade Federal da Bahia","ALCB","61926","Calliandra_sessilis",NA,"VC de Souza",-14.088611,-42.505278,430
+14489,"Universidade Federal da Bahia","ALCB","058715","Calliandra_viscidula",NA,"VC de Souza",-12,-41.366667,272
+14507,"Universidade Federal da Bahia","ALCB","054627","Calliandra_macrocalyx",NA,"VC de Souza",-13.761111,-42.375,390
+14521,"Universidade Federal da Bahia","ALCB","42759","Calliandra_fasciculata",NA,"ML Guedes",-12.466667,-41.45,312
+14530,"Universidade Federal da Bahia","ALCB","037287","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+14535,"Universidade Federal da Bahia","ALCB","037288","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+14537,"Universidade Federal da Bahia","ALCB","037293","Calliandra_longipinna",NA,"VC de Souza",-13.690833,-41.316667,392
+14539,"Universidade Federal da Bahia","ALCB","37263","Calliandra_viscidula",NA,"LP de Queiroz",-12.466667,-41.45,312
+14550,"Universidade Federal da Bahia","ALCB","036407","Calliandra_viscidula",NA,"VC de Souza",-13.149167,-41.766111,351
+14551,"Universidade Federal da Bahia","ALCB","036408","Calliandra_sessilis",NA,"VC de Souza",-13.5925,-41.830833,391
+14556,"Universidade Federal da Bahia","ALCB","036386","Calliandra_nebulosa",NA,"VC de Souza",-14.16,-42.496111,430
+14557,"Universidade Federal da Bahia","ALCB","036380","Calliandra_sessilis",NA,"VC de Souza",-14.087778,-42.505278,430
+14558,"Universidade Federal da Bahia","ALCB","036375","Calliandra_asplenioides",NA,"VC de Souza",-13.126111,-41.758333,351
+14561,"Universidade Federal da Bahia","ALCB","036376","Calliandra_fuscipila",NA,"VC de Souza",-13.121389,-41.773889,351
+14564,"Universidade Federal da Bahia","ALCB","029314","Calliandra_macrocalyx",NA,"VC de Souza",-12.389444,-41.918889,311
+14584,"Universidade Federal da Bahia","ALCB","20664","Calliandra_hygrophila",NA,"VC de Souza",-13,-41.366667,352
+14592,"Universidade Federal da Bahia","ALCB","16913","Calliandra_asplenioides",NA,"VC de Souza",-12.616667,-41.483333,312
+14640,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","233356","Calliandra_dysantha",NA,"CEB Proença",-16.733889,-47.62,581
+14684,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","215052","Calliandra_dysantha",NA,"CEB Proença",-15.588611,-47.47,502
+14809,"K","Herbarium","K000966655","Calliandra_erubescens",NA,"L Rico",-13.8,-42.66,390
+14865,"K","Herbarium","K000868362","Calliandra_germana",NA,"VC de Souza",-13.3,-41.87,351
+14872,"K","Herbarium","K000868366","Calliandra_germana",NA,"GP Lewis",-13.08,-41.93,351
+14886,"K","Herbarium","K000868368","Calliandra_germana",NA,"GP Lewis",-13.08,-41.93,351
+14888,"K","Herbarium","K000868369","Calliandra_germana",NA,"GP Lewis",-13.38,-41.85,351
+14893,"K","Herbarium","K000868363","Calliandra_germana",NA,"GP Lewis",-13.52,-41.92,391
+14894,"K","Herbarium","K000868367","Calliandra_germana",NA,"GP Lewis",-13.08,-41.93,351
+14896,"K","Herbarium","K000868336","Calliandra_coccinea",NA,"GP Lewis",-13.25,-41.9,351
+14897,"K","Herbarium","K000868337","Calliandra_coccinea",NA,"GP Lewis",-13.59,-41.8,391
+14898,"K","Herbarium","K000868351","Calliandra_semisepulta",NA,"VC de Souza",-13.32,-41.87,351
+14900,"K","Herbarium","K000868361","Calliandra_germana",NA,"VC de Souza",-13.32,-41.9,351
+14906,"K","Herbarium","K000868343","Calliandra_involuta",NA,"GP Lewis",-13.28,-41.88,351
+14907,"K","Herbarium","K000868372","Calliandra_luetzelburgii",NA,"LP de Queiroz",-13.39,-41.9,351
+14908,"K","Herbarium","K000868357","Calliandra_semisepulta",NA,"GP Lewis",-13.38,-41.85,351
+14910,"K","Herbarium","K000868338","Calliandra_coccinea",NA,"GP Lewis",-13.27,-41.9,351
+14913,"K","Herbarium","K000868371","Calliandra_luetzelburgii",NA,"GP Lewis",-13.22,-41.75,351
+14916,"K","Herbarium","K000868359","Calliandra_germana",NA,"VC de Souza",-13.28,-41.87,351
+14919,"K","Herbarium","K000868340","Calliandra_coccinea",NA,"VC de Souza",-13.25,-41.83,351
+14920,"K","Herbarium","K000868318","Calliandra_elegans",NA,"VC de Souza",-13.87,-42.32,390
+14921,"K","Herbarium","K000868342","Calliandra_involuta",NA,"GP Lewis",-13.28,-41.9,351
+14922,"K","Herbarium","K000868326","Calliandra_elegans",NA,"GP Lewis",-13.87,-42.32,390
+14923,"K","Herbarium","K000868370","Calliandra_germana",NA,"GP Lewis",-13.38,-41.85,351
+14924,"K","Herbarium","K000868335","Calliandra_coccinea",NA,"GP Lewis",-13.32,-41.83,351
+14926,"K","Herbarium","K000868350","Calliandra_ganevii",NA,"GP Lewis",-13.27,-41.78,351
+14927,"K","Herbarium","K000868317","Calliandra_linearis",NA,"RC Barneby",-19.32,-43.6,748
+14928,"K","Herbarium","K000868344","Calliandra_longipinna",NA,"GP Lewis",-13.69,-41.32,392
+14932,"K","Herbarium","K000868354","Calliandra_semisepulta",NA,"GP Lewis",-13.23,-41.9,351
+14933,"K","Herbarium","K000868356","Calliandra_semisepulta",NA,"VC de Souza",-13.4,-41.88,351
+14934,"K","Herbarium","K000868334","Calliandra_coccinea",NA,"GP Lewis",-13.3,-41.83,351
+14938,"K","Herbarium","K000868352","Calliandra_semisepulta",NA,"GP Lewis",-13.28,-41.9,351
+14939,"K","Herbarium","K000868327","Calliandra_elegans",NA,"GP Lewis",-13.3,-41.88,351
+14941,"K","Herbarium","K000868333","Calliandra_coccinea",NA,"GP Lewis",-13.28,-41.77,351
+14942,"K","Herbarium","K000868353","Calliandra_semisepulta",NA,"GP Lewis",-13.25,-41.9,351
+14943,"K","Herbarium","K000868289","Calliandra_asplenioides",NA,"GP Lewis",-13.25,-41.9,351
+14945,"K","Herbarium","K000868291","Calliandra_viscidula",NA,"GP Lewis",-12.97,-41.34,352
+14947,"K","Herbarium","K000868323","Calliandra_elegans",NA,"GP Lewis",-13.28,-41.9,351
+14949,"K","Herbarium","K000868355","Calliandra_semisepulta",NA,"GP Lewis",-13.45,-41.83,351
+14951,"K","Herbarium","K000868319","Calliandra_elegans",NA,"VC de Souza",-13.3,-41.87,351
+14954,"K","Herbarium","K000868341","Calliandra_involuta",NA,"VC de Souza",-13.28,-41.9,351
+14957,"K","Herbarium","K000868324","Calliandra_elegans",NA,"GP Lewis",-13.3,-41.78,351
+14969,"K","Herbarium","K000868287","Calliandra_asplenioides",NA,"RC Barneby",-16.25,-42.88,549
+14972,"K","Herbarium","K000868286","Calliandra_asplenioides",NA,"GP Lewis",-13.27,-41.9,351
+14975,"K","Herbarium","K000868325","Calliandra_elegans",NA,"GP Lewis",-13.28,-41.88,351
+14985,"K","Herbarium","K000868248","Calliandra_nebulosa",NA,"VC de Souza",-13.39,-41.9,351
+14986,"K","Herbarium","K000868278","Calliandra_fuscipila",NA,"VC de Souza",-13.07,-41.9,351
+14994,"K","Herbarium","K000868288","Calliandra_asplenioides",NA,"GP Lewis",-11.59,-41.21,232
+14995,"K","Herbarium","K000868254","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.85,351
+15004,"K","Herbarium","K000868255","Calliandra_nebulosa",NA,"GP Lewis",-13.1,-41.78,351
+15006,"K","Herbarium","K000868280","Calliandra_fuscipila",NA,"GP Lewis",-13.33,-41.88,351
+15007,"K","Herbarium","K000868251","Calliandra_nebulosa",NA,"GP Lewis",-13.22,-41.9,351
+15009,"K","Herbarium","K000868282","Calliandra_fuscipila",NA,"GP Lewis",-13.28,-41.9,351
+15011,"K","Herbarium","K000868249","Calliandra_nebulosa",NA,"VC de Souza",-13.3,-41.85,351
+15013,"K","Herbarium","K000868250","Calliandra_nebulosa",NA,"GP Lewis",-13.3,-41.85,351
+15017,"K","Herbarium","K000868260","Calliandra_bahiana",NA,"GP Lewis",-13.87,-42.32,390
+15027,"K","Herbarium","K000868262","Calliandra_bahiana",NA,"GP Lewis",-13.37,-41.82,351
+15028,"K","Herbarium","K000868258","Calliandra_bahiana",NA,"GP Lewis",-13.22,-41.83,351
+15032,"K","Herbarium","K000868256","Calliandra_bahiana",NA,"GP Lewis",-13.32,-41.83,351
+15034,"K","Herbarium","K000868257","Calliandra_bahiana",NA,"GP Lewis",-13.28,-41.88,351
+15037,"K","Herbarium","K000868253","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.82,351
+15045,"K","Herbarium","K000868247","Calliandra_nebulosa",NA,"GP Lewis",-14.16,-42.5,430
+15046,"K","Herbarium","K000868259","Calliandra_bahiana",NA,"GP Lewis",-13.6,-41.83,391
+15174,"K","Herbarium","K000868110","Calliandra_macrocalyx","macrocalyx","GP Lewis",-14.42,-42.55,430
+15192,"K","Herbarium","K000868057","Calliandra_dysantha",NA,"GP Lewis",-14.09,-42.51,430
+15353,"K","Herbarium","K000205862","Calliandra_hygrophila",NA,"RC Barneby",-13,-41.38,352
+15358,"K","Herbarium","K000205861","Calliandra_hygrophila",NA,"RC Barneby",-13,-41.38,352
+15361,"K","Herbarium","K000205852","Calliandra_luetzelburgii",NA,"RC Barneby",-13.6,-41.83,391
+15371,"K","Herbarium","K000205846","Calliandra_semisepulta",NA,"RC Barneby",-13.53,-41.87,391
+15373,"K","Herbarium","K000205845","Calliandra_semisepulta",NA,"RC Barneby",-13.53,-41.9,391
+15375,"K","Herbarium","K000205847","Calliandra_luetzelburgii",NA,"RC Barneby",-13.53,-41.97,391
+15376,"K","Herbarium","K000205848","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53,-41.93,391
+15377,"K","Herbarium","K000205828","Calliandra_ganevii",NA,"RC Barneby",-12.97,-41.33,352
+15378,"K","Herbarium","K000205837","Calliandra_erubescens",NA,"GP Lewis",-13.5,-41.98,391
+15379,"K","Herbarium","K000205833","Calliandra_erubescens",NA,"GP Lewis",-13.53,-41.92,391
+15380,"K","Herbarium","K000205849","Calliandra_luetzelburgii",NA,"RC Barneby",-13.48,-41.82,351
+15382,"K","Herbarium","K000205827","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+15385,"K","Herbarium","K000205825","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+15386,"K","Herbarium","K000205859","Calliandra_hygrophila",NA,"RC Barneby",-13,-41.38,352
+15390,"K","Herbarium","K000205860","Calliandra_hygrophila",NA,"RC Barneby",-13.03,-41.42,352
+15392,"K","Herbarium","K000205830","Calliandra_erubescens",NA,"GP Lewis",-11.38,-40.75,233
+15393,"K","Herbarium","K000205808","Calliandra_coccinea","coccinea","GP Lewis",-13.6,-41.8,391
+15394,"K","Herbarium","K000205844","Calliandra_semisepulta",NA,"GP Lewis",-13.3,-41.88,351
+15395,"K","Herbarium","K000205817","Calliandra_longipinna",NA,"RC Barneby",-13.5,-41.47,392
+15398,"K","Herbarium","K000205820","Calliandra_longipinna",NA,"RC Barneby",-13.58,-41.3,392
+15401,"K","Herbarium","K000205822","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+15403,"K","Herbarium","K000205814","Calliandra_renvoizeana",NA,"RC Barneby",-13,-41.38,352
+15415,"K","Herbarium","K000205826","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+15420,"K","Herbarium","K000205791","Calliandra_crassipes",NA,"RC Barneby",-13.58,-41.45,392
+15422,"K","Herbarium","K000205841","Calliandra_erubescens",NA,"GP Lewis",-13.3,-41.88,351
+15425,"K","Herbarium","K000205804","Calliandra_coccinea",NA,"GP Lewis",-13.15,-41.8,351
+15427,"K","Herbarium","K000205792","Calliandra_crassipes",NA,"RC Barneby",-13.58,-41.45,392
+15429,"K","Herbarium","K000205778","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.28,-41.82,271
+15431,"K","Herbarium","K000205766","Calliandra_calycina",NA,"RC Barneby",-10.37,-41.33,152
+15436,"K","Herbarium","K000205813","Calliandra_involuta",NA,"RC Barneby",-12.6,-41.48,312
+15449,"K","Herbarium","K000205779","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.5,-41.45,312
+15453,"K","Herbarium","K000205759","Calliandra_calycina",NA,"RC Barneby",-12.97,-41.33,352
+15454,"K","Herbarium","K000205811","Calliandra_involuta",NA,"RC Barneby",-12.6,-41.48,312
+15456,"K","Herbarium","K000205782","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.52,-41.97,391
+15458,"K","Herbarium","K000205781","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.53,-41.97,391
+15459,"K","Herbarium","K000205753","Calliandra_calycina",NA,"RC Barneby",-12.95,-41.33,352
+15463,"K","Herbarium","K000205775","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.47,-41.83,351
+15470,"K","Herbarium","K000205752","Calliandra_calycina",NA,"RC Barneby",-12.5,-41.45,312
+15471,"K","Herbarium","K000205732","Calliandra_mucugeana",NA,"RC Barneby",-13.02,-41.4,352
+15472,"K","Herbarium","K000205786","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.6,-41.45,312
+15474,"K","Herbarium","K000205756","Calliandra_calycina",NA,"RC Barneby",-12.95,-41.33,352
+15475,"K","Herbarium","K000205754","Calliandra_calycina",NA,"RC Barneby",-13.02,-41.4,352
+15477,"K","Herbarium","K000205793","Calliandra_crassipes",NA,"RC Barneby",-13.58,-41.3,392
+15487,"K","Herbarium","K000205780","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.52,-41.97,391
+15501,"K","Herbarium","K000205729","Calliandra_elegans",NA,"GP Lewis",-13.47,-41.83,351
+15503,"K","Herbarium","K000205724","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.4,352
+15512,"K","Herbarium","K000205713","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.42,352
+15513,"K","Herbarium","K000205725","Calliandra_viscidula",NA,"RC Barneby",-12.6,-41.48,312
+15518,"K","Herbarium","K000205695","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.35,352
+15519,"K","Herbarium","K000205709","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.35,352
+15520,"K","Herbarium","K000205706","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.35,352
+15527,"K","Herbarium","K000205704","Calliandra_viscidula",NA,"GP Lewis",-13,-41.38,352
+15533,"K","Herbarium","K000205677","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+15534,"K","Herbarium","K000205691","Calliandra_asplenioides",NA,"GP Lewis",-12.28,-41.8,271
+15542,"K","Herbarium","K000205673","Calliandra_fuscipila",NA,"GP Lewis",-13.6,-41.8,391
+15544,"K","Herbarium","K000205679","Calliandra_asplenioides",NA,"RC Barneby",-13.58,-41.45,392
+15549,"K","Herbarium","K000205715","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.35,352
+15550,"K","Herbarium","K000205667","Calliandra_fuscipila",NA,"GP Lewis",-13.3,-41.88,351
+15552,"K","Herbarium","K000205680","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+15554,"K","Herbarium","K000205672","Calliandra_fuscipila",NA,"GP Lewis",-13.55,-41.93,391
+15559,"K","Herbarium","K000205661","Calliandra_lanata",NA,"RC Barneby",-13.53,-41.95,391
+15561,"K","Herbarium","K000205664","Calliandra_lanata",NA,"RC Barneby",-13.6,-41.8,391
+15562,"K","Herbarium","K000205665","Calliandra_lanata",NA,"RC Barneby",-13.08,-41.85,351
+15563,"K","Herbarium","K000205670","Calliandra_fuscipila",NA,"RC Barneby",-13.55,-41.95,391
+15565,"K","Herbarium","K000205644","Calliandra_bahiana","bahiana","RC Barneby",-11.52,-41.27,232
+15566,"K","Herbarium","K000205631","Calliandra_nebulosa",NA,"RC Barneby",-13.6,-41.8,391
+15567,"K","Herbarium","K000205646","Calliandra_bahiana","bahiana","RC Barneby",-10.37,-41.33,152
+15569,"K","Herbarium","K000205663","Calliandra_lanata",NA,"RC Barneby",-13.52,-42,391
+15575,"K","Herbarium","K000205696","Calliandra_viscidula",NA,"RC Barneby",-13.02,-41.35,352
+15577,"K","Herbarium","K000205666","Calliandra_lanata",NA,"GP Lewis",-13.53,-41.95,391
+15587,"K","Herbarium","K000205641","Calliandra_bahiana","bahiana","RC Barneby",-13.3,-41.88,351
+15593,"K","Herbarium","K000205662","Calliandra_lanata",NA,"RP Clark",-13.6,-41.8,391
+15595,"K","Herbarium","K000205640","Calliandra_bahiana","bahiana","RC Barneby",-13.3,-41.88,351
+15605,"K","Herbarium","K000205659","Calliandra_lanata",NA,"RC Barneby",-13.52,-42,391
+15623,"K","Herbarium","K000205584","Calliandra_sessilis",NA,"RC Barneby",-13.58,-41.3,392
+15627,"K","Herbarium","K000205582","Calliandra_sessilis",NA,"RC Barneby",-13.03,-41.42,352
+15632,"K","Herbarium","K000205588","Calliandra_sessilis",NA,"L Rico",-12.67,-41.82,311
+15638,"K","Herbarium","K000205595","Calliandra_sessilis",NA,"RC Barneby",-13.58,-41.45,392
+15647,"K","Herbarium","K000205577","Calliandra_sessilis",NA,"RP Clark",-13.63,-41.47,392
+15659,"K","Herbarium","K000205580","Calliandra_sessilis",NA,"RP Clark",-14.12,-42.48,430
+15683,"K","Herbarium","K000205523","Calliandra_macrocalyx",NA,"GP Lewis",-12.38,-41.92,311
+15685,"K","Herbarium","K000205586","Calliandra_sessilis",NA,"RC Barneby",-13.48,-41.82,351
+15691,"K","Herbarium","K000205548","Calliandra_pilgerana",NA,"RC Barneby",-12.47,-41.47,312
+15722,"K","Herbarium","K000205502","Calliandra_dysantha","dysantha","RC Barneby",-14.12,-42.48,430
+15729,"K","Herbarium","K000205501","Calliandra_dysantha","dysantha","RC Barneby",-14.12,-42.48,430
+15763,"K","Herbarium","K000205450","Calliandra_parvifolia",NA,"GP Lewis",-13.08,-41.78,351
+15766,"K","Herbarium","K000205445","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.9,391
+15782,"K","Herbarium","K000205444","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.9,391
+16101,"MNHN","P","P00053153","Calliandra_viscidula",NA,"VC de Souza",-13,-41.3667,352
+16102,"MNHN","P","P00039283","Calliandra_viscidula",NA,"VC de Souza",-13,-41.3667,352
+16211,"G","G","G00191166","Calliandra_sessilis",NA,"RC Barneby",-11.5,-42.5,230
+17318,"UFBA","ALCB","036375","Calliandra_asplenioides",NA,"VC de Souza",-13.126111,-41.758333,351
+17319,"UFBA","ALCB","037290","Calliandra_asplenioides",NA,"VC de Souza",-13.005556,-41.563333,351
+17324,"UFBA","ALCB","16913","Calliandra_asplenioides",NA,"VC de Souza",-12.616667,-41.483333,312
+17332,"UFBA","ALCB","69806","Calliandra_asplenioides",NA,"VC de Souza",-13.285278,-41.888611,351
+17333,"UFBA","ALCB","72973","Calliandra_asplenioides",NA,"VC de Souza",-13.283333,-41.833333,351
+17334,"UFBA","ALCB","73717","Calliandra_asplenioides",NA,"ML Guedes",-11.385556,-40.5225,233
+17337,"UFBA","ALCB","92801","Calliandra_asplenioides",NA,"VC de Souza",-13.684167,-41.298611,392
+17342,"UFBA","ALCB","037314","Calliandra_bahiana",NA,"ML Guedes",-13.598056,-41.830556,391
+17345,"UFBA","ALCB","106513","Calliandra_bahiana",NA,"LP de Queiroz",-14.553333,-42.557778,430
+17346,"UFBA","ALCB","127129","Calliandra_bahiana",NA,"ML Guedes",-13.583333,-41.8,391
+17349,"UFBA","ALCB","59715","Calliandra_bahiana",NA,"LP de Queiroz",-13.265278,-42.106111,351
+17350,"UFBA","ALCB","69807","Calliandra_bahiana",NA,"VC de Souza",-13.285278,-41.888611,351
+17353,"UFBA","ALCB","88797","Calliandra_bahiana",NA,"VC de Souza",-13.08,-41.894167,351
+17354,"UFBA","ALCB","88964a","Calliandra_bahiana",NA,"ML Guedes",-13.08,-41.894167,351
+17364,"UFBA","ALCB","80446","Calliandra_bella",NA,"VC de Souza",-11.398611,-42.535556,230
+17369,"UFBA","ALCB","42759","Calliandra_fasciculata",NA,"ML Guedes",-12.466667,-41.45,312
+17376,"UFBA","ALCB","119171","Calliandra_calycina",NA,"ML Guedes",-12.995278,-41.326667,352
+17386,"UFBA","ALCB","73698","Calliandra_calycina",NA,"ML Guedes",-11.3925,-40.539722,233
+17387,"UFBA","ALCB","73719","Calliandra_calycina",NA,"ML Guedes",-11.383333,-40.518611,233
+17388,"UFBA","ALCB","73922","Calliandra_calycina",NA,"ML Guedes",-11.386389,-40.530278,233
+17390,"UFBA","ALCB","74052","Calliandra_calycina",NA,"ML Guedes",-11.333333,-40.516667,233
+17396,"UFBA","ALCB","93204","Calliandra_calycina",NA,"VC de Souza",-12.604167,-41.474444,312
+17398,"UFBA","ALCB","65422","Calliandra_coccinea",NA,"VC de Souza",-13.206389,-41.758611,351
+17399,"UFBA","ALCB","69810","Calliandra_coccinea",NA,"VC de Souza",-13.285278,-41.888611,351
+17415,"UFBA","ALCB","113149","Calliandra_depauperata",NA,"ML Guedes",-11.583333,-41.2,232
+17430,"UFBA","ALCB","036409","Calliandra_dysantha",NA,"VC de Souza",-14.087778,-42.505278,430
+17441,"UFBA","ALCB","62193","Calliandra_dysantha",NA,"VC de Souza",-14.088611,-42.505278,430
+17458,"UFBA","ALCB","72902","Calliandra_elegans",NA,"VC de Souza",-13.283333,-41.833333,351
+17462,"UFBA","ALCB","037287","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+17463,"UFBA","ALCB","037288","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+17470,"UFBA","ALCB","89201","Calliandra_erubescens",NA,"VC de Souza",-13.08,-41.894167,351
+17475,"UFBA","ALCB","036376","Calliandra_fuscipila",NA,"VC de Souza",-13.121389,-41.773889,351
+17477,"UFBA","ALCB","67657","Calliandra_fuscipila",NA,"ML Guedes",-13.131111,-41.423611,352
+17478,"UFBA","ALCB","67881","Calliandra_fuscipila",NA,"ML Guedes",-13.060833,-41.8325,351
+17482,"UFBA","ALCB","88791","Calliandra_geraisensis",NA,"VC de Souza",-13.058611,-41.829444,351
+17492,"UFBA","ALCB","115595","Calliandra_hirsuticaulis",NA,"ML Guedes",-13.489722,-41.805833,391
+17493,"UFBA","ALCB","17631","Calliandra_hirsuticaulis",NA,"VC de Souza",-13,-41.366667,352
+17497,"UFBA","ALCB","93205","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.604167,-41.474444,312
+17504,"UFBA","ALCB","042759","Calliandra_hirtiflora",NA,"ML Guedes",-12.466667,-41.45,312
+17510,"UFBA","ALCB","74498","Calliandra_hirtiflora",NA,"VC de Souza",-13.15,-41.766667,351
+17517,"UFBA","ALCB","102915","Calliandra_hygrophila",NA,"ML Guedes",-13,-41.366667,352
+17518,"UFBA","ALCB","106325","Calliandra_hygrophila",NA,"ML Guedes",-13,-41.366667,352
+17519,"UFBA","ALCB","119168","Calliandra_hygrophila",NA,"ML Guedes",-12.995278,-41.326667,352
+17521,"UFBA","ALCB","20664","Calliandra_hygrophila",NA,"VC de Souza",-13,-41.366667,352
+17524,"UFBA","ALCB","83560","Calliandra_hygrophila",NA,"ML Guedes",-14.350833,-42.537222,430
+17530,"UFBA","ALCB","119178","Calliandra_lanata",NA,"ML Guedes",-12.995278,-41.326667,352
+17531,"UFBA","ALCB","72695","Calliandra_lanata",NA,"VC de Souza",-13.5925,-41.830833,391
+17554,"UFBA","ALCB","037293","Calliandra_longipinna",NA,"VC de Souza",-13.690833,-41.316667,392
+17556,"UFBA","ALCB","92816a","Calliandra_longipinna",NA,"VC de Souza",-13.684167,-41.298611,392
+17557,"UFBA","ALCB","92831a","Calliandra_longipinna",NA,"VC de Souza",-13.684167,-41.298611,392
+17562,"UFBA","ALCB","82948","Calliandra_luetzelburgii",NA,"VC de Souza",-13.493056,-41.868889,391
+17569,"UFBA","ALCB","029314","Calliandra_macrocalyx",NA,"VC de Souza",-12.389444,-41.918889,311
+17579,"UFBA","ALCB","054627","Calliandra_macrocalyx",NA,"VC de Souza",-13.761111,-42.375,390
+17585,"UFBA","ALCB","115334","Calliandra_macrocalyx",NA,"ML Guedes",-14.752778,-42.546667,470
+17586,"UFBA","ALCB","115407","Calliandra_macrocalyx",NA,"ML Guedes",-14.655833,-42.546944,430
+17588,"UFBA","ALCB","15972","Calliandra_macrocalyx",NA,"VC de Souza",-12.416667,-42.066667,311
+17596,"UFBA","ALCB","62298","Calliandra_macrocalyx",NA,"VC de Souza",-14.184444,-42.493056,430
+17599,"UFBA","ALCB","89363","Calliandra_macrocalyx",NA,"VC de Souza",-12.396389,-41.9175,311
+17608,"UFBA","ALCB","00672","Calliandra_mucugeana",NA,"VC de Souza",-13,-41.366667,352
+17612,"UFBA","ALCB","037313","Calliandra_mucugeana",NA,"VC de Souza",-12.97,-41.335,352
+17642,"UFBA","ALCB","036386","Calliandra_nebulosa",NA,"VC de Souza",-14.16,-42.496111,430
+17655,"UFBA","ALCB","74478","Calliandra_parvifolia",NA,"VC de Souza",-13.15,-41.766667,351
+17656,"UFBA","ALCB","88796","Calliandra_parvifolia",NA,"VC de Souza",-13.08,-41.894167,351
+17657,"UFBA","ALCB","89358","Calliandra_parvifolia",NA,"VC de Souza",-13.08,-41.894167,351
+17673,"UFBA","ALCB","036380","Calliandra_sessilis",NA,"VC de Souza",-14.087778,-42.505278,430
+17674,"UFBA","ALCB","036408","Calliandra_sessilis",NA,"VC de Souza",-13.5925,-41.830833,391
+17680,"UFBA","ALCB","114620","Calliandra_sessilis",NA,"ML Guedes",-13.093056,-41.904444,351
+17681,"UFBA","ALCB","117766","Calliandra_sessilis",NA,"ML Guedes",-13.233333,-41.816667,351
+17684,"UFBA","ALCB","36408","Calliandra_sessilis",NA,"VC de Souza",-13,-42,351
+17687,"UFBA","ALCB","61926","Calliandra_sessilis",NA,"VC de Souza",-14.088611,-42.505278,430
+17690,"UFBA","ALCB","65527","Calliandra_sessilis",NA,"VC de Souza",-13.518056,-41.9075,391
+17691,"UFBA","ALCB","67651","Calliandra_sessilis",NA,"ML Guedes",-13.160556,-41.423611,352
+17692,"UFBA","ALCB","69808","Calliandra_sessilis",NA,"VC de Souza",-13.245278,-41.874444,351
+17693,"UFBA","ALCB","69809","Calliandra_sessilis",NA,"VC de Souza",-13.245278,-41.874444,351
+17694,"UFBA","ALCB","82404","Calliandra_sessilis",NA,"ML Guedes",-14.359167,-42.537222,430
+17696,"UFBA","ALCB","83192","Calliandra_sessilis",NA,"VC de Souza",-11.591111,-41.2075,232
+17698,"UFBA","ALCB","88792","Calliandra_sessilis",NA,"VC de Souza",-13.058611,-41.829444,351
+17699,"UFBA","ALCB","93164","Calliandra_sessilis",NA,"ML Guedes",-13.069722,-41.806667,351
+17701,"UFBA","ALCB","93729","Calliandra_sessilis",NA,"VC de Souza",-13.082778,-41.860278,351
+17703,"UFBA","ALCB","94506","Calliandra_sessilis",NA,"ML Guedes",-11.52,-41.270278,232
+17710,"UFBA","ALCB","102040a","Calliandra_stelligera",NA,"VC de Souza",-13.233333,-41.75,351
+17732,"UFBA","ALCB","036407","Calliandra_viscidula",NA,"VC de Souza",-13.149167,-41.766111,351
+17734,"UFBA","ALCB","037263","Calliandra_viscidula",NA,"LP de Queiroz",-12.466944,-41.454167,312
+17738,"UFBA","ALCB","058715","Calliandra_viscidula",NA,"VC de Souza",-12,-41.366667,272
+17742,"UFBA","ALCB","102812","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+17743,"UFBA","ALCB","102873","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+17749,"UFBA","ALCB","37263","Calliandra_viscidula",NA,"LP de Queiroz",-12.466667,-41.45,312
+17754,"UFBA","ALCB","88843","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+17770,"UFBA","ALCB","88912","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+17772,"UFBA","ALCB","92028","Calliandra_viscidula",NA,"VC de Souza",-13,-41.366667,352
+17814,"CEPLAC","CEPEC","21789","Calliandra_calycina",NA,"SA Renvoize",-12.95,-41.333333,352
+17815,"CEPLAC","CEPEC","119394","Calliandra_asplenioides",NA,"S Leython",-13.283333,-41.833333,351
+17817,"CEPLAC","CEPEC","25625","Calliandra_asplenioides",NA,"RC Barneby",-13.583333,-41.45,392
+17818,"CEPLAC","CEPEC","31571","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.483333,312
+17819,"CEPLAC","CEPEC","31575","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.483333,312
+17822,"CEPLAC","CEPEC","37118","Calliandra_asplenioides",NA,"VC de Souza",-13.483333,-41.816667,351
+17831,"CEPLAC","CEPEC","76286","Calliandra_asplenioides",NA,"VC de Souza",-13.126111,-41.908333,351
+17832,"CEPLAC","CEPEC","78812","Calliandra_asplenioides",NA,"VC de Souza",-13.005556,-41.563333,351
+17836,"CEPLAC","CEPEC","93159","Calliandra_asplenioides",NA,"LP de Queiroz",-13.283333,-41.883333,351
+17840,"CEPLAC","CEPEC","21788","Calliandra_bahiana",NA,"SA Renvoize",-13.6,-41.833333,391
+17841,"CEPLAC","CEPEC","21857","Calliandra_bahiana",NA,"SA Renvoize",-13.55,-41.95,391
+17843,"CEPLAC","CEPEC","50380","Calliandra_bahiana",NA,"GP Lewis",-13.583333,-41.8,391
+17845,"CEPLAC","CEPEC","74795","Calliandra_bahiana",NA,"VC de Souza",-13.598056,-41.830556,391
+17851,"CEPLAC","CEPEC","98809","Calliandra_bahiana",NA,"LP de Queiroz",-13.265278,-42.106111,351
+17852,"CEPLAC","CEPEC","47195","Calliandra_bahiana","bahiana","RC Barneby",-13.3,-41.883333,351
+17904,"CEPLAC","CEPEC","25485","Calliandra_calycina",NA,"RC Barneby",-13.016667,-41.4,352
+17905,"CEPLAC","CEPEC","25612","Calliandra_calycina",NA,"SA Renvoize",-12.966667,-41.333333,352
+17908,"CEPLAC","CEPEC","30094","Calliandra_calycina",NA,"RC Barneby",-12.5,-41.45,312
+17932,"CEPLAC","CEPEC","21791","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+17938,"CEPLAC","CEPEC","10457","Calliandra_crassipes",NA,"SA Renvoize",-13.583333,-41.3,392
+17940,"CEPLAC","CEPEC","25433","Calliandra_crassipes",NA,"RC Barneby",-13.583333,-41.45,392
+17967,"CEPLAC","CEPEC","101542","Calliandra_dysantha",NA,"S Leython",-14.088611,-42.505278,430
+17979,"CEPLAC","CEPEC","70839","Calliandra_dysantha",NA,"RC Barneby",-14.080278,-42.513889,390
+17982,"CEPLAC","CEPEC","78649","Calliandra_dysantha",NA,"RC Barneby",-15.566667,-48.033333,501
+17986,"CEPLAC","CEPEC","97864","Calliandra_dysantha",NA,"S Leython",-13.761111,-42.375,390
+17989,"CEPLAC","CEPEC","26033","Calliandra_dysantha","dysantha","RC Barneby",-14.116667,-42.483333,430
+17991,"CEPLAC","CEPEC","35874","Calliandra_dysantha","dysantha","RC Barneby",-15.966667,-48.033333,541
+17995,"CEPLAC","CEPEC","41775","Calliandra_dysantha","dysantha","RC Barneby",-13.816667,-42.65,390
+18009,"CEPLAC","CEPEC","21813","Calliandra_elegans",NA,"SA Renvoize",-13.483333,-41.816667,351
+18010,"CEPLAC","CEPEC","46734","Calliandra_elegans",NA,"RC Barneby",-13.466667,-41.833333,351
+18012,"CEPLAC","CEPEC","94122","Calliandra_elegans",NA,"LP de Queiroz",-13.3,-41.783333,351
+18018,"CEPLAC","CEPEC","47186","Calliandra_erubescens",NA,"RC Barneby",-13.3,-41.883333,351
+18019,"CEPLAC","CEPEC","47327","Calliandra_erubescens",NA,"GP Lewis",-13.533333,-41.866667,391
+18020,"CEPLAC","CEPEC","49220","Calliandra_erubescens",NA,"GP Lewis",-13.5,-41.983333,391
+18025,"CEPLAC","CEPEC","74357","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+18026,"CEPLAC","CEPEC","74426","Calliandra_erubescens",NA,"VC de Souza",-11.590556,-41.207222,232
+18029,"CEPLAC","CEPEC","83546","Calliandra_erubescens",NA,"LP de Queiroz",-13.408333,-41.853611,351
+18039,"CEPLAC","CEPEC","107497","Calliandra_fuscipila",NA,"ML Guedes",-13.060556,-41.8325,351
+18042,"CEPLAC","CEPEC","21790","Calliandra_fuscipila",NA,"SA Renvoize",-13.55,-41.95,391
+18044,"CEPLAC","CEPEC","47111","Calliandra_fuscipila",NA,"RC Barneby",-13.3,-41.883333,351
+18045,"CEPLAC","CEPEC","76312","Calliandra_fuscipila",NA,"VC de Souza",-13.121389,-41.773611,351
+18050,"CEPLAC","CEPEC","25244","Calliandra_ganevii",NA,"RC Barneby",-12.966667,-41.333333,352
+18052,"CEPLAC","CEPEC","94124","Calliandra_ganevii",NA,"LP de Queiroz",-13.266667,-41.783333,351
+18059,"CEPLAC","CEPEC","30095","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.5,-41.45,312
+18060,"CEPLAC","CEPEC","31576","Calliandra_hirsuticaulis",NA,"SA Renvoize",-12.6,-41.483333,312
+18061,"CEPLAC","CEPEC","43468","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.600278,-41.454722,312
+18062,"CEPLAC","CEPEC","46735","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.466667,-41.833333,351
+18063,"CEPLAC","CEPEC","47284","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.516667,-41.966667,391
+18064,"CEPLAC","CEPEC","49227","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.533333,-41.966667,391
+18065,"CEPLAC","CEPEC","67774","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.472222,-41.470833,312
+18068,"CEPLAC","CEPEC","79300","Calliandra_hirsuticaulis",NA,"VC de Souza",-14.16,-42.496111,430
+18069,"CEPLAC","CEPEC","82320","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.516667,-41.966667,391
+18070,"CEPLAC","CEPEC","82321","Calliandra_hirsuticaulis",NA,"VC de Souza",-13.466667,-41.833333,351
+18071,"CEPLAC","CEPEC","94128","Calliandra_hirsuticaulis",NA,"LP de Queiroz",-13.216667,-41.9,351
+18074,"CEPLAC","CEPEC","90355","Calliandra_hirtiflora",NA,"VC de Souza",-12.466667,-41.45,312
+18080,"CEPLAC","CEPEC","25467","Calliandra_hygrophila",NA,"GP Lewis",-13.016667,-41.4,352
+18084,"CEPLAC","CEPEC","16913","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.883333,391
+18086,"CEPLAC","CEPEC","37119","Calliandra_lanata",NA,"GP Lewis",-13.55,-41.883333,391
+18087,"CEPLAC","CEPEC","46176","Calliandra_lanata",NA,"RC Barneby",-13.516667,-42,391
+18088,"CEPLAC","CEPEC","47366","Calliandra_lanata",NA,"RC Barneby",-13.533333,-41.95,391
+18090,"CEPLAC","CEPEC","74893","Calliandra_lanata",NA,"VC de Souza",-13.5925,-41.830833,391
+18115,"CEPLAC","CEPEC","25666","Calliandra_longipinna",NA,"RC Barneby",-13.583333,-41.45,392
+18116,"CEPLAC","CEPEC","77790","Calliandra_longipinna",NA,"RC Barneby",-13.690833,-41.316667,392
+18117,"CEPLAC","CEPEC","16843","Calliandra_luetzelburgii",NA,"GP Lewis",-13.55,-41.95,391
+18118,"CEPLAC","CEPEC","21667","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.483333,-41.816667,351
+18120,"CEPLAC","CEPEC","37120","Calliandra_luetzelburgii",NA,"RC Barneby",-13.6,-41.833333,391
+18121,"CEPLAC","CEPEC","46726","Calliandra_luetzelburgii",NA,"RC Barneby",-13.533333,-41.966667,391
+18122,"CEPLAC","CEPEC","79966","Calliandra_luetzelburgii",NA,"RC Barneby",-13.388889,-41.896944,351
+18124,"CEPLAC","CEPEC","101279","Calliandra_macrocalyx",NA,"S Leython",-14.184444,-42.493056,430
+18128,"CEPLAC","CEPEC","23257","Calliandra_macrocalyx",NA,"SA Renvoize",-12.383333,-41.933333,311
+18134,"CEPLAC","CEPEC","37240","Calliandra_macrocalyx",NA,"RC Barneby",-12.416667,-42.066667,311
+18166,"CEPLAC","CEPEC","25471","Calliandra_mucugeana",NA,"SA Renvoize",-13.016667,-41.4,352
+18176,"CEPLAC","CEPEC","74849","Calliandra_mucugeana",NA,"VC de Souza",-12.97,-41.335,352
+18177,"CEPLAC","CEPEC","75833","Calliandra_mucugeana",NA,"VC de Souza",-12.9925,-41.328889,352
+18182,"CEPLAC","CEPEC","21787","Calliandra_nebulosa",NA,"RC Barneby",-13.6,-41.833333,391
+18188,"CEPLAC","CEPEC","80443","Calliandra_nebulosa",NA,"RC Barneby",-13.388889,-41.896944,351
+18190,"CEPLAC","CEPEC","94129","Calliandra_nebulosa",NA,"LP de Queiroz",-13.316667,-41.816667,351
+18191,"CEPLAC","CEPEC","99948","Calliandra_nebulosa",NA,"VC de Souza",-13.1,-41.783333,351
+18192,"CEPLAC","CEPEC","99949","Calliandra_nebulosa",NA,"VC de Souza",-13.316667,-41.85,351
+18206,"CEPLAC","CEPEC","48843","Calliandra_parvifolia",NA,"RC Barneby",-13.533333,-41.9,391
+18209,"CEPLAC","CEPEC","77660","Calliandra_parvifolia",NA,"VC de Souza",-13.05,-41.816667,351
+18211,"CEPLAC","CEPEC","94123","Calliandra_parvifolia",NA,"LP de Queiroz",-13.283333,-41.866667,351
+18212,"CEPLAC","CEPEC","30069","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+18213,"CEPLAC","CEPEC","30214","Calliandra_paterna",NA,"RC Barneby",-12.5,-41.45,312
+18222,"CEPLAC","CEPEC","17845","Calliandra_renvoizeana",NA,"RC Barneby",-13,-41.4,352
+18232,"CEPLAC","CEPEC","47108","Calliandra_semisepulta",NA,"RC Barneby",-13.3,-41.883333,351
+18233,"CEPLAC","CEPEC","49229","Calliandra_semisepulta",NA,"VC de Souza",-13.533333,-41.9,391
+18237,"CEPLAC","CEPEC","21825","Calliandra_lanata",NA,"SA Renvoize",-13.55,-41.883333,391
+18238,"CEPLAC","CEPEC","10446","Calliandra_sessilis",NA,"RC Barneby",-13.033333,-41.416667,352
+18239,"CEPLAC","CEPEC","10456","Calliandra_sessilis",NA,"RC Barneby",-13.583333,-41.3,392
+18242,"CEPLAC","CEPEC","25428","Calliandra_sessilis",NA,"RC Barneby",-13.583333,-41.45,392
+18243,"CEPLAC","CEPEC","25697","Calliandra_sessilis",NA,"RC Barneby",-14.116667,-42.483333,430
+18252,"CEPLAC","CEPEC","62806","Calliandra_sessilis",NA,"VC de Souza",-13.566667,-41.833333,391
+18257,"CEPLAC","CEPEC","74882","Calliandra_sessilis",NA,"VC de Souza",-13.5925,-41.830833,391
+18260,"CEPLAC","CEPEC","79292","Calliandra_sessilis",NA,"VC de Souza",-14.087778,-42.505278,430
+18264,"CEPLAC","CEPEC","91992","Calliandra_sessilis",NA,"VC de Souza",-11.583333,-41.2,232
+18268,"CEPLAC","CEPEC","95800","Calliandra_stelligera",NA,"VC de Souza",-13.08,-41.933056,351
+18285,"CEPLAC","CEPEC","17167","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.333333,352
+18288,"CEPLAC","CEPEC","17797","Calliandra_viscidula",NA,"RC Barneby",-13,-41.4,352
+18290,"CEPLAC","CEPEC","25126","Calliandra_viscidula",NA,"GP Lewis",-12.95,-41.35,352
+18292,"CEPLAC","CEPEC","25470","Calliandra_viscidula",NA,"SA Renvoize",-13.016667,-41.4,352
+18293,"CEPLAC","CEPEC","25483","Calliandra_viscidula",NA,"RC Barneby",-13.016667,-41.4,352
+18295,"CEPLAC","CEPEC","30861","Calliandra_viscidula",NA,"SA Renvoize",-12.6,-41.483333,312
+18307,"CEPLAC","CEPEC","70686","Calliandra_viscidula",NA,"VC de Souza",-12.466944,-41.454167,312
+18308,"CEPLAC","CEPEC","76442","Calliandra_viscidula",NA,"VC de Souza",-13.149167,-41.766111,351
+20673,"ASU","ASU-PLANTS","ASU0017804","Calliandra_carrascana",NA,"RC Barneby",-13.50655,-41.473709,392
+20799,"UFS","ASE","9975","Calliandra_dysantha",NA,"CEB Proença",-15.866667,-47.833333,501
+21014,"UNESP-RC","HRCB","42147","Calliandra_sessilis",NA,"ML Guedes",-13.149578,-41.914167,351
+21015,"UNESP-RC","HRCB","49005","Calliandra_sessilis",NA,"ML Guedes",-13.149578,-41.914167,351
+22073,"NBC","NL-BOTANY","U 0003366","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+22079,"NBC","NL-BOTANY","U 0003368","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.3,392
+22091,"NBC","NL-BOTANY","U 0003369","Calliandra_elegans",NA,"SA Renvoize",-13.483333,-41.816667,351
+22163,"NBC","NL-BOTANY","U 0003376","Calliandra_lanata",NA,"SA Renvoize",-13.55,-41.883333,391
+22241,"NY","NYBG","00632355","Calliandra_asplenioides",NA,"GP Lewis",-13.3,-41.87,351
+22242,"NY","NYBG","00632356","Calliandra_asplenioides",NA,"GP Lewis",-13.87,-42.32,390
+22244,"NY","NYBG","00917503","Calliandra_asplenioides",NA,"RC Barneby",-18.38,-43.7,708
+22249,"NY","NYBG","00917526","Calliandra_asplenioides",NA,"RC Barneby",-18.56465,-43.83445,708
+22251,"NY","NYBG","00917528","Calliandra_asplenioides",NA,"RC Barneby",-18.2494,-43.6003,668
+22252,"NY","NYBG","00917529","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22254,"NY","NYBG","00917531","Calliandra_asplenioides",NA,"RC Barneby",-18.17,-43.83,668
+22256,"NY","NYBG","00917567","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22257,"NY","NYBG","00917568","Calliandra_asplenioides",NA,"RC Barneby",-16.25,-42.88,549
+22259,"NY","NYBG","00917570","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22264,"NY","NYBG","00917590","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22265,"NY","NYBG","00917591","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22266,"NY","NYBG","00917592","Calliandra_asplenioides",NA,"RC Barneby",-16.5594,-42.8894,589
+22267,"NY","NYBG","00917593","Calliandra_asplenioides",NA,"RC Barneby",-16.87,-43.02,589
+22269,"NY","NYBG","00917595","Calliandra_asplenioides",NA,"RC Barneby",-18.55,-43.55,708
+22271,"NY","NYBG","01131981","Calliandra_asplenioides",NA,"LM Borges",-18.5247,-43.4494,708
+22274,"NY","NYBG","390321","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+22275,"NY","NYBG","390322","Calliandra_asplenioides",NA,"RC Barneby",-12.6,-41.48,312
+22277,"NY","NYBG","390324","Calliandra_asplenioides",NA,"RC Barneby",-12.2842,-41.8158,311
+22280,"NY","NYBG","390327","Calliandra_asplenioides",NA,"RC Barneby",-18.25,-43.67,668
+22285,"NY","NYBG","632354","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.88,351
+22286,"NY","NYBG","632357","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.9,351
+22287,"NY","NYBG","632358","Calliandra_asplenioides",NA,"GP Lewis",-13.28,-41.88,351
+22288,"NY","NYBG","632359","Calliandra_asplenioides",NA,"GP Lewis",-13.32,-41.85,351
+22289,"NY","NYBG","632360","Calliandra_asplenioides",NA,"GP Lewis",-13.27,-41.9,351
+22290,"NY","NYBG","632361","Calliandra_asplenioides",NA,"GP Lewis",-13.25,-41.9,351
+22292,"NY","NYBG","01131890","Calliandra_bahiana",NA,"GP Lewis",-13.5978,-41.8286,391
+22295,"NY","NYBG","632363","Calliandra_bahiana",NA,"GP Lewis",-13.32,-41.83,351
+22296,"NY","NYBG","632364","Calliandra_bahiana",NA,"GP Lewis",-13.87,-42.32,390
+22297,"NY","NYBG","632365","Calliandra_bahiana",NA,"GP Lewis",-13.22,-41.83,351
+22298,"NY","NYBG","632366","Calliandra_bahiana",NA,"GP Lewis",-13.28,-41.88,351
+22299,"NY","NYBG","632367","Calliandra_bahiana",NA,"GP Lewis",-13.37,-41.82,351
+22300,"NY","NYBG","632368","Calliandra_bahiana",NA,"GP Lewis",-13.32,-41.83,351
+22302,"NY","NYBG","390338","Calliandra_bahiana","bahiana","RC Barneby",-11.52,-41.27,232
+22303,"NY","NYBG","390341","Calliandra_bahiana","bahiana","RC Barneby",-10.37,-41.33,152
+22398,"NY","NYBG","00390110","Calliandra_calycina",NA,"RC Barneby",-12.5,-41.45,312
+22402,"NY","NYBG","00390114","Calliandra_calycina",NA,"RC Barneby",-12.95,-41.33,352
+22416,"NY","NYBG","00390121","Calliandra_coccinea",NA,"LP de Queiroz",-13.25,-41.9,351
+22417,"NY","NYBG","00632369","Calliandra_coccinea",NA,"GP Lewis",-13.25,-41.9,351
+22418,"NY","NYBG","00632370","Calliandra_coccinea",NA,"GP Lewis",-13.3,-41.83,351
+22419,"NY","NYBG","00632371","Calliandra_coccinea",NA,"GP Lewis",-13.32,-41.83,351
+22436,"NY","NYBG","00886230","Calliandra_crassipes",NA,"SA Renvoize",-13.58,-41.3,392
+22470,"NY","NYBG","00917333","Calliandra_dysantha",NA,"HS Irwin",-18.4544,-43.7406,708
+22474,"NY","NYBG","00917371","Calliandra_dysantha",NA,"RC Barneby",-15.7797,-47.9294,501
+22475,"NY","NYBG","00917373","Calliandra_dysantha",NA,"RC Barneby",-15.7797,-47.9294,501
+22477,"NY","NYBG","00917388","Calliandra_dysantha",NA,"RC Barneby",-15.7797,-47.9294,501
+22478,"NY","NYBG","00917390","Calliandra_dysantha",NA,"RC Barneby",-15.7797,-47.9294,501
+22479,"NY","NYBG","00917391","Calliandra_dysantha",NA,"RC Barneby",-15.57,-48.03,501
+22482,"NY","NYBG","00917403","Calliandra_dysantha",NA,"RC Barneby",-15.7797,-47.9294,501
+22490,"NY","NYBG","390149","Calliandra_dysantha",NA,"RC Barneby",-14.0803,-42.5139,390
+22501,"NY","NYBG","00390153","Calliandra_dysantha","dysantha","RC Barneby",-17.7,-44.28,667
+22505,"NY","NYBG","00917306","Calliandra_dysantha","dysantha","RC Barneby",-19,-43.4,748
+22507,"NY","NYBG","00917309","Calliandra_dysantha","dysantha","RC Barneby",-18.4544,-43.7406,708
+22514,"NY","NYBG","00917319","Calliandra_dysantha","dysantha","RC Barneby",-17.7,-44.28,667
+22517,"NY","NYBG","00917324","Calliandra_dysantha","dysantha","RC Barneby",-16.7686,-47.6133,581
+22521,"NY","NYBG","00917332","Calliandra_dysantha","dysantha","RC Barneby",-16.5594,-42.8894,589
+22533,"NY","NYBG","00917347","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22535,"NY","NYBG","00917360","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22536,"NY","NYBG","00917361","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22537,"NY","NYBG","00917362","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22539,"NY","NYBG","00917364","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22540,"NY","NYBG","00917365","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22541,"NY","NYBG","00917367","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22542,"NY","NYBG","00917368","Calliandra_dysantha","dysantha","HS Irwin",-15.7797,-47.9294,501
+22543,"NY","NYBG","00917369","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22544,"NY","NYBG","00917370","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22545,"NY","NYBG","00917372","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22546,"NY","NYBG","00917374","Calliandra_dysantha","dysantha","RC Barneby",-15.9561,-47.8814,541
+22547,"NY","NYBG","00917375","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22548,"NY","NYBG","00917383","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22549,"NY","NYBG","00917384","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22550,"NY","NYBG","00917385","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22551,"NY","NYBG","00917386","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22552,"NY","NYBG","00917389","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22553,"NY","NYBG","00917393","Calliandra_dysantha","dysantha","RC Barneby",-15.97,-48.03,541
+22554,"NY","NYBG","00917394","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22555,"NY","NYBG","00917395","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22556,"NY","NYBG","00917396","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22558,"NY","NYBG","00917399","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22559,"NY","NYBG","00917400","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22560,"NY","NYBG","00917401","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22561,"NY","NYBG","00917402","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22563,"NY","NYBG","00917405","Calliandra_dysantha","dysantha","RC Barneby",-15.57,-48.03,501
+22566,"NY","NYBG","00917427","Calliandra_dysantha","dysantha","RC Barneby",-15.7797,-47.9294,501
+22567,"NY","NYBG","00917428","Calliandra_dysantha","dysantha","RC Barneby",-16.7686,-47.6133,581
+22569,"NY","NYBG","00924136","Calliandra_dysantha","dysantha","S Leython",-14.07196,-47.56254,381
+22570,"NY","NYBG","00924137","Calliandra_dysantha","dysantha","S Leython",-14.07196,-47.56254,381
+22605,"NY","NYBG","00390162","Calliandra_elegans",NA,"LP de Queiroz",-13.27,-41.9,351
+22606,"NY","NYBG","00390163","Calliandra_elegans",NA,"LP de Queiroz",-13.25,-41.9,351
+22607,"NY","NYBG","00632372","Calliandra_elegans",NA,"GP Lewis",-13.87,-42.32,390
+22608,"NY","NYBG","00632373","Calliandra_elegans",NA,"GP Lewis",-13.28,-41.88,351
+22610,"NY","NYBG","00632375","Calliandra_elegans",NA,"GP Lewis",-13.3,-41.78,351
+22617,"NY","NYBG","00390168","Calliandra_erubescens",NA,"RC Barneby",-11.38,-40.75,233
+22618,"NY","NYBG","00632377","Calliandra_erubescens",NA,"GP Lewis",-13.32,-41.9,351
+22619,"NY","NYBG","00632378","Calliandra_erubescens",NA,"GP Lewis",-13.32,-41.87,351
+22620,"NY","NYBG","00632379","Calliandra_erubescens",NA,"GP Lewis",-13.28,-41.87,351
+22622,"NY","NYBG","00632381","Calliandra_erubescens",NA,"GP Lewis",-13.3,-41.87,351
+22626,"NY","NYBG","00917508","Calliandra_fasciculata",NA,"VC de Souza",-18.2494,-43.6003,668
+22628,"NY","NYBG","00917512","Calliandra_fasciculata",NA,"RC Barneby",-18.2494,-43.6003,668
+22629,"NY","NYBG","00917513","Calliandra_fasciculata",NA,"RC Barneby",-18.4458,-43.6556,708
+22631,"NY","NYBG","00917535","Calliandra_fasciculata",NA,"RC Barneby",-18.0062,-43.7296,668
+22634,"NY","NYBG","00917514","Calliandra_fasciculata","fasciculata","RC Barneby",-18.4544,-43.7406,708
+22636,"NY","NYBG","00917517","Calliandra_fasciculata","fasciculata","RC Barneby",-18.2494,-43.6003,668
+22637,"NY","NYBG","00917533","Calliandra_fasciculata","fasciculata","RC Barneby",-18.4293,-43.7215,708
+22638,"NY","NYBG","00917534","Calliandra_fasciculata","fasciculata","RC Barneby",-18.1838,-43.5366667,668
+22639,"NY","NYBG","00917536","Calliandra_fasciculata","fasciculata","RC Barneby",-18.162,-43.5028,668
+22642,"NY","NYBG","00917539","Calliandra_fasciculata","fasciculata","RC Barneby",-18.17,-43.55,668
+22644,"NY","NYBG","02423412","Calliandra_fasciculata","fasciculata","LM Borges",-18.198,-43.61428,668
+22692,"NY","NYBG","00390186","Calliandra_fuscipila",NA,"GP Lewis",-13.55,-41.95,391
+22696,"NY","NYBG","00632413","Calliandra_fuscipila",NA,"GP Lewis",-13.1519,-41.7728,351
+22697,"NY","NYBG","00632414","Calliandra_fuscipila",NA,"GP Lewis",-13.25,-41.9,351
+22698,"NY","NYBG","00632415","Calliandra_fuscipila",NA,"GP Lewis",-13.33,-41.88,351
+22699,"NY","NYBG","00632416","Calliandra_fuscipila",NA,"GP Lewis",-13.28,-41.9,351
+22700,"NY","NYBG","00639036","Calliandra_ganevii",NA,"GP Lewis",-13.27,-41.78,351
+22701,"NY","NYBG","01144930","Calliandra_ganevii",NA,"RC Barneby",-13.13,-41.83,351
+22728,"NY","NYBG","00390206","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.6003,-41.4547,312
+22729,"NY","NYBG","00390207","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.6003,-41.4547,312
+22730,"NY","NYBG","00390208","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.2856,-41.8267,311
+22733,"NY","NYBG","01493046","Calliandra_hirsuticaulis",NA,"GP Lewis",-13.52,-41.97,391
+22745,"NY","NYBG","00390216","Calliandra_hygrophila",NA,"LP de Queiroz",-12.0058,-41.3894,272
+22761,"NY","NYBG","00390220","Calliandra_lanata",NA,"RC Barneby",-13.53,-41.82,391
+22762,"NY","NYBG","00390221","Calliandra_lanata",NA,"RC Barneby",-13.53,-41.88,391
+22763,"NY","NYBG","00632421","Calliandra_lanata",NA,"LP de Queiroz",-13.32,-41.87,351
+22764,"NY","NYBG","419489","Calliandra_lanata",NA,"S Leython",-13.53,-41.95,391
+22765,"NY","NYBG","632418","Calliandra_lanata",NA,"GP Lewis",-13.27,-41.88,351
+22766,"NY","NYBG","632419","Calliandra_lanata",NA,"GP Lewis",-13.27,-41.88,351
+22767,"NY","NYBG","632420","Calliandra_lanata",NA,"GP Lewis",-13.32,-41.85,351
+22797,"NY","NYBG","00924357","Calliandra_linearis",NA,"RC Barneby",-19.388386,-43.539757,748
+22798,"NY","NYBG","00924358","Calliandra_linearis",NA,"RC Barneby",-19.33,-43.58,748
+22799,"NY","NYBG","00924376","Calliandra_linearis",NA,"JW Grimes",-18.55,-43.67,708
+22801,"NY","NYBG","00924378","Calliandra_linearis",NA,"JW Grimes",-19.391463,-43.567098,748
+22804,"NY","NYBG","00924381","Calliandra_linearis",NA,"RC Barneby",-19.32,-43.6,748
+22805,"NY","NYBG","00924382","Calliandra_linearis",NA,"RC Barneby",-19.388386,-43.539757,748
+22816,"NY","NYBG","632422","Calliandra_lintea",NA,"GP Lewis",-13.3,-41.85,351
+22826,"NY","NYBG","390241","Calliandra_longipinna",NA,"RC Barneby",-13.58,-41.3,392
+22827,"NY","NYBG","390242","Calliandra_longipinna",NA,"RC Barneby",-13.13,-41.38,352
+22828,"NY","NYBG","390243","Calliandra_luetzelburgii",NA,"RC Barneby",-13.3889,-41.8969,351
+22829,"NY","NYBG","390244","Calliandra_luetzelburgii",NA,"RC Barneby",-13.6,-41.83,391
+22830,"NY","NYBG","390245","Calliandra_luetzelburgii",NA,"SA Renvoize",-13.48,-41.82,351
+22832,"NY","NYBG","390247","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53,-41.93,391
+22833,"NY","NYBG","390248","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53,-41.97,391
+22834,"NY","NYBG","632423","Calliandra_luetzelburgii",NA,"GP Lewis",-13.77,-42.38,390
+22844,"NY","NYBG","408557","Calliandra_macrocalyx",NA,"RC Barneby",-12.42,-42.07,311
+22871,"NY","NYBG","408574","Calliandra_nebulosa",NA,"RC Barneby",-13.3889,-41.8969,351
+22872,"NY","NYBG","408575","Calliandra_nebulosa",NA,"RC Barneby",-13.59829,-41.829003,391
+22876,"NY","NYBG","632425","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.82,351
+22877,"NY","NYBG","632426","Calliandra_nebulosa",NA,"GP Lewis",-13.32,-41.85,351
+22878,"NY","NYBG","632427","Calliandra_nebulosa",NA,"GP Lewis",-13.1,-41.78,351
+22879,"NY","NYBG","632428","Calliandra_nebulosa",NA,"GP Lewis",-13.3,-41.85,351
+22880,"NY","NYBG","632429","Calliandra_nebulosa",NA,"GP Lewis",-13.22,-41.9,351
+22992,"NY","NYBG","00917739","Calliandra_parvifolia",NA,"RC Barneby",-15.7797,-47.9294,501
+23015,"NY","NYBG","408593","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.82,391
+23017,"NY","NYBG","408595","Calliandra_parvifolia",NA,"RC Barneby",-13.53,-41.9,391
+23028,"NY","NYBG","632430","Calliandra_parvifolia",NA,"GP Lewis",-13.4,-41.78,351
+23029,"NY","NYBG","632431","Calliandra_parvifolia",NA,"GP Lewis",-13.28,-41.87,351
+23030,"NY","NYBG","632432","Calliandra_parvifolia",NA,"GP Lewis",-13.32,-41.83,351
+23031,"NY","NYBG","632433","Calliandra_parvifolia",NA,"GP Lewis",-13.32,-41.85,351
+23040,"NY","NYBG","01492346","Calliandra_riparia",NA,"RC Barneby",-15.7797,-47.9294,501
+23043,"NY","NYBG","00924296","Calliandra_santosiana",NA,"RC Barneby",-18.2494,-43.6003,668
+23048,"NY","NYBG","632434","Calliandra_semisepulta",NA,"GP Lewis",-13.28,-41.9,351
+23049,"NY","NYBG","632435","Calliandra_semisepulta",NA,"GP Lewis",-13.25,-41.9,351
+23050,"NY","NYBG","632436","Calliandra_semisepulta",NA,"GP Lewis",-13.45,-41.83,351
+23051,"NY","NYBG","632437","Calliandra_semisepulta",NA,"GP Lewis",-13.23,-41.9,351
+23052,"NY","NYBG","632438","Calliandra_semisepulta",NA,"GP Lewis",-13.38,-41.85,351
+23054,"NY","NYBG","00891671","Calliandra_sessilis",NA,"GP Lewis",-11.599283,-41.209783,232
+23070,"NY","NYBG","408607","Calliandra_sessilis",NA,"RC Barneby",-13.57,-41.83,391
+23071,"NY","NYBG","408608","Calliandra_sessilis",NA,"RC Barneby",-13.58,-41.3,392
+23073,"NY","NYBG","408610","Calliandra_sessilis",NA,"RC Barneby",-13.03,-41.42,352
+23075,"NY","NYBG","408612","Calliandra_sessilis",NA,"RC Barneby",-13.48,-41.82,351
+23090,"NY","NYBG","632439","Calliandra_sessilis",NA,"GP Lewis",-13.37,-41.82,351
+23091,"NY","NYBG","632440","Calliandra_sessilis",NA,"GP Lewis",-13.32,-41.83,351
+23092,"NY","NYBG","632441","Calliandra_sessilis",NA,"GP Lewis",-13.32,-41.83,351
+23096,"NY","NYBG","00924290","Calliandra_sessilis",NA,"RC Barneby",-15.7797,-47.9294,501
+23107,"NY","NYBG","408627","Calliandra_squarrosa",NA,"RC Barneby",-10.37,-41.32,152
+23110,"NY","NYBG","408629","Calliandra_stelligera",NA,"RC Barneby",-13.1,-41.93,351
+23242,"NY","NYBG","00917696","Calliandra_virgata",NA,"HS Irwin",-15.60619,-47.8167,501
+23246,"NY","NYBG","00917700","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23247,"NY","NYBG","00917701","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23248,"NY","NYBG","00917702","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23249,"NY","NYBG","00917703","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23251,"NY","NYBG","00917705","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23256,"NY","NYBG","00917726","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23258,"NY","NYBG","00917728","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23259,"NY","NYBG","00917729","Calliandra_virgata",NA,"HS Irwin",-15.7797,-47.9294,501
+23263,"NY","NYBG","00917733","Calliandra_virgata",NA,"RC Barneby",-15.7797,-47.9294,501
+23266,"NY","NYBG","00408660","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+23273,"NY","NYBG","408658","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+23274,"NY","NYBG","408659","Calliandra_viscidula",NA,"SA Renvoize",-13.02,-41.35,352
+23275,"NY","NYBG","408661","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.33,352
+23276,"NY","NYBG","408662","Calliandra_viscidula",NA,"RC Barneby",-13,-41.4,352
+23284,"NY","NYBG","408670","Calliandra_viscidula",NA,"RC Barneby",-12.98,-41.33,352
+23702,"JBB","HEPH","11437","Calliandra_dysantha","dysantha","SA Harris",-15.866667,-47.833333,501
+23708,"JBB","HEPH","19550","Calliandra_dysantha","dysantha","SA Harris",-15.926389,-47.897778,541
+23710,"JBB","HEPH","20177","Calliandra_dysantha","dysantha","SA Harris",-15.866667,-47.833333,501
+23717,"JBB","HEPH","893","Calliandra_dysantha","dysantha","SA Harris",-15.568581,-47.590003,501
+23740,"JBB","HEPH","1083","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+23745,"JBB","HEPH","1702","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+23758,"JBB","HEPH","6426","Calliandra_virgata",NA,"SA Harris",-15.4375,-47.5625,501
+23759,"JBB","HEPH","739","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+23761,"JBB","HEPH","883","Calliandra_virgata",NA,"SA Harris",-15.568581,-47.590003,501
+24019,"MNHN","RECOLNAT_MNHN_P","P01167567","Calliandra_asplenioides",NA,"VC de Souza",-15.97972,-42.4375,550
+24021,"MNHN","RECOLNAT_MNHN_P","P01167552","Calliandra_bahiana",NA,"VC de Souza",-13.59778,-41.82806,391
+24098,"MNHN","RECOLNAT_MNHN_P","P01167508","Calliandra_erubescens",NA,"VC de Souza",-13.59778,-41.82861,391
+24135,"MNHN","RECOLNAT_MNHN_P","P01167558","Calliandra_hirsuticaulis",NA,"VC de Souza",-12.73083,-41.50917,312
+24154,"MNHN","RECOLNAT_MNHN_P","P01167501","Calliandra_longipinna",NA,"VC de Souza",-13.57806,-41.39472,392
+24155,"MNHN","RECOLNAT_MNHN_P","P01167497","Calliandra_luetzelburgii",NA,"VC de Souza",-13.53056,-41.86361,391
+24156,"MNHN","RECOLNAT_MNHN_P","P01167568","Calliandra_luetzelburgii",NA,"VC de Souza",-13.49306,-41.86889,391
+24157,"MNHN","RECOLNAT_MNHN_P","P01167569","Calliandra_luetzelburgii",NA,"VC de Souza",-13.31667,-41.83333,351
+24158,"MNHN","RECOLNAT_MNHN_P","P01167570","Calliandra_luetzelburgii",NA,"VC de Souza",-13.49306,-41.86889,391
+24218,"MNHN","RECOLNAT_MNHN_P","P01167541","Calliandra_renvoizeana",NA,"VC de Souza",-12.73083,-41.50917,312
+24243,"MNHN","RECOLNAT_MNHN_P","P01167557","Calliandra_silvicola",NA,"VC de Souza",-13.11361,-41.55917,351
+24300,"MNHN","RECOLNAT_MNHN_P","P00039283","Calliandra_viscidula",NA,"VC de Souza",-13,-41.3667,352
+24301,"MNHN","RECOLNAT_MNHN_P","P00053153","Calliandra_viscidula",NA,"VC de Souza",-13,-41.3667,352
+24906,"UFRPE","HST","10969","Calliandra_sessilis",NA,"LP de Queiroz",-10.35,-41.216667,152
+25886,"MO","MOBOT","2887143","Calliandra_asplenioides",NA,"GP Lewis",-13.25,-41.9,351
+26025,"MO","MOBOT","2889121","Calliandra_coccinea",NA,"GP Lewis",-13.25,-41.9,351
+26106,"MO","MOBOT","2886608","Calliandra_fuscipila",NA,"GP Lewis",-13.25,-41.9,351
+26119,"MO","MOBOT","2738864","Calliandra_hygrophila",NA,"RC Barneby",-13.01666,-41.4,352
+26148,"MO","MOBOT","2886883","Calliandra_luetzelburgii",NA,"RC Barneby",-13.38888,-41.89694,351
+26150,"MO","MOBOT","2887232","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53333,-41.93333,391
+26151,"MO","MOBOT","2887367","Calliandra_luetzelburgii",NA,"GP Lewis",-13.53333,-41.96666,391
+26216,"MO","MOBOT","2886821","Calliandra_semisepulta",NA,"GP Lewis",-13.25,-41.9,351
+26311,"MO","MOBOT","2893896","Calliandra_viscidula",NA,"RC Barneby",-12.95,-41.33333,352
+29666,"IBt","SP","316091","Calliandra_asplenioides",NA,"VC de Souza",-13.25,-41.9,351
+29670,"IBt","SP","316080","Calliandra_bahiana",NA,"LP de Queiroz",-13.216667,-41.833333,351
+29671,"IBt","SP","343045","Calliandra_bahiana",NA,"LP de Queiroz",-13.597778,-41.828611,391
+29703,"IBt","SP","313986","Calliandra_coccinea",NA,"LP de Queiroz",-13.25,-41.9,351
+29754,"IBt","SP","313985","Calliandra_elegans",NA,"LP de Queiroz",-13.266667,-41.9,351
+29787,"IBt","SP","316149","Calliandra_fuscipila",NA,"LP de Queiroz",-13.25,-41.9,351
+29804,"IBt","SP","316162","Calliandra_lanata",NA,"LP de Queiroz",-13.266667,-41.883333,351
+29807,"IBt","SP","140353","Calliandra_linearis",NA,"JW Grimes",-19.316667,-43.6,748
+29811,"IBt","SP","319607","Calliandra_linearis",NA,"LM Borges",-19.3,-43.583333,748
+29868,"IBt","SP","356835","Calliandra_stelligera",NA,"VC de Souza",-13.08,-41.933056,351
+29939,"INPA","INPA","233356","Calliandra_dysantha",NA,"CEB Proença",-16.733889,-47.620278,581
+247,NA,"Botany","U  0003368","Calliandra_dendroidea",NA,"SA Renvoize",-13.583333,-41.3,392
+274,NA,"Botany","U  0003369","Calliandra_elegans",NA,"SA Renvoize",-13.483333,-41.816667,351
+320,NA,"Botany","U  0003376","Calliandra_lanata",NA,"SA Renvoize",-13.55,-41.883333,391
+323,NA,"Botany","U  0003366","Calliandra_coccinea",NA,"SA Renvoize",-13.483333,-41.816667,351
+17526,"UFBA","ALCB",NA,"Calliandra_hygrophila",NA,"LP de Queiroz",-13,-41.366667,352
+20213,"UnB","UB",NA,"Calliandra_dysantha",NA,"CEB Proença",-15.9625,-47.867778,541
+20218,"UnB","UB",NA,"Calliandra_dysantha",NA,"CEB Proença",-15.9625,-47.867778,541
+14959,"K","Herbarium","K000868305","Calliandra_fasciculata","fasciculata","RC Barneby",-17.99283125,-43.61023331,668
+14983,"K","Herbarium","K000868279","Calliandra_fuscipila",NA,"GP Lewis",-13.03774692,-41.87902762,351
+15447,"K","Herbarium","K000205784","Calliandra_hirsuticaulis",NA,"RC Barneby",-13.03774692,-41.87902762,351
+15516,"K","Herbarium","K000205692","Calliandra_asplenioides",NA,"RC Barneby",-12.42339943,-41.88215591,311
+15597,"K","Herbarium","K000205632","Calliandra_bahiana",NA,"GP Lewis",-13.03774692,-41.87902762,351
+15608,"K","Herbarium","K000205598","Calliandra_sessilis",NA,"RP Clark",-13.03774692,-41.87902762,351
+15622,"K","Herbarium","K000205578","Calliandra_sessilis",NA,"RP Clark",-13.03774692,-41.87902762,351
+683,"Universidade de São Paulo","ESA","78160","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+704,"Universidade de São Paulo","ESA","73317","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+734,"Universidade de São Paulo","ESA","8348","Calliandra_fasciculata",NA,"LM Borges",-19.18924536,-43.64555156,748
+970,"Instituto de Botânica","SP","40519","Calliandra_sessilis",NA,"VC de Souza",-17.99283125,-43.61023331,668
+972,"Instituto de Botânica","SP","40517","Calliandra_asplenioides",NA,"RC Barneby",-17.89722293,-42.85874985,669
+1017,"Instituto de Botânica","SP","40514","Calliandra_linearis",NA,"LM Borges",-17.99283125,-43.61023331,668
+1064,"Instituto de Botânica","SP","276710","Calliandra_linearis",NA,"LM Borges",-17.99283125,-43.61023331,668
+1095,"Instituto de Botânica","SP","216340","Calliandra_dysantha",NA,"W Mantovani",-19.18924536,-43.64555156,748
+1119,"Instituto de Botânica","SP","184118","Calliandra_dysantha",NA,"W Mantovani",-19.18924536,-43.64555156,748
+1122,"Instituto de Botânica","SP","175949","Calliandra_dysantha",NA,"W Mantovani",-19.18924536,-43.64555156,748
+1205,"Universidade Federal Rural de Pernambuco","HST","9850","Calliandra_nebulosa",NA,"RC Barneby",-13.03774692,-41.87902762,351
+1912,"USP","SPF","225282","Calliandra_fasciculata",NA,"LM Borges",-19.18924536,-43.64555156,748
+3535,"USP","SPF","166190","Calliandra_fuscipila",NA,"LP de Queiroz",-13.03774692,-41.87902762,351
+3558,"USP","SPF","88497","Calliandra_fuscipila",NA,"LP de Queiroz",-13.03774692,-41.87902762,351
+3568,"UFG","UFG","46725","Calliandra_asplenioides",NA,"VC de Souza",-13.37871216,-41.34499971,352
+3570,"UFG","UFG","46724","Calliandra_asplenioides",NA,"VC de Souza",-13.37871216,-41.34499971,352
+3741,"JBRJ","RB","RB01369930","Calliandra_dysantha",NA,"VC de Souza",-19.18924536,-43.64555156,748
+4523,"JBRJ","RB","RB00865914","Calliandra_fasciculata",NA,"LM Borges",-19.18924536,-43.64555156,748
+4613,"JBRJ","RB","RB00695546","Calliandra_hirtiflora",NA,"VC de Souza",-13.03774692,-41.87902762,351
+4867,"JBRJ","RB","RB00161180","Calliandra_asplenioides",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+4880,"JBRJ","RB","RB00161187","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+4898,"JBRJ","RB","RB00160443","Calliandra_brevipes",NA,"JM Fernandes",-20.07438198,-43.90441805,788
+4902,"JBRJ","RB","RB00160426","Calliandra_macrocalyx",NA,"VC de Souza",-12.42339943,-41.88215591,311
+4958,"JBRJ","RB","RB00160378","Calliandra_iligna",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+5119,"JBRJ","RB","RB00160178","Calliandra_parviflora",NA,"HC de Lima",-20.39135163,-43.61077319,828
+5496,"UFPB","JPB","61809","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+5596,"USP","SPF","201130","Calliandra_asplenioides",NA,"LM Borges",-17.99283125,-43.61023331,668
+5641,"USP","SPF","183800","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+5652,"USP","SPF","181077","Calliandra_fasciculata","fasciculata","LM Borges",-19.18924536,-43.64555156,748
+5653,"USP","SPF","181075","Calliandra_fasciculata","fasciculata","LM Borges",-19.18924536,-43.64555156,748
+5654,"USP","SPF","181074","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+5656,"USP","SPF","181073","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+5660,"USP","SPF","179896","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+5722,"USP","SPF","165762","Calliandra_concinna",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+5723,"USP","SPF","166189","Calliandra_erubescens",NA,"LP de Queiroz",-13.03774692,-41.87902762,351
+5754,"USP","SPF","148573","Calliandra_linearis",NA,"LM Borges",-19.18924536,-43.64555156,748
+5756,"USP","SPF","148576","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+5757,"USP","SPF","147574","Calliandra_sessilis",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+5766,"USP","SPF","144272","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+5780,"USP","SPF","140690","Calliandra_santosiana",NA,"VC de Souza",-17.99283125,-43.61023331,668
+5854,"USP","SPF","113044","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+5856,"USP","SPF","113336","Calliandra_brevipes",NA,"LM Borges",-19.18924536,-43.64555156,748
+5962,"USP","SPF","76760","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+5963,"USP","SPF","76504","Calliandra_dysantha","dysantha","JM Fernandes",-21.3517634,-44.71115287,906
+5989,"USP","SPF","49645","Calliandra_asplenioides",NA,"VC de Souza",-12.42339943,-41.88215591,311
+5994,"USP","SPF","49227","Calliandra_sessilis",NA,"VC de Souza",-13.03774692,-41.87902762,351
+5995,"USP","SPF","49189","Calliandra_coccinea",NA,"LP de Queiroz",-13.03774692,-41.87902762,351
+5996,"USP","SPF","49210","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+5997,"USP","SPF","49212","Calliandra_bahiana",NA,"VC de Souza",-13.03774692,-41.87902762,351
+5998,"USP","SPF","49150","Calliandra_semisepulta",NA,"VC de Souza",-13.03774692,-41.87902762,351
+6007,"USP","SPF","42461","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+6018,"USP","SPF","37217","Calliandra_sessilis",NA,"VC de Souza",-13.03774692,-41.87902762,351
+6022,"USP","SPF","37195","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+6024,"USP","SPF","37198","Calliandra_lanata",NA,"VC de Souza",-13.03774692,-41.87902762,351
+6048,"USP","SPF","35759","Calliandra_asplenioides",NA,"VC de Souza",-17.99283125,-43.61023331,668
+6081,"USP","SPF","21583","Calliandra_concinna",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+6084,"USP","SPF","21944","Calliandra_asplenioides",NA,"VC de Souza",-17.99283125,-43.61023331,668
+6087,"USP","SPF","21584","Calliandra_fasciculata",NA,"VC de Souza",-17.99283125,-43.61023331,668
+6088,"USP","SPF","21109","Calliandra_asplenioides",NA,"VC de Souza",-17.99283125,-43.61023331,668
+6463,"Universidade Federal da Bahia","ALCB","029262","Calliandra_asplenioides",NA,"RC Barneby",-12.42339943,-41.88215591,311
+7384,"UnB","UB","128762","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7511,"UEFS","HUEFS","218605","Calliandra_dysantha",NA,"LM Borges",-19.18924536,-43.64555156,748
+7514,"UEFS","HUEFS","218611","Calliandra_fasciculata",NA,"LM Borges",-19.18924536,-43.64555156,748
+7835,"MBM","MBM","231389","Calliandra_semisepulta",NA,"VC de Souza",-13.03774692,-41.87902762,351
+7895,"MBM","MBM","206157","Calliandra_hirsuticaulis",NA,"RC Barneby",-12.42339943,-41.88215591,311
+7929,"MBM","MBM","186289","Calliandra_asplenioides",NA,"RC Barneby",-12.42339943,-41.88215591,311
+7939,"MBM","MBM","168420","Calliandra_macrocalyx",NA,"LP de Queiroz",-12.42339943,-41.88215591,311
+7998,"MBM","MBM","131905","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+7999,"MBM","MBM","131903","Calliandra_sessilis",NA,"VC de Souza",-13.03774692,-41.87902762,351
+8012,"MBM","MBM","121276","Calliandra_elegans",NA,"GP Lewis",-17.99283125,-43.61023331,668
+8018,"MBM","MBM","113573","Calliandra_asplenioides",NA,"RC Barneby",-17.99283125,-43.61023331,668
+8039,"MBM","MBM","102564","Calliandra_macrocalyx",NA,"VC de Souza",-12.42339943,-41.88215591,311
+8094,"MBM","MBM","59638","Calliandra_leptopoda",NA,"GP Lewis",-12.42339943,-41.88215591,311
+8936,"UEFS","HUEFS","165738","Calliandra_asplenioides",NA,"VC de Souza",-13.03774692,-41.87902762,351
+9202,"UEFS","HUEFS","123680","Calliandra_macrocalyx",NA,"VC de Souza",-12.42339943,-41.88215591,311
+9280,"UEFS","HUEFS","112696","Calliandra_sessilis",NA,"VC de Souza",-13.37871216,-41.34499971,352
+9630,"UEFS","HUEFS","76796","Calliandra_fasciculata",NA,"VC de Souza",-17.99283125,-43.61023331,668
+10625,"UFV","VIC","36386","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+10653,"UFV","VIC","35005","Calliandra_brevipes",NA,"JM Fernandes",-19.18924536,-43.64555156,748
+10657,"UFV","VIC","34999","Calliandra_asplenioides",NA,"JM Fernandes",-15.19129422,-42.46943392,470
+10661,"UFV","VIC","34873","Calliandra_asplenioides",NA,"JM Fernandes",-15.19129422,-42.46943392,470
+10667,"UFV","VIC","34867","Calliandra_asplenioides",NA,"JM Fernandes",-17.89722293,-42.85874985,669
+10671,"UFV","VIC","34863","Calliandra_asplenioides",NA,"JM Fernandes",-17.89722293,-42.85874985,669
+10673,"UFV","VIC","34864","Calliandra_asplenioides",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10676,"UFV","VIC","34728","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+10685,"UFV","VIC","34737","Calliandra_santosiana",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10689,"UFV","VIC","34730","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+10692,"UFV","VIC","34659","Calliandra_santosiana",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10693,"UFV","VIC","34655","Calliandra_fasciculata",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10694,"UFV","VIC","34654","Calliandra_fasciculata",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10697,"UFV","VIC","34657","Calliandra_iligna",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+10746,"UFV","VIC","3955","Calliandra_fasciculata","fasciculata","JM Fernandes",-17.99283125,-43.61023331,668
+10824,"UFU","HUFU","2323","Calliandra_dysantha",NA,"RC Barneby",-19.18924536,-43.64555156,748
+10894,"Universidade Estadual Paulista","HRCB","14844","Calliandra_dysantha","dysantha","JM Fernandes",-19.18924536,-43.64555156,748
+11109,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","105528","Calliandra_carrascana",NA,"RC Barneby",-13.37871216,-41.34499971,352
+11150,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","94125","Calliandra_fuscipila",NA,"LP de Queiroz",-13.03774692,-41.87902762,351
+11169,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","89337","Calliandra_renvoizeana",NA,"RC Barneby",-13.37871216,-41.34499971,352
+11434,"Comissão Executiva do Plano da Lavoura Cacaueira","CEPEC","37414","Calliandra_leptopoda",NA,"GP Lewis",-12.42339943,-41.88215591,311
+12039,"UNICAMP","UEC","159170","Calliandra_asplenioides",NA,"VC de Souza",-13.37871216,-41.34499971,352
+12110,"UNICAMP","UEC","126391","Calliandra_dysantha","macrocephala","JM Fernandes",-21.3517634,-44.71115287,906
+12182,"UNICAMP","UEC","64460","Calliandra_asplenioides",NA,"JM Fernandes",-17.99283125,-43.61023331,668
+12624,"UFOP","OUPR","20051","Calliandra_brevipes",NA,"LM Borges",-20.39135163,-43.61077319,828
+12626,"UFOP","OUPR","20053","Calliandra_brevipes",NA,"LM Borges",-20.39135163,-43.61077319,828
+12630,"UFOP","OUPR","20036","Calliandra_fasciculata","fasciculata","LM Borges",-17.99283125,-43.61023331,668
+12635,"UFOP","OUPR","13729","Calliandra_parvifolia",NA,"HC de Lima",-20.39135163,-43.61077319,828
+12641,"UFOP","OUPR","3848","Calliandra_brevipes",NA,"LM Borges",-20.39135163,-43.61077319,828
+12882,"FZB-BH","BHZB","4730","Calliandra_dysantha",NA,"JM Fernandes",-19.18924536,-43.64555156,748
+12887,"FZB-BH","BHZB","2332","Calliandra_linearis",NA,"JM Fernandes",-19.18924536,-43.64555156,748
+13131,"MN","R","19907","Calliandra_fasciculata",NA,"VC de Souza",-17.99283125,-43.61023331,668
+13369,"UFPR","UPCB","38752","Calliandra_asplenioides",NA,"RC Barneby",-17.99283125,-43.61023331,668
+14209,"Universidade Federal de Juiz de Fora","CESJ","62097","Calliandra_asplenioides",NA,"VC de Souza",-13.37871216,-41.34499971,352
+14213,"Universidade Federal de Juiz de Fora","CESJ","62099","Calliandra_calycina",NA,"VC de Souza",-13.37871216,-41.34499971,352
+14218,"Universidade Federal de Juiz de Fora","CESJ","62098","Calliandra_asplenioides",NA,"VC de Souza",-13.37871216,-41.34499971,352
+14317,"Universidade Federal da Bahia","ALCB","99462","Calliandra_sessilis",NA,"ML Guedes",-13.37871216,-41.34499971,352
+64,"Instituto de Botânica","SP","313986","Calliandra_coccinea",NA,"LP de Queiroz",-13.25,-41.9,351
+606,"Universidade Federal da Bahia","ALCB","037263","Calliandra_viscidula",NA,"LP de Queiroz",-12.466944,-41.454167,312
+615,"Universidade Federal da Bahia","ALCB","00672","Calliandra_mucugeana",NA,"VC de Souza",-13,-41.366667,352
+994,"Instituto de Botânica","SP","356835","Calliandra_stelligera",NA,"VC de Souza",-13.03774692,-41.87902762,351
+1032,"Instituto de Botânica","SP","316162","Calliandra_lanata",NA,"LP de Queiroz",-13.266667,-41.883333,351
+1035,"Instituto de Botânica","SP","316091","Calliandra_asplenioides",NA,"VC de Souza",-13.25,-41.9,351
+1608,"JBRJ","RB","RB00160165","Calliandra_mucugeana",NA,"SA Renvoize",-13.11176,-41.386787,352
+1619,"JBRJ","RB","RB00160320","Calliandra_viscidula",NA,"HC de Lima",-12.955283,-41.322529,352
+1622,"JBRJ","RB","RB00160112","Calliandra_sessilis",NA,"VC de Souza",-13.03333,-41.41667,352
+10882,"Universidade Estadual Paulista","HRCB","42156","Calliandra_fuscipila",NA,"ML Guedes",-13.03774692,-41.87902762,351
+14400,"Universidade Federal da Bahia","ALCB","80791","Calliandra_viscidula",NA,"VC de Souza",-13.37871216,-41.34499971,352
+71,"CM","Botany","CM368426","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+77,"CM","Botany","CM368420","Calliandra_fasciculata",NA,"JW Grimes",-12.42339943,-41.88215591,311
+78,"CM","Botany","CM368419","Calliandra_sessilis",NA,"JW Grimes",-12.42339943,-41.88215591,311
+80,"CM","Botany","CM368416","Calliandra_brevicaulis",NA,"JW Grimes",-17.99283125,-43.61023331,668
+88,"CM","Botany","CM368418","Calliandra_mucugeana",NA,"JW Grimes",-12.42339943,-41.88215591,311
+1079,"Instituto de Botânica","SP","234845","Calliandra_lintea",NA,"VC de Souza",-17.99283125,-43.61023331,668
+2335,"NY","NY","00917569","Calliandra_asplenioides",NA,"RC Barneby",-17.99283125,-43.61023331,668
+2361,"NY","NY","776859","Calliandra_lintea",NA,"VC de Souza",-17.99283125,-43.61023331,668
+2423,"NY","NY","00917748","Calliandra_parvifolia",NA,"RC Barneby",-19.18924536,-43.64555156,748
+2443,"NY","NY","00917747","Calliandra_parvifolia",NA,"RC Barneby",-19.18924536,-43.64555156,748
+6615,"MO","MO","2889647","Calliandra_bahiana",NA,"GP Lewis",-13.03774692,-41.87902762,351
+6616,"MO","MO","2889635","Calliandra_bahiana",NA,"GP Lewis",-13.03774692,-41.87902762,351
+6630,"MO","MO","2889536","Calliandra_concinna",NA,"RC Barneby",-17.99283125,-43.61023331,668
+6680,"MO","MO","2889011","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+6690,"MO","MO","2888870","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+6719,"MO","MO","2888525","Calliandra_elegans",NA,"GP Lewis",-12.42339943,-41.88215591,311
+6726,"MO","MO","2888417","Calliandra_elegans",NA,"GP Lewis",-17.99283125,-43.61023331,668
+6741,"MO","MO","2888200","Calliandra_elegans",NA,"GP Lewis",-12.42339943,-41.88215591,311
+6755,"MO","MO","2887972","Calliandra_mucugeana",NA,"JW Grimes",-12.42339943,-41.88215591,311
+6759,"MO","MO","2887941","Calliandra_macrocalyx",NA,"SA Renvoize",-17.99283125,-43.61023331,668
+6794,"MO","MO","2887457","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+6803,"MO","MO","2887390","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+6818,"MO","MO","2887269","Calliandra_fasciculata",NA,"JW Grimes",-12.42339943,-41.88215591,311
+6836,"MO","MO","2887060","Calliandra_linearis",NA,"JW Grimes",-17.99283125,-43.61023331,668
+6838,"MO","MO","2887044","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+6889,"MO","MO","2886622","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+6901,"MO","MO","2886546","Calliandra_sessilis",NA,"JW Grimes",-12.42339943,-41.88215591,311
+6905,"MO","MO","2886525","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+7340,"UnB","UB","128767","Calliandra_fasciculata",NA,"SA Harris",-12.42339943,-41.88215591,311
+7351,"UnB","UB","128769","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7361,"UnB","UB","128761","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7370,"UnB","UB","128758","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7378,"UnB","UB","128764","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7379,"UnB","UB","128763","Calliandra_fasciculata",NA,"SA Harris",-17.99283125,-43.61023331,668
+7390,"UnB","UB","128727","Calliandra_asplenioides",NA,"CW Fagg",-17.99283125,-43.61023331,668
+7394,"UnB","UB","128729","Calliandra_asplenioides",NA,"CW Fagg",-17.99283125,-43.61023331,668
+7397,"UnB","UB","128730","Calliandra_sessilis",NA,"SA Harris",-12.42339943,-41.88215591,311
+7430,"UnB","UB","113542","Calliandra_concinna",NA,"RC Barneby",-17.99283125,-43.61023331,668
+10619,"UFV","VIC","36506","Calliandra_sessilis",NA,"JM Fernandes",-15.19129422,-42.46943392,470
+14669,"Instituto Nacional de Pesquisas da Amazônia (INPA)","Coleção Botânica, Instituto Nacional de Pesquisas da Amazônia (INPA)","77986","Calliandra_asplenioides",NA,"VC de Souza",-17.99283125,-43.61023331,668
+14964,"K","Herbarium","K000868303","Calliandra_fasciculata","fasciculata","RC Barneby",-17.99283125,-43.61023331,668
+14981,"K","Herbarium","K000868302","Calliandra_fasciculata","fasciculata","RC Barneby",-20.39135163,-43.61077319,828
+15307,"K","Herbarium","K000532284","Calliandra_concinna",NA,"RC Barneby",-17.99283125,-43.61023331,668
+15532,"K","Herbarium","K000205733","Calliandra_mucugeana",NA,"SA Renvoize",-17.99283125,-43.61023331,668
+22258,"NY","NYBG","00917569","Calliandra_asplenioides",NA,"RC Barneby",-17.99283125,-43.61023331,668
+22817,"NY","NYBG","776859","Calliandra_lintea",NA,"VC de Souza",-17.99283125,-43.61023331,668
+23000,"NY","NYBG","00917747","Calliandra_parvifolia",NA,"RC Barneby",-19.18924536,-43.64555156,748
+23001,"NY","NYBG","00917748","Calliandra_parvifolia",NA,"RC Barneby",-19.18924536,-43.64555156,748
+25895,"MO","MOBOT","2886546","Calliandra_sessilis",NA,"JW Grimes",-12.42339943,-41.88215591,311
+25905,"MO","MOBOT","2889635","Calliandra_bahiana",NA,"GP Lewis",-13.03774692,-41.87902762,351
+25906,"MO","MOBOT","2889647","Calliandra_bahiana",NA,"GP Lewis",-13.03774692,-41.87902762,351
+26023,"MO","MOBOT","2888870","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+26024,"MO","MOBOT","2889011","Calliandra_coccinea",NA,"GP Lewis",-13.03774692,-41.87902762,351
+26027,"MO","MOBOT","2889536","Calliandra_concinna",NA,"RC Barneby",-17.99283125,-43.61023331,668
+26068,"MO","MOBOT","2888200","Calliandra_elegans",NA,"GP Lewis",-12.42339943,-41.88215591,311
+26069,"MO","MOBOT","2888417","Calliandra_elegans",NA,"GP Lewis",-17.99283125,-43.61023331,668
+26070,"MO","MOBOT","2888525","Calliandra_elegans",NA,"GP Lewis",-12.42339943,-41.88215591,311
+26076,"MO","MOBOT","2886525","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26077,"MO","MOBOT","2886622","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26082,"MO","MOBOT","2887044","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26084,"MO","MOBOT","2887269","Calliandra_fasciculata",NA,"JW Grimes",-12.42339943,-41.88215591,311
+26086,"MO","MOBOT","2887390","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26087,"MO","MOBOT","2887457","Calliandra_fasciculata",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26137,"MO","MOBOT","2887060","Calliandra_linearis",NA,"JW Grimes",-17.99283125,-43.61023331,668
+26157,"MO","MOBOT","2887941","Calliandra_macrocalyx",NA,"SA Renvoize",-17.99283125,-43.61023331,668
+26167,"MO","MOBOT","2887972","Calliandra_mucugeana",NA,"JW Grimes",-12.42339943,-41.88215591,311
+29814,"IBt","SP","234845","Calliandra_lintea",NA,"VC de Souza",-17.99283125,-43.61023331,668
+29926,"INPA","INPA","77986","Calliandra_asplenioides",NA,"VC de Souza",-17.99283125,-43.61023331,668
+2061,"NY","NY","00917506","Calliandra_asplenioides",NA,"RC Barneby",-17.99283125,-43.61023331,668
+3745,"JBRJ","RB","RB01369635","Calliandra_fasciculata",NA,"VC de Souza",-19.18924536,-43.64555156,748
+4827,"JBRJ","RB","RB00165581","Calliandra_coccinea",NA,"VC de Souza",-17.99283125,-43.61023331,668
+4837,"JBRJ","RB","RB00162446","Calliandra_asplenioides",NA,"LM Borges",-17.99283125,-43.61023331,668
+5139,"JBRJ","RB","RB00160147","Calliandra_macrocalyx",NA,"SA Renvoize",-17.99283125,-43.61023331,668
+5239,"JBRJ","RB","RB00160019","Calliandra_lintea",NA,"VC de Souza",-17.99283125,-43.61023331,668

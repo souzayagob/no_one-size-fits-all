@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="18da9e5d-8966-4893-bf70-b3911152d991"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ea8sek</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=herb_col</alternateIdentifier>
+        <alternateIdentifier>18da9e5d-8966-4893-bf70-b3911152d991</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=herb_col</alternateIdentifier>
+    <title>Herbario Nacional Colombiano (COL)</title>
+    <creator>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Profesora/ Directora Programa Informatica de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5713165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/talento-humano/personal-docente-de-planta/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Henry</givenName>          <surName>Agudelo</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Programa Informatica de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 213</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5713165000 ext 11513</phone><electronicMailAddress>hdagudeloz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/equipo-de-trabajo/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Profesora/ Directora Programa Informática de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Profesora Asociada</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>José Carmelo</givenName>          <surName>Murillo Aldana</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Director Instituto de Ciencias Naturales</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>inscien_bog@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2019-07-24
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Herbario Nacional Colombiano (COL), del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia fue fundado en 1936 por el Padre Enrique Pérez Arbeláez y posee cerca de 600.000  ejemplares, de los cuales cerca del el 10 % se encuentra en este recurso.
+
+La organización de los diferentes grupos taxonómicos presentes en el Herbario COL siguen a un autor con algunas modificaciones. En Gimnospermas y Angiospermas se sigue a Engler (1936). En Pteridófitas se sigue a Engler (1954). Briófitas (Hepáticas y Musgos) y Hongos Liquenizados se encuentran organizados en orden alfabético de géneros y especies; sin embargo, en la nomenclatura se sigue en Hepáticas a Yano &amp;amp; Gradstein (1997) y para los Musgos a Buck &amp;amp; Vitt (1986), en Hongos Liquenizados a Hanssen &amp;amp; Jahns (1974). En Hongos se sigue a Hawksworth et al. (1984). En la Carpoteca y la Palinoteca las familias, géneros y especies se encuentran organizadas alfabéticamente. Debido a esta organización, en algunos casos la taxonomía de este recurso no está actualizada a APG III.
+
+El número de catálogo puede tener duplicados. Para este caso se agrega una vocal al final, que no existe físicamente en el número sellado en el ejemplar, para poder diferenciar los números. El otro número de catálogo (otherCatalogNumbers) corresponde al código de barras que se le asigna a un ejemplar cuando es fotografiado.
+
+Adicionalmente, el Herbario Nacional Colombiano cuenta con un conjunto de Colecciones Especiales, organizadas independientemente, constituidas por: las Colecciones Históricas correspondientes a la Colección José Celestino Mutis (proveniente de la Expedición Botánica del Nuevo Reyno de Granada, llevada a cabo entre 1783 y 1816) con 598 ejemplares, la Colección José Jerónimo Triana (1851-1857, con 5.000 ejemplares), a partir de la que cual se inicio al Herbario Nacional Colombiano y una pequeña colección del fundador del Herbario (Colección Enrique Pérez Arbeláez, realizada en Europa entre 1919 y 1922, con 175 ejemplares), Colección de Tipos (5100 Holotipos e Isotipos) y las Colecciones Industriales (relacionadas con certificados industriales con destino al Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA, que consta de 517 ejemplares).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.biovirtual.unal.edu.co</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>En su mayoría los ejemplares provienen de Colombia, sin embargo también existen ejemplares de muchos otros países, por ejemplo de las colecciones en Europa del Padre Enrique Pérez Arbeláez, fundador del Herbario Nacional Colombiano. En ese sentido la cobertura es mundial, pero se enfoca en Colombia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1783-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-09-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantas</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Publicar en SiB Colombia y GBIF los datos del Herbario Nacional Colombiano</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Profesora/ Directora Programa Informática de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 106</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los ejemplares de las colecciones son tomados y codificados  con un código de barras. Los ejemplares de herbario son fotografiados bajo condiciones estandarizadas con una cámara de 21,1 megapixeles, pues el fotografiado de herbarios a gran escala, se recomienda como un medio para acelerar el proceso de descubrimiento de especies (Escocia et al, 2010).
+
+Estos procedimientos siguen manuales de buenas prácticas y protocolos  generados y mejorados continuamente en el ICN.
+
+Todos los datos de la etiqueta son capturados, incluido el hábitat y datos descriptivos de la morfología, en la base de datos del programa para colecciones biológicas Specify 6. Porteriormente los ejemplares son devueltos a su lugar en la colección. Los ejemplares de herbario son reingresados después de ser fotografiados y la sistematización se realiza con base en la fotografía.
+
+Paralelo a este proceso, biólogos con asesoría de los especialistas del ICN revisan y actualizan la información del árbol taxonómico de Specify de las especies en cuestión a medida que se sistematizan nuevos registros.  Este árbol taxonómico es la base que servirá para la taxonomía del PIFFS.
+
+Posteriormente, para enriquecer el valor de los datos, las localidades de los registros son georreferenciadas por un geógrafo, siguiendo el método del radio-punto (Chapman y Wieczorek 2006 y SUA et al 2004) estableciendo así un punto y una precisión.
+
+Un ingeniero apoya la administración de la base de datos y asiste a los sistematizadores en la solución de problemas.
+
+Para la actualización y mantenimiento de la taxonomía en el PIFFS, otro ingeniero de sistemas instalará una plataforma estandarizada para el intercambio de información sobre biodiversidad (IPT) y trabajará junto con la empresa contratista que realice el PIFFS para que esta plataforma sirva de de puente entre nuestra base de datos y el PIFFS.
+
+
+CHAPMAN A.D. and J. Wieczorek (eds). 2006. Guide to Best Practices in Georeferencing. Global biodiversity Information Facility. Copenhaguen. 80 p.
+SUA, S., MATEUS, R.D. y VARGAS, J.C. 2004. Georreferenciación de registros biológicos y gacetero digital de localidades. Instituto de Investigación de Recursos biológicos Alexander von Humboldt. Bogotá D.C. P. 22.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Ejemplares del Herbario Nacional Colombiano</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se seleccionaron familias importantes para sistematizar, se buscaron los ejemplares en los armarios, se codificaron y se fotografiaron. Luego se realizó la sistematización y georreferenciación a partir de las fotografías.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se revisó cada semana el 1% de los ejemplares en busca de errores. Si si encontraron es más del 50% de ese 1%, se revisaron todos los ejemplares del lote y se corrigieron.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>CONVENIO ESPECIAL DE COOPERACIÓN No. 13-238 ENTRE EL INSTITUTO DE INVESTIGACIÓN DE RECURSOS BIOLÓGICOS ALEXANDER VON HUMBOLDT Y LA UNIVERSIDAD NACIONAL DE COLOMBIA</title>
+          <personnel>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>INSTITUTO DE INVESTIGACIÓN DE RECURSOS BIOLÓGICOS ALEXANDER VON HUMBOLDT
+UNIVERSIDAD NACIONAL DE COLOMBIA</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Aunar esfuerzos técnicos, administrativos y financieros entre el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt y la Universidad Nacional de Colombia para: a) Apoyar la publicación de la información de las colecciones biológicas del Instituto de Ciencias Naturales de la Universidad Nacional a través del Sistema de Información sobre Biodiversidad de Colombia (SiB). b) Apoyar la consolidación del servicio de georreferenciación nacional para colecciones biológicas y c) Aportar en la creación de capacidades para el manejo de información para el inventario nacional de la biodiversidad, como insumos dentro de la estrategia ENIBIO y del proceso adelantado en el marco del convenio 13 – 014 suscrito con el Fondo Adaptación.
+La Universidad Nacional de Colombia se compromete a:
+
+1. Sistematizar, depurar taxonómicamente, incluir o verificar la georreferenciación y publicar a través del SiB Colombia al menos 60.000 registros biológicos de colecciones biológicas del Instituto de Ciencias Naturales, de acuerdo a los criterios de priorización taxonómicos y geográficos establecidos conjuntamente.
+
+2. Elaborar y validar con el Instituto Humboldt, a través del supervisor del convenio, los protocolos de georreferenciación que servirán de base para la operación del servicio de georreferenciación de colecciones biológicas, con base en la información publicada por el Instituto Humboldt  y en los módulos operativos ya implementados en Instituto de Ciencias Naturales de la Universidad.
+
+3. Permitir el acceso, uso y disposición a través del SiB Colombia, de la base de datos de localidades de registros biológicos del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, que servirá de insumo para el servicio de georreferenciación para colecciones biológicas.
+
+4. Consolidar listados taxonómicos actualizados de grupos biológicos, acordados previamente junto con el Instituto Humboldt, de acuerdo a los criterios de priorización taxonómicos y geográficos establecidos conjuntamente.
+
+5. Impartir de manera conjunta con el Instituto Humboldt dos actividades de capacitación identificadas como estratégicas en el ámbito de la ENIBIO.
+
+6. Aportar una contrapartida en especie por un valor total de doscientos treinta y un millones setecientos quince mil cuatrocientos ochenta y ocho pesos ($231.715.488), representados en  $11,715,488 del valor del tiempo dedicado por la directora del proyecto (5h semanales), $50.000.000 de equipos existentes en el Instituto de Ciencias Naturales, $20.000.000 de insumos y materiales y $150.000.000 de uso de infraestructura de la Universidad, conforme al certificado de contrapartida adjunto al presente acuerdo.
+
+7. Designar interlocutores técnicos para la supervisión y el flujo de información del proyecto.
+
+El Instituto Humboldt se compromete a:
+
+1. Asesorar y adelantar el acompañamiento técnico necesario para la estandarización de los registros biológicos y las localidades del instituto de Ciencias Naturales de la Universidad Nacional de Colombia, que serán publicados a través del SiB Colombia.
+
+2. Articular los aportes técnicos e insumos de información del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia en el servicio de georreferenciación nacional para colecciones biológicas, en el marco del SiB Colombia.
+
+3. Desarrollar de manera conjunta con el Instituto de Ciencias Naturales de la Universidad Nacional de Colombia dos actividades de capacitación identificadas en el ámbito de la ENIBIO.
+
+4. Realizar el seguimiento técnico y financiero respectivo al desarrollo del presente convenio.
+
+6. Aportar una contrapartida de cuatrocientos millones de pesos representada en recursos financieros.
+
+7. Designar interlocutores técnicos para la supervisión y el flujo de información del proyecto.
+
+CLAUSULA TERCERA.- RESULTADOS: En el marco del presente acuerdo se obtendrán los siguientes resultados:
+
+
+Por parte de la Universidad Nacional de Colombia:
+
+1. Al menos 60.000 registros biológicos publicados a través del SiB Colombia depurados taxonómicamente y georreferenciados.
+
+2. Protocolos de georreferenciación de localidades de registros biológicos, actualizados y validados junto con el Instituto Humboldt.
+
+3. Base de datos de localidades de registros biológicos del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia disponible a través del SiB Colombia con su respectivo crédito.
+
+4. Listados taxonómicos actualizados de grupos biológicos seleccionados.
+
+5. Informe final con los resultados de la cooperación técnica con el Instituto Humboldt en el marco de la ENIBIO.
+
+Por parte del Instituto Humboldt:
+
+1. Un informe del proceso de publicación de registros biológicos.
+
+2. Memorias de reuniones técnicas desarrolladas en cumplimiento del objeto del convenio.
+
+3. Publicación en la página web del SIB Colombia de los protocolos de georreferenciación resultantes dentro de este convenio, con su respectivo crédito.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:30Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ea8sek">Raz L, Agudelo H (2019). Herbario Nacional Colombiano (COL). Version 13.12. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/ea8sek accessed via GBIF.org on 2020-08-26.</citation>
+              <resourceLogoUrl>https://ipt.biodiversidad.co/sib/logo.do?r=herb_col</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>urn:lsid:biocol.org:col:15629</collectionIdentifier>
+                <collectionName>Herbario Nacional Colombiano</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Pliegos</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="10,000">600,000</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

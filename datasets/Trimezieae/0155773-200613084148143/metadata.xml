@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.rjyj27"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0155773-200613084148143</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.rjyj27</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-01-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;Country is Brazil&quot;,
+    {
+      &quot;or&quot; : [
+        &quot;TaxonKey is Neomarica Sprague&quot;,
+        &quot;TaxonKey is Pseudotrimezia R.C.Foster&quot;,
+        &quot;TaxonKey is Trimezia Salisb. ex Herb.&quot;,
+        &quot;TaxonKey is Pseudiris Chukr &amp; A.Gil&quot;
+      ]
+    }
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+1 records from Herbarium Hamburgense
+1 records from MAR - Herbário do Maranhão
+1 records from Colección de plantas vasculares de Brasil del Herbario &quot;Jaime Andrés Rodríguez&quot;. LEB-Brasil
+1 records from SHPR - Herbário da Universidade Tecnológica Federal do Paraná (UTFPR), campus Santa Helena
+1 records from TEPB - Herbário Graziela Barroso
+1 records from HUESB - Herbário da Universidade Estadual do Sudoeste da Bahia
+1 records from University of Vermont, Pringle Herbarium
+1 records from Vascular Plant Herbarium, Oslo (O), Natural History Museum, University of Oslo
+1 records from Sammlung Ernst Ule sinenumero Herbarium Hamburgense HBG
+1 records from Geneva Herbarium – General Collection (G)
+1 records from Funed-Pol - Coleção de lâminas de grãos de pólen
+1 records from SMDB - Santa Maria Departamento de Biologia
+1 records from UCBG TAPIR Provider
+1 records from HPBR - Herbário Padre Balduino Rambo
+1 records from naturgucker
+1 records from Royal Botanic Garden Edinburgh Living Plant Collections (E)
+1 records from Natural History Museum (London) Collection Specimens
+2 records from Harvard University Herbaria: All Records
+2 records from DAV - UC Davis Herbarium
+2 records from PEUFR - Herbário Professor Vasconcelos Sobrinho
+2 records from Arizona State University Vascular Plant Herbarium
+2 records from SORO - Herbário do Centro de Ciências e Tecnologias para a Sustentabilidade
+2 records from CAS Botany (BOT)
+2 records from CPAP - Herbário CPAP
+2 records from MOSS - Herbário Dárdano de Andrade Lima
+2 records from University of British Columbia Herbarium (UBC) - Vascular Plant Collection
+2 records from Royal Botanic Gardens, Kew - Economic Botany Collection Specimens
+2 records from Canadian Museum of Nature Palynology Collection
+2 records from HBRA - Herbário do Instituto de Estudos Costeiros da Universidade Federal do Pará
+2 records from MEL AVH data
+2 records from Field Museum of Natural History (Botany) - Historical Photographs of Type Specimens from Berlin (B)
+2 records from Pl@ntNet observations
+2 records from EAFM - Herbário do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas
+3 records from Herbarium Berolinense, Berlin (B)
+3 records from HUTO - Herbário da Universidade de Tocantins
+3 records from HTSA - Herbário do Trópico Semiárido
+3 records from CRI - Herbário Pe. Dr. Raulino Reitz
+3 records from HAS - Herbário Alarich Rudolf Holger Schultz
+3 records from MPUC - Herbário do Museu da Pontifícia Universidade Católica do Rio Grande do Sul
+3 records from SLUI - Herbário Rosa Mochel
+3 records from FCAB - Herbário Friburguense
+4 records from MPM Milwaukee Public Museum Herbarium
+4 records from University of Vienna, Institute for Botany - Herbarium WU
+4 records from HERBAM - Herbário da Amazônia Meridional
+4 records from Herbarium - Instituto Nacional de Pesquisas da Amazônia (INPA)
+5 records from HUSC - Herbário Unisanta
+6 records from HVASF - Herbário Vale do São Francisco
+6 records from IRAI - Herbário do Parque da Ciência Newton Freire Maia
+6 records from HDJF - Herbário Dendrológico Jeanine Felfili
+6 records from UFP - Herbário UFP - Geraldo Mariz
+6 records from EFC - Herbário Escola de Florestas Curitiba
+6 records from The Vascular Plant Collection at the Botanische Staatssammlung München
+7 records from Royal Botanic Garden Edinburgh Herbarium (E)
+7 records from UFMT - Herbário UFMT
+8 records from Field Museum of Natural History (Botany)  Seed Plant Collection
+8 records from HUEG - Herbário da Universidade Estadual de Goiás
+8 records from HRCB - Herbário Rioclarense
+8 records from HUCS - Herbário da Universidade de Caxias do Sul
+9 records from BOTU - Herbário Irina Delanova Gemtchújnicov
+9 records from Caatinga Biome - RB - Rio de Janeiro Botanical Garden Herbarium Collection
+9 records from Occurrences in SinBIOTA
+9 records from UESC - Herbário Universidade Estadual de Santa Cruz
+9 records from HUFSJ - Herbário da Universidade Federal de São João del-Rei
+9 records from FUEL - Herbário da Universidade Estadual de Londrina
+10 records from R-Tipos - Herbário do Museu Nacional - Tipos
+10 records from EAC - Herbário Prisco Bezerra
+10 records from CGMS - Herbário da Fundação Universidade Federal de Mato Grosso do Sul
+10 records from JOI - Herbário Joinvillea
+10 records from FLOR - Herbário do Departamento de Botânica da Universidade Federal de Santa Catarina
+10 records from Natural History Museum, Vienna - Herbarium W
+11 records from FURB - Herbário Dr. Roberto Miguel Klein
+11 records from PACA-AGP - Herbarium Anchieta
+11 records from HUEM - Herbário da Universidade Estadual de Maringá
+12 records from VIC - Herbário da Universidade Federal de Viçosa
+14 records from HURB - Herbário do Recôncavo da Bahia
+14 records from HST - Herbário Sérgio Tavares
+14 records from HPL - Herbário do Jardim Botânico Plantarum
+14 records from Instituto de Botánica Darwinion
+14 records from United Herbaria of the University and ETH Zurich
+14 records from IAC - Herbário do Instituto Agronômico de Campinas
+16 records from JPB - Herbário Lauro Pires Xavier
+16 records from HCF - Herbário da Universidade Tecnológica Federal do Paraná Campus Campo Mourão
+19 records from CVRD - Herbário da Reserva Natural Vale
+23 records from CESJ - Herbário Leopoldo Krieger
+24 records from UPCB - Herbário do Departamento de Botânica
+25 records from BHZB - Herbário do Jardim Botânico da Fundação Zoo-Botânica de Belo Horizonte
+25 records from Museu Paraense Emilio Goeldi Herbarium
+31 records from R - Herbário do Museu Nacional
+32 records from The vascular plants collection (P) at the Herbarium of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)
+33 records from Meise Botanic Garden Herbarium (BR)
+34 records from MAC - Herbário do Instituto do Meio Ambiente do Estado de Alagoas
+36 records from Naturalis Biodiversity Center (NL) - Botany
+37 records from IPA - Herbário - IPA Dárdano de Andrade Lima
+41 records from VIES - Herbário Central da Universidade Federal do Espírito Santo
+44 records from HEPH - Herbário Ezechias Paulo Heringer
+44 records from ICN - Herbário do Instituto de Ciências Naturais
+45 records from SPSF - Herbário Dom Bento José Pickel
+46 records from UFG - Herbário da Universidade Federal de Goiás
+50 records from iNaturalist Research-grade Observations
+51 records from Phanerogamic Botanical Collections (S)
+51 records from OUPR - Herbário &quot;Professor José Badini&quot;
+55 records from MBML-Herbario - Herbário Mello Leitão
+57 records from ALCB - Herbário Alexandre Leal Costa
+57 records from ASE - Herbário da Universidade Federal de Sergipe
+89 records from CEN - Herbário da Embrapa Recursos Genéticos e Biotecnologia
+93 records from HUFU - Herbarium Uberlandense
+95 records from Pl@ntNet automatically identified occurrences
+132 records from CEPEC - Herbário do Centro de Pesquisas do Cacau
+137 records from NMNH Extant Specimen Records
+138 records from SPF - Herbário da Universidade de São Paulo
+141 records from SP - Herbário do Estado &quot;Maria Eneyda P. Kaufmann Fidalgo&quot; - Coleção de Fanerógamas
+149 records from Tropicos Specimen Data
+173 records from UEC - Herbário da Universidade Estadual de Campinas
+175 records from MBM - Herbário do Museu Botânico Municipal
+185 records from HUEFS - Herbario da Universidade Estadual de Feira de Santana
+199 records from BHCB - Herbário da Universidade Federal de Minas Gerais
+213 records from ESA - Herbário da Escola Superior de Agricultura Luiz de Queiroz
+226 records from UB - Herbário da Universidade de Brasília
+235 records from The New York Botanical Garden Herbarium (NY)
+248 records from Royal Botanic Gardens, Kew - Herbarium Specimens
+466 records from RB - Rio de Janeiro Botanical Garden Herbarium Collection
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:47:11Z</dateStamp>
+      <citation identifier="10.15468/dl.rjyj27">GBIF Occurrence Download 10.15468/dl.rjyj27</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0155773-200613084148143.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

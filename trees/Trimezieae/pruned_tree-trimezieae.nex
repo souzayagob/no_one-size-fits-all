@@ -1,0 +1,69 @@
+#NEXUS
+[R-package APE, Thu Apr  8 15:47:34 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 28;
+	TAXLABELS
+		Pseudotrimezia_planifolia
+		Pseudotrimezia_sublateralis
+		Pseudotrimezia_pauloi
+		Pseudotrimezia_recurvata
+		Pseudotrimezia_striata
+		Pseudotrimezia_tenuissima
+		Pseudotrimezia_barretoi
+		Pseudotrimezia_diamantinensis
+		Pseudotrimezia_cipoana
+		Pseudotrimezia_fulva
+		Pseudotrimezia_laevis
+		Pseudotrimezia_nana
+		Pseudotrimezia_synandra
+		Pseudotrimezia_elegans
+		Pseudotrimezia_juncifolia
+		Pseudotrimezia_fistulosa
+		Pseudotrimezia_gracilis
+		Pseudotrimezia_cathartica
+		Pseudotrimezia_truncata
+		Trimezia_brevicaulis
+		Trimezia_lutea
+		Trimezia_martinicensis
+		Trimezia_caulosa
+		Trimezia_sincorana
+		Trimezia_spathata
+		Pseudiris_speciosa
+		Neomarica_glauca
+		Neomarica_imbricata
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Pseudotrimezia_planifolia,
+		2	Pseudotrimezia_sublateralis,
+		3	Pseudotrimezia_pauloi,
+		4	Pseudotrimezia_recurvata,
+		5	Pseudotrimezia_striata,
+		6	Pseudotrimezia_tenuissima,
+		7	Pseudotrimezia_barretoi,
+		8	Pseudotrimezia_diamantinensis,
+		9	Pseudotrimezia_cipoana,
+		10	Pseudotrimezia_fulva,
+		11	Pseudotrimezia_laevis,
+		12	Pseudotrimezia_nana,
+		13	Pseudotrimezia_synandra,
+		14	Pseudotrimezia_elegans,
+		15	Pseudotrimezia_juncifolia,
+		16	Pseudotrimezia_fistulosa,
+		17	Pseudotrimezia_gracilis,
+		18	Pseudotrimezia_cathartica,
+		19	Pseudotrimezia_truncata,
+		20	Trimezia_brevicaulis,
+		21	Trimezia_lutea,
+		22	Trimezia_martinicensis,
+		23	Trimezia_caulosa,
+		24	Trimezia_sincorana,
+		25	Trimezia_spathata,
+		26	Pseudiris_speciosa,
+		27	Neomarica_glauca,
+		28	Neomarica_imbricata
+	;
+	TREE * UNTITLED = [&R] ((((((((((1:0.004645954124,2:0.004645954124):0.0006783966286,3:0.005324350754):0.003485212795,4:0.008809563549):0.006614675204,(5:0.01139987858,6:0.01139987858):0.004024360173):0.002221046968,((7:0.005510631953,8:0.005510631953):0.006801911585,(9:0.01057259604,10:0.01057259604):0.001739947499):0.005332742182):0.001667728283,11:0.019313014):0.01058936203,(12:0.009555810869,13:0.009555810869):0.02034656516):0.005044081589,(((14:0.01101543782,15:0.01101543782):0.007340841318,(16:0.01238974423,17:0.01238974423):0.005966534909):0.004683607292,(18:0.01495704891,19:0.01495704891):0.008082837522):0.01190657119):0.07620955142,((((((20:0.01224164382,21:0.01224164382):0.02123530287,22:0.03347694669):0.006291182538,23:0.03976812923):0.01223726857,24:0.0520053978):0.03241104343,25:0.08441644122):0.01065997647,26:0.09507641769):0.01607959136):0.005168397588,(27:0.07408910319,28:0.07408910319):0.04223530344);
+END;

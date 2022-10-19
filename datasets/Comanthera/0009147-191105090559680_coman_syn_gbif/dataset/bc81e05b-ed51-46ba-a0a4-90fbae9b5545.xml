@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bc81e05b-ed51-46ba-a0a4-90fbae9b5545"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/wvh0dx</alternateIdentifier>
+        <alternateIdentifier>bc81e05b-ed51-46ba-a0a4-90fbae9b5545</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=cepec</alternateIdentifier>
+    <title>CEPEC - Herbário do Centro de Pesquisas do Cacau</title>
+    <creator>
+    <individualName>
+<givenName>Cristiane</givenName>          <surName>Isabel Aguiar</surName>
+    </individualName>
+<organizationName>Comissão Executiva do Plano da Lavoura Cacaueira (CEPLAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilhéus - Itabuna; Centro de Pesquisas do Cacau</deliveryPoint><city>Ilhéus</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3214-3227</phone><electronicMailAddress>cfcristiane@bol.com.br</electronicMailAddress><onlineUrl>http://www.ceplac.gov.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>André</givenName>          <surName>Márcio Araujo Amorim</surName>
+    </individualName>
+<organizationName>Comissão Executiva do Plano da Lavoura Cacaueira (CEPLAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilhéus - Itabuna; Centro de Pesquisas do Cacau</deliveryPoint><city>Ilhéus</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3214-3227</phone><electronicMailAddress>amorim.uesc@gmail.com</electronicMailAddress><onlineUrl>http://www.ceplac.gov.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-20
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O herbário CEPEC possui uma coleção com cerca de 140.000 exsicatas, sendo o segundo maior acervo da região nordeste do Brasil. Estima-se que a coleção apresente 8.000 a 10.000 registros de espécies de plantas vasculares existentes no estado da Bahia e arredores (i.e. norte do Espírito Santo e Sergipe). Este herbário apresenta grande projeção no cenário nacional e internacional por possuir uma coleção de tipos nomenclaturais com ca. 2.000 amostras e por armazenar registros de plantas feitos nas principais Unidades de Conservação da Bahia a saber, PARNAs Chapada Diamantina, Serra das Lontras, Descobrimento, Pau-Brasil e Monte Pascoal, REBIO Una, PAREs Serra do Conduru e Wenceslau Guimaraes e RPPNs Serra Bonita, Serra do Teimoso e Ecoparque de Una. Alguns acervos como Fabaceae, Gesneriaceae e Malpighiaceae são representativos também para outras regiões do Brasil.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=CEPEC</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>André</givenName>          <surName>Márcio Araujo Amorim</surName>
+    </individualName>
+<organizationName>Comissão Executiva do Plano da Lavoura Cacaueira (CEPLAC)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Km 22 da Rodovia Ilhéus - Itabuna; Centro de Pesquisas do Cacau</deliveryPoint><city>Ilhéus</city><administrativeArea>Bahia</administrativeArea><postalCode>45600-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 73 3214-3227</phone><electronicMailAddress>amorim.uesc@gmail.com</electronicMailAddress><onlineUrl>http://www.ceplac.gov.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-11-18T14:12:57Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=CEPEC">Isabel Aguiar C, Márcio Araujo Amorim A (2019). CEPEC - Herbário do Centro de Pesquisas do Cacau. Version 1.61. Comissão Executiva do Plano da Lavoura Cacaueira – Centro de Pesquisas do Cacau. Occurrence dataset https://doi.org/10.15468/wvh0dx accessed via GBIF.org on 2019-11-18.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=cepec</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

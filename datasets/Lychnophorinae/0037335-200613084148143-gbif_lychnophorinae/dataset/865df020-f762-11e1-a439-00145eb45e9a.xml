@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="865df020-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a3lnmd</alternateIdentifier>
+        <alternateIdentifier>1905</alternateIdentifier>
+    <title>EURISCO, The European Genetic Resources Search Catalogue</title>
+    <associatedParty>
+    <individualName>
+          <surName>Ms Sonia Dias, EURISCO Coordinator</surName>
+    </individualName>
+    <address>
+<deliveryPoint>Bioversity International, Via dei Tre Denari 472/a, 00057 Maccarese, Rome, ITALY</deliveryPoint>    </address>
+<electronicMailAddress>s.dias@cgiar.org</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The EURISCO web catalogue automatically receives data from the National Inventories (NI). It effectively provides access to all ex situ PGR information in Europe and thus facilitates locating and accessing PGR.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-12T14:29:31Z</dateStamp>
+      <citation>Bioversity International. EURISCO, The European Genetic Resources Search Catalogue. Occurrence dataset https://doi.org/10.15468/a3lnmd accessed via GBIF.org on 2020-08-12.</citation>
+              <physical>
+                  <objectName>GBIF Occurrence Download</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0018050-180131172636756.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

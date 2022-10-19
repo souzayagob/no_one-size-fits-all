@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d6fa86b9-8906-4622-9ebc-24d393c9ac12"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xxrs0v</alternateIdentifier>
+        <alternateIdentifier>14097</alternateIdentifier>
+    <title>Wilson Botanical Garden - Las Cruces Biological Station</title>
+    <creator>
+    <individualName>
+<givenName>Oscar</givenName>          <surName>Madrigal</surName>
+    </individualName>
+<organizationName>Organization for Tropical Studies</organizationName><positionName>Information Management Coordinator</positionName>    <address>
+<deliveryPoint>San Pedro</deliveryPoint><city>San Pedro</city><administrativeArea>San José</administrativeArea><country>COSTA_RICA</country>    </address>
+<phone>25240607</phone><electronicMailAddress>oscar.madrigal@ots.ac.cr</electronicMailAddress><onlineUrl>http://www.ots.ac.cr</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oscar</givenName>          <surName>Madrigal</surName>
+    </individualName>
+<organizationName>Organization for Tropical Studies</organizationName><positionName>Information Management Coordinator</positionName>    <address>
+<deliveryPoint>San Pedro</deliveryPoint><city>San Pedro</city><administrativeArea>San José</administrativeArea><country>COSTA_RICA</country>    </address>
+<phone>25240607</phone><electronicMailAddress>oscar.madrigal@ots.ac.cr</electronicMailAddress><onlineUrl>http://www.ots.ac.cr</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Zak</givenName>          <surName>Zahawi</surName>
+    </individualName>
+<organizationName>Organization for Tropical Studies</organizationName><positionName>Las Cruces Field Station Director</positionName>    <address>
+<deliveryPoint>San Pedro</deliveryPoint><city>San José</city><administrativeArea>San José</administrativeArea><country>COSTA_RICA</country>    </address>
+<phone>25240607</phone><electronicMailAddress>zak.zahawi@ots.ac.cr</electronicMailAddress><onlineUrl>http://www.ots.ac.cr</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2012-03-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Information for Wilson Botanical Garden</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Wilson Botanical Garden is located in Costa Rica</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-86.07</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-82.42</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.3</northBoundingCoordinate>
+                      <southBoundingCoordinate>7.92</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Oscar</givenName>          <surName>Madrigal</surName>
+    </individualName>
+<organizationName>Organization for Tropical Studies</organizationName><positionName>Information Management Coordinator</positionName>    <address>
+<deliveryPoint>San Pedro</deliveryPoint><city>San Pedro</city><administrativeArea>San José</administrativeArea><country>COSTA_RICA</country>    </address>
+<phone>25240607</phone><electronicMailAddress>oscar.madrigal@ots.ac.cr</electronicMailAddress><onlineUrl>http://www.ots.ac.cr</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:24:29Z</dateStamp>
+      <citation>Madrigal O (2012). Wilson Botanical Garden - Las Cruces Biological Station. Organization for Tropical Studies. Occurrence dataset https://doi.org/10.15468/xxrs0v accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

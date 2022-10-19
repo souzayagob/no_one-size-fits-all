@@ -1,0 +1,290 @@
+#NEXUS
+[written Tue Sep 29 11:45:58 BRT 2020 by Mesquite  version 3.6 (build 917) at yago-Inspiron-3442/127.0.1.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=77;
+	TAXLABELS
+		Eaquatile Eligulatum Rcapillaceus Afalcifolius Pacanthophyllus Pflaccidus Pvellozioides Pbryoides Pcalvulus Ppaulinus Langustifolia Ldistichoclada Larrecta Lgomesii Lcrassifolia Ccentauroides Ccipoensis Ccircinnata Csquarrosa Creflexa Cxeranthemoides Cvernonioides Cjenmanii Caciphylla Caurifibrata Cbisulcata Cnitida Celegantula Cdealbata Celegans Cnivea Cpaepalophylla Cbrasiliana Clinearis Csuberosa Cbrunnea Cmagnifica Ccurralensis Cgiuliettiae Cimbricata Cmucugensis Charleyi Cretroflexa Chatschbachii Clanosa Cfloccosa Ckegeliana PHhoffmannseggii Sanomalus Sangolensis Snitens Spoggeanus Scostatus Sdavidsei Sgracilis Ssimplex Sfuscescens Shelminthorrhizus Swidgrenianus Sarenarius Scaulescens Schrysanthus Scompactus Sfischerianus Saquaticus Sumbellatus Sflavidulus Santhemidiflorus Sdensifolius Slaricifolius Sflavipes Sschwackei Sdensiflorus Slongipes Smacrolepis Sniger Swilliamsii 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "comanthera_tree.tre"';
+	ID 0174da5179691;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Eaquatile,
+[1] 		2 Eligulatum,
+[2] 		3 Rcapillaceus,
+[3] 		4 Afalcifolius,
+[4] 		5 Pacanthophyllus,
+[5] 		6 Pflaccidus,
+[6] 		7 Pvellozioides,
+[7] 		8 Pbryoides,
+[8] 		9 Pcalvulus,
+[9] 		10 Ppaulinus,
+[10] 		11 Langustifolia,
+[11] 		12 Ldistichoclada,
+[12] 		13 Larrecta,
+[13] 		14 Lgomesii,
+[14] 		15 Lcrassifolia,
+[15] 		16 Ccentauroides,
+[16] 		17 Ccipoensis,
+[17] 		18 Ccircinnata,
+[18] 		19 Csquarrosa,
+[19] 		20 Creflexa,
+[20] 		21 Cxeranthemoides,
+[21] 		22 Cvernonioides,
+[22] 		23 Cjenmanii,
+[23] 		24 Caciphylla,
+[24] 		25 Caurifibrata,
+[25] 		26 Cbisulcata,
+[26] 		27 Cnitida,
+[27] 		28 Celegantula,
+[28] 		29 Cdealbata,
+[29] 		30 Celegans,
+[30] 		31 Cnivea,
+[31] 		32 Cpaepalophylla,
+[32] 		33 Cbrasiliana,
+[33] 		34 Clinearis,
+[34] 		35 Csuberosa,
+[35] 		36 Cbrunnea,
+[36] 		37 Cmagnifica,
+[37] 		38 Ccurralensis,
+[38] 		39 Cgiuliettiae,
+[39] 		40 Cimbricata,
+[40] 		41 Cmucugensis,
+[41] 		42 Charleyi,
+[42] 		43 Cretroflexa,
+[43] 		44 Chatschbachii,
+[44] 		45 Clanosa,
+[45] 		46 Cfloccosa,
+[46] 		47 Ckegeliana,
+[47] 		48 PHhoffmannseggii,
+[48] 		49 Sanomalus,
+[49] 		50 Sangolensis,
+[50] 		51 Snitens,
+[51] 		52 Spoggeanus,
+[52] 		53 Scostatus,
+[53] 		54 Sdavidsei,
+[54] 		55 Sgracilis,
+[55] 		56 Ssimplex,
+[56] 		57 Sfuscescens,
+[57] 		58 Shelminthorrhizus,
+[58] 		59 Swidgrenianus,
+[59] 		60 Sarenarius,
+[60] 		61 Scaulescens,
+[61] 		62 Schrysanthus,
+[62] 		63 Scompactus,
+[63] 		64 Sfischerianus,
+[64] 		65 Saquaticus,
+[65] 		66 Sumbellatus,
+[66] 		67 Sflavidulus,
+[67] 		68 Santhemidiflorus,
+[68] 		69 Sdensifolius,
+[69] 		70 Slaricifolius,
+[70] 		71 Sflavipes,
+[71] 		72 Sschwackei,
+[72] 		73 Sdensiflorus,
+[73] 		74 Slongipes,
+[74] 		75 Smacrolepis,
+[75] 		76 Sniger,
+[76] 		77 Swilliamsii;
+	TREE con_50_majrule = (1:0.006397,2:0.007681,(3:0.113341,((((4:0.012656,(5:0.005741,6:0.011515)0.85:0.004023)1.00:0.030106,7:0.001783)1.00:0.069168,(8:0.04247,(9:0.002554,10:0.010773)1.00:0.005649)0.93:0.009885)1.00:0.071753,(((11:0.006916,12:0.011326)1.00:0.03292,((13:0.050862,14:0.0166)0.76:0.008603,15:0.021888):0.030544[%edgeLength = 1 ]):0.104484[%edgeLength = 1 ],(((((16:0.00277,17:0.004945,18:0.001676,19:0.001652):0.005274[%edgeLength = 0.89 ],(20:0.053425,21:0.03035):0.036956[%edgeLength = 0.69 ],22:0.01323):0.012266[%edgeLength = 0.78 ],23:0.041954):0.052379[%edgeLength = 1 ],((((((24:0.003236,25:0.008451,(26:0.002645,27:0.001102):0.002079[%edgeLength = 0.62 ],28:0.00688):0.003475[%edgeLength = 1 ],(29:0.001754,30:0.002993):0.002983[%edgeLength = 1 ],31:0.004078,32:0.031967):0.006739[%edgeLength = 1 ],((33:0.001719,34:0.005222,35:0.003701):0.003714[%edgeLength = 0.95 ],(36:0.01306,37:0.004317):0.003609[%edgeLength = 0.55 ]):0.009816[%edgeLength = 1 ]):0.002442[%edgeLength = 0.93 ],(38:0.018039,(39:0.003795,40:0.016444,41:0.007156):0.014182[%edgeLength = 1 ],(42:0.029275,43:0.00283):0.012234[%edgeLength = 1 ],44:0.003457,45:0.005331):0.003521[%edgeLength = 1 ]):0.003036[%edgeLength = 0.8 ],46:0.013178):0.016665[%edgeLength = 1 ],47:0.065262):0.039175[%edgeLength = 1 ]):0.094551[%edgeLength = 1 ],((48:0.064358,49:0.255885):0.048516[%edgeLength = 0.98 ],(((((((((50:0.013616,51:0.002266):0.002327[%edgeLength = 0.94 ],52:0.006895):0.002575[%edgeLength = 0.96 ],(53:0.086284,(54:0.008271,55:0.009342):0.004356[%edgeLength = 0.85 ]):0.002715[%edgeLength = 0.7 ]):0.007961[%edgeLength = 1 ],56:0.018634):0.007491[%edgeLength = 1 ],57:0.016025):0.01753[%edgeLength = 1 ],(58:0.020229,59:0.017494):0.025001[%edgeLength = 1 ]):0.004789[%edgeLength = 0.99 ],(60:0.020398,(61:0.014364,((62:0.019851,63:0.011815):0.004909[%edgeLength = 0.97 ],64:0.014557):0.005674[%edgeLength = 1 ]):0.012395[%edgeLength = 1 ]):0.007762[%edgeLength = 1 ]):0.002634[%edgeLength = 0.64 ],(65:0.002458,66:0.001323):0.020932[%edgeLength = 1 ]):0.047311[%edgeLength = 1 ],67:0.061203):0.022035[%edgeLength = 0.59 ],((((68:0.003836,69:0.005011):0.003831[%edgeLength = 1 ],70:0.006788):0.007504[%edgeLength = 0.99 ],71:0.065395):0.025862[%edgeLength = 1 ],72:0.067738):0.016068[%edgeLength = 0.61 ],((73:0.022574,74:0.00521):0.006824[%edgeLength = 0.99 ],(75:0.01088,76:0.004941):0.009448[%edgeLength = 1 ]):0.024461[%edgeLength = 1 ],77:0.037781):0.076631[%edgeLength = 1 ]):0.045537[%edgeLength = 1 ]):0.038313[%edgeLength = 0.95 ]):0.03984[%edgeLength = 0.88 ]):0.683827[%edgeLength = 1 ]):0.0[% ] [% ] [%  setBetweenDouble = edgeLength ];
+	TREE con_50_majrule = (1:0.006397,2:0.007681,(3:0.113341,((((4:0.012656,(5:0.005741,6:0.011515):0.004023):0.030106,7:0.001783):0.069168,(8:0.04247,(9:0.002554,10:0.010773):0.005649):0.009885):0.071753,(((11:0.006916,12:0.011326):0.03292,((13:0.050862,14:0.0166):0.008603,15:0.021888):0.030544):0.104484,(((((16:0.00277,17:0.004945,18:0.001676,19:0.001652):0.005274,(20:0.053425,21:0.03035):0.036956,22:0.01323):0.012266,23:0.041954):0.052379,((((((24:0.003236,25:0.008451,(26:0.002645,27:0.001102):0.002079,28:0.00688):0.003475,(29:0.001754,30:0.002993):0.002983,31:0.004078,32:0.031967):0.006739,((33:0.001719,34:0.005222,35:0.003701):0.003714,(36:0.01306,37:0.004317):0.003609):0.009816):0.002442,(38:0.018039,(39:0.003795,40:0.016444,41:0.007156):0.014182,(42:0.029275,43:0.00283):0.012234,44:0.003457,45:0.005331):0.003521):0.003036,46:0.013178):0.016665,47:0.065262):0.039175):0.094551,((48:0.064358,49:0.255885):0.048516,(((((((((50:0.013616,51:0.002266):0.002327,52:0.006895):0.002575,(53:0.086284,(54:0.008271,55:0.009342):0.004356):0.002715):0.007961,56:0.018634):0.007491,57:0.016025):0.01753,(58:0.020229,59:0.017494):0.025001):0.004789,(60:0.020398,(61:0.014364,((62:0.019851,63:0.011815):0.004909,64:0.014557):0.005674):0.012395):0.007762):0.002634,(65:0.002458,66:0.001323):0.020932):0.047311,67:0.061203):0.022035,((((68:0.003836,69:0.005011):0.003831,70:0.006788):0.007504,71:0.065395):0.025862,72:0.067738):0.016068,((73:0.022574,74:0.00521):0.006824,(75:0.01088,76:0.004941):0.009448):0.024461,77:0.037781):0.076631):0.045537):0.038313):0.03984):0.683827):0.0;
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1601390758883;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 9197522756249462238;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 129;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 152 103;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #9197522756249462238 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #9197522756249462238;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 571 392;
+					setLocation 152 103;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #9197522756249462238  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0174da5179691;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 957.1601390719627.7784760152544231835;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 571 392;
+					setLocation 152 103;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

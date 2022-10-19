@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0bcbd3a8-f22e-4350-a19d-a94fe6ca9738"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/jn3v2g</alternateIdentifier>
+        <alternateIdentifier>0bcbd3a8-f22e-4350-a19d-a94fe6ca9738</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=ufg</alternateIdentifier>
+    <title>UFG - Herbário da Universidade Federal de Goiás</title>
+    <creator>
+    <individualName>
+<givenName>Danielle</givenName>          <surName>de Oliveira Diniz</surName>
+    </individualName>
+<organizationName>Universidade Federal de Goiás (UFG)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Samambaia - Campus II, Cx Postal 131</deliveryPoint><city>Goiânia</city><administrativeArea>Goiás</administrativeArea><postalCode>74001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 62 8151-3580</phone><electronicMailAddress>danidiniz26@gmail.com</electronicMailAddress><onlineUrl>http://www.prppg.ufg.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Danielle</givenName>          <surName>de Oliveira Diniz</surName>
+    </individualName>
+<organizationName>Universidade Federal de Goiás (UFG)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Samambaia - Campus II, Cx Postal 131</deliveryPoint><city>Goiânia</city><administrativeArea>Goiás</administrativeArea><postalCode>74001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 62 8151-3580</phone><electronicMailAddress>danidiniz26@gmail.com</electronicMailAddress><onlineUrl>http://www.prppg.ufg.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>&lt;p&gt;A Unidade de Conservação (UC) está vinculada a Pró-Reitoria de Pesquisas e Inovação (PRPI) da Universidade Federal de Goiás (UFG) e compreende a Reserva Biológica, Prof. José Ângelo Rizzo - Serra Dourada, localizada na Serra Dourada, Município de Mossâmedes, Goiás, o Bosque Auguste de Saint-Hilaire, e o Herbário UFG, sendo esses últimos, localizados no Campus Samambaia da UFG.&lt;/p&gt;
+&lt;p&gt;O Herbário UFG foi fundado em 1968, pelo Prof. José Ângelo Rizzo e seus colegas José Salum e José Alberto Centeno. Em 2013, foi inaugurado as novas instalações do Herbário UFG, em um prédio novo, climatizado, dotado de equipamentos modernos para acomodar tecnicamente espécies vegetais.&lt;/p&gt;
+&lt;p&gt;O Herbário da UFG foi formado através de 2 planos de coleções: o 1º, sobre a Flora do município de Goiânia, e o 2º sobre a Flora do Estado de Goiás (agora, Estados de Goiás e Tocantins). Iniciou-se em março de 1969 e terminou em novembro de 1974, resultando em 9.605 coletas botânicas. Atualmente com 67.000 registros. É de grande importância para o conhecimento da Flora de Goiás e Tocantins, o mesmo foi credenciado como fiel depositário de amostras do patrimônio genético e atende demandas das Unidades da UFG, pesquisadores nacionais e internacionais, bem como para teses e dissertações, e ao atendimento da comunidade em geral. A publicação da Flora de Goiás e Tocantins- Coleção Rizzo compõe um acervo literário científico, especialmente com as coleções do acervo e conta já com 48 volumes de fanerógamas, 7 volumes de criptógamas, dois volumes especiais que tratam dos relatos de naturalistas europeus que percorreram a província de Goiás, estudando o bioma do mesmo e a biografia do Professor Doutor José Ângelo Rizzo.&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=UFG</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Danielle</givenName>          <surName>de Oliveira Diniz</surName>
+    </individualName>
+<organizationName>Universidade Federal de Goiás (UFG)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Campus Samambaia - Campus II, Cx Postal 131</deliveryPoint><city>Goiânia</city><administrativeArea>Goiás</administrativeArea><postalCode>74001-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 62 8151-3580</phone><electronicMailAddress>danidiniz26@gmail.com</electronicMailAddress><onlineUrl>http://www.prppg.ufg.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:35:13Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=UFG">de Oliveira Diniz D (2021). UFG - Herbário da Universidade Federal de Goiás. Version 1.70. Universidade Federal de Goiás. Occurrence dataset https://doi.org/10.15468/jn3v2g accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=ufg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

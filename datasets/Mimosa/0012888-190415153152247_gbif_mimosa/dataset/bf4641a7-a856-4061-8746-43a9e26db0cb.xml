@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bf4641a7-a856-4061-8746-43a9e26db0cb"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/wn5vzn</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/sibbr/resource?r=savana_floristica</alternateIdentifier>
+        <alternateIdentifier>bf4641a7-a856-4061-8746-43a9e26db0cb</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibbr.gov.br/sibbr/resource?r=savana_floristica</alternateIdentifier>
+    <title>Inventário florístico de 20 parcelas permanentes estabelecidas em áreas de savana do norte da Amazônia brasileira</title>
+    <creator>
+    <individualName>
+<givenName>Maria Aparecida Moura</givenName>          <surName>Araújo</surName>
+    </individualName>
+<organizationName>UFRR - Escola Agrotécnica</organizationName><positionName>MSc</positionName>    <address>
+<city>Boa Vista</city><administrativeArea>Roraima</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>maria.moura@ufrr.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Reinaldo Imbrozio</givenName>          <surName>Barbosa</surName>
+    </individualName>
+<organizationName>INPA - Núcleo de Roraima</organizationName><positionName>Dr.</positionName>    <address>
+<city>Boa Vista</city><administrativeArea>Roraima</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>reinaldo@inpa.gov.br</electronicMailAddress><onlineUrl>http://agroeco.inpa.gov.br/reinaldo/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7482-346X</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Antônio Elielson</givenName>          <surName>Rocha</surName>
+    </individualName>
+<organizationName>MPEG</organizationName><positionName>Dr.</positionName>    <address>
+<city>Belém</city><administrativeArea>Pará</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>asrocha@museu-goeldi.br</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Reinaldo Imbrozio</givenName>          <surName>Barbosa</surName>
+    </individualName>
+<organizationName>INPA - Núcleo de Roraima</organizationName><positionName>Dr.</positionName>    <address>
+<city>Boa Vista</city><administrativeArea>Roraima</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>reinaldo@inpa.gov.br</electronicMailAddress><onlineUrl>http://agroeco.inpa.gov.br/reinaldo/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7482-346X</userId>
+    </metadataProvider>
+      <pubDate>
+      2017-07-28
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Inventário florístico realizado pelo Grupo de Pesquisa &amp;#34;Ecologia e Manejo dos Recursos Naturais da Savana de Roraima&amp;#34;, vinculado ao Instituto Nacional de Pesquisas da Amazônia (INPA), em 20 parcelas permanentes estabelecidas em dois módulos de savana do Programa de Pesquisa em Biodiversidade (PPBio), Núcleo de Roraima. O levantamento foi realizado entre 2012/2013 e baseado em observações diretas ao longo do transecto central de cada parcela. Todos os indivíduos observados foram categorizados por formas de vida (árvore, arbusto, sub-arbusto e ervas) e habitats definidos por diferentes restrições hidro-edáficas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>species richness</keyword>
+              <keyword>environmental determinant</keyword>
+              <keyword>plant community</keyword>
+              <keyword>floristic survey</keyword>
+              <keyword>Amazonian savanna</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>O estudo foi realizado em 20 parcelas permanentes distribuídas em dois módulos de savana do Programa de Pesquisa em Biodiversidade (PPBio), gerenciado pelo governo brasileiro através do Ministério da Ciência, Tecnologia e Inovação (https://ppbio.inpa.gov.br/). Os dois módulos ficam situados no município de Boa Vista, Roraima: (i) Campus do Cauamé, região do Monte Cristo (MC), pertecente à UFRR (498 ha) e (ii) Campo Experimental Água Boa (AB), pertence à Empresa Brasileira de Pesquisa Agropecuária - Embrapa Roraima (616 ha).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-60.9</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-60.7</eastBoundingCoordinate>
+                      <northBoundingCoordinate>2.9</northBoundingCoordinate>
+                      <southBoundingCoordinate>2.6</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-10-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-11-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Esse conjunto de dados está associado à dissertação de mestrado de Maria Aparecida de Moura Araújo (FATORES EDÁFICOS DETERMINANDO COMPOSIÇÃO, RIQUEZA E COBERTURA DE PLANTAS NA SAVANA DE RORAIMA), defendida em agosto/2014 pelo PRONAT/UFRR, Boa Vista, Roraima.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maria Aparecida Moura</givenName>          <surName>Araújo</surName>
+    </individualName>
+<organizationName>UFRR</organizationName><positionName>MSc</positionName>    <address>
+<city>Boa Vista</city><administrativeArea>Roraima</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>maria.moura@ufrr.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Antônio Elielson</givenName>          <surName>Rocha</surName>
+    </individualName>
+<organizationName>MPEG</organizationName><positionName>Dr.</positionName>    <address>
+<city>Belém</city><administrativeArea>Pará</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>asrocha@museu-goeldi.br</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Os nomes científicos das espécies identificadas foram corrigidos pelos sistemas de busca do (i) Herbário Virtual do Projeto REFLORA (Plantas do Brasil: Resgate Histórico e Herbário Virtual para o Conhecimento e Conservação da Flora Brasileira - http://reflora.jbrj.gov.br/reflora/PrincipalUC/PrincipalUC.do?lingua=pt) e  (ii) do The Plant List (http://www.theplantlist.org/). As circunscrições para as famílias seguiram a classificação do APG III (2009).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>O estudo foi realizado em 20 parcelas permanentes distribuídas em dois módulos de pesquisa do Programa de Pesquisa em Biodiversidade (PPBio -https://ppbio.inpa.gov.br/), situados no município de Boa Vista, Roraima, norte da Amazônia brasileira: (i) Campus do Cauamé, região do Monte Cristo (MC): pertence à Universidade Federal de Roraima – UFRR (498 ha) - 02º 38’ 07” N a 02º 40’ 11” N / 60º 49’ 25” W a 60º 52’ 28” W; e (ii) Campo Experimental Água Boa (AB): pertence à Empresa Brasileira de Pesquisa Agropecuária - Embrapa Roraima (616 ha) - 02º 51’ 49” N a 02º 53’ 06” N / 60º 44’ 14” W a 60º 42’ 27” W). A vegetação de ambos os módulos é tipicamente de savana, variando de campo graminoso à savana parque.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>As 20 parcelas permanentes representam as amostras do inventário florísto. Cada parcela possuí comprimento de 250 m e segue obrigatoriamente a curva de nível delimitada pelo ponto inicial de cada uma delas. Essa configuração é padrão no PPBio e tem por objetivo minimizar a variação nos fatores abióticos que afetam as diferentes comunidades biológicas investigadas. O inventário florístico foi realizado com base no hábito das plantas (ervas, subarbustos, arbustos e árvores). O levantamento das plantas herbáceas e subarbustivas foi realizado em uma faixa de largura de 2 m (1 m de cada lado da linha central da parcela), enquanto as plantas do estrato arbóreo-arbustivo foram inventariadas em uma faixa de 10 m (5 de cada lado da linha central da parcela).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Todos os indivíduos observados em campo foram morfotipados em campo, sendo coletados e posteriormente enviados aos Herbários da UFRR e do MPEG para identificação e depósito legal.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-05-14T16:50:11Z</dateStamp>
+      <citation>Araújo M A M, Barbosa R I, Rocha A E (2017). Inventário florístico de 20 parcelas permanentes estabelecidas em áreas de savana do norte da Amazônia brasileira. Version 1.7. Sistema de Informação sobre a Biodiversidade Brasileira - SiBBr. Occurrence dataset https://doi.org/10.15468/wn5vzn accessed via GBIF.org on 2019-05-14.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>Not applicable</collectionIdentifier>
+                <collectionName>Florística dos módulos de savana do PPBio/Roraima</collectionName>
+              </collection>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

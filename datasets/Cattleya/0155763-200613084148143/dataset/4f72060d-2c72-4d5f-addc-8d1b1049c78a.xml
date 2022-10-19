@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4f72060d-2c72-4d5f-addc-8d1b1049c78a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/npk1o5</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nlbif.nl/ipt/resource.do?r=nhmm_herbarium</alternateIdentifier>
+        <alternateIdentifier>4f72060d-2c72-4d5f-addc-8d1b1049c78a</alternateIdentifier>
+        <alternateIdentifier>14173</alternateIdentifier>
+    <title>Natural History Museum Maastricht (NL) - Herbarium</title>
+    <creator>
+    <individualName>
+<givenName>Frans J.A.</givenName>          <surName>Slieker</surName>
+    </individualName>
+<organizationName>Natural History Museum Rotterdam</organizationName><positionName>Honorary Curator</positionName>    <address>
+<country>NETHERLANDS</country>    </address>
+<electronicMailAddress>fjas@caiway.net</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Beuk</surName>
+    </individualName>
+<organizationName>Natural History Museum Maastricht</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>De Bosquetplein 6-7</deliveryPoint><city>Maastricht</city><postalCode>NL-6211KJ</postalCode><country>NETHERLANDS</country>    </address>
+<electronicMailAddress>paul.beuk@maastricht.nl</electronicMailAddress><onlineUrl>http://www.nhmmaastricht.nl</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Frans</givenName>          <surName>Slieker</surName>
+    </individualName>
+<organizationName>Natural History Museum Rotterdam</organizationName>    <address>
+<country>NETHERLANDS</country>    </address>
+<electronicMailAddress>fjas@caiway.net</electronicMailAddress>    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2014-09-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The principal herbarium is that of A. de Wever (1874-1947) of Nuth. In 1912, de Wever was one of the founding members of the Natuurhistorisch Genootschap in Limburg. Between 1890 and 1943 he collected plants from the whole of southern Limburg, a collection which, by its being well-documented, ranks amongst the most important regional herbariums in The Netherlands. On the basis of this herbarium detailed studies into the flora and vegetation at the start of this century could be carried out. The de Wever Herbarium consists of c. 20,000 paper covers with a total of some 60,000 specimens. Of the smaller herbariums those of J.L. Rieter and L. Grégoire are of importance. Part of the collection are also a few pharmacist herbariums, the principal one of which is the mosses herbarium of 1770 of the Maastricht chemist J.L. Franquinet.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Beuk</surName>
+    </individualName>
+<organizationName>Natural History Museum Maastricht</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>De Bosquetplein 6-7</deliveryPoint><city>Maastricht</city><postalCode>NL-6211KJ</postalCode><country>NETHERLANDS</country>    </address>
+<electronicMailAddress>paul.beuk@maastricht.nl</electronicMailAddress><onlineUrl>http://www.nhmmaastricht.nl</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:24:25Z</dateStamp>
+      <citation>Slieker F J, Beuk P (2014). Natural History Museum Maastricht (NL) - Herbarium. Natural History Museum Maastricht. Occurrence dataset https://doi.org/10.15468/npk1o5 accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt.nlbif.nl/ipt/logo.do?r=nhmm_herbarium</resourceLogoUrl>
+              <formationPeriod>From 1770 till recent.</formationPeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

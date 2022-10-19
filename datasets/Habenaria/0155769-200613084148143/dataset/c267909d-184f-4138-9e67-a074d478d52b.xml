@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c267909d-184f-4138-9e67-a074d478d52b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/on4axg</alternateIdentifier>
+        <alternateIdentifier>https://cch2.org/portal/collections/misc/collprofiles.php?collid=39</alternateIdentifier>
+        <alternateIdentifier>http://cch2.org/portal/collections/misc/collprofiles.php?collid=39</alternateIdentifier>
+    <title>DAV - UC Davis Herbarium</title>
+    <creator>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>CCH2 Portal</organizationName><electronicMailAddress>jyost@calpoly.edu</electronicMailAddress><onlineUrl>https://cch2.org/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<electronicMailAddress>tcbarry@ucdavis.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>University of California, Davis herbarium collections are worldwide, with emphasis on California, North America, and neotropics (especially Ecuador and Baja California); Quercus, Fagaceae, and Arctostaphylos, Ericaceae of New World; Euphorbiaceae; Poaceae; Clarkia (Onagraceae); Lycianthes and Lycopersicon (Solanaceae); Stephanomeria and tarweed genera (Asteraceae); Navarretia (Polemoniaceae); Allium (Alliaceae); Trifolium (Fabaceae);Prunus (Rosaceae); Central Valley of California vernal pool species; weedy and poisonous species of California and Mediterranean-climate regions; range plants of California; alpine flora of western North America. Size of collection: 320,000 specimens, 50% from California.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>DAV - UC Davis Herbarium</organizationName><phone>(530) 752-1091</phone><electronicMailAddress>tcbarry@ucdavis.edu</electronicMailAddress><onlineUrl>http://herbarium.ucdavis.edu</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:35:12Z</dateStamp>
+      <citation>University of California, Davis (2021). DAV - UC Davis Herbarium. Occurrence dataset https://doi.org/10.15468/on4axg accessed via GBIF.org on 2021-01-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

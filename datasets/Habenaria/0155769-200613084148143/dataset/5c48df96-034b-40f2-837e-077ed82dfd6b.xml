@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5c48df96-034b-40f2-837e-077ed82dfd6b"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/6cvp75</alternateIdentifier>
+        <alternateIdentifier>5c48df96-034b-40f2-837e-077ed82dfd6b</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hpbr</alternateIdentifier>
+    <title>HPBR - Herbário Padre Balduino Rambo</title>
+    <creator>
+    <individualName>
+<givenName>Elizabete</givenName>          <surName>Maria Zanin</surName>
+    </individualName>
+<organizationName>Universidade Regional Integrada do Alto Uruguai e das Missões - Campus de Erechim (URICER)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Sete de Setembro, 1621 - Fátima</deliveryPoint><city>Erechim</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>99700-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 3520-9000 / 9110</phone><electronicMailAddress>emz@uricer.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HPBR</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Elizabete</givenName>          <surName>Maria Zanin</surName>
+    </individualName>
+<organizationName>Universidade Regional Integrada do Alto Uruguai e das Missões - Campus de Erechim (URICER)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Sete de Setembro, 1621 - Fátima</deliveryPoint><city>Erechim</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>99700-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 3520-9000 / 9110</phone><electronicMailAddress>emz@uricer.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HPBR</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O HPBR é um dos Herbários que detém o maior número de informações sobre a Região do Alto Uruguai, norte do Rio Grande do Sul e o único dos campi da URI. Sua coleção botânica apresenta aproximadamente 12.000 exsicatas, além da carpoteca- coleção de frutos, a xiloteca – coleção de amostras de madeira, a ficoteca- coleção de algas e a micoteca- coleção de fungos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HPBR</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Elizabete</givenName>          <surName>Maria Zanin</surName>
+    </individualName>
+<organizationName>Universidade Regional Integrada do Alto Uruguai e das Missões - Campus de Erechim (URICER)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Sete de Setembro, 1621 - Fátima</deliveryPoint><city>Erechim</city><administrativeArea>Rio Grande do Sul</administrativeArea><postalCode>99700-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 54 3520-9000 / 9110</phone><electronicMailAddress>emz@uricer.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HPBR</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-15T00:35:13Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HPBR">Maria Zanin E (2021). HPBR - Herbário Padre Balduino Rambo. Version 1.69. Universidade Regional Integrada do Alto Uruguai e das Missões. Occurrence dataset https://doi.org/10.15468/6cvp75 accessed via GBIF.org on 2021-01-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hpbr</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

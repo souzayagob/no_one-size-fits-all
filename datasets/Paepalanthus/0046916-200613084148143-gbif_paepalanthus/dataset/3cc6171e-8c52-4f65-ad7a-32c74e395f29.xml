@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3cc6171e-8c52-4f65-ad7a-32c74e395f29"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/5ictpz</alternateIdentifier>
+        <alternateIdentifier>http://ipt.inpa.gov.br/resource.do?r=inpa-herbarium-collection</alternateIdentifier>
+        <alternateIdentifier>3cc6171e-8c52-4f65-ad7a-32c74e395f29</alternateIdentifier>
+    <title>Herbarium - Instituto Nacional de Pesquisas da Amazônia (INPA)</title>
+    <creator>
+    <individualName>
+<givenName>Mike</givenName>          <surName>Hopkins</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisas da Amazônia (INPA)</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. André Araújo, 2.936 - Petrópolis</deliveryPoint><city>Manaus</city><administrativeArea>Amazonas</administrativeArea><postalCode>69067-375</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>mikehopkins44@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Delano</givenName>          <surName>Campos de Oliveira</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisas da Amazônia (INPA)</organizationName><positionName>Metadata Provider</positionName>    <address>
+<deliveryPoint>Av. André Araújo, 2.936 - Petrópolis</deliveryPoint><city>Manaus</city><administrativeArea>Amazonas</administrativeArea><postalCode>69067-375</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>camposdelano@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2015-10-10
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The INPA herbarium was founded in 1954 and is the largest collection of Amazon plants in Brazil with ca. 260,000 collections, 90% of them from the Amazon region.  The collections is informatized in BRAHMS.  The principal collectors include Ghillian T. Prance, William A. Rodrigues and Carlos A. Cid Ferreira. The current curator is Michael J.G. Hopkins.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Herbarium</keyword>
+              <keyword>INPA</keyword>
+              <keyword>Botany</keyword>
+              <keyword>Collection</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Geographic coverage of INPA&apos;s Herbarium.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1846-01-04
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-05-10
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Taxonomic coverage of INPA&apos;s Herbarium.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Mike</givenName>          <surName>Hopkins</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisas da Amazônia (INPA)</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. André Araújo, 2.936 - Petrópolis</deliveryPoint><city>Manaus</city><administrativeArea>Amazonas</administrativeArea><postalCode>69067-375</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>mikehopkins44@hotmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Mike</givenName>          <surName>Hopkins</surName>
+    </individualName>
+<organizationName>Instituto Nacional de Pesquisas da Amazônia (INPA)</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. André Araújo, 2.936 - Petrópolis</deliveryPoint><city>Manaus</city><administrativeArea>Amazonas</administrativeArea><postalCode>69067-375</postalCode><country>BRAZIL</country>    </address>
+<electronicMailAddress>mikehopkins44@hotmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:32Z</dateStamp>
+      <citation>Hopkins M, Campos de Oliveira D (2015). Herbarium - Instituto Nacional de Pesquisas da Amazônia (INPA). Instituto Nacional de Pesquisas da Amazônia - INPA. Occurrence dataset https://doi.org/10.15468/5ictpz accessed via GBIF.org on 2020-08-26.</citation>
+              <resourceLogoUrl>http://www.ecoticias.com/latam/ecoticiasbrasil.com/herbario-virtual-9560.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>INPA-HERBARIUM</collectionIdentifier>
+                <collectionName>Herbarium</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

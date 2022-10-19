@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5a0f2fe0-5516-4dc2-87df-6664c14249e0"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/6j2hwj</alternateIdentifier>
+        <alternateIdentifier>5a0f2fe0-5516-4dc2-87df-6664c14249e0</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hfsl</alternateIdentifier>
+    <title>HFSL - Herbário Dr. Ary Tupinambá Penna Pinheiro</title>
+    <creator>
+    <individualName>
+<givenName>Mizael</givenName>          <surName>Andrade Pedersoli</surName>
+    </individualName>
+<organizationName>Faculdade São Lucas (FSL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Alexandre Guimarães, N. 1927 - Bairro Areal</deliveryPoint><city>Porto Velho</city><administrativeArea>Rondônia</administrativeArea><postalCode>76804-373</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 69 3211-8039</phone><electronicMailAddress>herbario@saolucas.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HFSL</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mizael</givenName>          <surName>Andrade Pedersoli</surName>
+    </individualName>
+<organizationName>Faculdade São Lucas (FSL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Alexandre Guimarães, N. 1927 - Bairro Areal</deliveryPoint><city>Porto Velho</city><administrativeArea>Rondônia</administrativeArea><postalCode>76804-373</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 69 3211-8039</phone><electronicMailAddress>herbario@saolucas.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HFSL</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-08-15
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>O Herbário Dr. Ary Tupinambá Pena Pinheiro foi fundado no dia 18 de outubro de 2002. Está situado na sede da faculdade São Lucas, e conta atualmente com 5.664 especimes da flora fanerogâmica, pertencentes à 127 famílias botânicas do sistema de Cronquist, havendo ainda, briófitas, fungos e pteridophytas.; Atualmente o herbário ocupa uma área total com cerca de 53,62 m².; possui uma sala para o acervo e outra para a curadoria além de uma ante sala para manuseio de material e estufa.; O Herbário dispõe ainda de uma biblioteca com várias obras, Dicionário de Plantas, além de periódicos, livros e teses diversas.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HFSL</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mizael</givenName>          <surName>Andrade Pedersoli</surName>
+    </individualName>
+<organizationName>Faculdade São Lucas (FSL)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Rua Alexandre Guimarães, N. 1927 - Bairro Areal</deliveryPoint><city>Porto Velho</city><administrativeArea>Rondônia</administrativeArea><postalCode>76804-373</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 69 3211-8039</phone><electronicMailAddress>herbario@saolucas.edu.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=HFSL</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-08-26T20:49:23Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HFSL">Andrade Pedersoli M (2020). HFSL - Herbário Dr. Ary Tupinambá Penna Pinheiro. Version 1.67. Centro de Ensino São Lucas. Occurrence dataset https://doi.org/10.15468/6j2hwj accessed via GBIF.org on 2020-08-26.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hfsl</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

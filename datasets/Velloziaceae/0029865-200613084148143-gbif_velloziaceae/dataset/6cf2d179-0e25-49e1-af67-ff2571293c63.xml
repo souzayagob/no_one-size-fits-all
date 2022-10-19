@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6cf2d179-0e25-49e1-af67-ff2571293c63"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ogkonb</alternateIdentifier>
+        <alternateIdentifier>6cf2d179-0e25-49e1-af67-ff2571293c63</alternateIdentifier>
+        <alternateIdentifier>http://ipt.jbrj.gov.br/reflora/resource?r=cor</alternateIdentifier>
+    <title>COR herbarium - Universidade Federal de Mato Grosso do Sul / Campus Pantanal - Herbário Virtual Reflora</title>
+    <creator>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Ana Farinaccio</surName>
+    </individualName>
+<organizationName>Universidade Federal de Mato Grosso do Sul, Campus do Pantanal</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. Rio Branco, 1270</deliveryPoint><city>Corumbá</city><administrativeArea>MS</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>maria.farinaccio@ufms.br</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>João</givenName>          <surName>Lanna</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Data Manager</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão - 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>joaomlanna@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Ana Farinaccio</surName>
+    </individualName>
+<organizationName>Universidade Federal de Mato Grosso do Sul, Campus do Pantanal</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. Rio Branco, 1270</deliveryPoint><city>Corumbá</city><administrativeArea>MS</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>maria.farinaccio@ufms.br</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-07-26
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The dataset provides information on all digitized specimens from COR Herbarium (Herbário da Universidade Federal de Mato Grosso do Sul (Campus Pantanal), Corumbá, Mato Grosso do Sul, Brasil).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Ana Farinaccio</surName>
+    </individualName>
+<organizationName>Universidade Federal de Mato Grosso do Sul, Campus do Pantanal</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Av. Rio Branco, 1270</deliveryPoint><city>Corumbá</city><administrativeArea>MS</administrativeArea><country>BRAZIL</country>    </address>
+<electronicMailAddress>maria.farinaccio@ufms.br</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Rafaela</givenName>          <surName>Forzza</surName>
+    </individualName>
+<organizationName>Jardim Botânico do Rio de Janeiro</organizationName><positionName>Reflora coordinator</positionName>    <address>
+<deliveryPoint>Rua Pacheco Leão 915</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>22460-030</postalCode><country>BRAZIL</country>    </address>
+<phone>+552132042082</phone><electronicMailAddress>rafaela@jbrj.gov.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-28T20:24:01Z</dateStamp>
+      <citation>Ana Farinaccio M, Lanna J (2020). COR herbarium - Universidade Federal de Mato Grosso do Sul / Campus Pantanal - Herbário Virtual Reflora. Version 1.62. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/ogkonb accessed via GBIF.org on 2020-07-28.</citation>
+              <resourceLogoUrl>http://ipt.jbrj.gov.br/reflora/logo.do?r=cor</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

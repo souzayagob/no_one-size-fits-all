@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e153bbae-f9cd-46a6-a4dd-db74983c7075"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/ymks0x</alternateIdentifier>
+        <alternateIdentifier>e153bbae-f9cd-46a6-a4dd-db74983c7075</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=hpl</alternateIdentifier>
+    <title>HPL - Herbário do Jardim Botânico Plantarum</title>
+    <creator>
+    <individualName>
+<givenName>Antonio</givenName>          <surName>Campos Rocha</surName>
+    </individualName>
+<organizationName>Jardim Botânico Plantarum</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Brasil, 2000</deliveryPoint><city>Nova Odessa</city><administrativeArea>São Paulo</administrativeArea><postalCode>13460-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3466-5587</phone><electronicMailAddress>plantarum@plantarum.org.br</electronicMailAddress><onlineUrl>http://www.plantarum.org.br</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Harri</givenName>          <surName>Lorenzi</surName>
+    </individualName>
+<organizationName>Jardim Botânico Plantarum</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Brasil, 2000</deliveryPoint><city>Nova Odessa</city><administrativeArea>São Paulo</administrativeArea><postalCode>13460-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3466-5587</phone><electronicMailAddress>plantarum@plantarum.org.br</electronicMailAddress><onlineUrl>http://www.plantarum.org.br</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-08
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>&lt;p&gt;O Herbário do Jardim Botânico Plantarum foi fundado por seu diretor, Harri Lorenzi, em 2002 o início de sua coleção, no entanto, remonta ao ano de 1990. Desde 2008 está indexado sob a sigla HPL junto ao Index Herbariorum, cadastro internacional de herbários. O Herbário HPL também integra a Rede Brasileira de Herbários (RBH), por sua vez ligada à Sociedade de Botânica do Brasil.&lt;/p&gt;
+&lt;p&gt;Localizado no subsolo do prédio administrativo, o Herbário HPL dispõe de mais de 15 mil exsicatas em seu acervo, originárias, em sua vasta maioria, da flora nativa de nosso país.&lt;/p&gt;
+&lt;p&gt;Entre as mais de 300 famílias de angiospermas, gimnospermas e pteridófitas que compõe seu patrimônio, o primeiro grupo respondendo por aproximadamente 95% dos acessos, destacam-se as coleções de Acanthaceae, Araceae, Arecaceae, Begoniaceae, Gesneriaceae, Maranthaceae e Passifloraceae. A sua coleção de tipos nomenclaturais exsicatas utilizadas na descrição original de uma espécie até então nova para a ciência e selecionadas por seu ator como sua permanente referência material possui mais de 40 cadastros, com destaque absoluto para as palmeiras (Arecaceae), em particular do gêneroSyagrus.&lt;/p&gt;
+&lt;p&gt;O principal objetivo do Herbário HPL é documentar a diversidade biológica vegetal de nosso país, servindo também como suporte para as pesquisas e depositário do material testemunho dos diversos livros publicados pelo Instituto Plantarum, atestando a sua autenticidade científica. Por outro lado, em conjunto com as demais coleções biológicas, é fonte de material científico e didático para o desenvolvimento de várias e atividades e pesquisas realizadas pela equipe técnica do Jardim Botânico Plantarum.&lt;/p&gt;
+&lt;p&gt;A coleção do Herbário HPL hoje é consultada por pesquisadores de todo o Brasil e de outros países, e são particularmente frequentes os intercâmbios de material com instituições de todo o mundo. A visitação pública, contudo, só é possível em horários pré-agendados pela instituição.&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=HPL</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Harri</givenName>          <surName>Lorenzi</surName>
+    </individualName>
+<organizationName>Jardim Botânico Plantarum</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Avenida Brasil, 2000</deliveryPoint><city>Nova Odessa</city><administrativeArea>São Paulo</administrativeArea><postalCode>13460-000</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3466-5587</phone><electronicMailAddress>plantarum@plantarum.org.br</electronicMailAddress><onlineUrl>http://www.plantarum.org.br</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>INCT - Herbário Virtual da Flora e dos Fungos</title>
+          <personnel>
+    <individualName>
+<givenName>Leonor</givenName>          <surName>Costa Maia</surName>
+    </individualName>
+    <role>DISTRIBUTOR</role>
+          </personnel>
+          <abstract>
+              <para>O Instituto Nacional de Ciência e Tecnologia, INCT - Herbário Virtual da Flora e dos Fungos, financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, visa prover à sociedade, ao poder público e à comunidade científica infraestrutura de dados de acesso público e aberto integrando informações de acervos dos herbários do país e repatriando dados sobre coletas realizadas em solo brasileiro depositadas no exterior</para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ocorrência de espécies de plantas e fungos no Brasil</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-04-08T20:38:20Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=HPL">Campos Rocha A, Lorenzi H (2021). HPL - Herbário do Jardim Botânico Plantarum. Version 1.74. Jardim Botânico Plantarum. Occurrence dataset https://doi.org/10.15468/ymks0x accessed via GBIF.org on 2021-04-08.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=hpl</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
